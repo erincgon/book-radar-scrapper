@@ -6,15 +6,6 @@ venv/
 .env
 logs/
 cache/
-output/*
-!output/.gitkeep
-!output/books.json
-!output/editor_picks.json
-!output/meta.json
-!output/new_releases.json
-!output/publishers.json
-!output/reviews.json
-!output/trending.json
 *.log
 .firebase/
 serviceAccount*.json
