@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "updated_at": "2026-05-31T11:05:49Z",
+  "engine": "bookradar",
+  "feeds": {
+    "books": {
+      "count": 30,
+      "hash": "8c49cb0cafb877c332e86a1fac765b20d232836ff290bd6a2d96c18c43d1b59d"
+    },
+    "publishers": {
+      "count": 0,
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "reviews": {
+      "count": 18,
+      "hash": "ab5c95a49fc25b74b47344b7bfa99081cae62f883c101dfe5c5edc8fdb5c1a20"
+    },
+    "trending": {
+      "count": 20,
+      "hash": "fd9c5dc188668917bb252af2be8fa83d95a9625e0c89d7574f96b5d3af362208"
+    },
+    "new_releases": {
+      "count": 20,
+      "hash": "590d6b3cef4ea2a6d7b21fd7cfee29e2bc05ce197b83abd4433a67b97aeb4f5e"
+    },
+    "editor_picks": {
+      "count": 15,
+      "hash": "0cbbcf37cb70f69ac7536a11b9bd255e5770008f234a198e3d4fe4d4d6e26cfa"
+    }
+  }
+}
