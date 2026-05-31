@@ -1,5 +1,53 @@
 [
   {
+    "id": "73d8afef5fc5ac3dfd411a0bcfb38325",
+    "title": "Boards of Canada fans remember their hunt for the \"Red Moon Party\"",
+    "author": "Noah Caldwell",
+    "description": "As Boards of Canada release their new album, 'Inferno', diehard fans remember the time when they trekked out into the Scottish countryside trying to find the band's so-called \"Red Moon Party.\"",
+    "summary_ai": "",
+    "categories": [
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "NPR Books",
+    "published_date": "2026-05-30",
+    "thumbnail": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5823883",
+    "cover_large": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5823883",
+    "article_url": "https://www.npr.org/2026/05/30/nx-s1-5823883/the-mysterious-hunt-by-the-band-boards-of-canadas-fans-for-the-red-moon-party",
+    "source": "NPR Books",
+    "source_type": "rss",
+    "tags": [
+      "reviews"
+    ],
+    "created_at": "2026-05-31T12:39:48+00:00",
+    "updated_at": "2026-05-31T12:39:48Z"
+  },
+  {
+    "id": "e294edbc88a5592a3e781ae540d8dd1c",
+    "title": "Celebrating legendary trumpet player Miles Davis' 100th birthday",
+    "author": "Felix Contreras",
+    "description": "This week, the jazz world celebrated what would have been Miles Davis' 100th birthday. The late trumpet player is widely considered one of the most innovative and influential jazz musicians of all time.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "NPR Books",
+    "published_date": "2026-05-30",
+    "thumbnail": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5836536",
+    "cover_large": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5836536",
+    "article_url": "https://www.npr.org/2026/05/30/nx-s1-5836536/celebrating-legendary-trumpet-player-miles-davis-100th-birthday",
+    "source": "NPR Books",
+    "source_type": "rss",
+    "tags": [
+      "reviews"
+    ],
+    "created_at": "2026-05-31T12:39:48+00:00",
+    "updated_at": "2026-05-31T12:39:48Z"
+  },
+  {
     "id": "aff6b9de28892451ae7eab53f577fb55",
     "title": "Lit Hub Weekly: May 25 – 29, 2026",
     "author": "Lit Hub Daily",
@@ -13,8 +61,8 @@
     "language": "English",
     "publisher": "Literary Hub",
     "published_date": "2026-05-30",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/05/pitaamor-768x344.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/05/pitaamor-768x344.jpg",
     "article_url": "https://lithub.com/lit-hub-weekly-may-25-29-2026/",
     "source": "Literary Hub",
     "source_type": "rss",
@@ -22,8 +70,142 @@
       "Lit Hub Daily",
       "reviews"
     ],
-    "created_at": "2026-05-31T11:05:25+00:00",
-    "updated_at": "2026-05-31T11:05:25Z"
+    "created_at": "2026-05-31T12:39:48+00:00",
+    "updated_at": "2026-05-31T12:39:48Z"
+  },
+  {
+    "id": "19e97a2078c04d751361888431babdaf",
+    "title": "THE NEW YORKER Picks the Best Books of 2026 So Far",
+    "author": "Community",
+    "description": "Lots of \"best of\" lists from around the interwebs, the next big (eye-roll inducing) trend, and more",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Today In Books"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "the world of books",
+    "published_date": "2026-05-30",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/03/people-and-things-2026-03-16T192212.183.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/03/people-and-things-2026-03-16T192212.183.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/today-in-books-may-30-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Today in Books",
+      "reviews"
+    ],
+    "created_at": "2026-05-31T12:39:49+00:00",
+    "updated_at": "2026-05-31T12:39:49Z"
+  },
+  {
+    "id": "f84b2500b830a741bce3b8f9eb75c430",
+    "title": "A Sneak Peek at the New Queer Books Out This Pride Month",
+    "author": "Danika Ellis",
+    "description": "Here's a sneak peek at the new queer books coming out this month—plus, the best way to keep track of new and upcoming queer books.",
+    "summary_ai": "",
+    "categories": [
+      "Lgbtq",
+      "Our Queerest Shelves",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-05-30",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-05-29-at-9.10.22&",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-05-29-at-9.10.22&",
+    "article_url": "https://bookriot.com/the-best-way-to-keep-track-of-new-and-upcoming-queer-books/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "LGBTQ",
+      "Our Queerest Shelves",
+      "reviews"
+    ],
+    "created_at": "2026-05-31T12:39:49+00:00",
+    "updated_at": "2026-05-31T12:39:49Z"
+  },
+  {
+    "id": "cded518997833c898399c4eaf475ce32",
+    "title": "Be the First to Learn About the Best Upcoming Romance Books",
+    "author": "Community",
+    "description": "Here's the best way to keep track of new and upcoming romance books.",
+    "summary_ai": "",
+    "categories": [
+      "Kissing Books",
+      "Reviews",
+      "Romance/Erotica"
+    ],
+    "genre": [
+      "Romance"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-05-30",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-05-29-at-9.15.56&",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-05-29-at-9.15.56&",
+    "article_url": "https://bookriot.com/the-best-way-to-keep-track-of-new-romance-books/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Kissing Books",
+      "Romance/Erotica",
+      "reviews"
+    ],
+    "created_at": "2026-05-31T12:39:49+00:00",
+    "updated_at": "2026-05-31T12:39:49Z"
+  },
+  {
+    "id": "4b9141b1a59a336fa7e2ad9518b8dcea",
+    "title": "Book Riot’s Deals of the Day for May 30, 2026",
+    "author": "Deals",
+    "description": "A classic with immortals by Octavia Butler, short stories by Murakami, an epic set during the Opium Wars, and more in today's best deals",
+    "summary_ai": "",
+    "categories": [
+      "Book Deals",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-05-30",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/71cxgb3r1NL._SL1500_.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/71cxgb3r1NL._SL1500_.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-may-30-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Book Deals",
+      "reviews"
+    ],
+    "created_at": "2026-05-31T12:39:49+00:00",
+    "updated_at": "2026-05-31T12:39:49Z"
+  },
+  {
+    "id": "84b33d70b296be03826d2afc8ae119dc",
+    "title": "Remembering tenor saxophonist Sonny Rollins, a titan of modern jazz",
+    "author": "Kevin Whitehead",
+    "description": "Rollins, who died May 25, had for decades been hailed as the greatest living jazz musician. Kevin Whitehead offers an appreciation, and we listen back to Rollins' 1994 interview with Terry Gross.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "NPR Books",
+    "published_date": "2026-05-29",
+    "thumbnail": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5837306",
+    "cover_large": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5837306",
+    "article_url": "https://www.npr.org/2026/05/29/nx-s1-5837306/remembering-sonny-rollins",
+    "source": "NPR Books",
+    "source_type": "rss",
+    "tags": [
+      "reviews"
+    ],
+    "created_at": "2026-05-31T12:39:48+00:00",
+    "updated_at": "2026-05-31T12:39:48Z"
   },
   {
     "id": "db73eaafc04777b7ab11242e3dafc5aa",
@@ -46,8 +228,8 @@
     "language": "English",
     "publisher": "Literary Hub",
     "published_date": "2026-05-29",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/05/stein-copy-768x432.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/05/stein-copy-768x432.jpg",
     "article_url": "https://lithub.com/francesca-wade-has-won-the-plutarch-award-for-gertrude-stein-an-afterlife/",
     "source": "Literary Hub",
     "source_type": "rss",
@@ -60,8 +242,8 @@
       "The Hub",
       "reviews"
     ],
-    "created_at": "2026-05-31T11:05:26+00:00",
-    "updated_at": "2026-05-31T11:05:26Z"
+    "created_at": "2026-05-31T12:39:48+00:00",
+    "updated_at": "2026-05-31T12:39:48Z"
   },
   {
     "id": "9dadacc2e1fcad38e28bde9cdc16ea0e",
@@ -92,8 +274,8 @@
     "language": "English",
     "publisher": "Literary Hub",
     "published_date": "2026-05-29",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/05/Untitled-design-28-768x384.png",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/05/Untitled-design-28-768x384.png",
     "article_url": "https://lithub.com/hudson-williams-has-pretty-good-taste-in-books/",
     "source": "Literary Hub",
     "source_type": "rss",
@@ -116,8 +298,8 @@
       "reading list",
       "reviews"
     ],
-    "created_at": "2026-05-31T11:05:27+00:00",
-    "updated_at": "2026-05-31T11:05:27Z"
+    "created_at": "2026-05-31T12:39:48+00:00",
+    "updated_at": "2026-05-31T12:39:48Z"
   },
   {
     "id": "bd3faab593c935649f4f1b0de8e3a12b",
@@ -133,8 +315,8 @@
     "language": "English",
     "publisher": "Literary Hub",
     "published_date": "2026-05-29",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/05/AlfonsinaStorni--768x344.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/05/AlfonsinaStorni--768x344.jpg",
     "article_url": "https://lithub.com/lit-hub-daily-may-29-2026/",
     "source": "Literary Hub",
     "source_type": "rss",
@@ -142,8 +324,8 @@
       "Lit Hub Daily",
       "reviews"
     ],
-    "created_at": "2026-05-31T11:05:28+00:00",
-    "updated_at": "2026-05-31T11:05:28Z"
+    "created_at": "2026-05-31T12:39:48+00:00",
+    "updated_at": "2026-05-31T12:39:48Z"
   },
   {
     "id": "0649a259a0ca92eebff7243c57969bcb",
@@ -173,8 +355,8 @@
     "language": "English",
     "publisher": "Literary Hub",
     "published_date": "2026-05-29",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/05/Keith-Haring-Ignorance-_-Fear-1989-x2048-1-768x428.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/05/Keith-Haring-Ignorance-_-Fear-1989-x2048-1-768x428.jpg",
     "article_url": "https://lithub.com/tending-the-fire-exploring-aids-writing-of-the-last-ten-years/",
     "source": "Literary Hub",
     "source_type": "rss",
@@ -194,8 +376,8 @@
       "reviews",
       "speculative fiction"
     ],
-    "created_at": "2026-05-31T11:05:29+00:00",
-    "updated_at": "2026-05-31T11:05:29Z"
+    "created_at": "2026-05-31T12:39:48+00:00",
+    "updated_at": "2026-05-31T12:39:48Z"
   },
   {
     "id": "27169e4646fed16b8265288a4d66d415",
@@ -218,8 +400,8 @@
     "language": "English",
     "publisher": "Literary Hub",
     "published_date": "2026-05-29",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/05/capefear-copy-768x384.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/05/capefear-copy-768x384.jpg",
     "article_url": "https://lithub.com/the-literary-film-tv-you-need-to-stream-in-june-2/",
     "source": "Literary Hub",
     "source_type": "rss",
@@ -234,8 +416,8 @@
       "reviews",
       "streaming guide"
     ],
-    "created_at": "2026-05-31T11:05:31+00:00",
-    "updated_at": "2026-05-31T11:05:31Z"
+    "created_at": "2026-05-31T12:39:48+00:00",
+    "updated_at": "2026-05-31T12:39:48Z"
   },
   {
     "id": "8e9cbd3f707e9f45a7f6163868493cbb",
@@ -256,8 +438,8 @@
     "language": "English",
     "publisher": "Literary Hub",
     "published_date": "2026-05-29",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/05/Love-in-the-Afternoon-and-Evening-Cover-683x1024.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/05/Love-in-the-Afternoon-and-Evening-Cover-683x1024.jpg",
     "article_url": "https://lithub.com/the-13-best-book-covers-of-may-3/",
     "source": "Literary Hub",
     "source_type": "rss",
@@ -271,8 +453,8 @@
       "design",
       "reviews"
     ],
-    "created_at": "2026-05-31T11:05:32+00:00",
-    "updated_at": "2026-05-31T11:05:32Z"
+    "created_at": "2026-05-31T12:39:48+00:00",
+    "updated_at": "2026-05-31T12:39:48Z"
   },
   {
     "id": "8114ce0978754c251747d88683fb35dc",
@@ -297,8 +479,8 @@
     "language": "English",
     "publisher": "Literary Hub",
     "published_date": "2026-05-29",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/sites/2/2026/05/f6acac3741ddf2e5315d21f95b14b3d2-197x300.gif",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/sites/2/2026/05/f6acac3741ddf2e5315d21f95b14b3d2-197x300.gif",
     "article_url": "https://lithub.com/mays-best-reviewed-nonfiction-2/",
     "source": "Literary Hub",
     "source_type": "rss",
@@ -312,213 +494,7 @@
       "reviews",
       "the best reviewed books of the month"
     ],
-    "created_at": "2026-05-31T11:05:34+00:00",
-    "updated_at": "2026-05-31T11:05:34Z"
-  },
-  {
-    "id": "bfcd4c2da654530c7fea69c5d87de4b1",
-    "title": "Jump Into the Ball Pit: Emily Rapp Black on the Creative Power of Play",
-    "author": "Emily Rapp Black",
-    "description": "This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. One summer in Brooklyn I made an outline for my first book. I was told I must do this, or my ideas would be unorganized, my plot would do no",
-    "summary_ai": "",
-    "categories": [
-      "Counterpoint Press",
-      "Craft And Advice",
-      "Craft And Criticism",
-      "Creativity",
-      "Emily Rapp Black",
-      "Features",
-      "I Would Die If I Were You",
-      "On Writing",
-      "Outlining",
-      "Reviews",
-      "Writing Advice"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-05-29",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
-    "article_url": "https://lithub.com/jump-into-the-ball-pit-emily-rapp-black-on-the-creative-power-of-play/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Counterpoint Press",
-      "Craft and Advice",
-      "Craft and Criticism",
-      "Emily Rapp Black",
-      "Features",
-      "I Would Die If I Were You",
-      "creativity",
-      "on writing",
-      "outlining",
-      "reviews",
-      "writing advice"
-    ],
-    "created_at": "2026-05-31T11:05:35+00:00",
-    "updated_at": "2026-05-31T11:05:35Z"
-  },
-  {
-    "id": "19e97a2078c04d751361888431babdaf",
-    "title": "THE NEW YORKER Picks the Best Books of 2026 So Far",
-    "author": "Community",
-    "description": "Lots of \"best of\" lists from around the interwebs, the next big (eye-roll inducing) trend, and more",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Today In Books"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-05-30",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/04/All_The_Books_Logo-scaled.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/04/All_The_Books_Logo-scaled.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/today-in-books-may-30-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Today in Books",
-      "reviews"
-    ],
-    "created_at": "2026-05-31T11:05:38+00:00",
-    "updated_at": "2026-05-31T11:05:38Z"
-  },
-  {
-    "id": "f84b2500b830a741bce3b8f9eb75c430",
-    "title": "A Sneak Peek at the New Queer Books Out This Pride Month",
-    "author": "Danika Ellis",
-    "description": "Here's a sneak peek at the new queer books coming out this month—plus, the best way to keep track of new and upcoming queer books.",
-    "summary_ai": "",
-    "categories": [
-      "Lgbtq",
-      "Our Queerest Shelves",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-05-30",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/04/All_The_Books_Logo-scaled.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/04/All_The_Books_Logo-scaled.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/the-best-way-to-keep-track-of-new-and-upcoming-queer-books/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "LGBTQ",
-      "Our Queerest Shelves",
-      "reviews"
-    ],
-    "created_at": "2026-05-31T11:05:39+00:00",
-    "updated_at": "2026-05-31T11:05:39Z"
-  },
-  {
-    "id": "cded518997833c898399c4eaf475ce32",
-    "title": "Be the First to Learn About the Best Upcoming Romance Books",
-    "author": "Community",
-    "description": "Here's the best way to keep track of new and upcoming romance books.",
-    "summary_ai": "",
-    "categories": [
-      "Kissing Books",
-      "Reviews",
-      "Romance/Erotica"
-    ],
-    "genre": [
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-05-30",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/04/All_The_Books_Logo-scaled.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/04/All_The_Books_Logo-scaled.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/the-best-way-to-keep-track-of-new-romance-books/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Kissing Books",
-      "Romance/Erotica",
-      "reviews"
-    ],
-    "created_at": "2026-05-31T11:05:40+00:00",
-    "updated_at": "2026-05-31T11:05:40Z"
-  },
-  {
-    "id": "4b9141b1a59a336fa7e2ad9518b8dcea",
-    "title": "Book Riot’s Deals of the Day for May 30, 2026",
-    "author": "Deals",
-    "description": "A classic with immortals by Octavia Butler, short stories by Murakami, an epic set during the Opium Wars, and more in today's best deals",
-    "summary_ai": "",
-    "categories": [
-      "Book Deals",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-05-30",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/04/All_The_Books_Logo-scaled.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/04/All_The_Books_Logo-scaled.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-may-30-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Book Deals",
-      "reviews"
-    ],
-    "created_at": "2026-05-31T11:05:41+00:00",
-    "updated_at": "2026-05-31T11:05:41Z"
-  },
-  {
-    "id": "4f7d893512042baac85853176d3bc094",
-    "title": "The Best Books of 2026 So Far Lists Out Now",
-    "author": "S. Zainab Williams",
-    "description": "Explore even more 2026 Best Books So Far lists and add more books to your summer reads stacks with the NYT and OPRAH DAILY.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Today In Books"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-05-29",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/04/All_The_Books_Logo-scaled.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/04/All_The_Books_Logo-scaled.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/2026-best-books-so-far-lists/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Today in Books",
-      "reviews"
-    ],
-    "created_at": "2026-05-31T11:05:42+00:00",
-    "updated_at": "2026-05-31T11:05:42Z"
-  },
-  {
-    "id": "9fd966291b8edffbe91db6d99dcb8e94",
-    "title": "What It Means to Be the Librarian I Never Had as a Kid",
-    "author": "Nikki DeMarco",
-    "description": "In a world telling young people what to think, a librarian who hands a kid the right book at the right moment is a radical act.",
-    "summary_ai": "",
-    "categories": [
-      "Check Your Shelf",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-05-29",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/04/All_The_Books_Logo-scaled.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/04/All_The_Books_Logo-scaled.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/librarian-i-never-had-as-a-kid/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Check Your Shelf",
-      "reviews"
-    ],
-    "created_at": "2026-05-31T11:05:45+00:00",
-    "updated_at": "2026-05-31T11:05:45Z"
+    "created_at": "2026-05-31T12:39:48+00:00",
+    "updated_at": "2026-05-31T12:39:48Z"
   }
 ]

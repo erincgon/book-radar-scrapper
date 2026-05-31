@@ -14,8 +14,10 @@ from urllib.parse import urlparse
 import feedparser
 
 from config.settings import APP_CONFIG, RSSFeedSource
-from utils.html_cleaner import extract_first_image_url, strip_html, strip_tracking_params
+from utils.attribution import source_from_url
+from utils.html_cleaner import strip_html, strip_tracking_params
 from utils.http_client import HTTPClient
+from utils.image_utils import extract_rss_entry_images, is_bad_image_url
 from utils.text_cleaner import clean_text, normalize_title, parse_release_date
 
 logger = logging.getLogger(__name__)
@@ -78,32 +80,11 @@ def _extract_author(entry: Any) -> str:
     return ""
 
 
-def _extract_media_url(entry: Any, raw_summary: str) -> str | None:
-    media = getattr(entry, "media_content", None)
-    if media and isinstance(media, list):
-        for media_item in media:
-            candidate = media_item.get("url")
-            if isinstance(candidate, str) and candidate.startswith(("http://", "https://")):
-                return strip_tracking_params(candidate)
-
-    thumbnails = getattr(entry, "media_thumbnail", None)
-    if thumbnails and isinstance(thumbnails, list):
-        for media_item in thumbnails:
-            candidate = media_item.get("url")
-            if isinstance(candidate, str) and candidate.startswith(("http://", "https://")):
-                return strip_tracking_params(candidate)
-
-    links = getattr(entry, "links", None)
-    if links and isinstance(links, list):
-        for link in links:
-            href = link.get("href")
-            link_type = str(link.get("type", "")).lower()
-            rel = str(link.get("rel", "")).lower()
-            if isinstance(href, str) and href.startswith(("http://", "https://")):
-                if rel == "enclosure" and "image" in link_type:
-                    return strip_tracking_params(href)
-
-    return extract_first_image_url(raw_summary)
+def _extract_media_url(entry: Any, raw_summary: str) -> str:
+    image = extract_rss_entry_images(entry, raw_summary)
+    if image and not is_bad_image_url(image):
+        return image
+    return ""
 
 
 def _candidate_article_urls(entry: Any, raw_summary: str) -> list[str]:
@@ -240,6 +221,7 @@ class RSSParser:
 
         thumbnail = _extract_media_url(entry, raw_summary) or ""
         author = _extract_author(entry)
+        outlet = source_from_url(article_url) or feed.publisher or feed.name
 
         return {
             "title": title,
@@ -250,9 +232,10 @@ class RSSParser:
             "thumbnail": thumbnail,
             "cover_large": thumbnail,
             "article_url": article_url,
-            "source": feed.publisher or feed.name,
+            "source": outlet,
             "source_type": "rss",
-            "publisher": feed.publisher,
+            "publisher": "",
+            "feed_publisher_hint": feed.publisher,
             "language": feed.language,
             "categories": _extract_categories(entry, feed),
             "genre": _extract_genres(merged),

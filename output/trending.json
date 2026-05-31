@@ -1,35 +1,5 @@
 [
   {
-    "id": "d6097f34d4dcb84664c148f73826c346",
-    "title": "Book Review: ‘Rabbit, Fox, Tar,’ by P.C. Verrone",
-    "author": "Mateo Askaripour",
-    "description": "In “Rabbit, Fox, Tar,” a white neighborhood’s local election is complicated when a mysterious, dark-skinned woman suddenly appears in town.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "P.C. Verrone",
-      "Rabbit, Fox, Tar (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-31",
-    "thumbnail": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=Book+Review+Rabbit+Fox+Tar+by+P+C+Verron",
-    "cover_large": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=Book+Review+Rabbit+Fox+Tar+by+P+C+Verron",
-    "article_url": "https://www.nytimes.com/2026/05/31/books/review/rabbit-fox-tar-pc-verrone.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "P.C. Verrone",
-      "Rabbit, Fox, Tar (Book)",
-      "books"
-    ],
-    "created_at": "2026-05-31T11:03:38+00:00",
-    "updated_at": "2026-05-31T11:03:38Z"
-  },
-  {
     "id": "dbacef5e40833d3894d8f293c474cc1f",
     "title": "The Month’s Best New Mystery Novels",
     "author": "Sarah Weinman",
@@ -56,38 +26,77 @@
       "books",
       "genre-books-mystery"
     ],
-    "created_at": "2026-05-31T11:03:38+00:00",
-    "updated_at": "2026-05-31T11:03:38Z"
+    "created_at": "2026-05-31T12:38:59+00:00",
+    "updated_at": "2026-05-31T12:38:59Z"
   },
   {
-    "id": "30ff49bfd9dd88e80da3255cc802cf1b",
-    "title": "Book Review: ‘Girl’s Girl,’ by Sonia Feldman",
-    "author": "Sanjena Sathian",
-    "description": "In Sonia Feldman’s novel, “Girl’s Girl,” the delicate balance of a Gen Z friend group is unsettled over one Ohio summer.",
+    "id": "11c936dde56472901c9c8189787f9f68",
+    "title": "Maggie O’Farrell: ‘Fiction comes from what you don’t know’",
+    "author": "Maggie O’Farrell",
+    "description": "From a young age, the author was told that one of her ancestors had drawn some of the first maps of Ireland. Then she found a photograph, and embarked on a journey to discover his story Every family has its myths. In mine, we were told that one of our antecedents had worked on the first maps of Ireland. As a child, I used to picture a solitary person in unspecified period dress – a tailcoat, perhaps some kind of cravat – striding pensively about fields and mountains, pen in hand. On summer holidays, I would stare out of the window of our red car as Donegal or Galway rolled by and wonder that such a task could be achieved. How did one man set about drawing a map of a whole country, of these towns and strands and trees and rivers? All myths comprise a great deal of fanciful embroidery through which runs the distinct thread of truth: time and retelling will always refract reality. This mapper preyed on my mind. I thought about him, always, when I travelled around Ireland. I thought about him in my final year of school, when my geography exam required me to analyse a square of an unknown map. I wanted, as I often do, to know more, about his life, his work, who he had been and how he...",
     "summary_ai": "",
     "categories": [
       "Books",
-      "Books And Literature",
-      "Feldman, Sonia",
-      "Girls Girl (Book)"
+      "Culture",
+      "Fiction",
+      "Ireland",
+      "Maggie O'Farrell"
     ],
-    "genre": [],
+    "genre": [
+      "Fiction"
+    ],
     "language": "English",
-    "publisher": "The New York Times",
+    "publisher": "The Guardian",
     "published_date": "2026-05-31",
-    "thumbnail": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=Book+Review+Girl+s+Girl+by+Sonia+Feldman",
-    "cover_large": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=Book+Review+Girl+s+Girl+by+Sonia+Feldman",
-    "article_url": "https://www.nytimes.com/2026/05/30/books/review/girls-girl-sonia-feldman.html",
-    "source": "The New York Times",
+    "thumbnail": "https://i.guim.co.uk/img/media/cc3676cfe809bfafe972c21c4a1dd29bcb328e7b/971_1365_2425_1940/master/2425.jpg?width=700&quality=85&auto=format&fit=max&s=b6692d0f07f5705c771dd2cd00bc0346",
+    "cover_large": "https://i.guim.co.uk/img/media/cc3676cfe809bfafe972c21c4a1dd29bcb328e7b/971_1365_2425_1940/master/2425.jpg?width=700&quality=85&auto=format&fit=max&s=b6692d0f07f5705c771dd2cd00bc0346",
+    "article_url": "https://www.theguardian.com/books/2026/may/31/maggie-ofarrell-fiction-comes-from-what-you-dont-know",
+    "source": "The Guardian",
     "source_type": "rss",
     "tags": [
-      "Books and Literature",
-      "Feldman, Sonia",
-      "Girls Girl (Book)",
+      "Books",
+      "Culture",
+      "Fiction",
+      "Ireland",
+      "Maggie O'Farrell",
       "books"
     ],
-    "created_at": "2026-05-31T11:03:38+00:00",
-    "updated_at": "2026-05-31T11:03:38Z"
+    "created_at": "2026-05-31T12:39:08+00:00",
+    "updated_at": "2026-05-31T12:39:08Z"
+  },
+  {
+    "id": "871b28d8a8ba668bdeb8d39d8a704240",
+    "title": "Are ‘mind children’ the future of reproduction?",
+    "author": "Laura Spinney",
+    "description": "Forget dirty nappies. In Silicon Valley, there’s increasing chatter about virtual offspring A few months ago, an AI researcher from Europe attended a dinner party in Silicon Valley. During one of the many courses, the host addressed his guests, all of whom worked in AI. The researcher paraphrased his message like this: “Isn’t it amazing that we are the last generation of humans who will need to think about procreating biologically? We were lucky enough to be born at a time where we can simply upload our consciousnesses instead.” “I didn’t see that coming,” the researcher told me. “I was just enjoying my fish.” Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Ai (Artificial Intelligence)",
+      "Books",
+      "Computing",
+      "Reproduction",
+      "Science"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-05-31",
+    "thumbnail": "https://i.guim.co.uk/img/media/fc82a599828a27b706231490b4ed02e3d03cc2eb/0_415_1847_1477/master/1847.jpg?width=700&quality=85&auto=format&fit=max&s=5184d5b9e664bb594b543e80dcf105a9",
+    "cover_large": "https://i.guim.co.uk/img/media/fc82a599828a27b706231490b4ed02e3d03cc2eb/0_415_1847_1477/master/1847.jpg?width=700&quality=85&auto=format&fit=max&s=5184d5b9e664bb594b543e80dcf105a9",
+    "article_url": "https://www.theguardian.com/books/2026/may/31/are-mind-children-the-future-of-reproduction",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "AI (artificial intelligence)",
+      "Computing",
+      "Reproduction",
+      "Science",
+      "books"
+    ],
+    "created_at": "2026-05-31T12:39:08+00:00",
+    "updated_at": "2026-05-31T12:39:08Z"
   },
   {
     "id": "fe06f80374341c10bbd8e3a124731f8b",
@@ -119,78 +128,8 @@
       "Sublimation (Book)",
       "books"
     ],
-    "created_at": "2026-05-31T11:03:38+00:00",
-    "updated_at": "2026-05-31T11:03:38Z"
-  },
-  {
-    "id": "5aaaa3a36d5f401b4f960221c8b31244",
-    "title": "Book Club: Read ‘Yesteryear,’ by Caro Claire Burke, With the Book Review",
-    "author": "MJ Franklin",
-    "description": "In June, the Book Review Book Club will read and discuss a novel about a tradwife who wakes up in 1855, living the pioneer life she has been performing online.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Burke, Caro Claire",
-      "Yesteryear (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-30",
-    "thumbnail": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=Book+Club+Read+Yesteryear+by+Caro+Claire",
-    "cover_large": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=Book+Club+Read+Yesteryear+by+Caro+Claire",
-    "article_url": "https://www.nytimes.com/2026/05/29/books/review/yesteryear-caro-claire-burke-book-club.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Burke, Caro Claire",
-      "Yesteryear (Book)",
-      "books"
-    ],
-    "created_at": "2026-05-31T11:03:40+00:00",
-    "updated_at": "2026-05-31T11:03:40Z"
-  },
-  {
-    "id": "60fdea63bfb7adb919e6b0a23e830fee",
-    "title": "Book Review: ‘Found Sound,’ by Meg Wolitzer and Charlie Panek, and ‘Stream,’ by Aida Salazar",
-    "author": "Jennifer Howard",
-    "description": "Meg Wolitzer and Charlie Panek’s “Found Sound” and Aida Salazar’s “Stream” send their protagonists on a listening (and healing) tour of real life.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Children And Childhood",
-      "Found Sound (Book)",
-      "Genre-Books-Childrens",
-      "Panek, Charlie",
-      "Salazar, Aida (Author)",
-      "Stream (Book)",
-      "Wolitzer, Meg"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-30",
-    "thumbnail": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=Book+Review+Found+Sound+by+Meg+Wolitzer+",
-    "cover_large": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=Book+Review+Found+Sound+by+Meg+Wolitzer+",
-    "article_url": "https://www.nytimes.com/2026/05/29/books/review/meg-wolitzer-charlie-panek-found-sound-aida-salazar-stream.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Children and Childhood",
-      "Found Sound (Book)",
-      "Panek, Charlie",
-      "Salazar, Aida (Author)",
-      "Stream (Book)",
-      "Wolitzer, Meg",
-      "books",
-      "genre-books-childrens"
-    ],
-    "created_at": "2026-05-31T11:03:41+00:00",
-    "updated_at": "2026-05-31T11:03:41Z"
+    "created_at": "2026-05-31T12:39:01+00:00",
+    "updated_at": "2026-05-31T12:39:01Z"
   },
   {
     "id": "19ccb4860fbd25579de697059910ec39",
@@ -225,8 +164,93 @@
       "genre-books-romance",
       "genre-books-thriller"
     ],
-    "created_at": "2026-05-31T11:03:43+00:00",
-    "updated_at": "2026-05-31T11:03:43Z"
+    "created_at": "2026-05-31T12:39:05+00:00",
+    "updated_at": "2026-05-31T12:39:05Z"
+  },
+  {
+    "id": "cf6b67f8c8dbb93ec06653b00d958701",
+    "title": "‘I am very serious about being silly’: children’s illustrators on the art of storytelling",
+    "author": "Stuart Heritage",
+    "description": "From The Twits to The Gruffalo and an angry bear in search of his hat... Quentin Blake, Cressida Cowell, Axel Sheffler, Lauren Child and more reveal how they bring children’s books to life Spread across a sprawling 17th-century industrial complex in London’s Clerkenwell, the Quentin Blake Centre for Illustration, which opens next month, is being billed as the largest institution of its kind anywhere in the world: a permanent national home for an art form that shapes everything from children’s books and political cartoons to animation, fashion, advertising and digital culture. Part museum, part gallery and part creative laboratory, the centre represents an extraordinary attempt to drag illustration out of the margins and finally place it at the heart of British cultural life. Eventually the centre will become home to Blake’s own enormous archive: 40,000 drawings created by one of the UK’s best-known and most immediately recognisable artists. Now 93, Blake has spent three-quarters of a century bringing the words of some of our most beloved authors to life. Roald Dahl is the big one, of course – it’s impossible to think of Dahl without seeing Blake’s energetic, dip-pen pictures...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Children And Teenagers",
+      "Culture",
+      "Illustration",
+      "Quentin Blake",
+      "Teen Books"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-05-30",
+    "thumbnail": "https://i.guim.co.uk/img/media/0c1543bcf4fc3b2f7a4fe9df3f36260d01aefbea/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=ae2fbbcd010e3d7b6569c6832ed5c89b",
+    "cover_large": "https://i.guim.co.uk/img/media/0c1543bcf4fc3b2f7a4fe9df3f36260d01aefbea/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=ae2fbbcd010e3d7b6569c6832ed5c89b",
+    "article_url": "https://www.theguardian.com/books/2026/may/30/i-am-very-serious-about-being-silly-childrens-illustrators-on-the-art-of-storytelling",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Children and teenagers",
+      "Culture",
+      "Illustration",
+      "Quentin Blake",
+      "Teen books",
+      "books"
+    ],
+    "created_at": "2026-05-31T12:39:08+00:00",
+    "updated_at": "2026-05-31T12:39:08Z"
+  },
+  {
+    "id": "73d8afef5fc5ac3dfd411a0bcfb38325",
+    "title": "Boards of Canada fans remember their hunt for the \"Red Moon Party\"",
+    "author": "Noah Caldwell",
+    "description": "As Boards of Canada release their new album, 'Inferno', diehard fans remember the time when they trekked out into the Scottish countryside trying to find the band's so-called \"Red Moon Party.\"",
+    "summary_ai": "",
+    "categories": [
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "NPR Books",
+    "published_date": "2026-05-30",
+    "thumbnail": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5823883",
+    "cover_large": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5823883",
+    "article_url": "https://www.npr.org/2026/05/30/nx-s1-5823883/the-mysterious-hunt-by-the-band-boards-of-canadas-fans-for-the-red-moon-party",
+    "source": "NPR Books",
+    "source_type": "rss",
+    "tags": [
+      "reviews"
+    ],
+    "created_at": "2026-05-31T12:39:48+00:00",
+    "updated_at": "2026-05-31T12:39:48Z"
+  },
+  {
+    "id": "e294edbc88a5592a3e781ae540d8dd1c",
+    "title": "Celebrating legendary trumpet player Miles Davis' 100th birthday",
+    "author": "Felix Contreras",
+    "description": "This week, the jazz world celebrated what would have been Miles Davis' 100th birthday. The late trumpet player is widely considered one of the most innovative and influential jazz musicians of all time.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "NPR Books",
+    "published_date": "2026-05-30",
+    "thumbnail": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5836536",
+    "cover_large": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5836536",
+    "article_url": "https://www.npr.org/2026/05/30/nx-s1-5836536/celebrating-legendary-trumpet-player-miles-davis-100th-birthday",
+    "source": "NPR Books",
+    "source_type": "rss",
+    "tags": [
+      "reviews"
+    ],
+    "created_at": "2026-05-31T12:39:48+00:00",
+    "updated_at": "2026-05-31T12:39:48Z"
   },
   {
     "id": "aff6b9de28892451ae7eab53f577fb55",
@@ -242,8 +266,8 @@
     "language": "English",
     "publisher": "Literary Hub",
     "published_date": "2026-05-30",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/05/pitaamor-768x344.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/05/pitaamor-768x344.jpg",
     "article_url": "https://lithub.com/lit-hub-weekly-may-25-29-2026/",
     "source": "Literary Hub",
     "source_type": "rss",
@@ -251,8 +275,8 @@
       "Lit Hub Daily",
       "reviews"
     ],
-    "created_at": "2026-05-31T11:05:25+00:00",
-    "updated_at": "2026-05-31T11:05:25Z"
+    "created_at": "2026-05-31T12:39:48+00:00",
+    "updated_at": "2026-05-31T12:39:48Z"
   },
   {
     "id": "19e97a2078c04d751361888431babdaf",
@@ -266,10 +290,10 @@
     ],
     "genre": [],
     "language": "English",
-    "publisher": "Book Riot",
+    "publisher": "the world of books",
     "published_date": "2026-05-30",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/04/All_The_Books_Logo-scaled.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/04/All_The_Books_Logo-scaled.jpg.optimal.jpg",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/03/people-and-things-2026-03-16T192212.183.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/03/people-and-things-2026-03-16T192212.183.jpg.optimal.jpg",
     "article_url": "https://bookriot.com/today-in-books-may-30-2026/",
     "source": "Book Riot",
     "source_type": "rss",
@@ -277,8 +301,8 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-05-31T11:05:38+00:00",
-    "updated_at": "2026-05-31T11:05:38Z"
+    "created_at": "2026-05-31T12:39:49+00:00",
+    "updated_at": "2026-05-31T12:39:49Z"
   },
   {
     "id": "f84b2500b830a741bce3b8f9eb75c430",
@@ -295,8 +319,8 @@
     "language": "English",
     "publisher": "Book Riot",
     "published_date": "2026-05-30",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/04/All_The_Books_Logo-scaled.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/04/All_The_Books_Logo-scaled.jpg.optimal.jpg",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-05-29-at-9.10.22&",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-05-29-at-9.10.22&",
     "article_url": "https://bookriot.com/the-best-way-to-keep-track-of-new-and-upcoming-queer-books/",
     "source": "Book Riot",
     "source_type": "rss",
@@ -305,8 +329,8 @@
       "Our Queerest Shelves",
       "reviews"
     ],
-    "created_at": "2026-05-31T11:05:39+00:00",
-    "updated_at": "2026-05-31T11:05:39Z"
+    "created_at": "2026-05-31T12:39:49+00:00",
+    "updated_at": "2026-05-31T12:39:49Z"
   },
   {
     "id": "cded518997833c898399c4eaf475ce32",
@@ -325,8 +349,8 @@
     "language": "English",
     "publisher": "Book Riot",
     "published_date": "2026-05-30",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/04/All_The_Books_Logo-scaled.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/04/All_The_Books_Logo-scaled.jpg.optimal.jpg",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-05-29-at-9.15.56&",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-05-29-at-9.15.56&",
     "article_url": "https://bookriot.com/the-best-way-to-keep-track-of-new-romance-books/",
     "source": "Book Riot",
     "source_type": "rss",
@@ -335,8 +359,8 @@
       "Romance/Erotica",
       "reviews"
     ],
-    "created_at": "2026-05-31T11:05:40+00:00",
-    "updated_at": "2026-05-31T11:05:40Z"
+    "created_at": "2026-05-31T12:39:49+00:00",
+    "updated_at": "2026-05-31T12:39:49Z"
   },
   {
     "id": "4b9141b1a59a336fa7e2ad9518b8dcea",
@@ -352,8 +376,8 @@
     "language": "English",
     "publisher": "Book Riot",
     "published_date": "2026-05-30",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/04/All_The_Books_Logo-scaled.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/04/All_The_Books_Logo-scaled.jpg.optimal.jpg",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/71cxgb3r1NL._SL1500_.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/71cxgb3r1NL._SL1500_.jpg.optimal.jpg",
     "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-may-30-2026/",
     "source": "Book Riot",
     "source_type": "rss",
@@ -361,8 +385,8 @@
       "Book Deals",
       "reviews"
     ],
-    "created_at": "2026-05-31T11:05:41+00:00",
-    "updated_at": "2026-05-31T11:05:41Z"
+    "created_at": "2026-05-31T12:39:49+00:00",
+    "updated_at": "2026-05-31T12:39:49Z"
   },
   {
     "id": "83edad2b5b87ddb343789e2348c01adf",
@@ -387,8 +411,8 @@
       "Books and Literature",
       "books"
     ],
-    "created_at": "2026-05-31T11:03:38+00:00",
-    "updated_at": "2026-05-31T11:03:38Z"
+    "created_at": "2026-05-31T12:39:01+00:00",
+    "updated_at": "2026-05-31T12:39:01Z"
   },
   {
     "id": "c96e1dbcf8b9952858ea745fafb18f12",
@@ -429,256 +453,158 @@
       "View from the East Wing: A Memoir (Book)",
       "books"
     ],
-    "created_at": "2026-05-31T11:03:40+00:00",
-    "updated_at": "2026-05-31T11:03:40Z"
+    "created_at": "2026-05-31T12:39:02+00:00",
+    "updated_at": "2026-05-31T12:39:02Z"
   },
   {
-    "id": "db73eaafc04777b7ab11242e3dafc5aa",
-    "title": "Francesca Wade has won the Plutarch Award for Gertrude Stein: An Afterlife.",
-    "author": "Literary Hub",
-    "description": "Today, the Biographers International Organization announced the winner of the 2026 Plutarch Award for Best Biography of 2025: Francesca Wade’s Gertrude Stein: An Afterlife. “Gertrude Stein: An Afterlife represents a compelling original approach to Stein’s life and work and, ultimately,",
+    "id": "dabd08017332edf744c6812a22389278",
+    "title": "The best recent translated fiction",
+    "author": "John Self",
+    "description": "Sisters in Yellow by Mieko Kawakami; All Flesh by Ananda Devi; The White Desert by Luis López Carrasco; The Home of the Drowned by Elin Anna Labba Sisters in Yellow by Mieko Kawakami, translated by Laurel Taylor and Hitomi Yoshio (Picador, £16.99) Kawakami’s latest opens with a bang, as narrator Hana learns that her old friend Kimiko has been charged with abduction. This MacGuffin takes us to their friendship in late-1990s Tokyo, when teen Hana and the older woman open a bar called Lemon: “Yellow attracts money.” But it’s a turbulent ride and soon Hana is in a world of organised crime. “The world is crazy. I feel like I’m living in a manga.” She’s not the only one, and you need an appetite for Kawakami’s style, which prefers to explore rather than explain – people come and go, buildings burn down, cancer is diagnosed, almost at random – but the relentless rush means there’s no time to get bored. At its best – as in a scene where Hana’s unreliable mother wants to borrow 2m yen for investment in lingerie that helps “your spine and organs move back to where they’re supposed to be” – this is a story both absurd and horrifying. All Flesh by Ananda Devi, translated by Jeffrey Zuckerman...",
     "summary_ai": "",
     "categories": [
-      "Bio Plutarch Award",
-      "Book News",
-      "Francesca Wade",
-      "Gertrude Stein: An Afterlife",
-      "News And Culture",
-      "Reviews",
-      "The Hub"
+      "Books",
+      "Culture",
+      "Fiction"
     ],
     "genre": [
-      "Biography"
+      "Crime",
+      "Fiction"
     ],
     "language": "English",
-    "publisher": "Literary Hub",
+    "publisher": "Picador",
     "published_date": "2026-05-29",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
-    "article_url": "https://lithub.com/francesca-wade-has-won-the-plutarch-award-for-gertrude-stein-an-afterlife/",
-    "source": "Literary Hub",
+    "thumbnail": "https://i.guim.co.uk/img/media/007e290ad0e126f7bae0395b1de2e5827087d848/317_0_3239_2592/master/3239.jpg?width=700&quality=85&auto=format&fit=max&s=f80a8964266e7a5f3e5857dbc44f3067",
+    "cover_large": "https://i.guim.co.uk/img/media/007e290ad0e126f7bae0395b1de2e5827087d848/317_0_3239_2592/master/3239.jpg?width=700&quality=85&auto=format&fit=max&s=f80a8964266e7a5f3e5857dbc44f3067",
+    "article_url": "https://www.guardianbookshop.com/sisters-in-yellow-9781035024131/?amp%3Butm_medium=merch&amp%3Butm_campaign=article",
+    "source": "Guardianbookshop",
     "source_type": "rss",
     "tags": [
-      "BIO Plutarch Award",
-      "Book News",
-      "Francesca Wade",
-      "Gertrude Stein: An Afterlife",
-      "News and Culture",
-      "The Hub",
-      "reviews"
+      "Books",
+      "Culture",
+      "Fiction",
+      "books"
     ],
-    "created_at": "2026-05-31T11:05:26+00:00",
-    "updated_at": "2026-05-31T11:05:26Z"
+    "created_at": "2026-05-31T12:39:08+00:00",
+    "updated_at": "2026-05-31T12:39:08Z"
   },
   {
-    "id": "9dadacc2e1fcad38e28bde9cdc16ea0e",
-    "title": "Hudson Williams has pretty good taste in books.",
-    "author": "Brittany Allen",
-    "description": "Hudson Williams, the Canadian sweetheart behind the smash hit Heated Rivalry, has pledged his allegiance to the English department. Your favorite hockey hunk is a reader, people. And we must say, the ice king’s got pretty good taste. According to",
+    "id": "82be1df4d5178b68d1db7a7c46785355",
+    "title": "Submissions open for 4thWrite short story prize",
+    "author": "Emma Loffhagen",
+    "description": "Now in its 10th year, the £1,000 competition is held by publisher 4th Estate and the Guardian, and open to Black, Asian and minority ethnic writers in the UK and Ireland The 4thWrite prize, an annual short story competition for Black, Asian and minority ethnic writers run by publisher 4th Estate and the Guardian, has opened for submissions. The winner will receive £1,000, a one-day publishing workshop at 4th Estate and publication of their story on the Guardian website. The shortlisted stories will be published on the 4th Estate website. The prize is open to writers aged 18 and over living in the UK or Ireland. Submissions can be made at www.4thEstate.co.uk/prize , where full terms and conditions are available. Any queries can be sent to 4thWritePrize@harpercollins.co.uk Continue reading...",
     "summary_ai": "",
     "categories": [
-      "Book News",
-      "Book Recommendations",
-      "Eve Babitz",
-      "Film And Tv",
-      "Heated Rivalry",
-      "Hudson Williams",
-      "Joan Didion",
-      "Les Miserables",
-      "Luigi Pirandello",
-      "News And Culture",
-      "Reading List",
-      "Reading Lists",
-      "Reviews",
-      "Sports",
-      "Stoner",
-      "Style",
-      "The Hub"
+      "4Thwrite Short Story Prize",
+      "Awards And Prizes",
+      "Books",
+      "Culture",
+      "Kamila Shamsie"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "Literary Hub",
+    "publisher": "HarperCollins",
     "published_date": "2026-05-29",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
-    "article_url": "https://lithub.com/hudson-williams-has-pretty-good-taste-in-books/",
-    "source": "Literary Hub",
+    "thumbnail": "https://i.guim.co.uk/img/media/34d2fb29229091ba1911714dd07598e24a6d653f/601_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=f17f4c261de15ebfff289c0caa900f44",
+    "cover_large": "https://i.guim.co.uk/img/media/34d2fb29229091ba1911714dd07598e24a6d653f/601_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=f17f4c261de15ebfff289c0caa900f44",
+    "article_url": "http://www.4thestate.co.uk/prize",
+    "source": "4Thestate",
     "source_type": "rss",
     "tags": [
-      "Book News",
-      "Eve Babitz",
-      "Film and TV",
-      "Heated Rivalry",
-      "Hudson Williams",
-      "Joan Didion",
-      "Les Miserables",
-      "News and Culture",
-      "Reading Lists",
-      "Sports",
-      "Stoner",
-      "Style",
-      "The Hub",
-      "book recommendations",
-      "luigi pirandello",
-      "reading list",
-      "reviews"
+      "4thWrite short story prize",
+      "Awards and prizes",
+      "Books",
+      "Culture",
+      "Kamila Shamsie",
+      "books"
     ],
-    "created_at": "2026-05-31T11:05:27+00:00",
-    "updated_at": "2026-05-31T11:05:27Z"
+    "created_at": "2026-05-31T12:39:08+00:00",
+    "updated_at": "2026-05-31T12:39:08Z"
   },
   {
-    "id": "bd3faab593c935649f4f1b0de8e3a12b",
-    "title": "Lit Hub Daily: May 29, 2026",
-    "author": "Lit Hub Daily",
-    "description": "Sara Youngblood Gregory looks at the speculative possibilities of queer literature and the last decade of AIDS writing. | Lit Hub Criticism “I invite you to enter the ball pit of your imagination, where colorful spheres of foam are being",
+    "id": "23c6780690b1837bd44912ed159e2ef8",
+    "title": "Virginia Evans: ‘I loved books about things that can’t exist’",
+    "author": "Virginia Evans",
+    "description": "The Women’s prize-shortlisted novelist on taking inspiration from John Steinbeck, Joan Didion and Jhumpa Lahiri, and weeping through Little Women in her 30s My earliest reading memory I’m not sure what we were reading – The Velveteen Rabbit by Margery Williams or the poems in Where the Sidewalk Ends by Shel Silverstein – but I was undoubtedly with my sister, two years older, who set the example for me to be a reader. I picture us in the back of our family car or laying across our twin beds in the room we shared. My favourite book growing up I loved mysteries and fantasy worlds. I read so many of the Nancy Drew books, and The Boxcar Children by Gertrude Chandler Warner. And I loved the Narnia stories and The Wind in the Willows. I loved books about things that can’t exist. I suppose it’s all escapism – crimes solved by children, talking animals, time travel, people two inches tall. I always loved to slip into another, better world. Continue reading...",
     "summary_ai": "",
     "categories": [
-      "Lit Hub Daily",
+      "Books",
+      "Culture",
+      "Fiction"
+    ],
+    "genre": [
+      "Children",
+      "Crime",
+      "Fantasy"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-05-29",
+    "thumbnail": "https://i.guim.co.uk/img/media/55a743733c003af2ce0525d52b1375ca1e8a09eb/0_140_3645_2914/master/3645.jpg?width=700&quality=85&auto=format&fit=max&s=c4cb08cba1f3bac093a2515e55c8b45f",
+    "cover_large": "https://i.guim.co.uk/img/media/55a743733c003af2ce0525d52b1375ca1e8a09eb/0_140_3645_2914/master/3645.jpg?width=700&quality=85&auto=format&fit=max&s=c4cb08cba1f3bac093a2515e55c8b45f",
+    "article_url": "https://www.theguardian.com/books/2026/may/29/virginia-evans-i-loved-books-about-things-that-cant-exist",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "books"
+    ],
+    "created_at": "2026-05-31T12:39:08+00:00",
+    "updated_at": "2026-05-31T12:39:08Z"
+  },
+  {
+    "id": "9cf7cac34eb925c83458ab246e92d36e",
+    "title": "Prestige Drama by Séamas O’Reilly review",
+    "author": "Joanna Quinn",
+    "description": "A British and American film crew descend on the Northern Irish city to film a drama about the Troubles, in a keenly observed and snappily written debut The premise of Séamas O’Reilly’s brilliant debut novel is that a Hollywood actor has flown into Derry to star in a new TV series about the Troubles called Dead City, then mysteriously disappeared. But its real interest lies in what happens when a place becomes defined by a particular historical moment, to the extent that stories told about it lapse into formula. As one character says of the TV series: “A young lad coming of age in a time of violence, will he get caught up in everything or find another way through blah blah blah.” O’Reilly is determined to show us that the people of Derry are not so easily stereotyped. He uses Dead City as a starting point to circle through different characters connected to the series, from a stressed scriptwriter to a local historian who wonders, “How do you talk about the past as a person still living it, in a place that barely survived it?” As we move through the novel, we discover the links between them, creating a patchwork portrait of the city, similar to the way Tommy Orange’s novel There...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-05-29",
+    "thumbnail": "https://i.guim.co.uk/img/media/5d433a8b42ef1f01999e8cd794d32b2a9ed822b7/14_343_3656_2924/master/3656.jpg?width=700&quality=85&auto=format&fit=max&s=35cb58f4ac298523f97064322de36fa0",
+    "cover_large": "https://i.guim.co.uk/img/media/5d433a8b42ef1f01999e8cd794d32b2a9ed822b7/14_343_3656_2924/master/3656.jpg?width=700&quality=85&auto=format&fit=max&s=35cb58f4ac298523f97064322de36fa0",
+    "article_url": "https://www.theguardian.com/books/2018/jul/18/there-there-tommy-orange-review",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "books"
+    ],
+    "created_at": "2026-05-31T12:39:08+00:00",
+    "updated_at": "2026-05-31T12:39:08Z"
+  },
+  {
+    "id": "84b33d70b296be03826d2afc8ae119dc",
+    "title": "Remembering tenor saxophonist Sonny Rollins, a titan of modern jazz",
+    "author": "Kevin Whitehead",
+    "description": "Rollins, who died May 25, had for decades been hailed as the greatest living jazz musician. Kevin Whitehead offers an appreciation, and we listen back to Rollins' 1994 interview with Terry Gross.",
+    "summary_ai": "",
+    "categories": [
       "Reviews"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "Literary Hub",
+    "publisher": "NPR Books",
     "published_date": "2026-05-29",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
-    "article_url": "https://lithub.com/lit-hub-daily-may-29-2026/",
-    "source": "Literary Hub",
+    "thumbnail": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5837306",
+    "cover_large": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5837306",
+    "article_url": "https://www.npr.org/2026/05/29/nx-s1-5837306/remembering-sonny-rollins",
+    "source": "NPR Books",
     "source_type": "rss",
     "tags": [
-      "Lit Hub Daily",
       "reviews"
     ],
-    "created_at": "2026-05-31T11:05:28+00:00",
-    "updated_at": "2026-05-31T11:05:28Z"
-  },
-  {
-    "id": "0649a259a0ca92eebff7243c57969bcb",
-    "title": "Tending the Fire: Exploring AIDS Writing of the Last Ten Years",
-    "author": "Sara Youngblood Gregory",
-    "description": "There are countless testimonies, books, poetry collections, plays, visual works and films from queer people amid the AIDS crisis of the 1980s and 90s, surviving in the midst of so much death. Many of these works have far outlived their",
-    "summary_ai": "",
-    "categories": [
-      "Aids",
-      "Craft And Criticism",
-      "Dead Boys In Space",
-      "Features",
-      "Health",
-      "History",
-      "Illness",
-      "Lgbtq",
-      "Literary Criticism",
-      "Queer Literature",
-      "Reviews",
-      "Sara Youngblood Gregory",
-      "Speculative Fiction",
-      "Yesyes Books"
-    ],
-    "genre": [
-      "Poetry"
-    ],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-05-29",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
-    "article_url": "https://lithub.com/tending-the-fire-exploring-aids-writing-of-the-last-ten-years/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "AIDS",
-      "Craft and Criticism",
-      "DEAD BOYS IN SPACE",
-      "Features",
-      "Health",
-      "History",
-      "LGBTQ",
-      "Literary Criticism",
-      "Sara Youngblood Gregory",
-      "YesYes Books",
-      "illness",
-      "queer literature",
-      "reviews",
-      "speculative fiction"
-    ],
-    "created_at": "2026-05-31T11:05:29+00:00",
-    "updated_at": "2026-05-31T11:05:29Z"
-  },
-  {
-    "id": "27169e4646fed16b8265288a4d66d415",
-    "title": "The Literary Film & TV You Need to Stream in June",
-    "author": "Emily Temple",
-    "description": "Every month, all the major streaming services add a host of newly acquired (or just plain new) shows, movies, and documentaries into their ever-rotating libraries. So what’s a dedicated reader to watch? Well, whatever you want, of course, but the",
-    "summary_ai": "",
-    "categories": [
-      "Film Adaptations",
-      "Film And Tv",
-      "Fullwidth Slider",
-      "Literary Film &Amp; Tv",
-      "News And Culture",
-      "Reviews",
-      "Streaming Guide",
-      "Tv Adaptations",
-      "What To Watch"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-05-29",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
-    "article_url": "https://lithub.com/the-literary-film-tv-you-need-to-stream-in-june-2/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Film and TV",
-      "Fullwidth Slider",
-      "News and Culture",
-      "TV adaptations",
-      "What to Watch",
-      "film adaptations",
-      "literary film &amp; tv",
-      "reviews",
-      "streaming guide"
-    ],
-    "created_at": "2026-05-31T11:05:31+00:00",
-    "updated_at": "2026-05-31T11:05:31Z"
-  },
-  {
-    "id": "8e9cbd3f707e9f45a7f6163868493cbb",
-    "title": "The 13 Best Book Covers of May",
-    "author": "Emily Temple",
-    "description": "Another month of books, another month of book covers. This month, despite the spring of it all, my favorite covers were strange and dark, their meanings obscure. Is it my mood, or the designers’? Who can say. Probably we’ve all",
-    "summary_ai": "",
-    "categories": [
-      "Best Book Covers Of The Month",
-      "Book Cover Design",
-      "Book Covers",
-      "Design",
-      "Features",
-      "News And Culture",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-05-29",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/themes/lithub-prime/img/social/threads.png",
-    "article_url": "https://lithub.com/the-13-best-book-covers-of-may-3/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Design",
-      "Features",
-      "News and Culture",
-      "best book covers of the month",
-      "book cover design",
-      "book covers",
-      "design",
-      "reviews"
-    ],
-    "created_at": "2026-05-31T11:05:32+00:00",
-    "updated_at": "2026-05-31T11:05:32Z"
+    "created_at": "2026-05-31T12:39:48+00:00",
+    "updated_at": "2026-05-31T12:39:48Z"
   }
 ]

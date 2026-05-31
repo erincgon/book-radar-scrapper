@@ -1,35 +1,5 @@
 [
   {
-    "id": "d6097f34d4dcb84664c148f73826c346",
-    "title": "Book Review: ‘Rabbit, Fox, Tar,’ by P.C. Verrone",
-    "author": "Mateo Askaripour",
-    "description": "In “Rabbit, Fox, Tar,” a white neighborhood’s local election is complicated when a mysterious, dark-skinned woman suddenly appears in town.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "P.C. Verrone",
-      "Rabbit, Fox, Tar (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-31",
-    "thumbnail": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=Book+Review+Rabbit+Fox+Tar+by+P+C+Verron",
-    "cover_large": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=Book+Review+Rabbit+Fox+Tar+by+P+C+Verron",
-    "article_url": "https://www.nytimes.com/2026/05/31/books/review/rabbit-fox-tar-pc-verrone.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "P.C. Verrone",
-      "Rabbit, Fox, Tar (Book)",
-      "books"
-    ],
-    "created_at": "2026-05-31T11:03:38+00:00",
-    "updated_at": "2026-05-31T11:03:38Z"
-  },
-  {
     "id": "dbacef5e40833d3894d8f293c474cc1f",
     "title": "The Month’s Best New Mystery Novels",
     "author": "Sarah Weinman",
@@ -56,38 +26,77 @@
       "books",
       "genre-books-mystery"
     ],
-    "created_at": "2026-05-31T11:03:38+00:00",
-    "updated_at": "2026-05-31T11:03:38Z"
+    "created_at": "2026-05-31T12:38:59+00:00",
+    "updated_at": "2026-05-31T12:38:59Z"
   },
   {
-    "id": "30ff49bfd9dd88e80da3255cc802cf1b",
-    "title": "Book Review: ‘Girl’s Girl,’ by Sonia Feldman",
-    "author": "Sanjena Sathian",
-    "description": "In Sonia Feldman’s novel, “Girl’s Girl,” the delicate balance of a Gen Z friend group is unsettled over one Ohio summer.",
+    "id": "11c936dde56472901c9c8189787f9f68",
+    "title": "Maggie O’Farrell: ‘Fiction comes from what you don’t know’",
+    "author": "Maggie O’Farrell",
+    "description": "From a young age, the author was told that one of her ancestors had drawn some of the first maps of Ireland. Then she found a photograph, and embarked on a journey to discover his story Every family has its myths. In mine, we were told that one of our antecedents had worked on the first maps of Ireland. As a child, I used to picture a solitary person in unspecified period dress – a tailcoat, perhaps some kind of cravat – striding pensively about fields and mountains, pen in hand. On summer holidays, I would stare out of the window of our red car as Donegal or Galway rolled by and wonder that such a task could be achieved. How did one man set about drawing a map of a whole country, of these towns and strands and trees and rivers? All myths comprise a great deal of fanciful embroidery through which runs the distinct thread of truth: time and retelling will always refract reality. This mapper preyed on my mind. I thought about him, always, when I travelled around Ireland. I thought about him in my final year of school, when my geography exam required me to analyse a square of an unknown map. I wanted, as I often do, to know more, about his life, his work, who he had been and how he...",
     "summary_ai": "",
     "categories": [
       "Books",
-      "Books And Literature",
-      "Feldman, Sonia",
-      "Girls Girl (Book)"
+      "Culture",
+      "Fiction",
+      "Ireland",
+      "Maggie O'Farrell"
     ],
-    "genre": [],
+    "genre": [
+      "Fiction"
+    ],
     "language": "English",
-    "publisher": "The New York Times",
+    "publisher": "The Guardian",
     "published_date": "2026-05-31",
-    "thumbnail": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=Book+Review+Girl+s+Girl+by+Sonia+Feldman",
-    "cover_large": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=Book+Review+Girl+s+Girl+by+Sonia+Feldman",
-    "article_url": "https://www.nytimes.com/2026/05/30/books/review/girls-girl-sonia-feldman.html",
-    "source": "The New York Times",
+    "thumbnail": "https://i.guim.co.uk/img/media/cc3676cfe809bfafe972c21c4a1dd29bcb328e7b/971_1365_2425_1940/master/2425.jpg?width=700&quality=85&auto=format&fit=max&s=b6692d0f07f5705c771dd2cd00bc0346",
+    "cover_large": "https://i.guim.co.uk/img/media/cc3676cfe809bfafe972c21c4a1dd29bcb328e7b/971_1365_2425_1940/master/2425.jpg?width=700&quality=85&auto=format&fit=max&s=b6692d0f07f5705c771dd2cd00bc0346",
+    "article_url": "https://www.theguardian.com/books/2026/may/31/maggie-ofarrell-fiction-comes-from-what-you-dont-know",
+    "source": "The Guardian",
     "source_type": "rss",
     "tags": [
-      "Books and Literature",
-      "Feldman, Sonia",
-      "Girls Girl (Book)",
+      "Books",
+      "Culture",
+      "Fiction",
+      "Ireland",
+      "Maggie O'Farrell",
       "books"
     ],
-    "created_at": "2026-05-31T11:03:38+00:00",
-    "updated_at": "2026-05-31T11:03:38Z"
+    "created_at": "2026-05-31T12:39:08+00:00",
+    "updated_at": "2026-05-31T12:39:08Z"
+  },
+  {
+    "id": "871b28d8a8ba668bdeb8d39d8a704240",
+    "title": "Are ‘mind children’ the future of reproduction?",
+    "author": "Laura Spinney",
+    "description": "Forget dirty nappies. In Silicon Valley, there’s increasing chatter about virtual offspring A few months ago, an AI researcher from Europe attended a dinner party in Silicon Valley. During one of the many courses, the host addressed his guests, all of whom worked in AI. The researcher paraphrased his message like this: “Isn’t it amazing that we are the last generation of humans who will need to think about procreating biologically? We were lucky enough to be born at a time where we can simply upload our consciousnesses instead.” “I didn’t see that coming,” the researcher told me. “I was just enjoying my fish.” Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Ai (Artificial Intelligence)",
+      "Books",
+      "Computing",
+      "Reproduction",
+      "Science"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-05-31",
+    "thumbnail": "https://i.guim.co.uk/img/media/fc82a599828a27b706231490b4ed02e3d03cc2eb/0_415_1847_1477/master/1847.jpg?width=700&quality=85&auto=format&fit=max&s=5184d5b9e664bb594b543e80dcf105a9",
+    "cover_large": "https://i.guim.co.uk/img/media/fc82a599828a27b706231490b4ed02e3d03cc2eb/0_415_1847_1477/master/1847.jpg?width=700&quality=85&auto=format&fit=max&s=5184d5b9e664bb594b543e80dcf105a9",
+    "article_url": "https://www.theguardian.com/books/2026/may/31/are-mind-children-the-future-of-reproduction",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "AI (artificial intelligence)",
+      "Computing",
+      "Reproduction",
+      "Science",
+      "books"
+    ],
+    "created_at": "2026-05-31T12:39:08+00:00",
+    "updated_at": "2026-05-31T12:39:08Z"
   },
   {
     "id": "fe06f80374341c10bbd8e3a124731f8b",
@@ -119,78 +128,8 @@
       "Sublimation (Book)",
       "books"
     ],
-    "created_at": "2026-05-31T11:03:38+00:00",
-    "updated_at": "2026-05-31T11:03:38Z"
-  },
-  {
-    "id": "5aaaa3a36d5f401b4f960221c8b31244",
-    "title": "Book Club: Read ‘Yesteryear,’ by Caro Claire Burke, With the Book Review",
-    "author": "MJ Franklin",
-    "description": "In June, the Book Review Book Club will read and discuss a novel about a tradwife who wakes up in 1855, living the pioneer life she has been performing online.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Burke, Caro Claire",
-      "Yesteryear (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-30",
-    "thumbnail": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=Book+Club+Read+Yesteryear+by+Caro+Claire",
-    "cover_large": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=Book+Club+Read+Yesteryear+by+Caro+Claire",
-    "article_url": "https://www.nytimes.com/2026/05/29/books/review/yesteryear-caro-claire-burke-book-club.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Burke, Caro Claire",
-      "Yesteryear (Book)",
-      "books"
-    ],
-    "created_at": "2026-05-31T11:03:40+00:00",
-    "updated_at": "2026-05-31T11:03:40Z"
-  },
-  {
-    "id": "60fdea63bfb7adb919e6b0a23e830fee",
-    "title": "Book Review: ‘Found Sound,’ by Meg Wolitzer and Charlie Panek, and ‘Stream,’ by Aida Salazar",
-    "author": "Jennifer Howard",
-    "description": "Meg Wolitzer and Charlie Panek’s “Found Sound” and Aida Salazar’s “Stream” send their protagonists on a listening (and healing) tour of real life.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Children And Childhood",
-      "Found Sound (Book)",
-      "Genre-Books-Childrens",
-      "Panek, Charlie",
-      "Salazar, Aida (Author)",
-      "Stream (Book)",
-      "Wolitzer, Meg"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-30",
-    "thumbnail": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=Book+Review+Found+Sound+by+Meg+Wolitzer+",
-    "cover_large": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=Book+Review+Found+Sound+by+Meg+Wolitzer+",
-    "article_url": "https://www.nytimes.com/2026/05/29/books/review/meg-wolitzer-charlie-panek-found-sound-aida-salazar-stream.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Children and Childhood",
-      "Found Sound (Book)",
-      "Panek, Charlie",
-      "Salazar, Aida (Author)",
-      "Stream (Book)",
-      "Wolitzer, Meg",
-      "books",
-      "genre-books-childrens"
-    ],
-    "created_at": "2026-05-31T11:03:41+00:00",
-    "updated_at": "2026-05-31T11:03:41Z"
+    "created_at": "2026-05-31T12:39:01+00:00",
+    "updated_at": "2026-05-31T12:39:01Z"
   },
   {
     "id": "19ccb4860fbd25579de697059910ec39",
@@ -225,542 +164,382 @@
       "genre-books-romance",
       "genre-books-thriller"
     ],
-    "created_at": "2026-05-31T11:03:43+00:00",
-    "updated_at": "2026-05-31T11:03:43Z"
+    "created_at": "2026-05-31T12:39:05+00:00",
+    "updated_at": "2026-05-31T12:39:05Z"
   },
   {
-    "id": "83edad2b5b87ddb343789e2348c01adf",
-    "title": "Book Club: Let’s Talk About ‘Transcription,’ by Ben Lerner",
-    "author": "",
-    "description": "Lerner’s new novel is a cerebral exploration of technology, family, truth and existence.",
+    "id": "cf6b67f8c8dbb93ec06653b00d958701",
+    "title": "‘I am very serious about being silly’: children’s illustrators on the art of storytelling",
+    "author": "Stuart Heritage",
+    "description": "From The Twits to The Gruffalo and an angry bear in search of his hat... Quentin Blake, Cressida Cowell, Axel Sheffler, Lauren Child and more reveal how they bring children’s books to life Spread across a sprawling 17th-century industrial complex in London’s Clerkenwell, the Quentin Blake Centre for Illustration, which opens next month, is being billed as the largest institution of its kind anywhere in the world: a permanent national home for an art form that shapes everything from children’s books and political cartoons to animation, fashion, advertising and digital culture. Part museum, part gallery and part creative laboratory, the centre represents an extraordinary attempt to drag illustration out of the margins and finally place it at the heart of British cultural life. Eventually the centre will become home to Blake’s own enormous archive: 40,000 drawings created by one of the UK’s best-known and most immediately recognisable artists. Now 93, Blake has spent three-quarters of a century bringing the words of some of our most beloved authors to life. Roald Dahl is the big one, of course – it’s impossible to think of Dahl without seeing Blake’s energetic, dip-pen pictures...",
     "summary_ai": "",
     "categories": [
       "Books",
-      "Books And Literature"
+      "Children And Teenagers",
+      "Culture",
+      "Illustration",
+      "Quentin Blake",
+      "Teen Books"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-05-30",
+    "thumbnail": "https://i.guim.co.uk/img/media/0c1543bcf4fc3b2f7a4fe9df3f36260d01aefbea/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=ae2fbbcd010e3d7b6569c6832ed5c89b",
+    "cover_large": "https://i.guim.co.uk/img/media/0c1543bcf4fc3b2f7a4fe9df3f36260d01aefbea/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=ae2fbbcd010e3d7b6569c6832ed5c89b",
+    "article_url": "https://www.theguardian.com/books/2026/may/30/i-am-very-serious-about-being-silly-childrens-illustrators-on-the-art-of-storytelling",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Children and teenagers",
+      "Culture",
+      "Illustration",
+      "Quentin Blake",
+      "Teen books",
+      "books"
+    ],
+    "created_at": "2026-05-31T12:39:08+00:00",
+    "updated_at": "2026-05-31T12:39:08Z"
+  },
+  {
+    "id": "a9e17694090fbc0a18aa6784f99a34d9",
+    "title": "This Week’s Bestsellers: June 1, 2026",
+    "author": "Edited by Carolyn Juris",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "The New York Times",
+    "publisher": "Publishers Weekly",
     "published_date": "2026-05-29",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/30/podcasts/30BookReview-Transcription/30BookReview-Transcription-mediumSquareAt3X.png",
-    "cover_large": "https://static01.nyt.com/images/2026/05/30/podcasts/30BookReview-Transcription/30BookReview-Transcription-mediumSquareAt3X.png",
-    "article_url": "https://www.nytimes.com/2026/05/29/books/review/podcast-book-club-ben-lerner-transcription.html",
-    "source": "The New York Times",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129495-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129495-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/100527-this-week-s-bestsellers-june-1-2026.html",
+    "source": "Publishers Weekly",
     "source_type": "rss",
     "tags": [
-      "Books and Literature",
-      "books"
+      "publishers"
     ],
-    "created_at": "2026-05-31T11:03:38+00:00",
-    "updated_at": "2026-05-31T11:03:38Z"
+    "created_at": "2026-05-31T12:39:16+00:00",
+    "updated_at": "2026-05-31T12:39:16Z"
   },
   {
-    "id": "c96e1dbcf8b9952858ea745fafb18f12",
-    "title": "Book Review: ‘View From the East Wing,’ by Jill Biden",
-    "author": "Alexandra Jacobs",
-    "description": "Beyond a few pointed digs at her husband’s successor, “View From the East Wing” largely sticks to the head-spinning details of first lady-hood.",
+    "id": "68da68e67d2c3a0af2ed23efa1851116",
+    "title": "Disabled Authors Reimagine the Traditional Book Tour",
+    "author": "Claire Kirch",
+    "description": "",
     "summary_ai": "",
     "categories": [
-      "Biden, Jill Tracy Jacobs",
-      "Biden, Joseph R Jr",
-      "Books",
-      "Books And Literature",
-      "Content Type: Personal Profile",
-      "First Ladies (Us)",
-      "Presidential Election Of 2024",
-      "Presidents And Presidency (Us)",
-      "United States Politics And Government",
-      "View From The East Wing: A Memoir (Book)"
+      "Publishers"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "The New York Times",
+    "publisher": "Publishers Weekly",
     "published_date": "2026-05-29",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/01/multimedia/29tbr-jill-biden2-cpzg/29tbr-jill-biden2-cpzg-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/01/multimedia/29tbr-jill-biden2-cpzg/29tbr-jill-biden2-cpzg-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/05/29/books/review/jill-biden-memoir-view-from-the-east-wing.html",
-    "source": "The New York Times",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129480-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129480-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100519-disabled-authors-reimagine-the-traditional-book-tour.html",
+    "source": "Publishers Weekly",
     "source_type": "rss",
     "tags": [
-      "Biden, Jill Tracy Jacobs",
-      "Biden, Joseph R Jr",
-      "Books and Literature",
-      "Content Type: Personal Profile",
-      "First Ladies (US)",
-      "Presidential Election of 2024",
-      "Presidents and Presidency (US)",
-      "United States Politics and Government",
-      "View from the East Wing: A Memoir (Book)",
-      "books"
+      "publishers"
     ],
-    "created_at": "2026-05-31T11:03:40+00:00",
-    "updated_at": "2026-05-31T11:03:40Z"
+    "created_at": "2026-05-31T12:39:17+00:00",
+    "updated_at": "2026-05-31T12:39:17Z"
   },
   {
-    "id": "7baed8e992747a09248ef277cfdf4031",
-    "title": "Books Our Editors Loved This Week",
-    "author": "",
-    "description": "Reading recommendations from critics and editors at The New York Times.",
+    "id": "4550e7910c28abb0d88bc660af4787e5",
+    "title": "Bible Study Guides Are Booming",
+    "author": "Cathy Lynn Grossman",
+    "description": "",
     "summary_ai": "",
     "categories": [
-      "Books",
-      "Books And Literature",
-      "By The Bootstraps (Book)",
-      "Crowther, Gail",
-      "Garvey, Shannon",
-      "Haig, Matt",
-      "June Baby (Book)",
-      "Marilyn And Her Books: The Literary Life Of Marilyn Monroe (Book)",
-      "Martin, Alexa (1987- )",
-      "Monroe, Marilyn",
-      "Montero, Rosa (Author)",
-      "Sedaris, David",
-      "Senior, Antonia",
-      "Stalin'S Apostles: The Cambridge Five And The Making Of The Soviet Empire (Book)",
-      "The Danger To Be Sane: Creativity And The Eccentric Mind (Book)",
-      "The Land And Its People (Book)",
-      "The Midnight Train (Book)"
+      "Publishers"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-28",
-    "thumbnail": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=Books+Our+Editors+Loved+This+Week",
-    "cover_large": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=Books+Our+Editors+Loved+This+Week",
-    "article_url": "https://www.nytimes.com/2026/05/28/books/review/new-recommended-books.html",
-    "source": "The New York Times",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-05-29",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129478-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129478-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/religion/article/100518-bible-study-guides-are-booming.html",
+    "source": "Publishers Weekly",
     "source_type": "rss",
     "tags": [
-      "Books and Literature",
-      "By the Bootstraps (Book)",
-      "Crowther, Gail",
-      "Garvey, Shannon",
-      "Haig, Matt",
-      "June Baby (Book)",
-      "Marilyn and Her Books: The Literary Life of Marilyn Monroe (Book)",
-      "Martin, Alexa (1987- )",
-      "Monroe, Marilyn",
-      "Montero, Rosa (Author)",
-      "Sedaris, David",
-      "Senior, Antonia",
-      "Stalin's Apostles: The Cambridge Five and the Making of the Soviet Empire (Book)",
-      "The Danger to be Sane: Creativity and the Eccentric Mind (Book)",
-      "The Land and Its People (Book)",
-      "The Midnight Train (Book)",
-      "books"
+      "publishers"
     ],
-    "created_at": "2026-05-31T11:03:43+00:00",
-    "updated_at": "2026-05-31T11:03:43Z"
+    "created_at": "2026-05-31T12:39:19+00:00",
+    "updated_at": "2026-05-31T12:39:19Z"
   },
   {
-    "id": "d61bbd3cf8ce01d2f095f95737bc38ba",
-    "title": "Why Garry Trudeau Finally O.K.’d a Biography",
-    "author": "Pamela Newton",
-    "description": "Back at the Yale library that holds his archive, the low-key creator of “Doonesbury” reunites with the journalist who pieced together his life story.",
+    "id": "d0d6a0de7d7199099f06ab9f63171a69",
+    "title": "Sergio Cariello: Man of Action",
+    "author": "Cathy Lynn Grossman",
+    "description": "",
     "summary_ai": "",
     "categories": [
-      "Beinecke Rare Book And Manuscript Library",
-      "Books",
-      "Books And Literature",
-      "Cartoons And Cartoonists",
-      "Comic Books And Strips",
-      "Content Type: Personal Profile",
-      "Doonesbury (Comic Strip)",
-      "Kendall, Joshua",
-      "Trudeau & Doonesbury: The Cartoonist Who Turned The News Into Art (Book)",
-      "Trudeau, Garry"
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-05-29",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129477-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129477-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/authors/interviews/article/100517-sergio-cariello-man-of-action.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-05-31T12:39:21+00:00",
+    "updated_at": "2026-05-31T12:39:21Z"
+  },
+  {
+    "id": "bb6f954a5ef415d51a82559cbb788a80",
+    "title": "Anxious Readers Turn to God",
+    "author": "Cathy Lynn Grossman",
+    "description": "In trying times, readers are reaching for the Bible, digging in with study guides, and seeking reassurance in devotionals.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "the writing of the late Sarah Young, whose books",
+    "published_date": "2026-05-29",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129473-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129473-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/religion/article/100516-anxious-readers-turn-to-god.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-05-31T12:39:22+00:00",
+    "updated_at": "2026-05-31T12:39:22Z"
+  },
+  {
+    "id": "f61fc6e7f2f6fe6b2c4a2f44b2c1f5bc",
+    "title": "Book Deals: Week of June 1, 2026",
+    "author": "Edited by Sophia Stewart",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Random House",
+    "published_date": "2026-05-29",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129481-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129481-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/book-deals/article/100514-book-deals-week-of-june-1-2026.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-05-31T12:39:24+00:00",
+    "updated_at": "2026-05-31T12:39:24Z"
+  },
+  {
+    "id": "f66fd78c18dfe641e56bc96c01d163a0",
+    "title": "The Radical Optimism of Howard Zinn: PW Talks with Dave Zirin",
+    "author": "Emily Colucci",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-05-29",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129471-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129471-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/authors/interviews/article/100513-the-radical-optimism-of-howard-zinn-pw-talks-with-dave-zirin.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-05-31T12:39:25+00:00",
+    "updated_at": "2026-05-31T12:39:25Z"
+  },
+  {
+    "id": "754afc17e1dd5868dd18e9fcd95cc93e",
+    "title": "Bringing Rapunzel Out of the Tower: PW Talks with Andrea Eames",
+    "author": "Alexandra Toner",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-05-29",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129470-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129470-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/authors/interviews/article/100512-bringing-rapunzel-out-of-the-tower-pw-talks-with-andrea-eames.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-05-31T12:39:26+00:00",
+    "updated_at": "2026-05-31T12:39:26Z"
+  },
+  {
+    "id": "74e497174b65b811e33b784ca78d2cae",
+    "title": "The Modern Bookstore: PW Talks with Jodi Goldstein",
+    "author": "Claire Kirch",
+    "description": "The CEO of the Harvard Coop re-imagines the iconic bookstore.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-05-29",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129450-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129450-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100507-the-modern-bookstore-pw-talks-with-jodi-goldstein.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-05-31T12:39:28+00:00",
+    "updated_at": "2026-05-31T12:39:28Z"
+  },
+  {
+    "id": "25b2c374b1c6fdb1925c1d5bc5247433",
+    "title": "Richard Russo Was Born to Run",
+    "author": "Elaine Szewczyk",
+    "description": "With a new novel publishing in August, the author reflects on the decaying industrial hometown he left behind and how it shaped his writing for 40 years.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Knopf",
+    "published_date": "2026-05-29",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129435-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129435-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/authors/profiles/article/100505-richard-russo-was-born-to-run.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-05-31T12:39:29+00:00",
+    "updated_at": "2026-05-31T12:39:29Z"
+  },
+  {
+    "id": "e706795e85f111b640f2d0f4c7ed902c",
+    "title": "Kogan Page’s Work in Progress Series",
+    "author": "Jasmina Kelemen",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-05-29",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129467-2.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129467-2.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/new-titles/adult-announcements/article/100497-kogan-page-s-work-in-progress-series.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-05-31T12:39:32+00:00",
+    "updated_at": "2026-05-31T12:39:32Z"
+  },
+  {
+    "id": "41420256ab4523f9542e8f996eb4faa1",
+    "title": "Running the Show: PW Talks with Melinda Hsu",
+    "author": "Jasmina Kelemen",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-05-29",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129408-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129408-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/authors/interviews/article/100495-running-the-show-pw-talks-with-melinda-hsu.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-05-31T12:39:34+00:00",
+    "updated_at": "2026-05-31T12:39:34Z"
+  },
+  {
+    "id": "17ff573307740c4d163a09acb6f952f2",
+    "title": "New Business Books Emphasize Emotional Intelligence",
+    "author": "Jasmina Kelemen",
+    "description": "Authors make the case that empathy, individualized attention, and the ability to read a room are essential workplace skills.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
     ],
     "genre": [
-      "Biography"
+      "Business"
     ],
     "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-28",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/28/multimedia/28tbr-trudeau-bio-01-kqbw/28tbr-trudeau-bio-01-kqbw-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/28/multimedia/28tbr-trudeau-bio-01-kqbw/28tbr-trudeau-bio-01-kqbw-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/05/28/books/review/garry-trudeau-doonesbury-biography.html",
-    "source": "The New York Times",
+    "publisher": "our business books",
+    "published_date": "2026-05-29",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129403-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129403-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/new-titles/adult-announcements/article/100494-new-business-books-emphasize-emotional-intelligence.html",
+    "source": "Publishers Weekly",
     "source_type": "rss",
     "tags": [
-      "Beinecke Rare Book and Manuscript Library",
-      "Books and Literature",
-      "Cartoons and Cartoonists",
-      "Comic Books and Strips",
-      "Content Type: Personal Profile",
-      "Doonesbury (Comic Strip)",
-      "Kendall, Joshua",
-      "Trudeau & Doonesbury: The Cartoonist Who Turned the News Into Art (Book)",
-      "Trudeau, Garry",
-      "books"
+      "publishers"
     ],
-    "created_at": "2026-05-31T11:03:43+00:00",
-    "updated_at": "2026-05-31T11:03:43Z"
+    "created_at": "2026-05-31T12:39:35+00:00",
+    "updated_at": "2026-05-31T12:39:35Z"
   },
   {
-    "id": "84bb60be2ff2916c931a70fa7706387b",
-    "title": "Veronica Roth on Her Favorite Books and Her New Novel, ‘Seek the Traitor’s Son’",
-    "author": "",
-    "description": "“I love a clever puppet master,” says the author of the Divergent series and the new “Seek the Traitor’s Son.” Her favorite hero? Antigone.",
+    "id": "a4b97a3d13a18121183579b3addbdd37",
+    "title": "Catholic Publishers Name 2026 Honors, Awards",
+    "author": "Cathy Lynn Grossman",
+    "description": "",
     "summary_ai": "",
     "categories": [
-      "Arch-Conspirator (Book)",
-      "Books",
-      "Books And Literature",
-      "Chosen Ones (Book)",
-      "Content Type: Personal Profile",
-      "Divergent (Book)",
-      "Genre-Books-Young-Adult",
-      "Poster Girl (Book)",
-      "Roth, Veronica",
-      "Seek The Traitor'S Son (Book)",
-      "The Sixth Faction (Book)",
-      "Writing And Writers"
+      "Publishers"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-28",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/31/books/31TBR-ByTheBook-VRoth/31TBR-ByTheBook-VRoth-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/31/books/31TBR-ByTheBook-VRoth/31TBR-ByTheBook-VRoth-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/05/28/books/review/veronica-roth-seek-the-traitors-son.html",
-    "source": "The New York Times",
+    "publisher": "typewriters and manual order entry to digital publishing",
+    "published_date": "2026-05-29",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129444-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129444-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/religion/article/100504-catholic-publishers-name-2026-honors-awards.html",
+    "source": "Publishers Weekly",
     "source_type": "rss",
     "tags": [
-      "Arch-Conspirator (Book)",
-      "Books and Literature",
-      "Chosen Ones (Book)",
-      "Content Type: Personal Profile",
-      "Divergent (Book)",
-      "Poster Girl (Book)",
-      "Roth, Veronica",
-      "Seek the Traitor's Son (Book)",
-      "The Sixth Faction (Book)",
-      "Writing and Writers",
-      "books",
-      "genre-books-young-adult"
+      "publishers"
     ],
-    "created_at": "2026-05-31T11:03:43+00:00",
-    "updated_at": "2026-05-31T11:03:43Z"
-  },
-  {
-    "id": "da6f7eaca36ffdd4b9154bdac5e0da50",
-    "title": "The Nonfiction Everyone Will Be Reading This Summer",
-    "author": "",
-    "description": "Memoirs, histories, true crime, investigations and much more.",
-    "summary_ai": "",
-    "categories": [
-      "Biden, Jill Tracy Jacobs",
-      "Books",
-      "Books And Literature",
-      "Colloff, Pamela",
-      "Cox, Laverne",
-      "Cunningham, Michael",
-      "Miller, Frank",
-      "Pence, Mike",
-      "Portnoy, Dave (1977- )",
-      "Sheridan, Taylor (1970- )",
-      "Susskind, Daniel (Economist)"
-    ],
-    "genre": [
-      "Crime",
-      "Fiction",
-      "Memoir",
-      "Nonfiction"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-28",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/19/books/TBR-SUMMERPREVIEW-NONFICTION-sub/TBR-SUMMERPREVIEW-NONFICTION-sub-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/19/books/TBR-SUMMERPREVIEW-NONFICTION-sub/TBR-SUMMERPREVIEW-NONFICTION-sub-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/05/28/books/review/the-nonfiction-everyone-will-be-reading-this-summer.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Biden, Jill Tracy Jacobs",
-      "Books and Literature",
-      "Colloff, Pamela",
-      "Cox, Laverne",
-      "Cunningham, Michael",
-      "Miller, Frank",
-      "Pence, Mike",
-      "Portnoy, Dave (1977- )",
-      "Sheridan, Taylor (1970- )",
-      "Susskind, Daniel (Economist)",
-      "books"
-    ],
-    "created_at": "2026-05-31T11:03:43+00:00",
-    "updated_at": "2026-05-31T11:03:43Z"
-  },
-  {
-    "id": "2d017b6d2707b8210d5ec25adfc2de9d",
-    "title": "Why Is TikTok in This Book from 2006?",
-    "author": "Angelina Mazza",
-    "description": "For decades, publishers have swapped out cultural references in new editions of books to appeal to younger readers. Fans aren’t always thrilled.",
-    "summary_ai": "",
-    "categories": [
-      "Book Trade And Publishing",
-      "Books",
-      "Books And Literature",
-      "Cabot, Meg",
-      "Horowitz, Anthony",
-      "Martin, Ann M",
-      "Pretty Little Liars (Book)",
-      "Stormbreaker (Book)",
-      "The Baby-Sitters Club (Book)",
-      "The Princess Diaries (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-28",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/14/books/00TBR-reference_revamp-SUB06/00TBR-reference_revamp-SUB06-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/14/books/00TBR-reference_revamp-SUB06/00TBR-reference_revamp-SUB06-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/05/27/books/why-is-tiktok-in-this-book-from-2006.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Book Trade and Publishing",
-      "Books and Literature",
-      "Cabot, Meg",
-      "Horowitz, Anthony",
-      "Martin, Ann M",
-      "Pretty Little Liars (Book)",
-      "Stormbreaker (Book)",
-      "The Baby-Sitters Club (Book)",
-      "The Princess Diaries (Book)",
-      "books"
-    ],
-    "created_at": "2026-05-31T11:03:47+00:00",
-    "updated_at": "2026-05-31T11:03:47Z"
-  },
-  {
-    "id": "f89f35f6fe0bac8f7131e6c1f594c353",
-    "title": "David Henderson, Innovative Poet and Hendrix Biographer, Dies at 83",
-    "author": "Alex Williams",
-    "description": "Part of the Black Arts Movement of the 1960s, he went on to reclaim a leading musician of the psychedelic era as a distinctly African American artist.",
-    "summary_ai": "",
-    "categories": [
-      "Black People",
-      "Books",
-      "Books And Literature",
-      "Deaths (Obituaries)",
-      "East Village (Manhattan, Ny)",
-      "Henderson, David (1942-2026)",
-      "Hendrix, Jimi",
-      "Poetry And Poets",
-      "Pop And Rock Music",
-      "Writing And Writers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-27",
-    "thumbnail": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=David+Henderson+Innovative+Poet+and+Hend",
-    "cover_large": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=David+Henderson+Innovative+Poet+and+Hend",
-    "article_url": "https://www.nytimes.com/2026/05/27/books/david-henderson-dead.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Black People",
-      "Books and Literature",
-      "Deaths (Obituaries)",
-      "East Village (Manhattan, NY)",
-      "Henderson, David (1942-2026)",
-      "Hendrix, Jimi",
-      "Poetry and Poets",
-      "Pop and Rock Music",
-      "Writing and Writers",
-      "books"
-    ],
-    "created_at": "2026-05-31T11:03:44+00:00",
-    "updated_at": "2026-05-31T11:03:44Z"
-  },
-  {
-    "id": "0755c883d76a293588c03b47393e9ab8",
-    "title": "Book Review: ‘Stalin’s Apostles,’ by Antonia Senior",
-    "author": "Jennifer Szalai",
-    "description": "A new book by Antonia Senior chronicles the careers of five men who betrayed their country — with devastating results.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Cambridge University",
-      "Defectors (Political)",
-      "Espionage And Intelligence Services",
-      "Philby, Kim",
-      "Senior, Antonia",
-      "Stalin'S Apostles: The Cambridge Five And The Making Of The Soviet Empire (Book)",
-      "Stalin, Joseph",
-      "World War Ii (1939-45)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-27",
-    "thumbnail": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=Book+Review+Stalin+s+Apostles+by+Antonia",
-    "cover_large": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=Book+Review+Stalin+s+Apostles+by+Antonia",
-    "article_url": "https://www.nytimes.com/2026/05/27/books/review/stalins-apostles-antonia-senior.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Cambridge University",
-      "Defectors (Political)",
-      "Espionage and Intelligence Services",
-      "Philby, Kim",
-      "Senior, Antonia",
-      "Stalin's Apostles: The Cambridge Five and the Making of the Soviet Empire (Book)",
-      "Stalin, Joseph",
-      "World War II (1939-45)",
-      "books"
-    ],
-    "created_at": "2026-05-31T11:03:46+00:00",
-    "updated_at": "2026-05-31T11:03:46Z"
-  },
-  {
-    "id": "0e10bbfeaf7fc1fb458bad3a94d2bd6c",
-    "title": "New Romance Books for Summer",
-    "author": "Olivia Waite",
-    "description": "Our critic on three standout May books.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Genre-Books-Romance"
-    ],
-    "genre": [
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-27",
-    "thumbnail": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=New+Romance+Books+for+Summer",
-    "cover_large": "https://via.placeholder.com/400x600/1a1a2e/eaeaea?text=Book&source=www-nytimes-com&t=New+Romance+Books+for+Summer",
-    "article_url": "https://www.nytimes.com/2026/05/27/books/review/new-romance-books.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "books",
-      "genre-books-romance"
-    ],
-    "created_at": "2026-05-31T11:03:47+00:00",
-    "updated_at": "2026-05-31T11:03:47Z"
-  },
-  {
-    "id": "a1d81f097bb6fa78af9593acb2b531a8",
-    "title": "Poetry Review: ‘Killing Spree,’ by Jorie Graham",
-    "author": "Sandra Simonds",
-    "description": "In “Killing Spree,” Jorie Graham confronts a world living through apocalyptic times.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Graham, Jorie",
-      "Killing Spree (Book)",
-      "Poetry And Poets"
-    ],
-    "genre": [
-      "Poetry"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-27",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/26/books/26TBR-Graham-Poetry/26TBR-Graham-Poetry-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/26/books/26TBR-Graham-Poetry/26TBR-Graham-Poetry-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/05/27/books/review/jorie-graham-killing-spree-poems.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Graham, Jorie",
-      "Killing Spree (Book)",
-      "Poetry and Poets",
-      "books"
-    ],
-    "created_at": "2026-05-31T11:03:47+00:00",
-    "updated_at": "2026-05-31T11:03:47Z"
-  },
-  {
-    "id": "9e339959d06352023a43590ddd8c4ffe",
-    "title": "Robert Daley, Multifaceted Author of ‘Prince of the City,’ Dies at 96",
-    "author": "Robert D. McFadden",
-    "description": "He wrote 31 books, often drawing on his experiences as a pro football publicist, a foreign correspondent and a gun-toting spokesman for the N.Y.P.D.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Daley, Robert",
-      "Deaths (Obituaries)",
-      "New York Giants",
-      "New York Times",
-      "Police Department (Nyc)",
-      "Prince Of The City: The True Story Of A Cop Who Knew Too Much (Book)",
-      "Writing And Writers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-26",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/28/multimedia/26daley-kqpf-print3/26daley-kqpf-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/28/multimedia/26daley-kqpf-print3/26daley-kqpf-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/05/26/nyregion/robert-daley-dead.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Daley, Robert",
-      "Deaths (Obituaries)",
-      "New York Giants",
-      "New York Times",
-      "Police Department (NYC)",
-      "Prince of the City: The True Story of a Cop Who Knew Too Much (Book)",
-      "Writing and Writers",
-      "books"
-    ],
-    "created_at": "2026-05-31T11:03:47+00:00",
-    "updated_at": "2026-05-31T11:03:47Z"
-  },
-  {
-    "id": "a3cb6919bcecdf2d2d46a5679620f395",
-    "title": "‘The Maids,’ With Yerin Ha, Asks: Has Life Become One Big Performance?",
-    "author": "Roslyn Sulcas",
-    "description": "In his rethinking of Jean Genet’s classic work about class and power, Kip Williams ponders “a world that gives you every opportunity not to be yourself.”",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Ha, Yerin",
-      "Saban, Phia",
-      "St Ann'S Warehouse (Brooklyn, Ny)",
-      "The Maids (Play)",
-      "Theater",
-      "Theater (Off Broadway)",
-      "Tony Awards (Theater Awards)",
-      "Williams, Kip (Theater Director)",
-      "Wilson, Lydia (1984- )"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-26",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/27/multimedia/26cul-maids-off-broadway-01-qljb/26cul-maids-off-broadway-01-qljb-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/27/multimedia/26cul-maids-off-broadway-01-qljb/26cul-maids-off-broadway-01-qljb-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/05/26/theater/the-maids-play-nyc-genet-yerin-ha-kip-williams.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Ha, Yerin",
-      "Saban, Phia",
-      "St Ann's Warehouse (Brooklyn, NY)",
-      "The Maids (Play)",
-      "Theater",
-      "Theater (Off Broadway)",
-      "Tony Awards (Theater Awards)",
-      "Williams, Kip (Theater Director)",
-      "Wilson, Lydia (1984- )",
-      "books"
-    ],
-    "created_at": "2026-05-31T11:03:47+00:00",
-    "updated_at": "2026-05-31T11:03:47Z"
+    "created_at": "2026-05-31T12:39:37+00:00",
+    "updated_at": "2026-05-31T12:39:37Z"
   }
 ]
