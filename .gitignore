@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+logs/
+cache/
+output/
+*.log
+.firebase/
+serviceAccount*.json
+credentials*.json
+.DS_Store
