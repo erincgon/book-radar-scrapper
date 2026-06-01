@@ -23,19 +23,39 @@ def build_feed_map(http_client: HTTPClient) -> dict:
 
 
 def _derive_curated_feeds(feeds: dict[str, list]) -> dict[str, list]:
+    from services.deduplication_service import normalized_url_signature
+
     books = feeds.get("books", [])
     reviews = feeds.get("reviews", [])
     publishers = feeds.get("publishers", [])
 
-    seen_urls: set[str] = set()
-    trending_pool = _dedupe_curated_list(books + reviews, seen_urls)[:40]
-    trending = sorted(trending_pool, key=lambda x: x.get("published_date", ""), reverse=True)[:20]
-
-    new_pool = _dedupe_curated_list(publishers + books, seen_urls)[:40]
-    new_releases = sorted(new_pool, key=lambda x: x.get("published_date", ""), reverse=True)[:20]
-
+    # Editor picks first — must not share seen_urls with trending (reviews would be empty)
     editor_source = reviews if reviews else books
-    editor_picks = _dedupe_curated_list(editor_source, seen_urls)[:15]
+    editor_picks = sorted(
+        editor_source,
+        key=lambda x: x.get("published_date", ""),
+        reverse=True,
+    )[:15]
+
+    seen_urls: set[str] = set()
+    for item in editor_picks:
+        url = normalized_url_signature(item.get("article_url"))
+        if url:
+            seen_urls.add(url)
+
+    trending_pool = _dedupe_curated_list(books + reviews, seen_urls)
+    trending = sorted(
+        trending_pool,
+        key=lambda x: x.get("published_date", ""),
+        reverse=True,
+    )[:20]
+
+    new_pool = _dedupe_curated_list(publishers + books, seen_urls)
+    new_releases = sorted(
+        new_pool,
+        key=lambda x: x.get("published_date", ""),
+        reverse=True,
+    )[:20]
 
     return {
         **feeds,
@@ -73,8 +93,14 @@ def run_all() -> None:
     from utils.metadata import update_meta_file
 
     for name, payload in curated.items():
-        if name not in primary:
-            write_json(OUTPUT_DIR / f"{name}.json", payload)
+        write_json(OUTPUT_DIR / f"{name}.json", payload)
+
+    logger.info(
+        "Curated feeds: trending=%s new_releases=%s editor_picks=%s",
+        len(curated.get("trending", [])),
+        len(curated.get("new_releases", [])),
+        len(curated.get("editor_picks", [])),
+    )
 
     update_meta_file(OUTPUT_DIR / "meta.json", curated)
 
