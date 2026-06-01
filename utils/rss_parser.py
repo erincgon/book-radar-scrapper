@@ -158,7 +158,7 @@ class RSSParser:
     def fetch_feed(self, feed_source: RSSFeedSource) -> list[dict[str, Any]]:
         results: list[dict[str, Any]] = []
         try:
-            response = self.http_client.get(feed_source.url)
+            response = self.http_client.get(feed_source.url, fast=True)
             if not response.ok:
                 logger.warning(
                     "RSS fetch failed status=%s feed=%s url=%s",

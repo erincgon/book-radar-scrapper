@@ -24,14 +24,26 @@ CACHE_DIR = BASE_DIR / "cache"
 class AppConfig:
     """Runtime configuration values used across modules."""
 
-    request_timeout_seconds: int = 20
-    request_retries: int = 3
-    backoff_factor: float = 0.75
-    min_rate_limit_seconds: float = 0.5
-    max_rate_limit_seconds: float = 1.5
+    request_timeout_seconds: int = 12
+    request_retries: int = 2
+    backoff_factor: float = 0.5
+    # RSS feeds: minimal delay (parallel fetch handles politeness)
+    rss_rate_limit_seconds: float = 0.05
+    # Optional article-page fetches for missing thumbnails
+    min_rate_limit_seconds: float = 0.1
+    max_rate_limit_seconds: float = 0.25
     max_items_per_feed: int = 30
+    raw_scan_multiplier: float = 1.5
     description_max_chars: int = 1200
     ai_summary_max_words: int = 120
+    article_enrichment_max: int = field(
+        default_factory=lambda: int(os.getenv("ARTICLE_ENRICHMENT_MAX", "6"))
+    )
+    article_fetch_workers: int = field(
+        default_factory=lambda: int(os.getenv("ARTICLE_FETCH_WORKERS", "8"))
+    )
+    rss_fetch_workers: int = field(default_factory=lambda: int(os.getenv("RSS_FETCH_WORKERS", "6")))
+    feed_workers: int = field(default_factory=lambda: int(os.getenv("FEED_WORKERS", "3")))
 
 
 APP_CONFIG = AppConfig()
@@ -88,6 +100,18 @@ DEFAULT_BOOK_FEEDS: list[RSSFeedSource] = [
         name="book_smugglers",
         category="books",
         publisher="The Book Smugglers",
+        exclude_keywords=(
+            "trailer",
+            "spinoff",
+            "x-men",
+            "streaming",
+            "tiny desk",
+            "concert",
+            "tv ",
+            "film ",
+            "movie ",
+            "box office",
+        ),
     ),
     RSSFeedSource(
         url="https://www.kirkusreviews.com/feeds/rss/",
@@ -124,6 +148,16 @@ DEFAULT_REVIEW_FEEDS: list[RSSFeedSource] = [
         name="npr_books",
         category="reviews",
         publisher="NPR Books",
+        exclude_keywords=(
+            "tiny desk",
+            "jazz",
+            "trumpet",
+            "album",
+            "drake",
+            "concert",
+            "grammy",
+            "billboard",
+        ),
     ),
     RSSFeedSource(
         url="https://lithub.com/feed/",
