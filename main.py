@@ -6,6 +6,8 @@ import argparse
 import logging
 import time
 
+from pathlib import Path
+
 from scrapers import RSSBooksScraper, RSSPublishersScraper, RSSReviewsScraper
 from services.pipeline_service import PipelineService
 from utils.http_client import HTTPClient
@@ -79,8 +81,14 @@ def _dedupe_curated_list(items: list, seen_urls: set[str]) -> list:
     return out
 
 
-def run_all() -> None:
+def run_all(*, fresh: bool = False) -> None:
     started = time.time()
+    if fresh:
+        cache_path = Path(__file__).resolve().parent / "cache" / "seen_entries.json"
+        if cache_path.exists():
+            cache_path.unlink()
+            logger.info("Cleared dedupe cache (--fresh)")
+
     http_client = HTTPClient()
     pipeline = PipelineService(http_client=http_client)
     feed_map = build_feed_map(http_client)
@@ -126,6 +134,11 @@ def main() -> None:
         default="once",
         help="Run once or start background scheduler",
     )
+    parser.add_argument(
+        "--fresh",
+        action="store_true",
+        help="Clear dedupe cache before scrape (same as deleting cache/seen_entries.json)",
+    )
     args = parser.parse_args()
 
     if args.mode == "scheduler":
@@ -147,7 +160,8 @@ def main() -> None:
             duplicate_cleanup=pipeline.duplicate_cleanup,
         )
     else:
-        run_once()
+        setup_logging()
+        run_all(fresh=args.fresh)
 
 
 if __name__ == "__main__":

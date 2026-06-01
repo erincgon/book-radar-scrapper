@@ -1,10 +1,11 @@
-"""Duplicate detection — per-feed scope so books never empties publishers/reviews."""
+"""Duplicate detection — in-run only by default so each scrape refreshes JSON feeds."""
 
 from __future__ import annotations
 
 import hashlib
 import json
 import logging
+import os
 from difflib import SequenceMatcher
 from pathlib import Path
 from typing import Any
@@ -17,6 +18,8 @@ from utils.text_cleaner import clean_text, title_similarity_signature
 logger = logging.getLogger(__name__)
 
 SIMILARITY_THRESHOLD = 0.92
+
+PERSIST_DEDUPE_ACROSS_RUNS = os.getenv("DEDUPE_PERSIST", "false").lower() in {"1", "true", "yes"}
 
 
 def normalized_url_signature(url: str | None) -> str:
@@ -53,12 +56,22 @@ def scoped_key(feed_name: str, item: dict[str, Any]) -> str:
 
 
 class DeduplicationService:
-    """Per-feed dedupe: books, publishers, and reviews keep separate URL pools."""
+    """Removes duplicates within a single scrape run (default)."""
 
     def __init__(self, cache_path: Path | None = None) -> None:
         self.cache_path = cache_path or CACHE_DIR / "seen_entries.json"
+        self._persist = PERSIST_DEDUPE_ACROSS_RUNS
         self._seen_keys: set[str] = set()
-        self._load_cache()
+        if self._persist:
+            self._load_cache()
+
+    def begin_fresh_run(self) -> None:
+        """Call at pipeline start — each run repopulates output/*.json."""
+        self._seen_keys.clear()
+        if self._persist:
+            self._load_cache()
+        else:
+            logger.debug("Dedupe: in-run only (DEDUPE_PERSIST=false)")
 
     def _load_cache(self) -> None:
         self.cache_path.parent.mkdir(parents=True, exist_ok=True)
@@ -67,12 +80,14 @@ class DeduplicationService:
         try:
             data = json.loads(self.cache_path.read_text(encoding="utf-8"))
             keys = data.get("keys", []) if isinstance(data, dict) else []
-            # Only keep feed-scoped keys (ignore legacy global keys without "|")
             self._seen_keys = {k for k in keys if isinstance(k, str) and "|" in k}
+            logger.info("Dedupe cache loaded keys=%s", len(self._seen_keys))
         except Exception as exc:
             logger.warning("Could not load dedupe cache: %s", exc)
 
     def save_cache(self) -> None:
+        if not self._persist:
+            return
         payload = {"keys": sorted(self._seen_keys)[-15000:]}
         self.cache_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
@@ -89,14 +104,16 @@ class DeduplicationService:
 
         for item in items:
             key = dedupe_key(item)
-            scope = scoped_key(feed_name, item)
 
             if key in batch_urls:
                 skipped += 1
                 continue
-            if scope in self._seen_keys:
-                skipped += 1
-                continue
+
+            if self._persist:
+                scope = scoped_key(feed_name, item)
+                if scope in self._seen_keys:
+                    skipped += 1
+                    continue
 
             title_sig = title_similarity_signature(clean_text(item.get("title")))
             if any(
@@ -108,35 +125,24 @@ class DeduplicationService:
 
             batch_urls.add(key)
             batch_titles.append(title_sig)
-            self._seen_keys.add(scope)
+            if self._persist:
+                self._seen_keys.add(scoped_key(feed_name, item))
             unique.append(item)
 
         if skipped:
             logger.info(
-                "Feed '%s' dedupe skipped %s duplicate(s), kept %s",
+                "Feed '%s' dedupe skipped %s in-batch duplicate(s), kept %s",
                 feed_name,
                 skipped,
                 len(unique),
             )
         return unique
 
-    def filter_cross_feed(self, items: list[dict[str, Any]], seen_urls: set[str]) -> list[dict[str, Any]]:
-        """Optional: drop URLs already used in another curated list."""
-        filtered: list[dict[str, Any]] = []
-        for item in items:
-            url = normalized_url_signature(item.get("article_url"))
-            if url and url in seen_urls:
-                continue
-            if url:
-                seen_urls.add(url)
-            filtered.append(item)
-        return filtered
-
     def cleanup_stale(self, max_keys: int = 12000) -> int:
+        if not self._persist:
+            return 0
         before = len(self._seen_keys)
         if before <= max_keys:
             return 0
         self._seen_keys = set(sorted(self._seen_keys)[-max_keys:])
-        removed = before - len(self._seen_keys)
-        logger.info("Duplicate cache cleanup removed %s keys", removed)
-        return removed
+        return before - len(self._seen_keys)

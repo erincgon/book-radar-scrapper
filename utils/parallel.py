@@ -2,8 +2,11 @@
 
 from __future__ import annotations
 
+import logging
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import Callable, TypeVar
+
+logger = logging.getLogger(__name__)
 
 T = TypeVar("T")
 R = TypeVar("R")
@@ -25,6 +28,7 @@ def parallel_map(
             idx = futures[future]
             try:
                 results[idx] = future.result()
-            except Exception:
-                results[idx] = None  # type: ignore[assignment]
+            except Exception as exc:
+                logger.exception("parallel_map task failed index=%s: %s", idx, exc)
+                results[idx] = None
     return [r for r in results if r is not None]

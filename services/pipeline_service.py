@@ -50,6 +50,7 @@ class PipelineService:
 
     def run_all(self, feed_map: dict[str, Any]) -> dict[str, list[dict[str, Any]]]:
         started = time.time()
+        self.deduper.begin_fresh_run()
 
         def _scrape_normalize(pair: tuple[str, Any]) -> tuple[str, list[dict[str, Any]]]:
             name, scraper = pair

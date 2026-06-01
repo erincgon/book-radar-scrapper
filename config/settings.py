@@ -37,7 +37,7 @@ class AppConfig:
     description_max_chars: int = 1200
     ai_summary_max_words: int = 120
     article_enrichment_max: int = field(
-        default_factory=lambda: int(os.getenv("ARTICLE_ENRICHMENT_MAX", "6"))
+        default_factory=lambda: int(os.getenv("ARTICLE_ENRICHMENT_MAX", "15"))
     )
     article_fetch_workers: int = field(
         default_factory=lambda: int(os.getenv("ARTICLE_FETCH_WORKERS", "8"))
