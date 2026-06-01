@@ -1,5 +1,31 @@
 [
   {
+    "id": "c21b05458acea8684f908a2cd4cbaa58",
+    "title": "AI giant Anthropic prepares to sell stock to the public; files preliminary IPO paperwork",
+    "author": "John Ruwitch",
+    "description": "The Anthropic IPO, and those of other AI-related firms like OpenAI, could be among the biggest in U.S. history.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews"
+    ],
+    "genre": [
+      "History"
+    ],
+    "language": "English",
+    "publisher": "NPR Books",
+    "published_date": "2026-06-01",
+    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3967x2645+0+0/resize/3967x2645!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4d%2F35%2Fa9ed46de4d5ab74fc927988ee2ea%2Fgettyimages-2227254922.jpg",
+    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3967x2645+0+0/resize/3967x2645!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4d%2F35%2Fa9ed46de4d5ab74fc927988ee2ea%2Fgettyimages-2227254922.jpg",
+    "article_url": "https://www.npr.org/2026/06/01/nx-s1-5843199/anthropic-ipo-filing-ai-large",
+    "source": "NPR Books",
+    "source_type": "rss",
+    "tags": [
+      "reviews"
+    ],
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
+  },
+  {
     "id": "e42014a77bd90c580f9f39da14b10e1e",
     "title": "Lit Hub Daily: June 1, 2026",
     "author": "Lit Hub Daily",
@@ -22,8 +48,8 @@
       "Lit Hub Daily",
       "reviews"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "236dc3a16901b6495968bf9b271b6abc",
@@ -38,7 +64,7 @@
       "Craft And Criticism",
       "Dead But Dreaming Of Electric Sheep",
       "Fantasy",
-      "Features",
+      "Fullwidth Slider",
       "Green City Wars",
       "Holly Race",
       "J.P. Lacrampe",
@@ -78,7 +104,7 @@
       "Angela Mi Young Hur",
       "Craft and Criticism",
       "Dead But Dreaming of Electric Sheep",
-      "Features",
+      "Fullwidth Slider",
       "Green City Wars",
       "Holly Race",
       "J.P. Lacrampe",
@@ -106,8 +132,8 @@
       "sci-fi and fantasy",
       "science fiction"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "0d81ee7f068ca69765b749eea948be7b",
@@ -150,8 +176,8 @@
       "literary history",
       "reviews"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "7f441e0a1f98183b1a21ebd7cfe73844",
@@ -202,8 +228,8 @@
       "the universe",
       "workshops"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "adae25152a3970e918fc79e6edace5a6",
@@ -300,8 +326,8 @@
       "reading list",
       "reviews"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "1227bb86332221ff8b22435963be054a",
@@ -349,8 +375,8 @@
       "reviews",
       "writers in conversation"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "286396afcfc6d6789ca4b3fe61770f27",
@@ -409,8 +435,8 @@
       "We Interrupt This Broadcast",
       "reviews"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "6438ddfbb7f7afb456f02b4468e86192",
@@ -459,8 +485,8 @@
       "novel writing",
       "reviews"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "88b17e44495c62717364ac2421d7a5f7",
@@ -501,14 +527,14 @@
       "poets",
       "reviews"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "3a040fe2500056c4c3e398dac6b97561",
     "title": "My Year in Paris with Gertrude Stein",
     "author": "Lit Hub Excerpts",
-    "description": "Fanny has just told me that her most cherished lover, Lucia, told her a cat drowned yesterday in the Canal Saint-Martin. Apparently, it had one ear smaller than the other. She would get more information; in the meanwhile I was",
+    "description": "Paris. November 2024 Eva called to say she had lost it. She meant her cat who had gone missing. Eva was my new friend in Paris. We liked not knowing much about each other because there was so much to",
     "summary_ai": "",
     "categories": [
       "Daily Fiction",
@@ -541,8 +567,62 @@
       "Novels",
       "reviews"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
+  },
+  {
+    "id": "189c7875be1d0313d613616909564b1c",
+    "title": "How to Use Collections, Book Riot’s New Feature",
+    "author": "Community",
+    "description": "Get started using Book Riot's newest feature: collections!",
+    "summary_ai": "",
+    "categories": [
+      "How To",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-01",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-9.42.41&",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-9.42.41&",
+    "article_url": "https://bookriot.com/how-to-use-collections/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "How To",
+      "reviews"
+    ],
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
+  },
+  {
+    "id": "aa0c7a0cd36889b571ad44ed91c657c0",
+    "title": "Book Riot’s Deals of the Day for June 1, 2026",
+    "author": "Deals",
+    "description": "A snowed-in thriller in the French Alps, women helping women... get rid of their husbands, a scuba diver swallowed by an 80-foot whale, and more of today's best book deals",
+    "summary_ai": "",
+    "categories": [
+      "Book Deals",
+      "Reviews"
+    ],
+    "genre": [
+      "Thriller"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-01",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/04/whalefall-book-cover.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2025/04/whalefall-book-cover.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-june-1-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Book Deals",
+      "reviews"
+    ],
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "16d34ddf790d22ab9c5081feefefdf27",
@@ -569,8 +649,8 @@
       "The Stack",
       "reviews"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "a085f8ad8663375251821061c806cbc9",
@@ -603,8 +683,8 @@
       "deaf",
       "reviews"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "5ca44b2cd8bb7c192e86e1a4e95b84a3",
@@ -634,8 +714,8 @@
       "Unusual Suspects",
       "reviews"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "143ffd2d6fbebf37a5585314443a5e50",
@@ -666,8 +746,8 @@
       "Romance/Erotica",
       "reviews"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "49e5af5e6e4c9548b0fa77eeaea4baa0",
@@ -698,66 +778,34 @@
       "children's new releases",
       "reviews"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
-    "id": "f84b2500b830a741bce3b8f9eb75c430",
-    "title": "A Sneak Peek at the New Queer Books Out This Pride Month",
-    "author": "Danika Ellis",
-    "description": "Here's a sneak peek at the new queer books coming out this month—plus, the best way to keep track of new and upcoming queer books.",
+    "id": "da0cb3085910c515d00cc0b8b458e25f",
+    "title": "The Best Books to Read This Pride, According to All the Lists",
+    "author": "Erica Ezeifedi",
+    "description": "Plus, The New York Times's best books of June, books by d/Deaf authors, getting America to read again, and more.",
     "summary_ai": "",
     "categories": [
-      "Lgbtq",
-      "Our Queerest Shelves",
-      "Reviews"
+      "Reviews",
+      "Today In Books"
     ],
     "genre": [],
     "language": "English",
     "publisher": "Book Riot",
-    "published_date": "2026-05-30",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-05-29-at-9.10.22&",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-05-29-at-9.10.22&",
-    "article_url": "https://bookriot.com/the-best-way-to-keep-track-of-new-and-upcoming-queer-books/",
+    "published_date": "2026-06-01",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/01/rainbow-bookstore.png",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/01/rainbow-bookstore.png",
+    "article_url": "https://bookriot.com/best-books-to-read-this-pride-according-to-all-the-lists/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "LGBTQ",
-      "Our Queerest Shelves",
+      "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
-  },
-  {
-    "id": "cded518997833c898399c4eaf475ce32",
-    "title": "Be the First to Learn About the Best Upcoming Romance Books",
-    "author": "Community",
-    "description": "Here's the best way to keep track of new and upcoming romance books.",
-    "summary_ai": "",
-    "categories": [
-      "Kissing Books",
-      "Reviews",
-      "Romance/Erotica"
-    ],
-    "genre": [
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-05-30",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-05-29-at-9.15.56&",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-05-29-at-9.15.56&",
-    "article_url": "https://bookriot.com/the-best-way-to-keep-track-of-new-romance-books/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Kissing Books",
-      "Romance/Erotica",
-      "reviews"
-    ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "8c36390d2724040076164016aa028e0a",
@@ -782,8 +830,8 @@
       "In Reading Color",
       "reviews"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "390955fb7d0f5841f21cb7488a09f68f",
@@ -808,33 +856,7 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
-  },
-  {
-    "id": "19e97a2078c04d751361888431babdaf",
-    "title": "THE NEW YORKER Picks the Best Books of 2026 So Far",
-    "author": "Community",
-    "description": "Lots of \"best of\" lists from around the interwebs, the next big (eye-roll inducing) trend, and more",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Today In Books"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-05-30",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/03/people-and-things-2026-03-16T192212.183.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/03/people-and-things-2026-03-16T192212.183.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/today-in-books-may-30-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Today in Books",
-      "reviews"
-    ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   }
 ]

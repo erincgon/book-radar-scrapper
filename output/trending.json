@@ -26,8 +26,8 @@
       "The Man Who Read Everything: The Literary Letters of Harold Bloom (Book)",
       "books"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "51d159e83b7a9dafd384b0167d4d7e11",
@@ -74,8 +74,8 @@
       "Wiccan and Hulkling: Raid of Ultron (Book)",
       "books"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "7ad554c8b13f8d61c1885cf1d8753bce",
@@ -104,8 +104,8 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "114a8a7a1d8d091602fb585fe6207b95",
@@ -142,8 +142,8 @@
       "The Bottom of the Harbor (Book)",
       "books"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "68b5d38fc3b22cad1a9ce9789bfd5ea0",
@@ -175,8 +175,8 @@
       "Maggie O'Farrell",
       "books"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "f68266f9b29fffbd6d0f99a1ae2cac15",
@@ -210,8 +210,129 @@
       "UK news",
       "books"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
+  },
+  {
+    "id": "5ca44b2cd8bb7c192e86e1a4e95b84a3",
+    "title": "June’s New Mystery and Thrillers, From High",
+    "author": "Jamie Canaves",
+    "description": "Get ready for disaster gays in NY, Indigenous YA mystery, a Hollywood actor who may have killed his Bollywood wife, and more!",
+    "summary_ai": "",
+    "categories": [
+      "Mystery/Thriller",
+      "Reviews",
+      "Unusual Suspects"
+    ],
+    "genre": [
+      "Mystery",
+      "Thriller"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-01",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/6-books-covers-Self-Help-Serial-Killers-The-Clock-House-Murders-Death-on-Lanai-Missing-in-Soho-She-Walks-At-Night-Grave-Intentions.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/6-books-covers-Self-Help-Serial-Killers-The-Clock-House-Murders-Death-on-Lanai-Missing-in-Soho-She-Walks-At-Night-Grave-Intentions.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/new-mysteries-thrillers-june-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Mystery/Thriller",
+      "Unusual Suspects",
+      "reviews"
+    ],
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
+  },
+  {
+    "id": "143ffd2d6fbebf37a5585314443a5e50",
+    "title": "11 New Romance Books Out in June to Read at the Beach",
+    "author": "Jessica Pryde",
+    "description": "Here are the best romance books out in June 2026, from romantasy heists to second chance love stories to sports romance.",
+    "summary_ai": "",
+    "categories": [
+      "Featured",
+      "Kissing Books",
+      "Reviews",
+      "Romance/Erotica"
+    ],
+    "genre": [
+      "Romance"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-01",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/The-Feywild-Job-Dungeons-Dragons-C.-L.-Polk-cover-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/The-Feywild-Job-Dungeons-Dragons-C.-L.-Polk-cover-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/new-romance-books-june-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Featured",
+      "Kissing Books",
+      "Romance/Erotica",
+      "reviews"
+    ],
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
+  },
+  {
+    "id": "49e5af5e6e4c9548b0fa77eeaea4baa0",
+    "title": "9 Great New Children’s Book Releases for June",
+    "author": "Alice Nuttall",
+    "description": "From animal-centric stories to thought-provoking reads about friendship and community, here are June's new children's book releases.",
+    "summary_ai": "",
+    "categories": [
+      "Children'S",
+      "Children'S New Releases",
+      "Reviews",
+      "The Kids Are All Right"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-01",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/the-fluffy-futon-cover-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/the-fluffy-futon-cover-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/new-childrens-books-june-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Children's",
+      "The Kids Are All Right",
+      "children's new releases",
+      "reviews"
+    ],
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
+  },
+  {
+    "id": "da0cb3085910c515d00cc0b8b458e25f",
+    "title": "The Best Books to Read This Pride, According to All the Lists",
+    "author": "Erica Ezeifedi",
+    "description": "Plus, The New York Times's best books of June, books by d/Deaf authors, getting America to read again, and more.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Today In Books"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-01",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/01/rainbow-bookstore.png",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/01/rainbow-bookstore.png",
+    "article_url": "https://bookriot.com/best-books-to-read-this-pride-according-to-all-the-lists/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Today in Books",
+      "reviews"
+    ],
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "8c36390d2724040076164016aa028e0a",
@@ -236,8 +357,8 @@
       "In Reading Color",
       "reviews"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "dbacef5e40833d3894d8f293c474cc1f",
@@ -266,8 +387,8 @@
       "books",
       "genre-books-mystery"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "11c936dde56472901c9c8189787f9f68",
@@ -301,8 +422,8 @@
       "Maggie O'Farrell",
       "books"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "871b28d8a8ba668bdeb8d39d8a704240",
@@ -335,8 +456,8 @@
       "Science",
       "books"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "2527ae00d55a87d26e27bcb4b6762a5e",
@@ -364,8 +485,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "390955fb7d0f5841f21cb7488a09f68f",
@@ -390,8 +511,8 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "fe06f80374341c10bbd8e3a124731f8b",
@@ -423,8 +544,8 @@
       "Sublimation (Book)",
       "books"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "19ccb4860fbd25579de697059910ec39",
@@ -461,8 +582,8 @@
       "genre-books-thriller",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "cf6b67f8c8dbb93ec06653b00d958701",
@@ -498,92 +619,8 @@
       "Teen books",
       "books"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
-  },
-  {
-    "id": "f84b2500b830a741bce3b8f9eb75c430",
-    "title": "A Sneak Peek at the New Queer Books Out This Pride Month",
-    "author": "Danika Ellis",
-    "description": "Here's a sneak peek at the new queer books coming out this month—plus, the best way to keep track of new and upcoming queer books.",
-    "summary_ai": "",
-    "categories": [
-      "Lgbtq",
-      "Our Queerest Shelves",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-05-30",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-05-29-at-9.10.22&",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-05-29-at-9.10.22&",
-    "article_url": "https://bookriot.com/the-best-way-to-keep-track-of-new-and-upcoming-queer-books/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "LGBTQ",
-      "Our Queerest Shelves",
-      "reviews"
-    ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
-  },
-  {
-    "id": "cded518997833c898399c4eaf475ce32",
-    "title": "Be the First to Learn About the Best Upcoming Romance Books",
-    "author": "Community",
-    "description": "Here's the best way to keep track of new and upcoming romance books.",
-    "summary_ai": "",
-    "categories": [
-      "Kissing Books",
-      "Reviews",
-      "Romance/Erotica"
-    ],
-    "genre": [
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-05-30",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-05-29-at-9.15.56&",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-05-29-at-9.15.56&",
-    "article_url": "https://bookriot.com/the-best-way-to-keep-track-of-new-romance-books/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Kissing Books",
-      "Romance/Erotica",
-      "reviews"
-    ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
-  },
-  {
-    "id": "19e97a2078c04d751361888431babdaf",
-    "title": "THE NEW YORKER Picks the Best Books of 2026 So Far",
-    "author": "Community",
-    "description": "Lots of \"best of\" lists from around the interwebs, the next big (eye-roll inducing) trend, and more",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Today In Books"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-05-30",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/03/people-and-things-2026-03-16T192212.183.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/03/people-and-things-2026-03-16T192212.183.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/today-in-books-may-30-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Today in Books",
-      "reviews"
-    ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   },
   {
     "id": "83edad2b5b87ddb343789e2348c01adf",
@@ -593,7 +630,8 @@
     "summary_ai": "",
     "categories": [
       "Books",
-      "Books And Literature"
+      "Books And Literature",
+      "Internal-Open-Access-Audio"
     ],
     "genre": [],
     "language": "English",
@@ -606,51 +644,10 @@
     "source_type": "rss",
     "tags": [
       "Books and Literature",
-      "books"
+      "books",
+      "internal-open-access-audio"
     ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
-  },
-  {
-    "id": "c96e1dbcf8b9952858ea745fafb18f12",
-    "title": "Book Review: ‘View From the East Wing,’ by Jill Biden",
-    "author": "Alexandra Jacobs",
-    "description": "Beyond a few pointed digs at her husband’s successor, “View From the East Wing” largely sticks to the head-spinning details of first lady-hood.",
-    "summary_ai": "",
-    "categories": [
-      "Biden, Jill Tracy Jacobs",
-      "Biden, Joseph R Jr",
-      "Books",
-      "Books And Literature",
-      "Content Type: Personal Profile",
-      "First Ladies (Us)",
-      "Presidential Election Of 2024",
-      "Presidents And Presidency (Us)",
-      "United States Politics And Government",
-      "View From The East Wing: A Memoir (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-29",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/01/multimedia/29tbr-jill-biden2-cpzg/29tbr-jill-biden2-cpzg-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/01/multimedia/29tbr-jill-biden2-cpzg/29tbr-jill-biden2-cpzg-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/05/29/books/review/jill-biden-memoir-view-from-the-east-wing.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Biden, Jill Tracy Jacobs",
-      "Biden, Joseph R Jr",
-      "Books and Literature",
-      "Content Type: Personal Profile",
-      "First Ladies (US)",
-      "Presidential Election of 2024",
-      "Presidents and Presidency (US)",
-      "United States Politics and Government",
-      "View from the East Wing: A Memoir (Book)",
-      "books"
-    ],
-    "created_at": "2026-06-01T11:33:09+00:00",
-    "updated_at": "2026-06-01T11:33:09Z"
+    "created_at": "2026-06-01T21:27:56+00:00",
+    "updated_at": "2026-06-01T21:27:56Z"
   }
 ]
