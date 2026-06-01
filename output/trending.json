@@ -1,5 +1,151 @@
 [
   {
+    "id": "8d7311adb9974957d1c351bb8f4052b7",
+    "title": "Book Review: ‘The Man Who Read Everything: The Literary Letters of Harold Bloom’",
+    "author": "Dwight Garner",
+    "description": "A collection of Harold Bloom’s letters details the working life of one of America’s most influential intellects.",
+    "summary_ai": "",
+    "categories": [
+      "Bloom, Harold",
+      "Books",
+      "Books And Literature",
+      "The Man Who Read Everything: The Literary Letters Of Harold Bloom (Book)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-01",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/01/multimedia/01TBR-Bloom-review-vpzj/01TBR-Bloom-review-vpzj-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/01/multimedia/01TBR-Bloom-review-vpzj/01TBR-Bloom-review-vpzj-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/01/books/review/harold-bloom-man-who-read-everything.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Bloom, Harold",
+      "Books and Literature",
+      "The Man Who Read Everything: The Literary Letters of Harold Bloom (Book)",
+      "books"
+    ],
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
+  },
+  {
+    "id": "51d159e83b7a9dafd384b0167d4d7e11",
+    "title": "9 Comic Books and Graphic Novels to Celebrate Pride Month",
+    "author": "George Gene Gustines",
+    "description": "Historical chronicles and flights of fancy, all with L.G.B.T.Q. protagonists, arrive starting in June.",
+    "summary_ai": "",
+    "categories": [
+      "Bitter Pill: Randy Shilts And The Dawn Of The Hiv/Aids Epidemic (Book)",
+      "Books",
+      "Comic Books And Strips",
+      "Coming Out Perfect (Book)",
+      "Graphic Novels",
+      "Justice League: Dream Girls A Dc Pride Event (Book)",
+      "Ladies Of The Knight (Book)",
+      "Lgbtq Pride Month (Us)",
+      "Pink Monsters (Book)",
+      "Star Trek: Celebrations (Book)",
+      "The City Beneath Her Feet (Book)",
+      "The Nightingales (Book)",
+      "Wiccan And Hulkling: Raid Of Ultron (Book)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-01",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/01/arts/01-cul-pride-comics_art-04/01-cul-pride-comics_art-04-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/01/arts/01-cul-pride-comics_art-04/01-cul-pride-comics_art-04-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/01/arts/pride-month-comic-books-graphic-novels.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Bitter Pill: Randy Shilts and the Dawn of the HIV/AIDS Epidemic (Book)",
+      "Comic Books and Strips",
+      "Coming Out Perfect (Book)",
+      "Graphic Novels",
+      "Justice League: Dream Girls A DC Pride Event (Book)",
+      "LGBTQ Pride Month (US)",
+      "Ladies of the Knight (Book)",
+      "Pink Monsters (Book)",
+      "Star Trek: Celebrations (Book)",
+      "The City Beneath Her Feet (Book)",
+      "The Nightingales (Book)",
+      "Wiccan and Hulkling: Raid of Ultron (Book)",
+      "books"
+    ],
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
+  },
+  {
+    "id": "7ad554c8b13f8d61c1885cf1d8753bce",
+    "title": "28 New Books to Read in June: Ann Patchett, Maggie O’Farrell, Daniel Kraus and More",
+    "author": "",
+    "description": "Novels by Ann Patchett, Maggie O’Farrell and Dave Eggers; memoirs by Jill Biden and Laverne Cox; sci-fi adventures by a Pulitzer Prize winner; and more.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Content Type: Service"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-01",
+    "thumbnail": "https://static01.nyt.com/images/2026/05/26/books/26TBR-June-Books-SUB01/26TBR-June-Books-SUB01-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/05/26/books/26TBR-June-Books-SUB01/26TBR-June-Books-SUB01-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/01/books/new-books-june.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Content Type: Service",
+      "books"
+    ],
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
+  },
+  {
+    "id": "114a8a7a1d8d091602fb585fe6207b95",
+    "title": "Joana Avillez Revisits Her Waterfront Childhood",
+    "author": "Alex Vadukul",
+    "description": "Joana Avillez took six years to illustrate a new edition of Joseph Mitchell’s “The Bottom of the Harbor,” which captures the salty New York neighborhood of her youth.",
+    "summary_ai": "",
+    "categories": [
+      "Avillez, Joana",
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "East River (Nyc)",
+      "Fulton Fish Market (Manhattan, Ny)",
+      "Mitchell, Joseph",
+      "The Bottom Of The Harbor (Book)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-01",
+    "thumbnail": "https://static01.nyt.com/images/2026/05/31/multimedia/25ST-JOANA-AVILLEZ-13-thpw/25ST-JOANA-AVILLEZ-13-thpw-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/05/31/multimedia/25ST-JOANA-AVILLEZ-13-thpw/25ST-JOANA-AVILLEZ-13-thpw-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/01/style/joana-avillez-joseph-mitchell-illustration-new-york-waterfront.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Avillez, Joana",
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "East River (NYC)",
+      "Fulton Fish Market (Manhattan, NY)",
+      "Mitchell, Joseph",
+      "The Bottom of the Harbor (Book)",
+      "books"
+    ],
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
+  },
+  {
     "id": "68b5d38fc3b22cad1a9ce9789bfd5ea0",
     "title": "Land by Maggie O’Farrell review",
     "author": "Melissa Harrison",
@@ -29,8 +175,69 @@
       "Maggie O'Farrell",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
+  },
+  {
+    "id": "f68266f9b29fffbd6d0f99a1ae2cac15",
+    "title": "The Common Good Economy by Mariana Mazzucato review – how can Labour really turn things around?",
+    "author": "Heather Stewart",
+    "description": "It’s not enough to wish for growth; economic success requires a sense of purpose, according to this academic When Keir Starmer won a landslide Labour majority promising to pursue five governing “missions”, the high-profile leftwing economist Mariana Mazzucato was credited as an inspiration. Two years on, her bracing new book helps shed light on why Labour in power has struggled to project the sense of direction that “mission-led government”, as Mazzucato calls it, requires. Synthesising and extending her earlier work, here she proposes “a new economics of collective action around the common good”. From this perspective, the economy is not a concatenation of rapacious independent forces, to be contained and offset by public policy, but a project – or rather a series of projects – with direction and purpose. Finance should be turned to the benefit of these collective goals instead of chasing short-term returns, she argues, and the creativity of corporations channelled to the public good. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Economics",
+      "Politics",
+      "Politics Books",
+      "Uk News"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-01",
+    "thumbnail": "https://i.guim.co.uk/img/media/7eec088fdedb48125c5561cc2eb3fffd38d9a8d6/706_0_5848_4679/master/5848.jpg?width=700&quality=85&auto=format&fit=max&s=d24f5594c26f76d7a26a2fa3b7f2a18e",
+    "cover_large": "https://i.guim.co.uk/img/media/7eec088fdedb48125c5561cc2eb3fffd38d9a8d6/706_0_5848_4679/master/5848.jpg?width=700&quality=85&auto=format&fit=max&s=d24f5594c26f76d7a26a2fa3b7f2a18e",
+    "article_url": "https://www.theguardian.com/books/2026/jun/01/the-common-good-economy-by-mariana-mazzucato-review-how-can-labour-really-turn-things-around",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Economics",
+      "Politics",
+      "Politics books",
+      "UK news",
+      "books"
+    ],
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
+  },
+  {
+    "id": "8c36390d2724040076164016aa028e0a",
+    "title": "A Stunning New Romantasy Set in New Orleans",
+    "author": "Erica Ezeifedi",
+    "description": "Plus, Heated Rivalry star Hudson Williams shares his favorite books, a Black speculative lit magazine goes on hiatus, and more.",
+    "summary_ai": "",
+    "categories": [
+      "In Reading Color",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-01",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/02/people-and-things-2026-02-27T173836.602.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/02/people-and-things-2026-02-27T173836.602.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/bipoc-lit-news-june-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "In Reading Color",
+      "reviews"
+    ],
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "dbacef5e40833d3894d8f293c474cc1f",
@@ -59,8 +266,8 @@
       "books",
       "genre-books-mystery"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "11c936dde56472901c9c8189787f9f68",
@@ -94,8 +301,8 @@
       "Maggie O'Farrell",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "871b28d8a8ba668bdeb8d39d8a704240",
@@ -128,8 +335,8 @@
       "Science",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "2527ae00d55a87d26e27bcb4b6762a5e",
@@ -157,8 +364,34 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
+  },
+  {
+    "id": "390955fb7d0f5841f21cb7488a09f68f",
+    "title": "The Book News We Covered This Week",
+    "author": "Community",
+    "description": "Spotify's successful audiobooks strategy, the most read books on Goodreads, our first ever ZtWR readalong, and more",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Today In Books"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-05-31",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/04/eyeglasses-coffee-newspapers-white-table-news.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/04/eyeglasses-coffee-newspapers-white-table-news.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/today-in-books-may-31-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Today in Books",
+      "reviews"
+    ],
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "fe06f80374341c10bbd8e3a124731f8b",
@@ -190,8 +423,8 @@
       "Sublimation (Book)",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "19ccb4860fbd25579de697059910ec39",
@@ -228,8 +461,8 @@
       "genre-books-thriller",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "cf6b67f8c8dbb93ec06653b00d958701",
@@ -265,8 +498,92 @@
       "Teen books",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
+  },
+  {
+    "id": "f84b2500b830a741bce3b8f9eb75c430",
+    "title": "A Sneak Peek at the New Queer Books Out This Pride Month",
+    "author": "Danika Ellis",
+    "description": "Here's a sneak peek at the new queer books coming out this month—plus, the best way to keep track of new and upcoming queer books.",
+    "summary_ai": "",
+    "categories": [
+      "Lgbtq",
+      "Our Queerest Shelves",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-05-30",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-05-29-at-9.10.22&",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-05-29-at-9.10.22&",
+    "article_url": "https://bookriot.com/the-best-way-to-keep-track-of-new-and-upcoming-queer-books/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "LGBTQ",
+      "Our Queerest Shelves",
+      "reviews"
+    ],
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
+  },
+  {
+    "id": "cded518997833c898399c4eaf475ce32",
+    "title": "Be the First to Learn About the Best Upcoming Romance Books",
+    "author": "Community",
+    "description": "Here's the best way to keep track of new and upcoming romance books.",
+    "summary_ai": "",
+    "categories": [
+      "Kissing Books",
+      "Reviews",
+      "Romance/Erotica"
+    ],
+    "genre": [
+      "Romance"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-05-30",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-05-29-at-9.15.56&",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-05-29-at-9.15.56&",
+    "article_url": "https://bookriot.com/the-best-way-to-keep-track-of-new-romance-books/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Kissing Books",
+      "Romance/Erotica",
+      "reviews"
+    ],
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
+  },
+  {
+    "id": "19e97a2078c04d751361888431babdaf",
+    "title": "THE NEW YORKER Picks the Best Books of 2026 So Far",
+    "author": "Community",
+    "description": "Lots of \"best of\" lists from around the interwebs, the next big (eye-roll inducing) trend, and more",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Today In Books"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-05-30",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/03/people-and-things-2026-03-16T192212.183.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/03/people-and-things-2026-03-16T192212.183.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/today-in-books-may-30-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Today in Books",
+      "reviews"
+    ],
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "83edad2b5b87ddb343789e2348c01adf",
@@ -291,8 +608,8 @@
       "Books and Literature",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "c96e1dbcf8b9952858ea745fafb18f12",
@@ -333,366 +650,7 @@
       "View from the East Wing: A Memoir (Book)",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
-  },
-  {
-    "id": "dabd08017332edf744c6812a22389278",
-    "title": "The best recent translated fiction",
-    "author": "John Self",
-    "description": "Sisters in Yellow by Mieko Kawakami; All Flesh by Ananda Devi; The White Desert by Luis López Carrasco; The Home of the Drowned by Elin Anna Labba Sisters in Yellow by Mieko Kawakami, translated by Laurel Taylor and Hitomi Yoshio (Picador, £16.99) Kawakami’s latest opens with a bang, as narrator Hana learns that her old friend Kimiko has been charged with abduction. This MacGuffin takes us to their friendship in late-1990s Tokyo, when teen Hana and the older woman open a bar called Lemon: “Yellow attracts money.” But it’s a turbulent ride and soon Hana is in a world of organised crime. “The world is crazy. I feel like I’m living in a manga.” She’s not the only one, and you need an appetite for Kawakami’s style, which prefers to explore rather than explain – people come and go, buildings burn down, cancer is diagnosed, almost at random – but the relentless rush means there’s no time to get bored. At its best – as in a scene where Hana’s unreliable mother wants to borrow 2m yen for investment in lingerie that helps “your spine and organs move back to where they’re supposed to be” – this is a story both absurd and horrifying. All Flesh by Ananda Devi, translated by Jeffrey Zuckerman...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [
-      "Crime",
-      "Fiction"
-    ],
-    "language": "English",
-    "publisher": "Picador",
-    "published_date": "2026-05-29",
-    "thumbnail": "https://i.guim.co.uk/img/media/007e290ad0e126f7bae0395b1de2e5827087d848/317_0_3239_2592/master/3239.jpg?width=700&quality=85&auto=format&fit=max&s=f80a8964266e7a5f3e5857dbc44f3067",
-    "cover_large": "https://i.guim.co.uk/img/media/007e290ad0e126f7bae0395b1de2e5827087d848/317_0_3239_2592/master/3239.jpg?width=700&quality=85&auto=format&fit=max&s=f80a8964266e7a5f3e5857dbc44f3067",
-    "article_url": "https://www.guardianbookshop.com/sisters-in-yellow-9781035024131/?amp%3Butm_medium=merch&amp%3Butm_campaign=article",
-    "source": "Guardianbookshop",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
-  },
-  {
-    "id": "82be1df4d5178b68d1db7a7c46785355",
-    "title": "Submissions open for 4thWrite short story prize",
-    "author": "Emma Loffhagen",
-    "description": "Now in its 10th year, the £1,000 competition is held by publisher 4th Estate and the Guardian, and open to Black, Asian and minority ethnic writers in the UK and Ireland The 4thWrite prize, an annual short story competition for Black, Asian and minority ethnic writers run by publisher 4th Estate and the Guardian, has opened for submissions. The winner will receive £1,000, a one-day publishing workshop at 4th Estate and publication of their story on the Guardian website. The shortlisted stories will be published on the 4th Estate website. The prize is open to writers aged 18 and over living in the UK or Ireland. Submissions can be made at www.4thEstate.co.uk/prize , where full terms and conditions are available. Any queries can be sent to 4thWritePrize@harpercollins.co.uk Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "4Thwrite Short Story Prize",
-      "Awards And Prizes",
-      "Books",
-      "Culture",
-      "Kamila Shamsie"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "HarperCollins",
-    "published_date": "2026-05-29",
-    "thumbnail": "https://i.guim.co.uk/img/media/34d2fb29229091ba1911714dd07598e24a6d653f/601_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=f17f4c261de15ebfff289c0caa900f44",
-    "cover_large": "https://i.guim.co.uk/img/media/34d2fb29229091ba1911714dd07598e24a6d653f/601_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=f17f4c261de15ebfff289c0caa900f44",
-    "article_url": "http://www.4thestate.co.uk/prize",
-    "source": "4Thestate",
-    "source_type": "rss",
-    "tags": [
-      "4thWrite short story prize",
-      "Awards and prizes",
-      "Books",
-      "Culture",
-      "Kamila Shamsie",
-      "books"
-    ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
-  },
-  {
-    "id": "bce77b6eace47eab728a3aea5404fc3a",
-    "title": "5 New Asian American Horror Books to Die For",
-    "author": "Anne Mai Yee Jansen",
-    "description": "Asian American horror reads deliver far more nuance and innovation than mainstream horror films tend to allow for Asian American characters.",
-    "summary_ai": "",
-    "categories": [
-      "Horror",
-      "Reviews",
-      "The Fright Stuff"
-    ],
-    "genre": [
-      "Horror"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-05-29",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/japanese-gothic-by-kylie-lee-baker-book-cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/japanese-gothic-by-kylie-lee-baker-book-cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/new-asian-american-horror-books/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Horror",
-      "The Fright Stuff",
-      "reviews"
-    ],
-    "created_at": "2026-06-01T07:19:52+00:00",
-    "updated_at": "2026-06-01T07:19:52Z"
-  },
-  {
-    "id": "4f7d893512042baac85853176d3bc094",
-    "title": "The Best Books of 2026 So Far Lists Out Now",
-    "author": "S. Zainab Williams",
-    "description": "Explore even more 2026 Best Books So Far lists and add more books to your summer reads stacks with the NYT and OPRAH DAILY.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Today In Books"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-05-29",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/05/colorful-stack-of-books.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/05/colorful-stack-of-books.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/2026-best-books-so-far-lists/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Today in Books",
-      "reviews"
-    ],
-    "created_at": "2026-06-01T07:19:52+00:00",
-    "updated_at": "2026-06-01T07:19:52Z"
-  },
-  {
-    "id": "9fd966291b8edffbe91db6d99dcb8e94",
-    "title": "What It Means to Be the Librarian I Never Had as a Kid",
-    "author": "Nikki DeMarco",
-    "description": "In a world telling young people what to think, a librarian who hands a kid the right book at the right moment is a radical act.",
-    "summary_ai": "",
-    "categories": [
-      "Check Your Shelf",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-05-29",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2023/09/librarian-kids-library-story-time.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2023/09/librarian-kids-library-story-time.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/librarian-i-never-had-as-a-kid/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Check Your Shelf",
-      "reviews"
-    ],
-    "created_at": "2026-06-01T07:19:52+00:00",
-    "updated_at": "2026-06-01T07:19:52Z"
-  },
-  {
-    "id": "d61bbd3cf8ce01d2f095f95737bc38ba",
-    "title": "Why Garry Trudeau Finally O.K.’d a Biography",
-    "author": "Pamela Newton",
-    "description": "Back at the Yale library that holds his archive, the low-key creator of “Doonesbury” reunites with the journalist who pieced together his life story.",
-    "summary_ai": "",
-    "categories": [
-      "Beinecke Rare Book And Manuscript Library",
-      "Books",
-      "Books And Literature",
-      "Cartoons And Cartoonists",
-      "Comic Books And Strips",
-      "Content Type: Personal Profile",
-      "Doonesbury (Comic Strip)",
-      "Kendall, Joshua",
-      "Trudeau & Doonesbury: The Cartoonist Who Turned The News Into Art (Book)",
-      "Trudeau, Garry"
-    ],
-    "genre": [
-      "Biography"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-28",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/28/multimedia/28tbr-trudeau-bio-01-kqbw/28tbr-trudeau-bio-01-kqbw-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/28/multimedia/28tbr-trudeau-bio-01-kqbw/28tbr-trudeau-bio-01-kqbw-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/05/28/books/review/garry-trudeau-doonesbury-biography.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Beinecke Rare Book and Manuscript Library",
-      "Books and Literature",
-      "Cartoons and Cartoonists",
-      "Comic Books and Strips",
-      "Content Type: Personal Profile",
-      "Doonesbury (Comic Strip)",
-      "Kendall, Joshua",
-      "Trudeau & Doonesbury: The Cartoonist Who Turned the News Into Art (Book)",
-      "Trudeau, Garry",
-      "books"
-    ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
-  },
-  {
-    "id": "84bb60be2ff2916c931a70fa7706387b",
-    "title": "Veronica Roth on Her Favorite Books and Her New Novel, ‘Seek the Traitor’s Son’",
-    "author": "",
-    "description": "“I love a clever puppet master,” says the author of the Divergent series and the new “Seek the Traitor’s Son.” Her favorite hero? Antigone.",
-    "summary_ai": "",
-    "categories": [
-      "Arch-Conspirator (Book)",
-      "Books",
-      "Books And Literature",
-      "Chosen Ones (Book)",
-      "Content Type: Personal Profile",
-      "Divergent (Book)",
-      "Genre-Books-Young-Adult",
-      "Poster Girl (Book)",
-      "Roth, Veronica",
-      "Seek The Traitor'S Son (Book)",
-      "The Sixth Faction (Book)",
-      "Writing And Writers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-28",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/31/books/31TBR-ByTheBook-VRoth/31TBR-ByTheBook-VRoth-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/31/books/31TBR-ByTheBook-VRoth/31TBR-ByTheBook-VRoth-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/05/28/books/review/veronica-roth-seek-the-traitors-son.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Arch-Conspirator (Book)",
-      "Books and Literature",
-      "Chosen Ones (Book)",
-      "Content Type: Personal Profile",
-      "Divergent (Book)",
-      "Poster Girl (Book)",
-      "Roth, Veronica",
-      "Seek the Traitor's Son (Book)",
-      "The Sixth Faction (Book)",
-      "Writing and Writers",
-      "books",
-      "genre-books-young-adult"
-    ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
-  },
-  {
-    "id": "da6f7eaca36ffdd4b9154bdac5e0da50",
-    "title": "The Nonfiction Everyone Will Be Reading This Summer",
-    "author": "",
-    "description": "Memoirs, histories, true crime, investigations and much more.",
-    "summary_ai": "",
-    "categories": [
-      "Biden, Jill Tracy Jacobs",
-      "Books",
-      "Books And Literature",
-      "Colloff, Pamela",
-      "Cox, Laverne",
-      "Cunningham, Michael",
-      "Miller, Frank",
-      "Pence, Mike",
-      "Portnoy, Dave (1977- )",
-      "Sheridan, Taylor (1970- )",
-      "Susskind, Daniel (Economist)"
-    ],
-    "genre": [
-      "Crime",
-      "Fiction",
-      "Memoir",
-      "Nonfiction"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-28",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/19/books/TBR-SUMMERPREVIEW-NONFICTION-sub/TBR-SUMMERPREVIEW-NONFICTION-sub-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/19/books/TBR-SUMMERPREVIEW-NONFICTION-sub/TBR-SUMMERPREVIEW-NONFICTION-sub-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/05/28/books/review/the-nonfiction-everyone-will-be-reading-this-summer.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Biden, Jill Tracy Jacobs",
-      "Books and Literature",
-      "Colloff, Pamela",
-      "Cox, Laverne",
-      "Cunningham, Michael",
-      "Miller, Frank",
-      "Pence, Mike",
-      "Portnoy, Dave (1977- )",
-      "Sheridan, Taylor (1970- )",
-      "Susskind, Daniel (Economist)",
-      "books"
-    ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
-  },
-  {
-    "id": "2d017b6d2707b8210d5ec25adfc2de9d",
-    "title": "Why Is TikTok in This Book from 2006?",
-    "author": "Angelina Mazza",
-    "description": "For decades, publishers have swapped out cultural references in new editions of books to appeal to younger readers. Fans aren’t always thrilled.",
-    "summary_ai": "",
-    "categories": [
-      "Book Trade And Publishing",
-      "Books",
-      "Books And Literature",
-      "Cabot, Meg",
-      "Horowitz, Anthony",
-      "Martin, Ann M",
-      "Pretty Little Liars (Book)",
-      "Stormbreaker (Book)",
-      "The Baby-Sitters Club (Book)",
-      "The Princess Diaries (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-28",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/14/books/00TBR-reference_revamp-SUB06/00TBR-reference_revamp-SUB06-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/14/books/00TBR-reference_revamp-SUB06/00TBR-reference_revamp-SUB06-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/05/27/books/why-is-tiktok-in-this-book-from-2006.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Book Trade and Publishing",
-      "Books and Literature",
-      "Cabot, Meg",
-      "Horowitz, Anthony",
-      "Martin, Ann M",
-      "Pretty Little Liars (Book)",
-      "Stormbreaker (Book)",
-      "The Baby-Sitters Club (Book)",
-      "The Princess Diaries (Book)",
-      "books"
-    ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
-  },
-  {
-    "id": "1870503563a6f3df426b637487d836e8",
-    "title": "Kingfisher by Rozie Kelly review",
-    "author": "Christopher Shrimpton",
-    "description": "Shortlisted for the Women’s prize, this story of a writer’s infatuation with an older woman begins with bracing verve Rozie Kelly’s frank and feisty debut novel, which has been shortlisted for this year’s Women’s prize for fiction, begins with a case of lust at first sight. Our unnamed narrator is a “beautiful” 35-year-old writer in a complicated but loving relationship with the equally beautiful but somewhat boring Michael. The object of his attentions is a famous poet, 17 years his senior, running a popular course at the same university that he, in a minor way, is also attached to. He hardly knows her, but he knows that he wants “to be inside her”. It’s all a bit of a shock. “A woman! What was the world coming to?” So what’s so special about this one? Well, she’s smart, good-looking, well-dressed, not to mention rich and famous. It is this last fact that seems to exert, at least to begin with, the greatest hold over the infatuated narrator. “I wanted to be her, to be like her, to have her success and to know the people she knew.” But also, as he admits to himself as they sit quietly on a park bench watching the ducks, he would like to subjugate her, “to push her down, to render...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [
-      "Fiction"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-05-28",
-    "thumbnail": "https://i.guim.co.uk/img/media/2efa4577f6eeb3334fc754a60885432670151b46/2107_615_5937_4751/master/5937.jpg?width=700&quality=85&auto=format&fit=max&s=864682e98062280ffdd94ad837d785e5",
-    "cover_large": "https://i.guim.co.uk/img/media/2efa4577f6eeb3334fc754a60885432670151b46/2107_615_5937_4751/master/5937.jpg?width=700&quality=85&auto=format&fit=max&s=864682e98062280ffdd94ad837d785e5",
-    "article_url": "https://www.theguardian.com/books/2026/may/28/kingfisher-by-rozie-kelly-review-lust-at-first-sight",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   }
 ]

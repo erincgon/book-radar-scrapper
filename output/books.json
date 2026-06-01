@@ -1,5 +1,151 @@
 [
   {
+    "id": "8d7311adb9974957d1c351bb8f4052b7",
+    "title": "Book Review: ‘The Man Who Read Everything: The Literary Letters of Harold Bloom’",
+    "author": "Dwight Garner",
+    "description": "A collection of Harold Bloom’s letters details the working life of one of America’s most influential intellects.",
+    "summary_ai": "",
+    "categories": [
+      "Bloom, Harold",
+      "Books",
+      "Books And Literature",
+      "The Man Who Read Everything: The Literary Letters Of Harold Bloom (Book)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-01",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/01/multimedia/01TBR-Bloom-review-vpzj/01TBR-Bloom-review-vpzj-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/01/multimedia/01TBR-Bloom-review-vpzj/01TBR-Bloom-review-vpzj-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/01/books/review/harold-bloom-man-who-read-everything.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Bloom, Harold",
+      "Books and Literature",
+      "The Man Who Read Everything: The Literary Letters of Harold Bloom (Book)",
+      "books"
+    ],
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
+  },
+  {
+    "id": "51d159e83b7a9dafd384b0167d4d7e11",
+    "title": "9 Comic Books and Graphic Novels to Celebrate Pride Month",
+    "author": "George Gene Gustines",
+    "description": "Historical chronicles and flights of fancy, all with L.G.B.T.Q. protagonists, arrive starting in June.",
+    "summary_ai": "",
+    "categories": [
+      "Bitter Pill: Randy Shilts And The Dawn Of The Hiv/Aids Epidemic (Book)",
+      "Books",
+      "Comic Books And Strips",
+      "Coming Out Perfect (Book)",
+      "Graphic Novels",
+      "Justice League: Dream Girls A Dc Pride Event (Book)",
+      "Ladies Of The Knight (Book)",
+      "Lgbtq Pride Month (Us)",
+      "Pink Monsters (Book)",
+      "Star Trek: Celebrations (Book)",
+      "The City Beneath Her Feet (Book)",
+      "The Nightingales (Book)",
+      "Wiccan And Hulkling: Raid Of Ultron (Book)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-01",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/01/arts/01-cul-pride-comics_art-04/01-cul-pride-comics_art-04-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/01/arts/01-cul-pride-comics_art-04/01-cul-pride-comics_art-04-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/01/arts/pride-month-comic-books-graphic-novels.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Bitter Pill: Randy Shilts and the Dawn of the HIV/AIDS Epidemic (Book)",
+      "Comic Books and Strips",
+      "Coming Out Perfect (Book)",
+      "Graphic Novels",
+      "Justice League: Dream Girls A DC Pride Event (Book)",
+      "LGBTQ Pride Month (US)",
+      "Ladies of the Knight (Book)",
+      "Pink Monsters (Book)",
+      "Star Trek: Celebrations (Book)",
+      "The City Beneath Her Feet (Book)",
+      "The Nightingales (Book)",
+      "Wiccan and Hulkling: Raid of Ultron (Book)",
+      "books"
+    ],
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
+  },
+  {
+    "id": "7ad554c8b13f8d61c1885cf1d8753bce",
+    "title": "28 New Books to Read in June: Ann Patchett, Maggie O’Farrell, Daniel Kraus and More",
+    "author": "",
+    "description": "Novels by Ann Patchett, Maggie O’Farrell and Dave Eggers; memoirs by Jill Biden and Laverne Cox; sci-fi adventures by a Pulitzer Prize winner; and more.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Content Type: Service"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-01",
+    "thumbnail": "https://static01.nyt.com/images/2026/05/26/books/26TBR-June-Books-SUB01/26TBR-June-Books-SUB01-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/05/26/books/26TBR-June-Books-SUB01/26TBR-June-Books-SUB01-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/01/books/new-books-june.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Content Type: Service",
+      "books"
+    ],
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
+  },
+  {
+    "id": "114a8a7a1d8d091602fb585fe6207b95",
+    "title": "Joana Avillez Revisits Her Waterfront Childhood",
+    "author": "Alex Vadukul",
+    "description": "Joana Avillez took six years to illustrate a new edition of Joseph Mitchell’s “The Bottom of the Harbor,” which captures the salty New York neighborhood of her youth.",
+    "summary_ai": "",
+    "categories": [
+      "Avillez, Joana",
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "East River (Nyc)",
+      "Fulton Fish Market (Manhattan, Ny)",
+      "Mitchell, Joseph",
+      "The Bottom Of The Harbor (Book)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-01",
+    "thumbnail": "https://static01.nyt.com/images/2026/05/31/multimedia/25ST-JOANA-AVILLEZ-13-thpw/25ST-JOANA-AVILLEZ-13-thpw-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/05/31/multimedia/25ST-JOANA-AVILLEZ-13-thpw/25ST-JOANA-AVILLEZ-13-thpw-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/01/style/joana-avillez-joseph-mitchell-illustration-new-york-waterfront.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Avillez, Joana",
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "East River (NYC)",
+      "Fulton Fish Market (Manhattan, NY)",
+      "Mitchell, Joseph",
+      "The Bottom of the Harbor (Book)",
+      "books"
+    ],
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
+  },
+  {
     "id": "68b5d38fc3b22cad1a9ce9789bfd5ea0",
     "title": "Land by Maggie O’Farrell review",
     "author": "Melissa Harrison",
@@ -29,8 +175,43 @@
       "Maggie O'Farrell",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
+  },
+  {
+    "id": "f68266f9b29fffbd6d0f99a1ae2cac15",
+    "title": "The Common Good Economy by Mariana Mazzucato review – how can Labour really turn things around?",
+    "author": "Heather Stewart",
+    "description": "It’s not enough to wish for growth; economic success requires a sense of purpose, according to this academic When Keir Starmer won a landslide Labour majority promising to pursue five governing “missions”, the high-profile leftwing economist Mariana Mazzucato was credited as an inspiration. Two years on, her bracing new book helps shed light on why Labour in power has struggled to project the sense of direction that “mission-led government”, as Mazzucato calls it, requires. Synthesising and extending her earlier work, here she proposes “a new economics of collective action around the common good”. From this perspective, the economy is not a concatenation of rapacious independent forces, to be contained and offset by public policy, but a project – or rather a series of projects – with direction and purpose. Finance should be turned to the benefit of these collective goals instead of chasing short-term returns, she argues, and the creativity of corporations channelled to the public good. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Economics",
+      "Politics",
+      "Politics Books",
+      "Uk News"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-01",
+    "thumbnail": "https://i.guim.co.uk/img/media/7eec088fdedb48125c5561cc2eb3fffd38d9a8d6/706_0_5848_4679/master/5848.jpg?width=700&quality=85&auto=format&fit=max&s=d24f5594c26f76d7a26a2fa3b7f2a18e",
+    "cover_large": "https://i.guim.co.uk/img/media/7eec088fdedb48125c5561cc2eb3fffd38d9a8d6/706_0_5848_4679/master/5848.jpg?width=700&quality=85&auto=format&fit=max&s=d24f5594c26f76d7a26a2fa3b7f2a18e",
+    "article_url": "https://www.theguardian.com/books/2026/jun/01/the-common-good-economy-by-mariana-mazzucato-review-how-can-labour-really-turn-things-around",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Economics",
+      "Politics",
+      "Politics books",
+      "UK news",
+      "books"
+    ],
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "dbacef5e40833d3894d8f293c474cc1f",
@@ -59,8 +240,8 @@
       "books",
       "genre-books-mystery"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "11c936dde56472901c9c8189787f9f68",
@@ -94,8 +275,8 @@
       "Maggie O'Farrell",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "871b28d8a8ba668bdeb8d39d8a704240",
@@ -128,8 +309,8 @@
       "Science",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "2527ae00d55a87d26e27bcb4b6762a5e",
@@ -157,8 +338,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "fe06f80374341c10bbd8e3a124731f8b",
@@ -190,8 +371,8 @@
       "Sublimation (Book)",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "19ccb4860fbd25579de697059910ec39",
@@ -228,8 +409,8 @@
       "genre-books-thriller",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "cf6b67f8c8dbb93ec06653b00d958701",
@@ -265,8 +446,8 @@
       "Teen books",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "83edad2b5b87ddb343789e2348c01adf",
@@ -291,8 +472,8 @@
       "Books and Literature",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "c96e1dbcf8b9952858ea745fafb18f12",
@@ -333,8 +514,8 @@
       "View from the East Wing: A Memoir (Book)",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "dabd08017332edf744c6812a22389278",
@@ -365,41 +546,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
-  },
-  {
-    "id": "82be1df4d5178b68d1db7a7c46785355",
-    "title": "Submissions open for 4thWrite short story prize",
-    "author": "Emma Loffhagen",
-    "description": "Now in its 10th year, the £1,000 competition is held by publisher 4th Estate and the Guardian, and open to Black, Asian and minority ethnic writers in the UK and Ireland The 4thWrite prize, an annual short story competition for Black, Asian and minority ethnic writers run by publisher 4th Estate and the Guardian, has opened for submissions. The winner will receive £1,000, a one-day publishing workshop at 4th Estate and publication of their story on the Guardian website. The shortlisted stories will be published on the 4th Estate website. The prize is open to writers aged 18 and over living in the UK or Ireland. Submissions can be made at www.4thEstate.co.uk/prize , where full terms and conditions are available. Any queries can be sent to 4thWritePrize@harpercollins.co.uk Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "4Thwrite Short Story Prize",
-      "Awards And Prizes",
-      "Books",
-      "Culture",
-      "Kamila Shamsie"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "HarperCollins",
-    "published_date": "2026-05-29",
-    "thumbnail": "https://i.guim.co.uk/img/media/34d2fb29229091ba1911714dd07598e24a6d653f/601_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=f17f4c261de15ebfff289c0caa900f44",
-    "cover_large": "https://i.guim.co.uk/img/media/34d2fb29229091ba1911714dd07598e24a6d653f/601_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=f17f4c261de15ebfff289c0caa900f44",
-    "article_url": "http://www.4thestate.co.uk/prize",
-    "source": "4Thestate",
-    "source_type": "rss",
-    "tags": [
-      "4thWrite short story prize",
-      "Awards and prizes",
-      "Books",
-      "Culture",
-      "Kamila Shamsie",
-      "books"
-    ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "d61bbd3cf8ce01d2f095f95737bc38ba",
@@ -442,8 +590,8 @@
       "Trudeau, Garry",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "84bb60be2ff2916c931a70fa7706387b",
@@ -488,8 +636,8 @@
       "books",
       "genre-books-young-adult"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "da6f7eaca36ffdd4b9154bdac5e0da50",
@@ -537,50 +685,8 @@
       "Susskind, Daniel (Economist)",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
-  },
-  {
-    "id": "2d017b6d2707b8210d5ec25adfc2de9d",
-    "title": "Why Is TikTok in This Book from 2006?",
-    "author": "Angelina Mazza",
-    "description": "For decades, publishers have swapped out cultural references in new editions of books to appeal to younger readers. Fans aren’t always thrilled.",
-    "summary_ai": "",
-    "categories": [
-      "Book Trade And Publishing",
-      "Books",
-      "Books And Literature",
-      "Cabot, Meg",
-      "Horowitz, Anthony",
-      "Martin, Ann M",
-      "Pretty Little Liars (Book)",
-      "Stormbreaker (Book)",
-      "The Baby-Sitters Club (Book)",
-      "The Princess Diaries (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-28",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/14/books/00TBR-reference_revamp-SUB06/00TBR-reference_revamp-SUB06-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/14/books/00TBR-reference_revamp-SUB06/00TBR-reference_revamp-SUB06-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/05/27/books/why-is-tiktok-in-this-book-from-2006.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Book Trade and Publishing",
-      "Books and Literature",
-      "Cabot, Meg",
-      "Horowitz, Anthony",
-      "Martin, Ann M",
-      "Pretty Little Liars (Book)",
-      "Stormbreaker (Book)",
-      "The Baby-Sitters Club (Book)",
-      "The Princess Diaries (Book)",
-      "books"
-    ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "1870503563a6f3df426b637487d836e8",
@@ -610,42 +716,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
-  },
-  {
-    "id": "a1d81f097bb6fa78af9593acb2b531a8",
-    "title": "Poetry Review: ‘Killing Spree,’ by Jorie Graham",
-    "author": "Sandra Simonds",
-    "description": "In “Killing Spree,” Jorie Graham confronts a world living through apocalyptic times.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Graham, Jorie",
-      "Killing Spree (Book)",
-      "Poetry And Poets"
-    ],
-    "genre": [
-      "Poetry"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-27",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/26/books/26TBR-Graham-Poetry/26TBR-Graham-Poetry-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/26/books/26TBR-Graham-Poetry/26TBR-Graham-Poetry-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/05/27/books/review/jorie-graham-killing-spree-poems.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Graham, Jorie",
-      "Killing Spree (Book)",
-      "Poetry and Poets",
-      "books"
-    ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "e5e967887d57bb9312ef69b090c46667",
@@ -677,144 +749,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
-  },
-  {
-    "id": "9e339959d06352023a43590ddd8c4ffe",
-    "title": "Robert Daley, Multifaceted Author of ‘Prince of the City,’ Dies at 96",
-    "author": "Robert D. McFadden",
-    "description": "He wrote 31 books, often drawing on his experiences as a pro football publicist, a foreign correspondent and a gun-toting spokesman for the N.Y.P.D.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Daley, Robert",
-      "Deaths (Obituaries)",
-      "New York Giants",
-      "New York Times",
-      "Police Department (Nyc)",
-      "Prince Of The City: The True Story Of A Cop Who Knew Too Much (Book)",
-      "Writing And Writers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-26",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/28/multimedia/26daley-kqpf-print3/26daley-kqpf-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/28/multimedia/26daley-kqpf-print3/26daley-kqpf-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/05/26/nyregion/robert-daley-dead.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Daley, Robert",
-      "Deaths (Obituaries)",
-      "New York Giants",
-      "New York Times",
-      "Police Department (NYC)",
-      "Prince of the City: The True Story of a Cop Who Knew Too Much (Book)",
-      "Writing and Writers",
-      "books"
-    ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
-  },
-  {
-    "id": "a3cb6919bcecdf2d2d46a5679620f395",
-    "title": "‘The Maids,’ With Yerin Ha, Asks: Has Life Become One Big Performance?",
-    "author": "Roslyn Sulcas",
-    "description": "In his rethinking of Jean Genet’s classic work about class and power, Kip Williams ponders “a world that gives you every opportunity not to be yourself.”",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Ha, Yerin",
-      "Saban, Phia",
-      "St Ann'S Warehouse (Brooklyn, Ny)",
-      "The Maids (Play)",
-      "Theater",
-      "Theater (Off Broadway)",
-      "Tony Awards (Theater Awards)",
-      "Williams, Kip (Theater Director)",
-      "Wilson, Lydia (1984- )"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-26",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/27/multimedia/26cul-maids-off-broadway-01-qljb/26cul-maids-off-broadway-01-qljb-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/27/multimedia/26cul-maids-off-broadway-01-qljb/26cul-maids-off-broadway-01-qljb-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/05/26/theater/the-maids-play-nyc-genet-yerin-ha-kip-williams.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Ha, Yerin",
-      "Saban, Phia",
-      "St Ann's Warehouse (Brooklyn, NY)",
-      "The Maids (Play)",
-      "Theater",
-      "Theater (Off Broadway)",
-      "Tony Awards (Theater Awards)",
-      "Williams, Kip (Theater Director)",
-      "Wilson, Lydia (1984- )",
-      "books"
-    ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
-  },
-  {
-    "id": "21150d2d44d096755b9b1c0b2bb66efd",
-    "title": "Book Review: ‘Freedom Round the Globe,’ by Sarah M.S. Pearsall",
-    "author": "Jon Meacham",
-    "description": "In “Freedom Round the Globe,” Sarah M.S. Pearsall tracks the stirrings of liberty beyond the British colonies that became the United States.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Boston (Mass)",
-      "British Empire",
-      "Colonization",
-      "East India Co",
-      "Famine",
-      "France",
-      "Freedom Round The Globe: A World History Of The American Revolution (Book)",
-      "Gibraltar",
-      "Great Britain",
-      "India",
-      "Pearsall, Sarah Ms",
-      "Philadelphia (Pa)",
-      "Revolutionary War, American (1775-83)",
-      "Spain"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-26",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/26/books/26TBR-Pearsall-Review/26TBR-Pearsall-Review-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/26/books/26TBR-Pearsall-Review/26TBR-Pearsall-Review-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/05/26/books/review/freedom-round-the-globe-sarah-m-s-pearsall.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Boston (Mass)",
-      "British Empire",
-      "Colonization",
-      "East India Co",
-      "Famine",
-      "France",
-      "Freedom Round the Globe: A World History of the American Revolution (Book)",
-      "Gibraltar",
-      "Great Britain",
-      "India",
-      "Pearsall, Sarah MS",
-      "Philadelphia (Pa)",
-      "Revolutionary War, American (1775-83)",
-      "Spain",
-      "books"
-    ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "17afa84dee29fe4ec43147e102348e98",
@@ -848,8 +784,8 @@
       "Homer",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "2ac57838c7d3f002fd2533314d0ac8df",
@@ -877,8 +813,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "70cd24b8757464da7bbe573c0af45489",
@@ -914,8 +850,8 @@
       "Sarah Moss",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "1bb308bec33022875ec5b7f101907a96",
@@ -950,8 +886,8 @@
       "Stephen Sondheim",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -981,8 +917,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "d10f5d92facd641c016a7d3f5359e288",
@@ -1016,8 +952,8 @@
       "Hilary Mantel",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1056,8 +992,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   },
   {
     "id": "755ba738881478773c8491c271f5d902",
@@ -1084,7 +1020,49 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-06-01T07:19:49+00:00",
-    "updated_at": "2026-06-01T07:19:49Z"
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
+  },
+  {
+    "id": "f0a8987fb7322e3a0dc23bf36fa062e5",
+    "title": "Martin Amis: An Appreciation",
+    "author": "A.O. Scott",
+    "description": "Our critic assesses the achievement of Martin Amis, Britain’s most famous literary son.",
+    "summary_ai": "",
+    "categories": [
+      "Amis, Martin",
+      "Audio-Neutral-Informative",
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Inside Story (Book)",
+      "London Fields (Book)",
+      "The Information (Book)",
+      "The Rachel Papers (Book)",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2023-05-22",
+    "thumbnail": "https://static01.nyt.com/images/2023/06/11/books/review/22AMIS-APPRECIATION/22AMIS-APPRECIATION-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2023/06/11/books/review/22AMIS-APPRECIATION/22AMIS-APPRECIATION-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2023/05/22/books/review/martin-amis.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Amis, Martin",
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Inside Story (Book)",
+      "London Fields (Book)",
+      "The Information (Book)",
+      "The Rachel Papers (Book)",
+      "Writing and Writers",
+      "audio-neutral-informative",
+      "books"
+    ],
+    "created_at": "2026-06-01T11:33:09+00:00",
+    "updated_at": "2026-06-01T11:33:09Z"
   }
 ]
