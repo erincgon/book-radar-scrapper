@@ -1,5 +1,53 @@
 [
   {
+    "id": "df9a343c694a8fd91c32b0d85d81be3c",
+    "title": "In Her Memoir, Jill Biden Is a Watchful Spouse Who Didn’t Always Speak Up About Joe Biden",
+    "author": "Katie Rogers",
+    "description": "The former first lady’s new book reflects an insular White House where loyalty was prized and President Joseph R. Biden Jr.’s feelings were prioritized over health concerns.",
+    "summary_ai": "",
+    "categories": [
+      "Biden, Hunter",
+      "Biden, Jill Tracy Jacobs",
+      "Biden, Joseph R Jr",
+      "Books",
+      "Books And Literature",
+      "Debates (Political)",
+      "Democratic Party",
+      "First Ladies (Us)",
+      "Harris, Kamala D",
+      "Presidential Election Of 2024",
+      "Trump, Donald J",
+      "United States Politics And Government"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-02",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/02/multimedia/02dc-biden-01-lvqt/02dc-biden-01-lvqt-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/02/multimedia/02dc-biden-01-lvqt/02dc-biden-01-lvqt-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/02/us/politics/jill-biden-joe-biden-memoir-health-age.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Biden, Hunter",
+      "Biden, Jill Tracy Jacobs",
+      "Biden, Joseph R Jr",
+      "Books and Literature",
+      "Debates (Political)",
+      "Democratic Party",
+      "First Ladies (US)",
+      "Harris, Kamala D",
+      "Presidential Election of 2024",
+      "Trump, Donald J",
+      "United States Politics and Government",
+      "books"
+    ],
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
+  },
+  {
     "id": "e5c71269c58e8243c9108e83e8179c05",
     "title": "Book Review: ‘What Came West,’ by Josh Weil",
     "author": "Hamilton Cain",
@@ -26,8 +74,40 @@
       "What Came West (Book)",
       "books"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
+  },
+  {
+    "id": "9802d0820bc427984de1dd64ac4cbfcb",
+    "title": "Book Review: ‘Land,’ by Maggie O’Farrell",
+    "author": "Fiona Mozley",
+    "description": "Set in the decades after the Great Hunger, “Land” is a rich portrait of family life amid Ireland’s long struggle against British rule.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Internal-Open-Access-From-Nl",
+      "Land (Book)",
+      "O'Farrell, Maggie"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-02",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/02/books/02TBR-OFarrell-review/02TBR-OFarrell-review-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/02/books/02TBR-OFarrell-review/02TBR-OFarrell-review-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/02/books/review/land-maggie-ofarrell.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Land (Book)",
+      "O'Farrell, Maggie",
+      "books",
+      "internal-open-access-from-nl"
+    ],
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   },
   {
     "id": "1523f4257a76ccd5309badfe8f8c4ea5",
@@ -66,42 +146,130 @@
       "US and Israeli Attack on Iran (2026)",
       "books"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   },
   {
-    "id": "9802d0820bc427984de1dd64ac4cbfcb",
-    "title": "Book Review: ‘Land,’ by Maggie O’Farrell",
-    "author": "Fiona Mozley",
-    "description": "Set in the decades after the Great Hunger, “Land” is a rich portrait of family life amid Ireland’s long struggle against British rule.",
+    "id": "51d159e83b7a9dafd384b0167d4d7e11",
+    "title": "9 Comic Books and Graphic Novels to Celebrate Pride Month",
+    "author": "George Gene Gustines",
+    "description": "Historical chronicles and flights of fancy, all with L.G.B.T.Q. protagonists, arrive starting in June.",
     "summary_ai": "",
     "categories": [
+      "Bitter Pill: Randy Shilts And The Dawn Of The Hiv/Aids Epidemic (Book)",
       "Books",
-      "Books And Literature",
-      "Ireland",
-      "Land (Book)",
-      "Maps",
-      "O'Farrell, Maggie"
+      "Comic Books And Strips",
+      "Coming Out Perfect (Book)",
+      "Graphic Novels",
+      "Justice League: Dream Girls A Dc Pride Event (Book)",
+      "Ladies Of The Knight (Book)",
+      "Lgbtq Pride Month (Us)",
+      "Pink Monsters (Book)",
+      "Star Trek: Celebrations (Book)",
+      "The City Beneath Her Feet (Book)",
+      "The Nightingales (Book)",
+      "Wiccan And Hulkling: Raid Of Ultron (Book)"
     ],
     "genre": [],
     "language": "English",
     "publisher": "The New York Times",
     "published_date": "2026-06-02",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/02/books/02TBR-OFarrell-review/02TBR-OFarrell-review-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/02/books/02TBR-OFarrell-review/02TBR-OFarrell-review-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/02/books/review/land-maggie-ofarrell.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/03/arts/01-cul-pride-comics_art-04/01-cul-pride-comics_art-04-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/03/arts/01-cul-pride-comics_art-04/01-cul-pride-comics_art-04-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/01/arts/pride-month-comic-books-graphic-novels.html",
     "source": "The New York Times",
     "source_type": "rss",
     "tags": [
-      "Books and Literature",
-      "Ireland",
-      "Land (Book)",
-      "Maps",
-      "O'Farrell, Maggie",
+      "Bitter Pill: Randy Shilts and the Dawn of the HIV/AIDS Epidemic (Book)",
+      "Comic Books and Strips",
+      "Coming Out Perfect (Book)",
+      "Graphic Novels",
+      "Justice League: Dream Girls A DC Pride Event (Book)",
+      "LGBTQ Pride Month (US)",
+      "Ladies of the Knight (Book)",
+      "Pink Monsters (Book)",
+      "Star Trek: Celebrations (Book)",
+      "The City Beneath Her Feet (Book)",
+      "The Nightingales (Book)",
+      "Wiccan and Hulkling: Raid of Ultron (Book)",
       "books"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
+  },
+  {
+    "id": "cd29f8375e271820c02627200e68f1d2",
+    "title": "What we’re reading: writers and readers on the books they enjoyed in May",
+    "author": "Guardian Staff",
+    "description": "Madeleine Thien, Sufiyaan Salam and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments Lately I have loved Dorothy Tse’s City Like Water , translated from Chinese by Natascha Bruce. It is an unclassifiable, sharp, ingenious, passionate novel in which the city that is dissolving is also one’s only home. I have been telling everyone to read Karen Hao’s Empire of AI so that we can understand the cost of the tools we’ve been told that we need. I re-read Hsiao-Hung Pai’s Scattered Sand: The Story of China’s Rural Migrants because it has stayed with me for more than a decade now. And I am reading Hannah Lillith Assadi’s moving novel, Paradiso 17 , written in the weeks before and the year after her father, who was born in Palestine, passed away. Finally, Michael Ondaatje’s selected poems, The Distance of a Shout . This is a life’s work and a book to hold close. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Francis Spufford",
+      "Madeleine Thien",
+      "Michael Ondaatje"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-02",
+    "thumbnail": "https://i.guim.co.uk/img/media/87adf51d2033c286c7e33ac3d317fb84ce9713f5/0_0_850_680/master/850.jpg?width=700&quality=85&auto=format&fit=max&s=5ffec0fc72fee02083641d590077015d",
+    "cover_large": "https://i.guim.co.uk/img/media/87adf51d2033c286c7e33ac3d317fb84ce9713f5/0_0_850_680/master/850.jpg?width=700&quality=85&auto=format&fit=max&s=5ffec0fc72fee02083641d590077015d",
+    "article_url": "https://www.theguardian.com/books/2026/jun/02/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-may",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Francis Spufford",
+      "Madeleine Thien",
+      "Michael Ondaatje",
+      "books"
+    ],
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
+  },
+  {
+    "id": "7c3b421aa3d5fc5cdf9eb6fc05a74611",
+    "title": "I devoured classic novels as a teenager. In a world of distractions, can I relearn how to read them?",
+    "author": "Ioan Marc Jones",
+    "description": "In less than a decade, surrounded by screens, I lost my ability to read some of the best books ever written. But, inspired by the Guardian’s 100 best novels list , I was determined to get it back It is a privilege to be surrounded by books. My parents hail from the literary working class, a subsection of society that believes great works lead to a richer life. Reading for them was an inverted form of class snobbery. My dad could read as well as anyone. He’d prove it on package holidays, sitting on the balcony the entire time, head bowed, cigarette in hand, flicking through the pages of Jane Austen or Herman Melville . The only difference between my old man and an old Etonian was the drudgery of employment. To paraphrase Oscar Wilde: work is the bane of the reading class. As for my own reading life, my mum wore me down, shouting “Read a book!” any time I dared say I was bored. I soon capitulated. I was nudged towards the classics, defined by Italo Calvino as books people say they should “reread” because they’ve either read them or do not want to admit they have not. In my late teens and 20s, I worked my way through the greats. I fell in love with a woman called George and thought...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Bram Stoker",
+      "Charles Dickens",
+      "Classics",
+      "Culture",
+      "Fiction",
+      "George Eliot",
+      "Laurence Sterne",
+      "Thomas Hardy"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-02",
+    "thumbnail": "https://i.guim.co.uk/img/media/ffd83243681b41b2fa29be8769b5fdfdbb079273/668_2430_5132_4105/master/5132.jpg?width=700&quality=85&auto=format&fit=max&s=ab5198d0d07d632611f4f062833c97c5",
+    "cover_large": "https://i.guim.co.uk/img/media/ffd83243681b41b2fa29be8769b5fdfdbb079273/668_2430_5132_4105/master/5132.jpg?width=700&quality=85&auto=format&fit=max&s=ab5198d0d07d632611f4f062833c97c5",
+    "article_url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Bram Stoker",
+      "Charles Dickens",
+      "Classics",
+      "Culture",
+      "Fiction",
+      "George Eliot",
+      "Laurence Sterne",
+      "Thomas Hardy",
+      "books"
+    ],
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   },
   {
     "id": "57bd41ee8b43fbfafe98e7c6aefba314",
@@ -138,8 +306,8 @@
       "Pop and rock",
       "books"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   },
   {
     "id": "29069fad914cadf22df6eda4a2ff21dd",
@@ -171,8 +339,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   },
   {
     "id": "8d7311adb9974957d1c351bb8f4052b7",
@@ -201,56 +369,8 @@
       "The Man Who Read Everything: The Literary Letters of Harold Bloom (Book)",
       "books"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
-  },
-  {
-    "id": "51d159e83b7a9dafd384b0167d4d7e11",
-    "title": "9 Comic Books and Graphic Novels to Celebrate Pride Month",
-    "author": "George Gene Gustines",
-    "description": "Historical chronicles and flights of fancy, all with L.G.B.T.Q. protagonists, arrive starting in June.",
-    "summary_ai": "",
-    "categories": [
-      "Bitter Pill: Randy Shilts And The Dawn Of The Hiv/Aids Epidemic (Book)",
-      "Books",
-      "Comic Books And Strips",
-      "Coming Out Perfect (Book)",
-      "Graphic Novels",
-      "Justice League: Dream Girls A Dc Pride Event (Book)",
-      "Ladies Of The Knight (Book)",
-      "Lgbtq Pride Month (Us)",
-      "Pink Monsters (Book)",
-      "Star Trek: Celebrations (Book)",
-      "The City Beneath Her Feet (Book)",
-      "The Nightingales (Book)",
-      "Wiccan And Hulkling: Raid Of Ultron (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-01",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/01/arts/01-cul-pride-comics_art-04/01-cul-pride-comics_art-04-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/01/arts/01-cul-pride-comics_art-04/01-cul-pride-comics_art-04-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/01/arts/pride-month-comic-books-graphic-novels.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Bitter Pill: Randy Shilts and the Dawn of the HIV/AIDS Epidemic (Book)",
-      "Comic Books and Strips",
-      "Coming Out Perfect (Book)",
-      "Graphic Novels",
-      "Justice League: Dream Girls A DC Pride Event (Book)",
-      "LGBTQ Pride Month (US)",
-      "Ladies of the Knight (Book)",
-      "Pink Monsters (Book)",
-      "Star Trek: Celebrations (Book)",
-      "The City Beneath Her Feet (Book)",
-      "The Nightingales (Book)",
-      "Wiccan and Hulkling: Raid of Ultron (Book)",
-      "books"
-    ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   },
   {
     "id": "7ad554c8b13f8d61c1885cf1d8753bce",
@@ -259,9 +379,35 @@
     "description": "Novels by Ann Patchett, Maggie O’Farrell and Dave Eggers; memoirs by Jill Biden and Laverne Cox; sci-fi adventures by a Pulitzer Prize winner; and more.",
     "summary_ai": "",
     "categories": [
+      "Barragan, Carlos",
+      "Biden, Jill Tracy Jacobs",
+      "Blassingame, Haili",
       "Books",
       "Books And Literature",
-      "Content Type: Service"
+      "Cox, Laverne",
+      "Dolin, Eric Jay",
+      "Eggers, Dave",
+      "Ellroy, James",
+      "Feldman, Sonia (Author)",
+      "Frances, Heather (Author)",
+      "Ghosh, Amitav",
+      "Greer, Andrew Sean",
+      "Haberman, Maggie",
+      "Kim, Isabel J (Author)",
+      "Kraus, Daniel (1975- )",
+      "Moyn, Samuel",
+      "O'Farrell, Maggie",
+      "Patchett, Ann",
+      "Sanderson, Brandon",
+      "Sharafedin, Bozorgmehr",
+      "Sheridan, Taylor (1970- )",
+      "Starritt, Alexander",
+      "Swan, Jonathan (1985- )",
+      "Talty, Stephan",
+      "Torbati, Yeganeh",
+      "Waidner, Isabel",
+      "Warnock, Raphael G",
+      "Wulf, Andrea"
     ],
     "genre": [
       "Memoir"
@@ -275,12 +421,38 @@
     "source": "The New York Times",
     "source_type": "rss",
     "tags": [
+      "Barragan, Carlos",
+      "Biden, Jill Tracy Jacobs",
+      "Blassingame, Haili",
       "Books and Literature",
-      "Content Type: Service",
+      "Cox, Laverne",
+      "Dolin, Eric Jay",
+      "Eggers, Dave",
+      "Ellroy, James",
+      "Feldman, Sonia (Author)",
+      "Frances, Heather (Author)",
+      "Ghosh, Amitav",
+      "Greer, Andrew Sean",
+      "Haberman, Maggie",
+      "Kim, Isabel J (Author)",
+      "Kraus, Daniel (1975- )",
+      "Moyn, Samuel",
+      "O'Farrell, Maggie",
+      "Patchett, Ann",
+      "Sanderson, Brandon",
+      "Sharafedin, Bozorgmehr",
+      "Sheridan, Taylor (1970- )",
+      "Starritt, Alexander",
+      "Swan, Jonathan (1985- )",
+      "Talty, Stephan",
+      "Torbati, Yeganeh",
+      "Waidner, Isabel",
+      "Warnock, Raphael G",
+      "Wulf, Andrea",
       "books"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   },
   {
     "id": "114a8a7a1d8d091602fb585fe6207b95",
@@ -317,8 +489,8 @@
       "The Bottom of the Harbor (Book)",
       "books"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   },
   {
     "id": "68b5d38fc3b22cad1a9ce9789bfd5ea0",
@@ -350,8 +522,8 @@
       "Maggie O'Farrell",
       "books"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   },
   {
     "id": "f68266f9b29fffbd6d0f99a1ae2cac15",
@@ -385,8 +557,8 @@
       "UK news",
       "books"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   },
   {
     "id": "dbacef5e40833d3894d8f293c474cc1f",
@@ -415,8 +587,8 @@
       "books",
       "genre-books-mystery"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   },
   {
     "id": "11c936dde56472901c9c8189787f9f68",
@@ -450,42 +622,8 @@
       "Maggie O'Farrell",
       "books"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
-  },
-  {
-    "id": "871b28d8a8ba668bdeb8d39d8a704240",
-    "title": "Are ‘mind children’ the future of reproduction?",
-    "author": "Laura Spinney",
-    "description": "Forget dirty nappies. In Silicon Valley, there’s increasing chatter about virtual offspring A few months ago, an AI researcher from Europe attended a dinner party in Silicon Valley. During one of the many courses, the host addressed his guests, all of whom worked in AI. The researcher paraphrased his message like this: “Isn’t it amazing that we are the last generation of humans who will need to think about procreating biologically? We were lucky enough to be born at a time where we can simply upload our consciousnesses instead.” “I didn’t see that coming,” the researcher told me. “I was just enjoying my fish.” Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Ai (Artificial Intelligence)",
-      "Books",
-      "Computing",
-      "Reproduction",
-      "Science"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-05-31",
-    "thumbnail": "https://i.guim.co.uk/img/media/fc82a599828a27b706231490b4ed02e3d03cc2eb/0_415_1847_1477/master/1847.jpg?width=700&quality=85&auto=format&fit=max&s=5184d5b9e664bb594b543e80dcf105a9",
-    "cover_large": "https://i.guim.co.uk/img/media/fc82a599828a27b706231490b4ed02e3d03cc2eb/0_415_1847_1477/master/1847.jpg?width=700&quality=85&auto=format&fit=max&s=5184d5b9e664bb594b543e80dcf105a9",
-    "article_url": "https://www.theguardian.com/books/2026/may/31/are-mind-children-the-future-of-reproduction",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "AI (artificial intelligence)",
-      "Computing",
-      "Reproduction",
-      "Science",
-      "books"
-    ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   },
   {
     "id": "fe06f80374341c10bbd8e3a124731f8b",
@@ -517,8 +655,8 @@
       "Sublimation (Book)",
       "books"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   },
   {
     "id": "83edad2b5b87ddb343789e2348c01adf",
@@ -545,8 +683,8 @@
       "books",
       "internal-open-access-audio"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   },
   {
     "id": "c96e1dbcf8b9952858ea745fafb18f12",
@@ -587,41 +725,8 @@
       "View from the East Wing: A Memoir (Book)",
       "books"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
-  },
-  {
-    "id": "82be1df4d5178b68d1db7a7c46785355",
-    "title": "Submissions open for 4thWrite short story prize",
-    "author": "Emma Loffhagen",
-    "description": "Now in its 10th year, the £1,000 competition is held by publisher 4th Estate and the Guardian, and open to Black, Asian and minority ethnic writers in the UK and Ireland The 4thWrite prize, an annual short story competition for Black, Asian and minority ethnic writers run by publisher 4th Estate and the Guardian, has opened for submissions. The winner will receive £1,000, a one-day publishing workshop at 4th Estate and publication of their story on the Guardian website. The shortlisted stories will be published on the 4th Estate website. The prize is open to writers aged 18 and over living in the UK or Ireland. Submissions can be made at www.4thEstate.co.uk/prize , where full terms and conditions are available. Any queries can be sent to 4thWritePrize@harpercollins.co.uk Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "4Thwrite Short Story Prize",
-      "Awards And Prizes",
-      "Books",
-      "Culture",
-      "Kamila Shamsie"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "HarperCollins",
-    "published_date": "2026-05-29",
-    "thumbnail": "https://i.guim.co.uk/img/media/34d2fb29229091ba1911714dd07598e24a6d653f/601_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=f17f4c261de15ebfff289c0caa900f44",
-    "cover_large": "https://i.guim.co.uk/img/media/34d2fb29229091ba1911714dd07598e24a6d653f/601_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=f17f4c261de15ebfff289c0caa900f44",
-    "article_url": "http://www.4thestate.co.uk/prize",
-    "source": "4Thestate",
-    "source_type": "rss",
-    "tags": [
-      "4thWrite short story prize",
-      "Awards and prizes",
-      "Books",
-      "Culture",
-      "Kamila Shamsie",
-      "books"
-    ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   },
   {
     "id": "dabd08017332edf744c6812a22389278",
@@ -652,8 +757,37 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
+  },
+  {
+    "id": "9cf7cac34eb925c83458ab246e92d36e",
+    "title": "Prestige Drama by Séamas O’Reilly review",
+    "author": "Joanna Quinn",
+    "description": "A British and American film crew descend on the Northern Irish city to film a drama about the Troubles, in a keenly observed and snappily written debut The premise of Séamas O’Reilly’s brilliant debut novel is that a Hollywood actor has flown into Derry to star in a new TV series about the Troubles called Dead City, then mysteriously disappeared. But its real interest lies in what happens when a place becomes defined by a particular historical moment, to the extent that stories told about it lapse into formula. As one character says of the TV series: “A young lad coming of age in a time of violence, will he get caught up in everything or find another way through blah blah blah.” O’Reilly is determined to show us that the people of Derry are not so easily stereotyped. He uses Dead City as a starting point to circle through different characters connected to the series, from a stressed scriptwriter to a local historian who wonders, “How do you talk about the past as a person still living it, in a place that barely survived it?” As we move through the novel, we discover the links between them, creating a patchwork portrait of the city, similar to the way Tommy Orange’s novel There...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-05-29",
+    "thumbnail": "https://i.guim.co.uk/img/media/5d433a8b42ef1f01999e8cd794d32b2a9ed822b7/14_343_3656_2924/master/3656.jpg?width=700&quality=85&auto=format&fit=max&s=35cb58f4ac298523f97064322de36fa0",
+    "cover_large": "https://i.guim.co.uk/img/media/5d433a8b42ef1f01999e8cd794d32b2a9ed822b7/14_343_3656_2924/master/3656.jpg?width=700&quality=85&auto=format&fit=max&s=35cb58f4ac298523f97064322de36fa0",
+    "article_url": "https://www.theguardian.com/books/2018/jul/18/there-there-tommy-orange-review",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "books"
+    ],
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   },
   {
     "id": "d61bbd3cf8ce01d2f095f95737bc38ba",
@@ -696,54 +830,8 @@
       "Trudeau, Garry",
       "books"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
-  },
-  {
-    "id": "84bb60be2ff2916c931a70fa7706387b",
-    "title": "Veronica Roth on Her Favorite Books and Her New Novel, ‘Seek the Traitor’s Son’",
-    "author": "",
-    "description": "“I love a clever puppet master,” says the author of the Divergent series and the new “Seek the Traitor’s Son.” Her favorite hero? Antigone.",
-    "summary_ai": "",
-    "categories": [
-      "Arch-Conspirator (Book)",
-      "Books",
-      "Books And Literature",
-      "Chosen Ones (Book)",
-      "Content Type: Personal Profile",
-      "Divergent (Book)",
-      "Genre-Books-Young-Adult",
-      "Poster Girl (Book)",
-      "Roth, Veronica",
-      "Seek The Traitor'S Son (Book)",
-      "The Sixth Faction (Book)",
-      "Writing And Writers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-28",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/31/books/31TBR-ByTheBook-VRoth/31TBR-ByTheBook-VRoth-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/31/books/31TBR-ByTheBook-VRoth/31TBR-ByTheBook-VRoth-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/05/28/books/review/veronica-roth-seek-the-traitors-son.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Arch-Conspirator (Book)",
-      "Books and Literature",
-      "Chosen Ones (Book)",
-      "Content Type: Personal Profile",
-      "Divergent (Book)",
-      "Poster Girl (Book)",
-      "Roth, Veronica",
-      "Seek the Traitor's Son (Book)",
-      "The Sixth Faction (Book)",
-      "Writing and Writers",
-      "books",
-      "genre-books-young-adult"
-    ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   },
   {
     "id": "9c757d6aaf4d44b96e565b4ad3680e78",
@@ -776,8 +864,8 @@
       "Music books",
       "books"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   },
   {
     "id": "e5e967887d57bb9312ef69b090c46667",
@@ -809,8 +897,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   },
   {
     "id": "17afa84dee29fe4ec43147e102348e98",
@@ -844,8 +932,8 @@
       "Homer",
       "books"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   },
   {
     "id": "2ac57838c7d3f002fd2533314d0ac8df",
@@ -873,8 +961,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   },
   {
     "id": "70cd24b8757464da7bbe573c0af45489",
@@ -910,74 +998,8 @@
       "Sarah Moss",
       "books"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
-  },
-  {
-    "id": "3b9dd82283170fd137a9e4dea4ba8689",
-    "title": "The 100 best novels of all time",
-    "author": "As voted for by authors, critics and journalists",
-    "description": "The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read? Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "Fiction In Translation"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-05-16",
-    "thumbnail": "https://i.guim.co.uk/img/media/0b235abe226a90f26f501bc5ae6d8d02dbd58865/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=043a20feb06fac06b258f8b689dcff44",
-    "cover_large": "https://i.guim.co.uk/img/media/0b235abe226a90f26f501bc5ae6d8d02dbd58865/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=043a20feb06fac06b258f8b689dcff44",
-    "article_url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "Fiction in translation",
-      "books"
-    ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
-  },
-  {
-    "id": "d10f5d92facd641c016a7d3f5359e288",
-    "title": "What we’re reading: writers and readers on the books they enjoyed in April",
-    "author": "Guardian Staff",
-    "description": "Luke Kennard, Sophie Ratcliffe and Guardian readers discuss the titles they have read over the last month. Join the conversation in the comments This is a really good year for new fiction. I don’t think anyone writes about contemporary Englishness as astutely, mercilessly and affectionately as Claire Powell, and her latest novel, All In , puts her perfectly observed characters in the pressure cooker of an all-inclusive holiday. It’s a kind of meta-beach read, and I loved it. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Cynthia Ozick",
-      "Henry James",
-      "Hilary Mantel"
-    ],
-    "genre": [
-      "Fiction"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-04-30",
-    "thumbnail": "https://i.guim.co.uk/img/media/ce3ea4d4791ef635543bb18b15c0171c0b861a97/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=a8d4a47f9263d60737b0f98cb27bf88c",
-    "cover_large": "https://i.guim.co.uk/img/media/ce3ea4d4791ef635543bb18b15c0171c0b861a97/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=a8d4a47f9263d60737b0f98cb27bf88c",
-    "article_url": "https://www.theguardian.com/books/2026/apr/30/what-were-reading-writers-and-readers-on-the-books-they-enjoyed-in-april",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Cynthia Ozick",
-      "Henry James",
-      "Hilary Mantel",
-      "books"
-    ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1016,8 +1038,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   },
   {
     "id": "755ba738881478773c8491c271f5d902",
@@ -1044,7 +1066,7 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-06-02T10:22:55+00:00",
-    "updated_at": "2026-06-02T10:22:55Z"
+    "created_at": "2026-06-02T20:42:23+00:00",
+    "updated_at": "2026-06-02T20:42:23Z"
   }
 ]
