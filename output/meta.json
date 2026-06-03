@@ -1,31 +1,31 @@
 {
-  "version": 36,
-  "updated_at": "2026-06-02T20:42:25Z",
+  "version": 38,
+  "updated_at": "2026-06-03T10:58:31Z",
   "engine": "bookradar",
   "feeds": {
     "books": {
       "count": 29,
-      "hash": "dca8e2a3d99531e6e41fb8d40afe8ea8f208fbaa95bd9aa0b3167dda8f6cfec2"
+      "hash": "1903a2582eb46cb0cb9152c9c3ff4bdae7eebf32cd22804f277b664db802aaae"
     },
     "publishers": {
       "count": 30,
-      "hash": "ba5a00b71970dce36421954b48b6b36e274b9bababd116ad319be408434f3a37"
+      "hash": "ea229c4ae3a9685500ab42c1dc799afe422b9badf59fec9ac9d16617ed6f868f"
     },
     "reviews": {
-      "count": 20,
-      "hash": "63e053224845fc07e11934aa0b45500c62abe7cee9efb55dfc6ed46f1b888dc8"
+      "count": 21,
+      "hash": "b485515efc6b47c7007bf7baf5392d2696872efec36fd45a623db974ee7a724b"
     },
     "trending": {
       "count": 20,
-      "hash": "7aa055fbc8180a2d1864aab98f3b1be203068b3f1bcdbd2cac90f2fc7fdcee59"
+      "hash": "ef1ab053db62e8680accc8ba198e524960b34f5e3194ad997d8e21e3a6d6d765"
     },
     "new_releases": {
       "count": 20,
-      "hash": "d93989c2ff562959bb007016c8b9cf3792cbdee1776524ad5c43563a947c0837"
+      "hash": "796fb3f29eaf180f91dd8bfad5d79f4827514e239302a50ddb60e6cc235a6cd9"
     },
     "editor_picks": {
       "count": 15,
-      "hash": "fcdf87fed48295542d8ea0bddc31d6858f4e0433e93bac324fdb414b01248986"
+      "hash": "40d07067e8a003037b7f494e4b6a3ff7b909c42364416636b4b9ccc7b3a79499"
     }
   }
 }
