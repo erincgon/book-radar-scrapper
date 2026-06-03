@@ -1,5 +1,43 @@
 [
   {
+    "id": "47f1e35efb40bb863b90b6a79df8709d",
+    "title": "Caissie Levy, Tony Awards Contender and ‘Ragtime’ Star, Is Having a Moment",
+    "author": "Michael Paulson and George Etheredge",
+    "description": "Caissie Levy was Broadway’s first Elsa. She starred in “Hair” and “Ghost.” And now, for “Ragtime,” she is an odds-on favorite to win a Tony Award.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Content Type: Personal Profile",
+      "Levy, Caissie",
+      "Lincoln Center Theater",
+      "Ragtime (Play)",
+      "Theater",
+      "Theater (Broadway)",
+      "Tony Awards (Theater Awards)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-03",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/03/multimedia/03cul-caissie-levy-jqth/03cul-caissie-levy-jqth-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/03/multimedia/03cul-caissie-levy-jqth/03cul-caissie-levy-jqth-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/03/theater/caissie-levy-broadway-tonys-ragtime.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Content Type: Personal Profile",
+      "Levy, Caissie",
+      "Lincoln Center Theater",
+      "Ragtime (Play)",
+      "Theater",
+      "Theater (Broadway)",
+      "Tony Awards (Theater Awards)",
+      "books"
+    ],
+    "created_at": "2026-06-03T20:51:59+00:00",
+    "updated_at": "2026-06-03T20:51:59Z"
+  },
+  {
     "id": "232cb56765a4d27fd34b3ef2d5026593",
     "title": "Carley Fortune Keeps Writing Hit Romance Novels",
     "author": "Elisabeth Egan",
@@ -8,12 +46,13 @@
     "categories": [
       "Books",
       "Books And Literature",
+      "Canada",
       "Content Type: Personal Profile",
       "Every Summer After (Book)",
       "Every Year After (Tv Program)",
       "Fortune, Carley",
       "Our Perfect Storm (Book)",
-      "Toronto (Ontario)"
+      "Writing And Writers"
     ],
     "genre": [
       "Fiction",
@@ -29,16 +68,17 @@
     "source_type": "rss",
     "tags": [
       "Books and Literature",
+      "Canada",
       "Content Type: Personal Profile",
       "Every Summer After (Book)",
       "Every Year After (TV Program)",
       "Fortune, Carley",
       "Our Perfect Storm (Book)",
-      "Toronto (Ontario)",
+      "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-03T10:58:29+00:00",
-    "updated_at": "2026-06-03T10:58:29Z"
+    "created_at": "2026-06-03T20:51:59+00:00",
+    "updated_at": "2026-06-03T20:51:59Z"
   },
   {
     "id": "60c4d533b79aa30fa224c09234c105ed",
@@ -71,8 +111,8 @@
       "books",
       "ekphrasis"
     ],
-    "created_at": "2026-06-03T10:58:29+00:00",
-    "updated_at": "2026-06-03T10:58:29Z"
+    "created_at": "2026-06-03T20:51:59+00:00",
+    "updated_at": "2026-06-03T20:51:59Z"
   },
   {
     "id": "af7171558d89f10dce84f2baf70caff9",
@@ -131,8 +171,8 @@
       "The Witch (Book)",
       "books"
     ],
-    "created_at": "2026-06-03T10:58:29+00:00",
-    "updated_at": "2026-06-03T10:58:29Z"
+    "created_at": "2026-06-03T20:51:59+00:00",
+    "updated_at": "2026-06-03T20:51:59Z"
   },
   {
     "id": "5ada1d18503f49770ddb692742f1f8dd",
@@ -160,8 +200,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-03T10:58:30+00:00",
-    "updated_at": "2026-06-03T10:58:30Z"
+    "created_at": "2026-06-03T20:52:00+00:00",
+    "updated_at": "2026-06-03T20:52:00Z"
   },
   {
     "id": "67cc1c8b74bc8a9566b5b7721ed51b53",
@@ -191,8 +231,101 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-03T10:58:30+00:00",
-    "updated_at": "2026-06-03T10:58:30Z"
+    "created_at": "2026-06-03T20:52:00+00:00",
+    "updated_at": "2026-06-03T20:52:00Z"
+  },
+  {
+    "id": "bef1a92101df3eaea0f41a2780b9177a",
+    "title": "Some of the Best New True Crime Books",
+    "author": "Jamie Canaves",
+    "description": "There’s a very popular crime novelist's memoir, a sociologist’s look at the injustice system, and a dissection of an '80s subway shooting.",
+    "summary_ai": "",
+    "categories": [
+      "Mystery/Thriller",
+      "Reviews",
+      "True Story",
+      "Unusual Suspects"
+    ],
+    "genre": [
+      "Crime",
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-03",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/No-Human-Involved-by-Cheryl-L-Neely-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/No-Human-Involved-by-Cheryl-L-Neely-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/best-new-true-crime-books-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Mystery/Thriller",
+      "True Story",
+      "Unusual Suspects",
+      "reviews"
+    ],
+    "created_at": "2026-06-03T20:51:59+00:00",
+    "updated_at": "2026-06-03T20:51:59Z"
+  },
+  {
+    "id": "2fb8dff0b58f09af46759849c10f7447",
+    "title": "Where to Get Started Reading Isaac Asimov",
+    "author": "Chris M. Arnone",
+    "description": "Sci-fi icon and real-life scientist Isaac Asimov influenced the genre immensely and published more than 300 books. Here's where to start.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Swords And Spaceships"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-03",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2022/08/I-Robot-300x0.jpeg.optimal.jpeg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2022/08/I-Robot-300x0.jpeg.optimal.jpeg",
+    "article_url": "https://bookriot.com/where-to-get-started-reading-isaac-asimov/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Swords and Spaceships",
+      "reviews"
+    ],
+    "created_at": "2026-06-03T20:51:59+00:00",
+    "updated_at": "2026-06-03T20:51:59Z"
+  },
+  {
+    "id": "de5b968d4d875deed55af6f18a53235a",
+    "title": "25 New Queer YA Books to Add to Your Pride TBR",
+    "author": "Danika Ellis",
+    "description": "An aro/ace love story, a sapphic thriller, trans horror, a pansexual mystery, and much more: check out the best new queer YA books of 2026!",
+    "summary_ai": "",
+    "categories": [
+      "Lgbtq",
+      "Reviews",
+      "What'S Up In Ya",
+      "Young Adult Literature"
+    ],
+    "genre": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-03",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/03/Bad-Queer-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/03/Bad-Queer-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/new-queer-ya-books-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "LGBTQ",
+      "What's Up in YA",
+      "Young Adult Literature",
+      "reviews"
+    ],
+    "created_at": "2026-06-03T20:51:59+00:00",
+    "updated_at": "2026-06-03T20:51:59Z"
   },
   {
     "id": "87b6a2547e8264e323daf873de6759ee",
@@ -219,8 +352,8 @@
       "Riot Headline",
       "reviews"
     ],
-    "created_at": "2026-06-03T10:58:29+00:00",
-    "updated_at": "2026-06-03T10:58:29Z"
+    "created_at": "2026-06-03T20:51:59+00:00",
+    "updated_at": "2026-06-03T20:51:59Z"
   },
   {
     "id": "d4a358c05b9883c12ac8171c649c5fb2",
@@ -245,8 +378,34 @@
       "Our Queerest Shelves",
       "reviews"
     ],
-    "created_at": "2026-06-03T10:58:29+00:00",
-    "updated_at": "2026-06-03T10:58:29Z"
+    "created_at": "2026-06-03T20:51:59+00:00",
+    "updated_at": "2026-06-03T20:51:59Z"
+  },
+  {
+    "id": "58c357524927d2c4720f6d0e4bd977f2",
+    "title": "The Best Books of 2026 So Far, According to Barnes & Noble",
+    "author": "Danika Ellis",
+    "description": "In today's book news: Barnes & Noble's picks for the best books of the year so far, audio erotica narrated by your celebrity crush, and more.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Today In Books"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-03",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2022/05/image-of-barnes-and-noble.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2022/05/image-of-barnes-and-noble.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/barnes-and-noble-best-books-of-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Today in Books",
+      "reviews"
+    ],
+    "created_at": "2026-06-03T20:51:59+00:00",
+    "updated_at": "2026-06-03T20:51:59Z"
   },
   {
     "id": "df9a343c694a8fd91c32b0d85d81be3c",
@@ -266,7 +425,8 @@
       "Harris, Kamala D",
       "Presidential Election Of 2024",
       "Trump, Donald J",
-      "United States Politics And Government"
+      "United States Politics And Government",
+      "View From The East Wing: A Memoir (Book)"
     ],
     "genre": [
       "Memoir"
@@ -291,10 +451,11 @@
       "Presidential Election of 2024",
       "Trump, Donald J",
       "United States Politics and Government",
+      "View from the East Wing: A Memoir (Book)",
       "books"
     ],
-    "created_at": "2026-06-03T10:58:29+00:00",
-    "updated_at": "2026-06-03T10:58:29Z"
+    "created_at": "2026-06-03T20:51:59+00:00",
+    "updated_at": "2026-06-03T20:51:59Z"
   },
   {
     "id": "e5c71269c58e8243c9108e83e8179c05",
@@ -323,8 +484,8 @@
       "What Came West (Book)",
       "books"
     ],
-    "created_at": "2026-06-03T10:58:29+00:00",
-    "updated_at": "2026-06-03T10:58:29Z"
+    "created_at": "2026-06-03T20:51:59+00:00",
+    "updated_at": "2026-06-03T20:51:59Z"
   },
   {
     "id": "9802d0820bc427984de1dd64ac4cbfcb",
@@ -355,8 +516,8 @@
       "books",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-06-03T10:58:29+00:00",
-    "updated_at": "2026-06-03T10:58:29Z"
+    "created_at": "2026-06-03T20:52:00+00:00",
+    "updated_at": "2026-06-03T20:52:00Z"
   },
   {
     "id": "1523f4257a76ccd5309badfe8f8c4ea5",
@@ -395,8 +556,8 @@
       "US and Israeli Attack on Iran (2026)",
       "books"
     ],
-    "created_at": "2026-06-03T10:58:29+00:00",
-    "updated_at": "2026-06-03T10:58:29Z"
+    "created_at": "2026-06-03T20:52:00+00:00",
+    "updated_at": "2026-06-03T20:52:00Z"
   },
   {
     "id": "51d159e83b7a9dafd384b0167d4d7e11",
@@ -443,8 +604,8 @@
       "Wiccan and Hulkling: Raid of Ultron (Book)",
       "books"
     ],
-    "created_at": "2026-06-03T10:58:30+00:00",
-    "updated_at": "2026-06-03T10:58:30Z"
+    "created_at": "2026-06-03T20:52:00+00:00",
+    "updated_at": "2026-06-03T20:52:00Z"
   },
   {
     "id": "cd29f8375e271820c02627200e68f1d2",
@@ -476,8 +637,8 @@
       "Michael Ondaatje",
       "books"
     ],
-    "created_at": "2026-06-03T10:58:30+00:00",
-    "updated_at": "2026-06-03T10:58:30Z"
+    "created_at": "2026-06-03T20:52:00+00:00",
+    "updated_at": "2026-06-03T20:52:00Z"
   },
   {
     "id": "7c3b421aa3d5fc5cdf9eb6fc05a74611",
@@ -517,8 +678,8 @@
       "Thomas Hardy",
       "books"
     ],
-    "created_at": "2026-06-03T10:58:30+00:00",
-    "updated_at": "2026-06-03T10:58:30Z"
+    "created_at": "2026-06-03T20:52:00+00:00",
+    "updated_at": "2026-06-03T20:52:00Z"
   },
   {
     "id": "57bd41ee8b43fbfafe98e7c6aefba314",
@@ -555,150 +716,7 @@
       "Pop and rock",
       "books"
     ],
-    "created_at": "2026-06-03T10:58:30+00:00",
-    "updated_at": "2026-06-03T10:58:30Z"
-  },
-  {
-    "id": "29069fad914cadf22df6eda4a2ff21dd",
-    "title": "My Only Boy by Rosa Rankin",
-    "author": "Sarah Moss",
-    "description": "A surprising romance is set against a backdrop of climate crisis, political instability and corporate corruption in this bleak but witty novel Rosa Rankin-Gee follows her 2021 near-future climate-crisis dystopia, Dreamland , with a similar but more politically focused work. As I read My Only Boy, I kept having to remind myself that the nation it describes is not (yet) real, because, for a reader living abroad, the novel’s England seems unnervingly close to what might come next. Any political dystopia risks being overtaken by reality, but in this case the gap between truth and fiction feels claustrophobic. At the beginning of the novel, Elle is at a party held to mourn that day’s election of a far-right populist government. She’s the communications director for the almost too brilliantly named Gigr, a company connecting people seeking immediate shift work with businesses offering it. Elle is freshly upset by witnessing and immediately containing the reputational damage of a worker’s jump from a balcony. She knows how to do this, because “we’d had a death every four weeks, then every three weeks, then every two”: exhausted, starving people taking underpaid shifts from Gigr after...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [
-      "Business",
-      "Fiction",
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-02",
-    "thumbnail": "https://i.guim.co.uk/img/media/26a44c56d65f4b96f73d5a652fcdd7bca7d347ca/0_141_1331_1064/master/1331.jpg?width=700&quality=85&auto=format&fit=max&s=378dcce2c8f3e48ff5bc5963eb69e55f",
-    "cover_large": "https://i.guim.co.uk/img/media/26a44c56d65f4b96f73d5a652fcdd7bca7d347ca/0_141_1331_1064/master/1331.jpg?width=700&quality=85&auto=format&fit=max&s=378dcce2c8f3e48ff5bc5963eb69e55f",
-    "article_url": "https://www.theguardian.com/books/2021/apr/15/dreamland-by-rosa-rankin-gee-review-first-love-and-rising-tides",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-06-03T10:58:30+00:00",
-    "updated_at": "2026-06-03T10:58:30Z"
-  },
-  {
-    "id": "f00a18043da0b0eca46925e215b97777",
-    "title": "Book Riot’s Deals of the Day for June 2, 2026",
-    "author": "Deals",
-    "description": "A rom-com of amnesia, adventure, and espionage, mythology and magical realism in the heart of the Amazon, a clever crime novel in the world of comics, and more of today's best book deals",
-    "summary_ai": "",
-    "categories": [
-      "Book Deals",
-      "Reviews"
-    ],
-    "genre": [
-      "Crime"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-02",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2023/11/NinthHouse-e1699979724570.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2023/11/NinthHouse-e1699979724570.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-june-2-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Book Deals",
-      "reviews"
-    ],
-    "created_at": "2026-06-03T10:58:29+00:00",
-    "updated_at": "2026-06-03T10:58:29Z"
-  },
-  {
-    "id": "a244ffcf3d5115a5efca8c06fe67cf61",
-    "title": "5 of My Must",
-    "author": "S. Zainab Williams",
-    "description": "An editor shares the must-read 2026 BIPOC books at the top of her to-be-read and why she can't wait to pick up these titles.",
-    "summary_ai": "",
-    "categories": [
-      "In Reading Color",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-02",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/the-true-confessions-of-first-lady-freeman-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/the-true-confessions-of-first-lady-freeman-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/must-read-2026-bipoc-books/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "In Reading Color",
-      "reviews"
-    ],
-    "created_at": "2026-06-03T10:58:29+00:00",
-    "updated_at": "2026-06-03T10:58:29Z"
-  },
-  {
-    "id": "51492f9ac131c0da75683c38433b21a9",
-    "title": "Amazon’s List of the Best Books of the Last 10 Years",
-    "author": "Erica Ezeifedi",
-    "description": "Plus, Netflix's new hub for adapted works, author-owned bookstores, and the glory of I KNOW WHY THE CAGED BIRD SINGS",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Today In Books"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-02",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/06/reading-outside.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/06/reading-outside.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/amazons-list-of-the-best-books-of-the-last-10-years/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Today in Books",
-      "reviews"
-    ],
-    "created_at": "2026-06-03T10:58:29+00:00",
-    "updated_at": "2026-06-03T10:58:29Z"
-  },
-  {
-    "id": "8d7311adb9974957d1c351bb8f4052b7",
-    "title": "Book Review: ‘The Man Who Read Everything: The Literary Letters of Harold Bloom’",
-    "author": "Dwight Garner",
-    "description": "A collection of Harold Bloom’s letters details the working life of one of America’s most influential intellects.",
-    "summary_ai": "",
-    "categories": [
-      "Bloom, Harold",
-      "Books",
-      "Books And Literature",
-      "The Man Who Read Everything: The Literary Letters Of Harold Bloom (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-01",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/01/multimedia/01TBR-Bloom-review-vpzj/01TBR-Bloom-review-vpzj-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/01/multimedia/01TBR-Bloom-review-vpzj/01TBR-Bloom-review-vpzj-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/01/books/review/harold-bloom-man-who-read-everything.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Bloom, Harold",
-      "Books and Literature",
-      "The Man Who Read Everything: The Literary Letters of Harold Bloom (Book)",
-      "books"
-    ],
-    "created_at": "2026-06-03T10:58:30+00:00",
-    "updated_at": "2026-06-03T10:58:30Z"
+    "created_at": "2026-06-03T20:52:00+00:00",
+    "updated_at": "2026-06-03T20:52:00Z"
   }
 ]
