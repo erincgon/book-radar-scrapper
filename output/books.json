@@ -3,15 +3,16 @@
     "id": "095f2d9e7eb6478f8e2a4bba4ee0b983",
     "title": "Book Review: ‘Checkmate,’ by Ben Mezrich",
     "author": "Dylan Loeb McClain",
-    "description": "“Checkmate,” Ben Mezrich’s tale of chess scandal, may be ready for its close-up — but not for a close read.",
+    "description": "The story at the heart of “Checkmate” is a good one, but Ben Mezrich has hustled it into print too quickly.",
     "summary_ai": "",
     "categories": [
       "Books",
       "Books And Literature",
       "Carlsen, Magnus",
-      "Checkmate (Book)",
+      "Cheating",
+      "Checkmate: Genius, Lies, Ambition, And The Biggest Scandal In Chess (Book)",
       "Chess",
-      "Kasparov, Garry",
+      "Chess.Com Llc",
       "Mezrich, Ben",
       "Niemann, Hans (2003- )"
     ],
@@ -27,15 +28,16 @@
     "tags": [
       "Books and Literature",
       "Carlsen, Magnus",
-      "Checkmate (Book)",
+      "Cheating",
+      "Checkmate: Genius, Lies, Ambition, and the Biggest Scandal in Chess (Book)",
       "Chess",
-      "Kasparov, Garry",
+      "Chess.com LLC",
       "Mezrich, Ben",
       "Niemann, Hans (2003- )",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "c45351ed6133c68267bf474f764f40d7",
@@ -62,12 +64,43 @@
       "Weddings and Engagements",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
-    "id": "fbec3fcb77a1e246248937dd88ca7813",
-    "title": "The Traveller",
+    "id": "3af805da186261ff16b67cc561cb4e3e",
+    "title": "I Deliver Parcels in Beijing by Hu Anyan audiobook review – a grim life in China’s gig economy",
+    "author": "Fiona Sturges",
+    "description": "This memoir of a man who moved around China chasing low-paid work for 20 years is an indictment of a shocking system, read in a suitably austere way Hu Anyan’s memoir about working in the Chinese gig economy began life as a blog before being turned into a wildly successful book that has sold nearly 2m copies in China. It chronicles the daily grind that is working a series of unskilled jobs for insultingly low wages and where there is no such thing as career progression. Hu is one of 300 million so-called internal migrants in China, people who move around the country chasing work. Over 20 years, he does 19 jobs in six cities, many of them in terrible conditions. He works as a security guard, hotel waiter, delivery driver, bicycle salesman, bike courier, gas station attendant and at a logistics warehouse where he is given only four days off a month. There is a reason, he notes, why so many new recruits fail to make it through the three-day trial, which, of course, is unpaid. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Autobiography And Memoir",
+      "Books",
+      "Culture"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-04",
+    "thumbnail": "https://i.guim.co.uk/img/media/fd4c7b121a820e029a28d3bcdaa85424a3e9a678/0_1935_7025_5617/master/7025.jpg?width=700&quality=85&auto=format&fit=max&s=27e505971436eacd4d37c51e53e734e9",
+    "cover_large": "https://i.guim.co.uk/img/media/fd4c7b121a820e029a28d3bcdaa85424a3e9a678/0_1935_7025_5617/master/7025.jpg?width=700&quality=85&auto=format&fit=max&s=27e505971436eacd4d37c51e53e734e9",
+    "article_url": "https://www.theguardian.com/books/2026/jun/04/i-deliver-parcels-in-beijing-by-hu-anyan-audiobook-review-a-grim-life-in-chinas-gig-economy",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Autobiography and memoir",
+      "Books",
+      "Culture",
+      "books"
+    ],
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
+  },
+  {
+    "id": "a1355264f0aedbb5668633e948b1dbd2",
+    "title": "The Traveller by Andrea Wulf review",
     "author": "Nick Bartlett",
     "description": "A revelatory account of the life of George Forster, whose rejection of racial hierarchies stood out amongst his peers George Forster was 10 when he left his home in present-day Poland and travelled to Russia with his naturalist father. During the expedition, which began in 1765, Forster collected plant specimens and helped with botanical research. Wide-eyed, he journeyed along the Volga river, encountering Muslim Tartar traders and Cossack warriors. There were also the emaciated figures of German settlers, who lived in poverty under the territory’s despotic governor, their campsites little more than holes burrowed into the riverbanks. The experience of cultures so distinct from his own stirred a lifelong enthusiasm for travel and exploration in Forster. It also awakened his compassion for others – irrespective of culture and, especially, race. At a time when racism pervaded public opinion as well as the philosophical texts of luminaries such as Jean-Jacques Rousseau and Immanuel Kant, Forster moved brazenly to critique and correct them. How he was able to transcend the conventional beliefs of his day is the central question of Andrea Wulf’s new book – and the answer is in its...",
     "summary_ai": "",
@@ -95,8 +128,39 @@
       "Travel",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
+  },
+  {
+    "id": "90aa572ff8b8200afdc66512f3cd7557",
+    "title": "Marjane Satrapi, creator of Persepolis and acclaimed French-Iranian artist, dies aged 56",
+    "author": "Emma Loffhagen",
+    "description": "Family members said the author of the landmark comic book memoir ‘died of sadness’ after the death of her husband last year Marjane Satrapi , the French-Iranian artist, film-maker and graphic novelist whose acclaimed memoir Persepolis helped reshape international perceptions of Iran, has died at the age of 56. In a statement provided to French news agency AFP, relatives said she had “died of sadness” after the death of her husband, the Swedish producer Mattias Ripa. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Marjane Satrapi"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-04",
+    "thumbnail": "https://i.guim.co.uk/img/media/d9001eb8c12ad96a923ffeb6a45dbde2ac7790d7/724_0_7212_5773/master/7212.jpg?width=700&quality=85&auto=format&fit=max&s=1e45b8ae76b1f4dd412cbd4a85923cd8",
+    "cover_large": "https://i.guim.co.uk/img/media/d9001eb8c12ad96a923ffeb6a45dbde2ac7790d7/724_0_7212_5773/master/7212.jpg?width=700&quality=85&auto=format&fit=max&s=1e45b8ae76b1f4dd412cbd4a85923cd8",
+    "article_url": "https://www.theguardian.com/books/2024/mar/16/marjane-satrapi-interview-persepolis-woman-life-freedom",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Marjane Satrapi",
+      "books"
+    ],
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "ae7311b6cf95bc122816a5754aca9daa",
@@ -127,8 +191,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "47f1e35efb40bb863b90b6a79df8709d",
@@ -137,6 +201,7 @@
     "description": "Caissie Levy was Broadway’s first Elsa. She starred in “Hair” and “Ghost.” And now, for “Ragtime,” she is an odds-on favorite to win a Tony Award.",
     "summary_ai": "",
     "categories": [
+      "Actors And Actresses",
       "Books",
       "Content Type: Personal Profile",
       "Levy, Caissie",
@@ -156,6 +221,7 @@
     "source": "The New York Times",
     "source_type": "rss",
     "tags": [
+      "Actors and Actresses",
       "Content Type: Personal Profile",
       "Levy, Caissie",
       "Lincoln Center Theater",
@@ -165,8 +231,8 @@
       "Tony Awards (Theater Awards)",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "232cb56765a4d27fd34b3ef2d5026593",
@@ -183,6 +249,7 @@
       "Every Year After (Tv Program)",
       "Fortune, Carley",
       "Our Perfect Storm (Book)",
+      "Television",
       "Writing And Writers"
     ],
     "genre": [
@@ -205,11 +272,12 @@
       "Every Year After (TV Program)",
       "Fortune, Carley",
       "Our Perfect Storm (Book)",
+      "Television",
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "60c4d533b79aa30fa224c09234c105ed",
@@ -242,8 +310,8 @@
       "books",
       "ekphrasis"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "af7171558d89f10dce84f2baf70caff9",
@@ -302,8 +370,8 @@
       "The Witch (Book)",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "5ada1d18503f49770ddb692742f1f8dd",
@@ -331,8 +399,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "67cc1c8b74bc8a9566b5b7721ed51b53",
@@ -362,8 +430,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "df9a343c694a8fd91c32b0d85d81be3c",
@@ -412,8 +480,8 @@
       "View from the East Wing: A Memoir (Book)",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "e5c71269c58e8243c9108e83e8179c05",
@@ -442,8 +510,8 @@
       "What Came West (Book)",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "9802d0820bc427984de1dd64ac4cbfcb",
@@ -474,8 +542,8 @@
       "books",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "1523f4257a76ccd5309badfe8f8c4ea5",
@@ -514,8 +582,8 @@
       "US and Israeli Attack on Iran (2026)",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "51d159e83b7a9dafd384b0167d4d7e11",
@@ -562,8 +630,8 @@
       "Wiccan and Hulkling: Raid of Ultron (Book)",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "cd29f8375e271820c02627200e68f1d2",
@@ -595,87 +663,8 @@
       "Michael Ondaatje",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
-  },
-  {
-    "id": "7c3b421aa3d5fc5cdf9eb6fc05a74611",
-    "title": "I devoured classic novels as a teenager. In a world of distractions, can I relearn how to read them?",
-    "author": "Ioan Marc Jones",
-    "description": "In less than a decade, surrounded by screens, I lost my ability to read some of the best books ever written. But, inspired by the Guardian’s 100 best novels list , I was determined to get it back It is a privilege to be surrounded by books. My parents hail from the literary working class, a subsection of society that believes great works lead to a richer life. Reading for them was an inverted form of class snobbery. My dad could read as well as anyone. He’d prove it on package holidays, sitting on the balcony the entire time, head bowed, cigarette in hand, flicking through the pages of Jane Austen or Herman Melville . The only difference between my old man and an old Etonian was the drudgery of employment. To paraphrase Oscar Wilde: work is the bane of the reading class. As for my own reading life, my mum wore me down, shouting “Read a book!” any time I dared say I was bored. I soon capitulated. I was nudged towards the classics, defined by Italo Calvino as books people say they should “reread” because they’ve either read them or do not want to admit they have not. In my late teens and 20s, I worked my way through the greats. I fell in love with a woman called George and thought...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Bram Stoker",
-      "Charles Dickens",
-      "Classics",
-      "Culture",
-      "Fiction",
-      "George Eliot",
-      "Laurence Sterne",
-      "Thomas Hardy"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-02",
-    "thumbnail": "https://i.guim.co.uk/img/media/ffd83243681b41b2fa29be8769b5fdfdbb079273/668_2430_5132_4105/master/5132.jpg?width=700&quality=85&auto=format&fit=max&s=ab5198d0d07d632611f4f062833c97c5",
-    "cover_large": "https://i.guim.co.uk/img/media/ffd83243681b41b2fa29be8769b5fdfdbb079273/668_2430_5132_4105/master/5132.jpg?width=700&quality=85&auto=format&fit=max&s=ab5198d0d07d632611f4f062833c97c5",
-    "article_url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Bram Stoker",
-      "Charles Dickens",
-      "Classics",
-      "Culture",
-      "Fiction",
-      "George Eliot",
-      "Laurence Sterne",
-      "Thomas Hardy",
-      "books"
-    ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
-  },
-  {
-    "id": "57bd41ee8b43fbfafe98e7c6aefba314",
-    "title": "Tonight the Music Seems So Loud by Sathnam Sanghera review",
-    "author": "Alexis Petridis",
-    "description": "This affecting exploration of the troubled genius’s impact is packed with anecdote, sharp analysis and social context In 1998, George Michael was arrested for public lewdness in an LA lavatory, an incident that finally led the singer to publicly come out. The following day, Sathnam Sanghera found himself unable to leave his room at university: the doorway had been mockingly plastered with tabloid newspaper headlines – “ZIP ME UP BEFORE YOU GO-GO!” – by fellow students aware of his longstanding fandom. As a writer, Sanghera is best known for a series of award-winning books on the British empire, which he calls his “specialist subject”. Judging by Tonight the Music Seems So Loud – not a biography so much as a miscellany, a set of themed essays that tend to digress in all kinds of intriguing directions – the life and work of one Georgios Panayiotou runs imperialism and its legacy a very close second. It is an unashamedly partisan book, although not an uncritical one. Sanghera is as alive to Michael’s personal and professional failings (whether the naffness of some of his early work as one half of Wham! or his high-handed treatment of the duo’s other half, Andrew Ridgeley) as he is...",
-    "summary_ai": "",
-    "categories": [
-      "Biography Books",
-      "Books",
-      "Culture",
-      "George Michael",
-      "Music",
-      "Pop And Rock"
-    ],
-    "genre": [
-      "Biography",
-      "Essays"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-02",
-    "thumbnail": "https://i.guim.co.uk/img/media/ff84b45168794772be5b11db00a52e9013d46b08/150_3_3283_2627/master/3283.jpg?width=700&quality=85&auto=format&fit=max&s=b93a5e9686fec2ef512e6b63d0601579",
-    "cover_large": "https://i.guim.co.uk/img/media/ff84b45168794772be5b11db00a52e9013d46b08/150_3_3283_2627/master/3283.jpg?width=700&quality=85&auto=format&fit=max&s=b93a5e9686fec2ef512e6b63d0601579",
-    "article_url": "https://www.theguardian.com/books/2026/jun/02/tonight-the-music-seems-so-loud-by-sathnam-sanghera-review-a-heartbreaking-portrait-of-george-michael",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Biography books",
-      "Books",
-      "Culture",
-      "George Michael",
-      "Music",
-      "Pop and rock",
-      "books"
-    ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "8d7311adb9974957d1c351bb8f4052b7",
@@ -704,8 +693,8 @@
       "The Man Who Read Everything: The Literary Letters of Harold Bloom (Book)",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "7ad554c8b13f8d61c1885cf1d8753bce",
@@ -786,8 +775,8 @@
       "Wulf, Andrea",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "114a8a7a1d8d091602fb585fe6207b95",
@@ -824,38 +813,8 @@
       "The Bottom of the Harbor (Book)",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
-  },
-  {
-    "id": "dbacef5e40833d3894d8f293c474cc1f",
-    "title": "The Month’s Best New Mystery Novels",
-    "author": "Sarah Weinman",
-    "description": "Our critic on four terrific new mysteries.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Genre-Books-Mystery"
-    ],
-    "genre": [
-      "Mystery"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-31",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/07/books/review/07TBR-Mysteries-MAY/07TBR-Mysteries-MAY-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/07/books/review/07TBR-Mysteries-MAY/07TBR-Mysteries-MAY-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/05/31/books/review/new-mystery-books.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "books",
-      "genre-books-mystery"
-    ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "dabd08017332edf744c6812a22389278",
@@ -886,8 +845,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "9cf7cac34eb925c83458ab246e92d36e",
@@ -915,8 +874,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "9c757d6aaf4d44b96e565b4ad3680e78",
@@ -949,8 +908,8 @@
       "Music books",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "e5e967887d57bb9312ef69b090c46667",
@@ -982,8 +941,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "17afa84dee29fe4ec43147e102348e98",
@@ -1017,8 +976,8 @@
       "Homer",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "2ac57838c7d3f002fd2533314d0ac8df",
@@ -1046,8 +1005,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "70cd24b8757464da7bbe573c0af45489",
@@ -1083,7 +1042,78 @@
       "Sarah Moss",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
+  },
+  {
+    "id": "3b9dd82283170fd137a9e4dea4ba8689",
+    "title": "The 100 best novels of all time",
+    "author": "As voted for by authors, critics and journalists",
+    "description": "The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read? Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "Fiction In Translation"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-05-16",
+    "thumbnail": "https://i.guim.co.uk/img/media/0b235abe226a90f26f501bc5ae6d8d02dbd58865/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=043a20feb06fac06b258f8b689dcff44",
+    "cover_large": "https://i.guim.co.uk/img/media/0b235abe226a90f26f501bc5ae6d8d02dbd58865/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=043a20feb06fac06b258f8b689dcff44",
+    "article_url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "Fiction in translation",
+      "books"
+    ],
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
+  },
+  {
+    "id": "65d8c8ca1a174f11e32ec64ace3460db",
+    "title": "The Best Romance Novels of 2024 (So Far)",
+    "author": "Olivia Waite",
+    "description": "Looking for an escapist love story? Here are 2024’s sexiest, swooniest reads.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Chu, Lily (Author)",
+      "Genre-Books-Romance",
+      "Grossman, Felicia (Author)",
+      "Sebastian, Cat",
+      "Williams, Tia",
+      "You Should Be So Lucky (Book)"
+    ],
+    "genre": [
+      "Romance"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2024-10-01",
+    "thumbnail": "https://static01.nyt.com/images/2024/05/03/books/review/03Romance-WhatToReadNow/03Romance-WhatToReadNow-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2024/05/03/books/review/03Romance-WhatToReadNow/03Romance-WhatToReadNow-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/article/best-romance-books.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Chu, Lily (Author)",
+      "Grossman, Felicia (Author)",
+      "Sebastian, Cat",
+      "Williams, Tia",
+      "You Should Be So Lucky (Book)",
+      "books",
+      "genre-books-romance"
+    ],
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   }
 ]

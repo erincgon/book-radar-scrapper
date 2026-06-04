@@ -3,15 +3,16 @@
     "id": "095f2d9e7eb6478f8e2a4bba4ee0b983",
     "title": "Book Review: ‘Checkmate,’ by Ben Mezrich",
     "author": "Dylan Loeb McClain",
-    "description": "“Checkmate,” Ben Mezrich’s tale of chess scandal, may be ready for its close-up — but not for a close read.",
+    "description": "The story at the heart of “Checkmate” is a good one, but Ben Mezrich has hustled it into print too quickly.",
     "summary_ai": "",
     "categories": [
       "Books",
       "Books And Literature",
       "Carlsen, Magnus",
-      "Checkmate (Book)",
+      "Cheating",
+      "Checkmate: Genius, Lies, Ambition, And The Biggest Scandal In Chess (Book)",
       "Chess",
-      "Kasparov, Garry",
+      "Chess.Com Llc",
       "Mezrich, Ben",
       "Niemann, Hans (2003- )"
     ],
@@ -27,15 +28,16 @@
     "tags": [
       "Books and Literature",
       "Carlsen, Magnus",
-      "Checkmate (Book)",
+      "Cheating",
+      "Checkmate: Genius, Lies, Ambition, and the Biggest Scandal in Chess (Book)",
       "Chess",
-      "Kasparov, Garry",
+      "Chess.com LLC",
       "Mezrich, Ben",
       "Niemann, Hans (2003- )",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "c45351ed6133c68267bf474f764f40d7",
@@ -62,12 +64,43 @@
       "Weddings and Engagements",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
-    "id": "fbec3fcb77a1e246248937dd88ca7813",
-    "title": "The Traveller",
+    "id": "3af805da186261ff16b67cc561cb4e3e",
+    "title": "I Deliver Parcels in Beijing by Hu Anyan audiobook review – a grim life in China’s gig economy",
+    "author": "Fiona Sturges",
+    "description": "This memoir of a man who moved around China chasing low-paid work for 20 years is an indictment of a shocking system, read in a suitably austere way Hu Anyan’s memoir about working in the Chinese gig economy began life as a blog before being turned into a wildly successful book that has sold nearly 2m copies in China. It chronicles the daily grind that is working a series of unskilled jobs for insultingly low wages and where there is no such thing as career progression. Hu is one of 300 million so-called internal migrants in China, people who move around the country chasing work. Over 20 years, he does 19 jobs in six cities, many of them in terrible conditions. He works as a security guard, hotel waiter, delivery driver, bicycle salesman, bike courier, gas station attendant and at a logistics warehouse where he is given only four days off a month. There is a reason, he notes, why so many new recruits fail to make it through the three-day trial, which, of course, is unpaid. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Autobiography And Memoir",
+      "Books",
+      "Culture"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-04",
+    "thumbnail": "https://i.guim.co.uk/img/media/fd4c7b121a820e029a28d3bcdaa85424a3e9a678/0_1935_7025_5617/master/7025.jpg?width=700&quality=85&auto=format&fit=max&s=27e505971436eacd4d37c51e53e734e9",
+    "cover_large": "https://i.guim.co.uk/img/media/fd4c7b121a820e029a28d3bcdaa85424a3e9a678/0_1935_7025_5617/master/7025.jpg?width=700&quality=85&auto=format&fit=max&s=27e505971436eacd4d37c51e53e734e9",
+    "article_url": "https://www.theguardian.com/books/2026/jun/04/i-deliver-parcels-in-beijing-by-hu-anyan-audiobook-review-a-grim-life-in-chinas-gig-economy",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Autobiography and memoir",
+      "Books",
+      "Culture",
+      "books"
+    ],
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
+  },
+  {
+    "id": "a1355264f0aedbb5668633e948b1dbd2",
+    "title": "The Traveller by Andrea Wulf review",
     "author": "Nick Bartlett",
     "description": "A revelatory account of the life of George Forster, whose rejection of racial hierarchies stood out amongst his peers George Forster was 10 when he left his home in present-day Poland and travelled to Russia with his naturalist father. During the expedition, which began in 1765, Forster collected plant specimens and helped with botanical research. Wide-eyed, he journeyed along the Volga river, encountering Muslim Tartar traders and Cossack warriors. There were also the emaciated figures of German settlers, who lived in poverty under the territory’s despotic governor, their campsites little more than holes burrowed into the riverbanks. The experience of cultures so distinct from his own stirred a lifelong enthusiasm for travel and exploration in Forster. It also awakened his compassion for others – irrespective of culture and, especially, race. At a time when racism pervaded public opinion as well as the philosophical texts of luminaries such as Jean-Jacques Rousseau and Immanuel Kant, Forster moved brazenly to critique and correct them. How he was able to transcend the conventional beliefs of his day is the central question of Andrea Wulf’s new book – and the answer is in its...",
     "summary_ai": "",
@@ -95,8 +128,39 @@
       "Travel",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
+  },
+  {
+    "id": "90aa572ff8b8200afdc66512f3cd7557",
+    "title": "Marjane Satrapi, creator of Persepolis and acclaimed French-Iranian artist, dies aged 56",
+    "author": "Emma Loffhagen",
+    "description": "Family members said the author of the landmark comic book memoir ‘died of sadness’ after the death of her husband last year Marjane Satrapi , the French-Iranian artist, film-maker and graphic novelist whose acclaimed memoir Persepolis helped reshape international perceptions of Iran, has died at the age of 56. In a statement provided to French news agency AFP, relatives said she had “died of sadness” after the death of her husband, the Swedish producer Mattias Ripa. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Marjane Satrapi"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-04",
+    "thumbnail": "https://i.guim.co.uk/img/media/d9001eb8c12ad96a923ffeb6a45dbde2ac7790d7/724_0_7212_5773/master/7212.jpg?width=700&quality=85&auto=format&fit=max&s=1e45b8ae76b1f4dd412cbd4a85923cd8",
+    "cover_large": "https://i.guim.co.uk/img/media/d9001eb8c12ad96a923ffeb6a45dbde2ac7790d7/724_0_7212_5773/master/7212.jpg?width=700&quality=85&auto=format&fit=max&s=1e45b8ae76b1f4dd412cbd4a85923cd8",
+    "article_url": "https://www.theguardian.com/books/2024/mar/16/marjane-satrapi-interview-persepolis-woman-life-freedom",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Marjane Satrapi",
+      "books"
+    ],
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "ae7311b6cf95bc122816a5754aca9daa",
@@ -127,8 +191,95 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
+  },
+  {
+    "id": "e9e7f2ca62cae8de6b867f1ca459f930",
+    "title": "Gold Stars: YA Books Among The Best of the Century So Far",
+    "author": "Kelly Jensen",
+    "description": "In the lead up to unveiling our picks for the Best YA Books of the Century So Far, here's what books have landed on other lists in that series.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "What'S Up In Ya",
+      "Young Adult Literature"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-04",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/04/ash-1-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/04/ash-1-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/ya-titles-best-of-the-century/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "What's Up in YA",
+      "Young Adult Literature",
+      "reviews"
+    ],
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
+  },
+  {
+    "id": "1b5c0ac120fc9c672569e4c015bcf2dc",
+    "title": "6 New BIPOC Books About Family",
+    "author": "Jamie Canaves",
+    "description": "These BIPOC books about family span a mix of categories, genres, and tropes to explore complicated familial dynamics.",
+    "summary_ai": "",
+    "categories": [
+      "Fiction",
+      "In Reading Color",
+      "Lists",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-04",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/12/Good-People-Patmeena-Sabit-cover-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2025/12/Good-People-Patmeena-Sabit-cover-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/new-bipoc-books-about-family/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Fiction",
+      "In Reading Color",
+      "Lists",
+      "reviews"
+    ],
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
+  },
+  {
+    "id": "5fb6cc2959bc6d3a538af85fc93ad857",
+    "title": "📚 Barnes & Noble Names Best Books of 2026 So Far",
+    "author": "Community",
+    "description": "A tradwife thriller, the year's most discourse-driving memoir, lit fic faves, and more.",
+    "summary_ai": "",
+    "categories": [
+      "Book Riot Newsletter",
+      "Reviews"
+    ],
+    "genre": [
+      "Memoir",
+      "Thriller"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-04",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/It-Books-of-june-2026.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/It-Books-of-june-2026.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/barnes-noble-names-best-books-of-2026-so-far/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Book Riot Newsletter",
+      "reviews"
+    ],
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "47f1e35efb40bb863b90b6a79df8709d",
@@ -137,6 +288,7 @@
     "description": "Caissie Levy was Broadway’s first Elsa. She starred in “Hair” and “Ghost.” And now, for “Ragtime,” she is an odds-on favorite to win a Tony Award.",
     "summary_ai": "",
     "categories": [
+      "Actors And Actresses",
       "Books",
       "Content Type: Personal Profile",
       "Levy, Caissie",
@@ -156,6 +308,7 @@
     "source": "The New York Times",
     "source_type": "rss",
     "tags": [
+      "Actors and Actresses",
       "Content Type: Personal Profile",
       "Levy, Caissie",
       "Lincoln Center Theater",
@@ -165,8 +318,8 @@
       "Tony Awards (Theater Awards)",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "232cb56765a4d27fd34b3ef2d5026593",
@@ -183,6 +336,7 @@
       "Every Year After (Tv Program)",
       "Fortune, Carley",
       "Our Perfect Storm (Book)",
+      "Television",
       "Writing And Writers"
     ],
     "genre": [
@@ -205,11 +359,12 @@
       "Every Year After (TV Program)",
       "Fortune, Carley",
       "Our Perfect Storm (Book)",
+      "Television",
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "60c4d533b79aa30fa224c09234c105ed",
@@ -242,8 +397,8 @@
       "books",
       "ekphrasis"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "af7171558d89f10dce84f2baf70caff9",
@@ -302,8 +457,8 @@
       "The Witch (Book)",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "5ada1d18503f49770ddb692742f1f8dd",
@@ -331,8 +486,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "67cc1c8b74bc8a9566b5b7721ed51b53",
@@ -362,129 +517,32 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
-    "id": "bef1a92101df3eaea0f41a2780b9177a",
-    "title": "Some of the Best New True Crime Books",
-    "author": "Jamie Canaves",
-    "description": "There’s a very popular crime novelist's memoir, a sociologist’s look at the injustice system, and a dissection of an '80s subway shooting.",
+    "id": "89511856c2c8f754a7ec0e1499c6f07e",
+    "title": "Michael Jackson's shadow of doubt",
+    "author": "Rodney Carmichael",
+    "description": "A sanded-down biopic about the King of pop and propaganda has resurfaced his music on the charts — along with questions about how his enduring magic became make-believe",
     "summary_ai": "",
     "categories": [
-      "Mystery/Thriller",
-      "Reviews",
-      "True Story",
-      "Unusual Suspects"
-    ],
-    "genre": [
-      "Crime",
-      "Memoir"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-03",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/No-Human-Involved-by-Cheryl-L-Neely-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/No-Human-Involved-by-Cheryl-L-Neely-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/best-new-true-crime-books-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Mystery/Thriller",
-      "True Story",
-      "Unusual Suspects",
-      "reviews"
-    ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
-  },
-  {
-    "id": "2fb8dff0b58f09af46759849c10f7447",
-    "title": "Where to Get Started Reading Isaac Asimov",
-    "author": "Chris M. Arnone",
-    "description": "Sci-fi icon and real-life scientist Isaac Asimov influenced the genre immensely and published more than 300 books. Here's where to start.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Swords And Spaceships"
+      "Reviews"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "Book Riot",
+    "publisher": "NPR Books",
     "published_date": "2026-06-03",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2022/08/I-Robot-300x0.jpeg.optimal.jpeg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2022/08/I-Robot-300x0.jpeg.optimal.jpeg",
-    "article_url": "https://bookriot.com/where-to-get-started-reading-isaac-asimov/",
-    "source": "Book Riot",
+    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2500x1762+0+0/resize/2500x1762!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F51%2F9e7cd1f64e6f995336b62dbe61db%2Fgettyimages-52767193.jpg",
+    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2500x1762+0+0/resize/2500x1762!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F51%2F9e7cd1f64e6f995336b62dbe61db%2Fgettyimages-52767193.jpg",
+    "article_url": "https://www.npr.org/2026/06/03/nx-s1-5843133/michael-jackson-biopic-legacy-impact-essay",
+    "source": "NPR Books",
     "source_type": "rss",
     "tags": [
-      "Swords and Spaceships",
       "reviews"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
-  },
-  {
-    "id": "de5b968d4d875deed55af6f18a53235a",
-    "title": "25 New Queer YA Books to Add to Your Pride TBR",
-    "author": "Danika Ellis",
-    "description": "An aro/ace love story, a sapphic thriller, trans horror, a pansexual mystery, and much more: check out the best new queer YA books of 2026!",
-    "summary_ai": "",
-    "categories": [
-      "Lgbtq",
-      "Reviews",
-      "What'S Up In Ya",
-      "Young Adult Literature"
-    ],
-    "genre": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-03",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/03/Bad-Queer-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/03/Bad-Queer-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/new-queer-ya-books-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "LGBTQ",
-      "What's Up in YA",
-      "Young Adult Literature",
-      "reviews"
-    ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
-  },
-  {
-    "id": "87b6a2547e8264e323daf873de6759ee",
-    "title": "The Best Beach Reads of All Time",
-    "author": "Community",
-    "description": "We tapped the expertise of our staff and contributors for this list of the best beach reads, from our personal favorites to the \"it\" books of past and present.",
-    "summary_ai": "",
-    "categories": [
-      "Featured",
-      "Reviews",
-      "Riot Headline"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-03",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/05/island-princess-starts-a-scandal.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/05/island-princess-starts-a-scandal.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/best-beach-reads/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Featured",
-      "Riot Headline",
-      "reviews"
-    ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "58c357524927d2c4720f6d0e4bd977f2",
@@ -509,8 +567,8 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "df9a343c694a8fd91c32b0d85d81be3c",
@@ -559,8 +617,8 @@
       "View from the East Wing: A Memoir (Book)",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "e5c71269c58e8243c9108e83e8179c05",
@@ -589,8 +647,8 @@
       "What Came West (Book)",
       "books"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   },
   {
     "id": "9802d0820bc427984de1dd64ac4cbfcb",
@@ -621,95 +679,7 @@
       "books",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
-  },
-  {
-    "id": "1523f4257a76ccd5309badfe8f8c4ea5",
-    "title": "Book Review: ‘Stolen Revolution,’ by Yeganeh Torbati and Bozorgmehr Sharafedin",
-    "author": "Reza Aslan",
-    "description": "In a quietly devastating new book, two journalists chart the protest movements fighting for change inside the country.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Demonstrations, Protests And Riots",
-      "Iran",
-      "Politics And Government",
-      "Sharafedin, Bozorgmehr",
-      "Stolen Revolution: Betrayal And Hope In Modern Iran (Book)",
-      "Torbati, Yeganeh",
-      "Us And Israeli Attack On Iran (2026)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-02",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/02/books/02TBR-TorbatiSharafedin-Review/02TBR-TorbatiSharafedin-Review-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/02/books/02TBR-TorbatiSharafedin-Review/02TBR-TorbatiSharafedin-Review-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/02/books/review/stolen-revolutions-yeganeh-torbati-bozorgmehr-sharafedin.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Demonstrations, Protests and Riots",
-      "Iran",
-      "Politics and Government",
-      "Sharafedin, Bozorgmehr",
-      "Stolen Revolution: Betrayal and Hope in Modern Iran (Book)",
-      "Torbati, Yeganeh",
-      "US and Israeli Attack on Iran (2026)",
-      "books"
-    ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
-  },
-  {
-    "id": "51d159e83b7a9dafd384b0167d4d7e11",
-    "title": "9 Comic Books and Graphic Novels to Celebrate Pride Month",
-    "author": "George Gene Gustines",
-    "description": "Historical chronicles and flights of fancy, all with L.G.B.T.Q. protagonists, arrive starting in June.",
-    "summary_ai": "",
-    "categories": [
-      "Bitter Pill: Randy Shilts And The Dawn Of The Hiv/Aids Epidemic (Book)",
-      "Books",
-      "Comic Books And Strips",
-      "Coming Out Perfect (Book)",
-      "Graphic Novels",
-      "Justice League: Dream Girls A Dc Pride Event (Book)",
-      "Ladies Of The Knight (Book)",
-      "Lgbtq Pride Month (Us)",
-      "Pink Monsters (Book)",
-      "Star Trek: Celebrations (Book)",
-      "The City Beneath Her Feet (Book)",
-      "The Nightingales (Book)",
-      "Wiccan And Hulkling: Raid Of Ultron (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-02",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/03/arts/01-cul-pride-comics_art-04/01-cul-pride-comics_art-04-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/03/arts/01-cul-pride-comics_art-04/01-cul-pride-comics_art-04-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/01/arts/pride-month-comic-books-graphic-novels.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Bitter Pill: Randy Shilts and the Dawn of the HIV/AIDS Epidemic (Book)",
-      "Comic Books and Strips",
-      "Coming Out Perfect (Book)",
-      "Graphic Novels",
-      "Justice League: Dream Girls A DC Pride Event (Book)",
-      "LGBTQ Pride Month (US)",
-      "Ladies of the Knight (Book)",
-      "Pink Monsters (Book)",
-      "Star Trek: Celebrations (Book)",
-      "The City Beneath Her Feet (Book)",
-      "The Nightingales (Book)",
-      "Wiccan and Hulkling: Raid of Ultron (Book)",
-      "books"
-    ],
-    "created_at": "2026-06-04T09:55:24+00:00",
-    "updated_at": "2026-06-04T09:55:24Z"
+    "created_at": "2026-06-04T19:59:52+00:00",
+    "updated_at": "2026-06-04T19:59:52Z"
   }
 ]
