@@ -1,5 +1,136 @@
 [
   {
+    "id": "095f2d9e7eb6478f8e2a4bba4ee0b983",
+    "title": "Book Review: ‘Checkmate,’ by Ben Mezrich",
+    "author": "Dylan Loeb McClain",
+    "description": "“Checkmate,” Ben Mezrich’s tale of chess scandal, may be ready for its close-up — but not for a close read.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Carlsen, Magnus",
+      "Checkmate (Book)",
+      "Chess",
+      "Kasparov, Garry",
+      "Mezrich, Ben",
+      "Niemann, Hans (2003- )"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-04",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/02/books/02TBRMezrich-Review/02TBRMezrich-Review-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/02/books/02TBRMezrich-Review/02TBRMezrich-Review-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/04/books/review/checkmate-ben-mezrich.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Carlsen, Magnus",
+      "Checkmate (Book)",
+      "Chess",
+      "Kasparov, Garry",
+      "Mezrich, Ben",
+      "Niemann, Hans (2003- )",
+      "books"
+    ],
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
+  },
+  {
+    "id": "c45351ed6133c68267bf474f764f40d7",
+    "title": "11 Books That Capture the Swoon",
+    "author": "Jenny Singer",
+    "description": "These books dig into the thrilling, ugly and swoon-worthy drama of a happy couple’s big day.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Weddings And Engagements"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-04",
+    "thumbnail": "https://static01.nyt.com/images/2026/05/26/books/26TBR-RecList-WeddingList/26TBR-RecList-WeddingList-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/05/26/books/26TBR-RecList-WeddingList/26TBR-RecList-WeddingList-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/04/books/wedding-novels.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Weddings and Engagements",
+      "books"
+    ],
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
+  },
+  {
+    "id": "fbec3fcb77a1e246248937dd88ca7813",
+    "title": "The Traveller",
+    "author": "Nick Bartlett",
+    "description": "A revelatory account of the life of George Forster, whose rejection of racial hierarchies stood out amongst his peers George Forster was 10 when he left his home in present-day Poland and travelled to Russia with his naturalist father. During the expedition, which began in 1765, Forster collected plant specimens and helped with botanical research. Wide-eyed, he journeyed along the Volga river, encountering Muslim Tartar traders and Cossack warriors. There were also the emaciated figures of German settlers, who lived in poverty under the territory’s despotic governor, their campsites little more than holes burrowed into the riverbanks. The experience of cultures so distinct from his own stirred a lifelong enthusiasm for travel and exploration in Forster. It also awakened his compassion for others – irrespective of culture and, especially, race. At a time when racism pervaded public opinion as well as the philosophical texts of luminaries such as Jean-Jacques Rousseau and Immanuel Kant, Forster moved brazenly to critique and correct them. How he was able to transcend the conventional beliefs of his day is the central question of Andrea Wulf’s new book – and the answer is in its...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Captain Cook",
+      "Culture",
+      "Exploration",
+      "Travel"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-04",
+    "thumbnail": "https://i.guim.co.uk/img/media/e0a195eeb82a45415e3ab7df878808b1d840c105/320_276_2658_2127/master/2658.jpg?width=700&quality=85&auto=format&fit=max&s=7cfa27f5f52163ace494292ad3cf5b06",
+    "cover_large": "https://i.guim.co.uk/img/media/e0a195eeb82a45415e3ab7df878808b1d840c105/320_276_2658_2127/master/2658.jpg?width=700&quality=85&auto=format&fit=max&s=7cfa27f5f52163ace494292ad3cf5b06",
+    "article_url": "https://www.theguardian.com/books/2026/jun/04/the-traveller-an-18th-century-explorer-far-ahead-of-his-time",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Captain Cook",
+      "Culture",
+      "Exploration",
+      "Travel",
+      "books"
+    ],
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
+  },
+  {
+    "id": "ae7311b6cf95bc122816a5754aca9daa",
+    "title": "Dominion by Addie E Citchens review – Women’s prize-shortlisted portrait of patriarchy’s horrors",
+    "author": "Emma Loffhagen",
+    "description": "The violence of male entitlement is embodied in the charismatic son of a Mississippi pastor, in a sharp portrait of cruelty and inheritance ‘To woman he gave a womb, and to man he gave dominion’, that’s what I teach my boys,” the Rev Sabre Winfrey Jr tells his wife, Priscilla, midway through Addie E Citchens’s formidable Women’s prize-shortlisted debut novel, Dominion. In Citchens’s hands, that dominion is exercised not only through violence, but through charisma, piety and the banality of male entitlement. Set in the fictional town of Dominion, Mississippi, at the turn of the millennium, the novel follows the Winfreys, a prominent Black church family whose putative grandeur conceals a deep and hereditary decay. Sabre leads the largest congregation in the state from the pulpit of Seven Seals Baptist church, dispensing wisdom through sermons and local radio broadcasts, exuding the oily confidence of a man convinced that God speaks exclusively in his register. The longsuffering Priscilla writes those sermons, raises their five sons and silently maintains the machinery of his authority without ever receiving credit for it. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction"
+    ],
+    "genre": [
+      "Fiction",
+      "Horror"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-04",
+    "thumbnail": "https://i.guim.co.uk/img/media/ea75501a8b7e9c1b47a54c5197b11942cac69b23/166_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=ae41140fff02f8c8a12ae1dbd2593b98",
+    "cover_large": "https://i.guim.co.uk/img/media/ea75501a8b7e9c1b47a54c5197b11942cac69b23/166_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=ae41140fff02f8c8a12ae1dbd2593b98",
+    "article_url": "https://www.theguardian.com/books/2026/jun/04/dominion-by-addie-e-citchens-review-womens-prize-shortlisted-portrait-of-patriarchys-horrors",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "books"
+    ],
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
+  },
+  {
     "id": "47f1e35efb40bb863b90b6a79df8709d",
     "title": "Caissie Levy, Tony Awards Contender and ‘Ragtime’ Star, Is Having a Moment",
     "author": "Michael Paulson and George Etheredge",
@@ -34,8 +165,8 @@
       "Tony Awards (Theater Awards)",
       "books"
     ],
-    "created_at": "2026-06-03T20:51:59+00:00",
-    "updated_at": "2026-06-03T20:51:59Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "232cb56765a4d27fd34b3ef2d5026593",
@@ -77,8 +208,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-03T20:51:59+00:00",
-    "updated_at": "2026-06-03T20:51:59Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "60c4d533b79aa30fa224c09234c105ed",
@@ -111,8 +242,8 @@
       "books",
       "ekphrasis"
     ],
-    "created_at": "2026-06-03T20:51:59+00:00",
-    "updated_at": "2026-06-03T20:51:59Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "af7171558d89f10dce84f2baf70caff9",
@@ -171,8 +302,8 @@
       "The Witch (Book)",
       "books"
     ],
-    "created_at": "2026-06-03T20:51:59+00:00",
-    "updated_at": "2026-06-03T20:51:59Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "5ada1d18503f49770ddb692742f1f8dd",
@@ -200,8 +331,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-03T20:52:00+00:00",
-    "updated_at": "2026-06-03T20:52:00Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "67cc1c8b74bc8a9566b5b7721ed51b53",
@@ -231,8 +362,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-03T20:52:00+00:00",
-    "updated_at": "2026-06-03T20:52:00Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "df9a343c694a8fd91c32b0d85d81be3c",
@@ -281,8 +412,8 @@
       "View from the East Wing: A Memoir (Book)",
       "books"
     ],
-    "created_at": "2026-06-03T20:51:59+00:00",
-    "updated_at": "2026-06-03T20:51:59Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "e5c71269c58e8243c9108e83e8179c05",
@@ -311,8 +442,8 @@
       "What Came West (Book)",
       "books"
     ],
-    "created_at": "2026-06-03T20:51:59+00:00",
-    "updated_at": "2026-06-03T20:51:59Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "9802d0820bc427984de1dd64ac4cbfcb",
@@ -343,8 +474,8 @@
       "books",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-06-03T20:52:00+00:00",
-    "updated_at": "2026-06-03T20:52:00Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "1523f4257a76ccd5309badfe8f8c4ea5",
@@ -383,8 +514,8 @@
       "US and Israeli Attack on Iran (2026)",
       "books"
     ],
-    "created_at": "2026-06-03T20:52:00+00:00",
-    "updated_at": "2026-06-03T20:52:00Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "51d159e83b7a9dafd384b0167d4d7e11",
@@ -431,8 +562,8 @@
       "Wiccan and Hulkling: Raid of Ultron (Book)",
       "books"
     ],
-    "created_at": "2026-06-03T20:52:00+00:00",
-    "updated_at": "2026-06-03T20:52:00Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "cd29f8375e271820c02627200e68f1d2",
@@ -464,8 +595,8 @@
       "Michael Ondaatje",
       "books"
     ],
-    "created_at": "2026-06-03T20:52:00+00:00",
-    "updated_at": "2026-06-03T20:52:00Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "7c3b421aa3d5fc5cdf9eb6fc05a74611",
@@ -505,8 +636,8 @@
       "Thomas Hardy",
       "books"
     ],
-    "created_at": "2026-06-03T20:52:00+00:00",
-    "updated_at": "2026-06-03T20:52:00Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "57bd41ee8b43fbfafe98e7c6aefba314",
@@ -543,41 +674,8 @@
       "Pop and rock",
       "books"
     ],
-    "created_at": "2026-06-03T20:52:00+00:00",
-    "updated_at": "2026-06-03T20:52:00Z"
-  },
-  {
-    "id": "29069fad914cadf22df6eda4a2ff21dd",
-    "title": "My Only Boy by Rosa Rankin",
-    "author": "Sarah Moss",
-    "description": "A surprising romance is set against a backdrop of climate crisis, political instability and corporate corruption in this bleak but witty novel Rosa Rankin-Gee follows her 2021 near-future climate-crisis dystopia, Dreamland , with a similar but more politically focused work. As I read My Only Boy, I kept having to remind myself that the nation it describes is not (yet) real, because, for a reader living abroad, the novel’s England seems unnervingly close to what might come next. Any political dystopia risks being overtaken by reality, but in this case the gap between truth and fiction feels claustrophobic. At the beginning of the novel, Elle is at a party held to mourn that day’s election of a far-right populist government. She’s the communications director for the almost too brilliantly named Gigr, a company connecting people seeking immediate shift work with businesses offering it. Elle is freshly upset by witnessing and immediately containing the reputational damage of a worker’s jump from a balcony. She knows how to do this, because “we’d had a death every four weeks, then every three weeks, then every two”: exhausted, starving people taking underpaid shifts from Gigr after...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [
-      "Business",
-      "Fiction",
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-02",
-    "thumbnail": "https://i.guim.co.uk/img/media/26a44c56d65f4b96f73d5a652fcdd7bca7d347ca/0_141_1331_1064/master/1331.jpg?width=700&quality=85&auto=format&fit=max&s=378dcce2c8f3e48ff5bc5963eb69e55f",
-    "cover_large": "https://i.guim.co.uk/img/media/26a44c56d65f4b96f73d5a652fcdd7bca7d347ca/0_141_1331_1064/master/1331.jpg?width=700&quality=85&auto=format&fit=max&s=378dcce2c8f3e48ff5bc5963eb69e55f",
-    "article_url": "https://www.theguardian.com/books/2021/apr/15/dreamland-by-rosa-rankin-gee-review-first-love-and-rising-tides",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-06-03T20:52:00+00:00",
-    "updated_at": "2026-06-03T20:52:00Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "8d7311adb9974957d1c351bb8f4052b7",
@@ -606,8 +704,8 @@
       "The Man Who Read Everything: The Literary Letters of Harold Bloom (Book)",
       "books"
     ],
-    "created_at": "2026-06-03T20:52:00+00:00",
-    "updated_at": "2026-06-03T20:52:00Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "7ad554c8b13f8d61c1885cf1d8753bce",
@@ -688,8 +786,8 @@
       "Wulf, Andrea",
       "books"
     ],
-    "created_at": "2026-06-03T20:52:00+00:00",
-    "updated_at": "2026-06-03T20:52:00Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "114a8a7a1d8d091602fb585fe6207b95",
@@ -726,41 +824,8 @@
       "The Bottom of the Harbor (Book)",
       "books"
     ],
-    "created_at": "2026-06-03T20:52:00+00:00",
-    "updated_at": "2026-06-03T20:52:00Z"
-  },
-  {
-    "id": "68b5d38fc3b22cad1a9ce9789bfd5ea0",
-    "title": "Land by Maggie O’Farrell review",
-    "author": "Melissa Harrison",
-    "description": "Set in the aftermath of the famine, the Hamnet author’s family saga folds in myth and folklore ‘His father was ever a man of few words,” begins Maggie O’Farrell’s 10th novel, a lengthy and ambitious story set in the aftermath of the Irish famine. Land opens in 1865 on a rainswept Irish peninsula and takes us to Dublin, Rome, Quebec and Kerala as it tells the story of two generations and gestures backwards and forwards at two more. The opening line came to O’Farrell on a train journey from Belfast to Dublin, and became the way in to a story based in part on that of her great-great-grandfather, who worked for the Ordnance Survey in Ireland not long after the great hunger. “What, I wondered, would it have been like to be revising the maps at that time,” she writes in a short introductory note; “to be recording and setting down the devastation that had occurred?” In bitter weather, Tomás and his 10-year-old son Liam are mapping a peninsula – perhaps Dunmore Head in County Kerry, though O’Farrell doesn’t specify – using surveying poles and measuring chains. Tomás is in the pay of the English, who need him not only for his surveying ability and draughtsmanship, but for his language...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "Hamnet",
-      "Maggie O'Farrell"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-01",
-    "thumbnail": "https://i.guim.co.uk/img/media/149c9bcc73ca1f41eb756344fa45a622b46b13f9/1362_0_6830_5464/master/6830.jpg?width=700&quality=85&auto=format&fit=max&s=3a0f01378c1377aab325e6ff3de28018",
-    "cover_large": "https://i.guim.co.uk/img/media/149c9bcc73ca1f41eb756344fa45a622b46b13f9/1362_0_6830_5464/master/6830.jpg?width=700&quality=85&auto=format&fit=max&s=3a0f01378c1377aab325e6ff3de28018",
-    "article_url": "https://www.theguardian.com/books/2026/jun/01/land-by-maggie-ofarrell-review-an-ambitious-story-of-mapmaking-in-ireland",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "Hamnet",
-      "Maggie O'Farrell",
-      "books"
-    ],
-    "created_at": "2026-06-03T20:52:00+00:00",
-    "updated_at": "2026-06-03T20:52:00Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "dbacef5e40833d3894d8f293c474cc1f",
@@ -789,41 +854,8 @@
       "books",
       "genre-books-mystery"
     ],
-    "created_at": "2026-06-03T20:52:00+00:00",
-    "updated_at": "2026-06-03T20:52:00Z"
-  },
-  {
-    "id": "fe06f80374341c10bbd8e3a124731f8b",
-    "title": "Book Review: ‘Sublimation,’ by Isabel J. Kim",
-    "author": "Daniel Nieh",
-    "description": "In her book “Sublimation,” Isabel J. Kim reimagines the dilemmas of immigration through a science fiction story about scheming clones.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Kim, Isabel J (Author)",
-      "Sublimation (Book)"
-    ],
-    "genre": [
-      "Fiction",
-      "Science Fiction"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-05-30",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/02/books/02TBR-Kim-review/02TBR-Kim-review-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/02/books/02TBR-Kim-review/02TBR-Kim-review-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/05/30/books/review/sublimation-isabel-j-kim.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Kim, Isabel J (Author)",
-      "Sublimation (Book)",
-      "books"
-    ],
-    "created_at": "2026-06-03T20:52:00+00:00",
-    "updated_at": "2026-06-03T20:52:00Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "dabd08017332edf744c6812a22389278",
@@ -854,8 +886,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-03T20:52:00+00:00",
-    "updated_at": "2026-06-03T20:52:00Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "9cf7cac34eb925c83458ab246e92d36e",
@@ -883,8 +915,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-03T20:52:00+00:00",
-    "updated_at": "2026-06-03T20:52:00Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "9c757d6aaf4d44b96e565b4ad3680e78",
@@ -917,8 +949,8 @@
       "Music books",
       "books"
     ],
-    "created_at": "2026-06-03T20:52:00+00:00",
-    "updated_at": "2026-06-03T20:52:00Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "e5e967887d57bb9312ef69b090c46667",
@@ -950,8 +982,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-06-03T20:52:00+00:00",
-    "updated_at": "2026-06-03T20:52:00Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "17afa84dee29fe4ec43147e102348e98",
@@ -985,8 +1017,8 @@
       "Homer",
       "books"
     ],
-    "created_at": "2026-06-03T20:52:00+00:00",
-    "updated_at": "2026-06-03T20:52:00Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "2ac57838c7d3f002fd2533314d0ac8df",
@@ -1014,8 +1046,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-06-03T20:52:00+00:00",
-    "updated_at": "2026-06-03T20:52:00Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   },
   {
     "id": "70cd24b8757464da7bbe573c0af45489",
@@ -1051,47 +1083,7 @@
       "Sarah Moss",
       "books"
     ],
-    "created_at": "2026-06-03T20:52:00+00:00",
-    "updated_at": "2026-06-03T20:52:00Z"
-  },
-  {
-    "id": "65d8c8ca1a174f11e32ec64ace3460db",
-    "title": "The Best Romance Novels of 2024 (So Far)",
-    "author": "Olivia Waite",
-    "description": "Looking for an escapist love story? Here are 2024’s sexiest, swooniest reads.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Chu, Lily (Author)",
-      "Genre-Books-Romance",
-      "Grossman, Felicia (Author)",
-      "Sebastian, Cat",
-      "Williams, Tia",
-      "You Should Be So Lucky (Book)"
-    ],
-    "genre": [
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2024-10-01",
-    "thumbnail": "https://static01.nyt.com/images/2024/05/03/books/review/03Romance-WhatToReadNow/03Romance-WhatToReadNow-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2024/05/03/books/review/03Romance-WhatToReadNow/03Romance-WhatToReadNow-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/article/best-romance-books.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Chu, Lily (Author)",
-      "Grossman, Felicia (Author)",
-      "Sebastian, Cat",
-      "Williams, Tia",
-      "You Should Be So Lucky (Book)",
-      "books",
-      "genre-books-romance"
-    ],
-    "created_at": "2026-06-03T20:51:59+00:00",
-    "updated_at": "2026-06-03T20:51:59Z"
+    "created_at": "2026-06-04T09:55:24+00:00",
+    "updated_at": "2026-06-04T09:55:24Z"
   }
 ]
