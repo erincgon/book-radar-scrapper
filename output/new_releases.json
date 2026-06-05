@@ -36,8 +36,8 @@
       "television",
       "television reviews"
     ],
-    "created_at": "2026-06-04T19:59:52+00:00",
-    "updated_at": "2026-06-04T19:59:52Z"
+    "created_at": "2026-06-05T09:49:17+00:00",
+    "updated_at": "2026-06-05T09:49:17Z"
   },
   {
     "id": "9b26c25c3e7e715171b49af3ead291c7",
@@ -76,8 +76,8 @@
       "fantasy",
       "publishers"
     ],
-    "created_at": "2026-06-04T19:59:52+00:00",
-    "updated_at": "2026-06-04T19:59:52Z"
+    "created_at": "2026-06-05T09:49:17+00:00",
+    "updated_at": "2026-06-05T09:49:17Z"
   },
   {
     "id": "5e4081f441b8bf82ee468e4fd345ac3a",
@@ -102,8 +102,152 @@
       "Blog",
       "publishers"
     ],
-    "created_at": "2026-06-04T19:59:52+00:00",
-    "updated_at": "2026-06-04T19:59:52Z"
+    "created_at": "2026-06-05T09:49:17+00:00",
+    "updated_at": "2026-06-05T09:49:17Z"
+  },
+  {
+    "id": "3cc771b4decc0ca8791f28b87fa22ae3",
+    "title": "Penguin Workshop Prepares to ‘Tinker’",
+    "author": "Iyana Jones",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-04",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129595-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129595-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100581-penguin-workshop-prepares-to-tinker.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-05T09:49:17+00:00",
+    "updated_at": "2026-06-05T09:49:17Z"
+  },
+  {
+    "id": "15e92b034a96511d26424469a1beadd3",
+    "title": "Lee & Low Collaborates with the Asia Foundation on Decodable Books Line",
+    "author": "Pamela Brill",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-04",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129579-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129579-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100580-lee-low-collaborates-with-the-asia-foundation-on-decodable-books-line.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-05T09:49:17+00:00",
+    "updated_at": "2026-06-05T09:49:17Z"
+  },
+  {
+    "id": "438d64e6093e821f3ee1f1601f54b3c1",
+    "title": "New Kids’ and YA Books: Week of June 8, 2026",
+    "author": "",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-04",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129578-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129578-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100578-new-kids-and-ya-books-week-of-june-8-2026.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-05T09:49:17+00:00",
+    "updated_at": "2026-06-05T09:49:17Z"
+  },
+  {
+    "id": "00b3dd96fbe447bbc8c6092e7aaff569",
+    "title": "In Brief: June 4, 2026",
+    "author": "",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-04",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129596-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129596-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100577-in-brief-june-4-2026.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-05T09:49:17+00:00",
+    "updated_at": "2026-06-05T09:49:17Z"
+  },
+  {
+    "id": "0d34895cc1a15c9600edfe7022cf6741",
+    "title": "Jane Austen in the Classroom and Beyond",
+    "author": "Betsy Groban",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-04",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129568-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129568-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100576-jane-austen-in-the-classroom-and-beyond.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-05T09:49:17+00:00",
+    "updated_at": "2026-06-05T09:49:17Z"
+  },
+  {
+    "id": "45704a4f43caef13a6247b722a962516",
+    "title": "‘Being Weird with My Friends’: PW Talks with Maddie Frost",
+    "author": "Amanda Ramirez",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-04",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129567-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129567-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100575-q-a-with-maddie-frost.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-05T09:49:17+00:00",
+    "updated_at": "2026-06-05T09:49:17Z"
   },
   {
     "id": "89df47b4194115f7bc4b8c924b8db6ea",
@@ -126,8 +270,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-04T19:59:52+00:00",
-    "updated_at": "2026-06-04T19:59:52Z"
+    "created_at": "2026-06-05T09:49:17+00:00",
+    "updated_at": "2026-06-05T09:49:17Z"
   },
   {
     "id": "be0da91b94d28d2fad140d56b239b418",
@@ -150,8 +294,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-04T19:59:52+00:00",
-    "updated_at": "2026-06-04T19:59:52Z"
+    "created_at": "2026-06-05T09:49:17+00:00",
+    "updated_at": "2026-06-05T09:49:17Z"
   },
   {
     "id": "534b836ce9a3c80aa8360149b107b368",
@@ -174,8 +318,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-04T19:59:52+00:00",
-    "updated_at": "2026-06-04T19:59:52Z"
+    "created_at": "2026-06-05T09:49:17+00:00",
+    "updated_at": "2026-06-05T09:49:17Z"
   },
   {
     "id": "cabd61bbb89a6045d5da48af8508f3b8",
@@ -198,8 +342,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-04T19:59:52+00:00",
-    "updated_at": "2026-06-04T19:59:52Z"
+    "created_at": "2026-06-05T09:49:17+00:00",
+    "updated_at": "2026-06-05T09:49:17Z"
   },
   {
     "id": "de47283450ec60421ef391323f5739b9",
@@ -222,8 +366,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-04T19:59:52+00:00",
-    "updated_at": "2026-06-04T19:59:52Z"
+    "created_at": "2026-06-05T09:49:17+00:00",
+    "updated_at": "2026-06-05T09:49:17Z"
   },
   {
     "id": "5e987fb00dc3be5cad5d93b02370cd4a",
@@ -260,8 +404,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-06-04T19:59:52+00:00",
-    "updated_at": "2026-06-04T19:59:52Z"
+    "created_at": "2026-06-05T09:49:17+00:00",
+    "updated_at": "2026-06-05T09:49:17Z"
   },
   {
     "id": "c3e0bbdcb7687579b8d0267be29014f1",
@@ -296,8 +440,8 @@
       "publishers",
       "trailers"
     ],
-    "created_at": "2026-06-04T19:59:52+00:00",
-    "updated_at": "2026-06-04T19:59:52Z"
+    "created_at": "2026-06-05T09:49:17+00:00",
+    "updated_at": "2026-06-05T09:49:17Z"
   },
   {
     "id": "cff337073a7d622c8828f89d688c9e14",
@@ -332,8 +476,8 @@
       "movies",
       "publishers"
     ],
-    "created_at": "2026-06-04T19:59:52+00:00",
-    "updated_at": "2026-06-04T19:59:52Z"
+    "created_at": "2026-06-05T09:49:17+00:00",
+    "updated_at": "2026-06-05T09:49:17Z"
   },
   {
     "id": "9f29d5dd527395876bcd16a2d08f529f",
@@ -366,8 +510,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-06-04T19:59:52+00:00",
-    "updated_at": "2026-06-04T19:59:52Z"
+    "created_at": "2026-06-05T09:49:17+00:00",
+    "updated_at": "2026-06-05T09:49:17Z"
   },
   {
     "id": "d6a7cb051c22a78bc2c42b671796536d",
@@ -400,8 +544,8 @@
       "Weird Fiction",
       "publishers"
     ],
-    "created_at": "2026-06-04T19:59:52+00:00",
-    "updated_at": "2026-06-04T19:59:52Z"
+    "created_at": "2026-06-05T09:49:17+00:00",
+    "updated_at": "2026-06-05T09:49:17Z"
   },
   {
     "id": "ca243d84a11ecef9cfcca97c98d3fd4c",
@@ -436,195 +580,7 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-06-04T19:59:52+00:00",
-    "updated_at": "2026-06-04T19:59:52Z"
-  },
-  {
-    "id": "42375c461e0c9579f26706eb1bf5c251",
-    "title": "Coherence: Dinner at My Place Tonight, Just Bring Yourself",
-    "author": "Sarah",
-    "description": "Schrödinger’s cat, astronomical anomalies, and parallel realities collide with an ill-fated dinner party. The post Coherence : Dinner at My Place Tonight, Just Bring Yourself appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Alternate Universes",
-      "Blog",
-      "Coherence",
-      "Multiverse",
-      "Publishers",
-      "Schroedinger'S Cat",
-      "Science Fiction",
-      "Science Fiction Film Club",
-      "The Twilight Zone"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-06-03",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/06/coherence-movie-740x423.png",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/06/coherence-movie-740x423.png",
-    "article_url": "https://reactormag.com/coherence-dinner-at-my-place-tonight-just-bring-yourself/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Coherence",
-      "Schroedinger's Cat",
-      "Science Fiction",
-      "Science Fiction Film Club",
-      "The Twilight Zone",
-      "alternate universes",
-      "multiverse",
-      "publishers"
-    ],
-    "created_at": "2026-06-04T19:59:52+00:00",
-    "updated_at": "2026-06-04T19:59:52Z"
-  },
-  {
-    "id": "1f55264ab47e2855979f6ef1c705c2f4",
-    "title": "USBS 2026: Day One Panels Show Generational Splits Over Labor, Social Media",
-    "author": "Sam Spratford",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-06-03",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129559-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129559-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/trade-shows-events/article/100567-usbs-2026-pros-hash-it-out-over-labor-issues-tiktok.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-06-04T19:59:52+00:00",
-    "updated_at": "2026-06-04T19:59:52Z"
-  },
-  {
-    "id": "22cc2b42d92022a087f232344ba4571c",
-    "title": "Longtime Distro Exec Gilbert Perlman Dies at 72",
-    "author": "Jim Milliot",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-06-03",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129558-2.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129558-2.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/Obituary/article/100569-glibert-perlman-dies-at-72.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-06-04T19:59:52+00:00",
-    "updated_at": "2026-06-04T19:59:52Z"
-  },
-  {
-    "id": "b5beea37e199f714b1e4967e906c462c",
-    "title": "Groups Urge Expanded Funding for IMLS",
-    "author": "Jim Milliot",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-06-03",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129508-2.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129508-2.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/100537-groups-urge-expanded-funding-for-imls.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-06-04T19:59:52+00:00",
-    "updated_at": "2026-06-04T19:59:52Z"
-  },
-  {
-    "id": "50ce3f7fd8eb3e0874b9122f88dd1ffd",
-    "title": "Bugs Bunny Returns in Coyote vs. ACME Trailer",
-    "author": "Vanessa Armstrong",
-    "description": "The movie found a second life after getting shelved by Warner Bros. The post Bugs Bunny Returns in Coyote vs. ACME Trailer appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Coyote Vs. Acme",
-      "Ketchup Entertainment",
-      "Movies",
-      "News",
-      "Publishers",
-      "Trailers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-06-02",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/06/CvA-Still-3-740x491.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/06/CvA-Still-3-740x491.jpg",
-    "article_url": "https://reactormag.com/bugs-bunny-coyote-vs-acme-trailer/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Coyote vs. Acme",
-      "ketchup entertainment",
-      "movies",
-      "news",
-      "publishers",
-      "trailers"
-    ],
-    "created_at": "2026-06-04T19:59:52+00:00",
-    "updated_at": "2026-06-04T19:59:52Z"
-  },
-  {
-    "id": "ab15f6cc6b771cfc7f325f8b77178efd",
-    "title": "The Trailer for Silo’s Third Season Finds Yet More Ways to Make Juliet Suffer",
-    "author": "Molly Templeton",
-    "description": "Seriously, where do they get all their furniture? The post The Trailer for Silo ’s Third Season Finds Yet More Ways to Make Juliet Suffer appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Adaptations",
-      "Apple Tv",
-      "Blog",
-      "Hugh Howey",
-      "News",
-      "Publishers",
-      "Rebecca Ferguson",
-      "Silo",
-      "Trailers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-06-02",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/06/SIlo_Photo_030105-740x493.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/06/SIlo_Photo_030105-740x493.jpg",
-    "article_url": "https://reactormag.com/silo-third-season-trailer/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Apple TV",
-      "Blog",
-      "Hugh Howey",
-      "Rebecca Ferguson",
-      "Silo",
-      "adaptations",
-      "news",
-      "publishers",
-      "trailers"
-    ],
-    "created_at": "2026-06-04T19:59:52+00:00",
-    "updated_at": "2026-06-04T19:59:52Z"
+    "created_at": "2026-06-05T09:49:17+00:00",
+    "updated_at": "2026-06-05T09:49:17Z"
   }
 ]
