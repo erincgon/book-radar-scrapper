@@ -1,5 +1,41 @@
 [
   {
+    "id": "c248fee74589590df3b667238bce3afb",
+    "title": "A Summer Book Recommendation Bonanza",
+    "author": "Gilbert Cruz, Sarah Diamond, Amy Pearl, Patricia Sulbarán and Larissa Anderson",
+    "description": "From doppelgängers to dark academia, the Book Review editors share some of their most-anticipated titles.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Ellroy, James",
+      "Internal-Open-Access-Audio",
+      "Patchett, Ann",
+      "Podcasts",
+      "Whitehead, Colson"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-05",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/05/podcasts/05tbr-summerbooks/05tbr-summerbooks-mediumSquareAt3X.png",
+    "cover_large": "https://static01.nyt.com/images/2026/06/05/podcasts/05tbr-summerbooks/05tbr-summerbooks-mediumSquareAt3X.png",
+    "article_url": "https://www.nytimes.com/2026/06/05/podcasts/tbr-summer-books-roundup.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Ellroy, James",
+      "Patchett, Ann",
+      "Podcasts",
+      "Whitehead, Colson",
+      "books",
+      "internal-open-access-audio"
+    ],
+    "created_at": "2026-06-05T19:48:37+00:00",
+    "updated_at": "2026-06-05T19:48:37Z"
+  },
+  {
     "id": "eeb5449933dd5e27bf9597292c89fc86",
     "title": "Book Review: ‘The Man Who Stole the Gods,’ by Matthew Campbell",
     "author": "Hugh Eakin",
@@ -7,16 +43,15 @@
     "summary_ai": "",
     "categories": [
       "Angkor (Cambodia)",
-      "Art",
       "Arts And Antiquities Looting",
       "Books",
       "Books And Literature",
-      "Campbell, Matthew",
+      "Cambodia",
+      "Campbell, Matthew (Journalist)",
       "Latchford, Douglas A J",
       "Museums",
-      "Robberies And Thefts",
       "Sculpture",
-      "The Man Who Stole The Gods (Book)"
+      "The Man Who Stole The Gods: A True Story Of War, Obsession, And A Global Art Conspiracy (Book)"
     ],
     "genre": [
       "Crime"
@@ -31,19 +66,18 @@
     "source_type": "rss",
     "tags": [
       "Angkor (Cambodia)",
-      "Art",
       "Arts and Antiquities Looting",
       "Books and Literature",
-      "Campbell, Matthew",
+      "Cambodia",
+      "Campbell, Matthew (Journalist)",
       "Latchford, Douglas A J",
       "Museums",
-      "Robberies and Thefts",
       "Sculpture",
-      "THE MAN WHO STOLE THE GODS (Book)",
+      "The Man Who Stole the Gods: A True Story of War, Obsession, and a Global Art Conspiracy (Book)",
       "books"
     ],
-    "created_at": "2026-06-05T09:49:17+00:00",
-    "updated_at": "2026-06-05T09:49:17Z"
+    "created_at": "2026-06-05T19:48:37+00:00",
+    "updated_at": "2026-06-05T19:48:37Z"
   },
   {
     "id": "8bf2f69327179dc09d35522731f97958",
@@ -55,7 +89,6 @@
       "Books",
       "Books And Literature",
       "Greer, Andrew Sean",
-      "Italy",
       "Less (Book)",
       "Villa Coco (Book)"
     ],
@@ -71,13 +104,77 @@
     "tags": [
       "Books and Literature",
       "Greer, Andrew Sean",
-      "Italy",
       "Less (Book)",
       "Villa Coco (Book)",
       "books"
     ],
-    "created_at": "2026-06-05T09:49:17+00:00",
-    "updated_at": "2026-06-05T09:49:17Z"
+    "created_at": "2026-06-05T19:48:37+00:00",
+    "updated_at": "2026-06-05T19:48:37Z"
+  },
+  {
+    "id": "51242b0e33b84fcce86a8424a093428a",
+    "title": "11 Books That Capture the Swoonworthy Drama of Wedding Season",
+    "author": "Jenny Singer",
+    "description": "Some will have you mentally arranging flowers for your own happy day. Others provide the vicarious thrill of watching it all burn.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Weddings And Engagements"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-05",
+    "thumbnail": "https://static01.nyt.com/images/2026/05/26/books/26TBR-RecList-WeddingList/26TBR-RecList-WeddingList-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/05/26/books/26TBR-RecList-WeddingList/26TBR-RecList-WeddingList-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/04/books/wedding-novels.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Weddings and Engagements",
+      "books"
+    ],
+    "created_at": "2026-06-05T19:48:37+00:00",
+    "updated_at": "2026-06-05T19:48:37Z"
+  },
+  {
+    "id": "d3c735f2387cfd7f15c77ba14d4076a6",
+    "title": "Marjane Satrapi captured profound human emotions",
+    "author": "Mana Neyestani",
+    "description": "The graphic novelist had a remarkable gift for visual storytelling, in the phenomenon that was Persepolis and beyond. Many of us owe our careers to the space she created, says Iranian cartoonist Mana Neyestani • News: Marjane Satrapi, creator of Persepolis and acclaimed French-Iranian artist, dies aged 56 On the morning of 4 June, when I heard the news of Marjane Satrapi’s death, I was stunned. I simply could not believe it. Although I had met her only a handful of times in person – despite having lived in Paris for 16 years and having contributed to her book Woman, Life, Freedom – I felt a deep connection to her work and legacy. Our collaboration on that book took place mostly through email correspondence, but I always held her in the highest regard. I admired her intelligence, her extraordinary sense of humour and, above all, her remarkable gift for visual storytelling. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Autobiography And Memoir",
+      "Books",
+      "Comics And Graphic Novels",
+      "Culture",
+      "France",
+      "Iran",
+      "Marjane Satrapi"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-05",
+    "thumbnail": "https://i.guim.co.uk/img/media/f7d6150b33168ac10f6d4987233d49b16ae6dd81/476_0_4164_3333/master/4164.jpg?width=700&quality=85&auto=format&fit=max&s=8496f85f8c50931f42a61461ec2e394a",
+    "cover_large": "https://i.guim.co.uk/img/media/f7d6150b33168ac10f6d4987233d49b16ae6dd81/476_0_4164_3333/master/4164.jpg?width=700&quality=85&auto=format&fit=max&s=8496f85f8c50931f42a61461ec2e394a",
+    "article_url": "https://www.theguardian.com/books/2026/jun/04/marjane-satrapi-creator-of-persepolis-and-acclaimed-french-iranian-artist-dies-aged-56",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Autobiography and memoir",
+      "Books",
+      "Comics and graphic novels",
+      "Culture",
+      "France",
+      "Iran",
+      "Marjane Satrapi",
+      "books"
+    ],
+    "created_at": "2026-06-05T19:48:37+00:00",
+    "updated_at": "2026-06-05T19:48:37Z"
   },
   {
     "id": "3559a1bc924ee97b597573623c23f713",
@@ -108,8 +205,209 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-05T09:49:17+00:00",
-    "updated_at": "2026-06-05T09:49:17Z"
+    "created_at": "2026-06-05T19:48:37+00:00",
+    "updated_at": "2026-06-05T19:48:37Z"
+  },
+  {
+    "id": "a241cc5dc1efa31d20b1f1aea03545de",
+    "title": "The best recent poetry",
+    "author": "Rishi Dastidar",
+    "description": "Haunting the Black Air by Anthony Joseph; Selected Poems by Leontia Flynn; Sparrow on the Rooftop by Rachel Long; You Must Live: New Poetry from Palestine, edited by Jorie Graham; Melete by Jennifer Lee Tsai; Somebody Should Have Pressed Record by Galia Admoni Haunting the Black Air by Anthony Joseph (Bloomsbury, £12.9 9) Joseph’s follow-up to the TS Eliot prize-winning Sonnets for Albert sees his poetic approach become more radical. He pays homage to avant garde writers such as Will Alexander and Nathaniel Mackey, while exploring “Nostalgia, mostly grief, / a haunting sound – / the frequency of some / magnetic feeling.” That makes for challenging syntax on first reading the poems. Persist, and Joseph’s unabashed lyricism shines through, finding beauty on dancefloors, city streets and in Trinidadian landscapes: “the way music fills the room, how we embrace until / we become flare bright, light as the white refraction / of the sun upon the summit of hills.” Selected Poems by Leontia Flynn (Carcanet, £14.99) She was a Next Generation poet and Forward prize winner; it’s a shock to remember that Flynn has been publishing for more than 20 years, so fresh do her poems remain. This...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Poetry"
+    ],
+    "genre": [
+      "Poetry"
+    ],
+    "language": "English",
+    "publisher": "Bloomsbury",
+    "published_date": "2026-06-05",
+    "thumbnail": "https://i.guim.co.uk/img/media/cc73085ff33317b439aa646b63f3587392871174/0_161_1391_1112/master/1391.jpg?width=700&quality=85&auto=format&fit=max&s=8b019995809876b1c4f2abaa08b18e82",
+    "cover_large": "https://i.guim.co.uk/img/media/cc73085ff33317b439aa646b63f3587392871174/0_161_1391_1112/master/1391.jpg?width=700&quality=85&auto=format&fit=max&s=8b019995809876b1c4f2abaa08b18e82",
+    "article_url": "https://guardianbookshop.com/haunting-the-black-air-9781526683380/?amp%3Bamp%3Butm_medium=merch&amp%3Bamp%3Butm_campaign=article",
+    "source": "Guardianbookshop",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Poetry",
+      "books"
+    ],
+    "created_at": "2026-06-05T19:48:37+00:00",
+    "updated_at": "2026-06-05T19:48:37Z"
+  },
+  {
+    "id": "6b57c33a5972fb7d547ef65ac4d86a99",
+    "title": "A World",
+    "author": "Vanessa Diaz",
+    "description": "The history of this bestseller is almost as interesting as the author's life itself.",
+    "summary_ai": "",
+    "categories": [
+      "Bipoc",
+      "In Reading Color",
+      "Reviews",
+      "Zero To Well-Read"
+    ],
+    "genre": [
+      "History"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-05",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2021/08/I-Know-Why-the-Caged-Bird-Sings-Book-Cover.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2021/08/I-Know-Why-the-Caged-Bird-Sings-Book-Cover.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/zero-to-well-read-i-know-why-the-caged-bird-sings/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "BIPOC",
+      "In Reading Color",
+      "Zero to Well-Read",
+      "reviews"
+    ],
+    "created_at": "2026-06-05T19:48:37+00:00",
+    "updated_at": "2026-06-05T19:48:37Z"
+  },
+  {
+    "id": "cc6b4426843d0a9edda660ebaf520edd",
+    "title": "Summer Horror Reads Coming Out This June 2026",
+    "author": "Emily Martin",
+    "description": "There's a place for feel-good summer reads, but if nightmare fuel is more your speed, check out these new horror releases.",
+    "summary_ai": "",
+    "categories": [
+      "Horror",
+      "Reviews",
+      "The Fright Stuff"
+    ],
+    "genre": [
+      "Horror"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-05",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/marion-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/marion-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/new-horror-books-june-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Horror",
+      "The Fright Stuff",
+      "reviews"
+    ],
+    "created_at": "2026-06-05T19:48:37+00:00",
+    "updated_at": "2026-06-05T19:48:37Z"
+  },
+  {
+    "id": "7d91f97d92e8218df1a9afd2ab2e636e",
+    "title": "Ticket Prices for THE ODYSSEY Soar to $1,000 on eBay",
+    "author": "Danika Ellis",
+    "description": "The fallout of The Odyssey ticket sales, the newest comics publisher to unionize, and more of today's literary headlines.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Today In Books"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-05",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/05/the-odyssey-trailer.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/05/the-odyssey-trailer.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/ticket-prices-for-the-odyssey-soar-to-1000-on-ebay/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Today in Books",
+      "reviews"
+    ],
+    "created_at": "2026-06-05T19:48:37+00:00",
+    "updated_at": "2026-06-05T19:48:37Z"
+  },
+  {
+    "id": "846651b59acab926e678ce1054c1ee09",
+    "title": "Libraries in Canada Permanently Closing Amidst a Rise in Book Banning: Book Censorship News, June 5, 2026",
+    "author": "Erica Ezeifedi",
+    "description": "Alex Haley's ROOTS is returned to Tennessee county libraries, a man who is incarcerated sues his state's department of corrections, and more.",
+    "summary_ai": "",
+    "categories": [
+      "Literary Activism",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-05",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2022/03/book-on-fire.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2022/03/book-on-fire.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/alex-haleys-roots-has-been-returned-to-tennesseelibrary-shelves/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Literary Activism",
+      "reviews"
+    ],
+    "created_at": "2026-06-05T19:48:37+00:00",
+    "updated_at": "2026-06-05T19:48:37Z"
+  },
+  {
+    "id": "df6f3d97728511eaafdcccbf11cbdbaf",
+    "title": "The Late Stan Lee’s Voice and Likeness Being Resurrected by AI",
+    "author": "Eileen Gonzalez",
+    "description": "Plus, season 2 of X-Men '97, the Supergirl trailer drops, the Eisner Award nomination for an anthology made with AI gets withdrawn, and more.",
+    "summary_ai": "",
+    "categories": [
+      "Comics/Graphic Novels",
+      "Reviews",
+      "The Stack"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-05",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/xmen-97-.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/xmen-97-.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/stan-lees-likeness-resurrected-by-ai/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Comics/Graphic Novels",
+      "The Stack",
+      "reviews"
+    ],
+    "created_at": "2026-06-05T19:48:37+00:00",
+    "updated_at": "2026-06-05T19:48:37Z"
+  },
+  {
+    "id": "1f6d814face82477d75a691ce4d516b4",
+    "title": "A Tennessee School District has Banned Alex Haley’s ROOTS, and More Library News",
+    "author": "Katie McLain Horner",
+    "description": "School officials said, \"Broader themes or historical significance of a work as a whole is not a consideration under the law.\"",
+    "summary_ai": "",
+    "categories": [
+      "Check Your Shelf",
+      "Libraries",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-05",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2021/10/image-of-a-person-holding-a-burning-book.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2021/10/image-of-a-person-holding-a-burning-book.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/tennessee-school-district-banned-roots/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Check Your Shelf",
+      "Libraries",
+      "reviews"
+    ],
+    "created_at": "2026-06-05T19:48:37+00:00",
+    "updated_at": "2026-06-05T19:48:37Z"
   },
   {
     "id": "095f2d9e7eb6478f8e2a4bba4ee0b983",
@@ -148,36 +446,8 @@
       "Niemann, Hans (2003- )",
       "books"
     ],
-    "created_at": "2026-06-05T09:49:17+00:00",
-    "updated_at": "2026-06-05T09:49:17Z"
-  },
-  {
-    "id": "c45351ed6133c68267bf474f764f40d7",
-    "title": "11 Books That Capture the Swoon",
-    "author": "Jenny Singer",
-    "description": "These books dig into the thrilling, ugly and swoon-worthy drama of a happy couple’s big day.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Weddings And Engagements"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-04",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/26/books/26TBR-RecList-WeddingList/26TBR-RecList-WeddingList-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/26/books/26TBR-RecList-WeddingList/26TBR-RecList-WeddingList-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/04/books/wedding-novels.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Weddings and Engagements",
-      "books"
-    ],
-    "created_at": "2026-06-05T09:49:17+00:00",
-    "updated_at": "2026-06-05T09:49:17Z"
+    "created_at": "2026-06-05T19:48:37+00:00",
+    "updated_at": "2026-06-05T19:48:37Z"
   },
   {
     "id": "47f1e35efb40bb863b90b6a79df8709d",
@@ -216,8 +486,8 @@
       "Tony Awards (Theater Awards)",
       "books"
     ],
-    "created_at": "2026-06-05T09:49:17+00:00",
-    "updated_at": "2026-06-05T09:49:17Z"
+    "created_at": "2026-06-05T19:48:37+00:00",
+    "updated_at": "2026-06-05T19:48:37Z"
   },
   {
     "id": "3af805da186261ff16b67cc561cb4e3e",
@@ -247,8 +517,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-05T09:49:17+00:00",
-    "updated_at": "2026-06-05T09:49:17Z"
+    "created_at": "2026-06-05T19:48:37+00:00",
+    "updated_at": "2026-06-05T19:48:37Z"
   },
   {
     "id": "a1355264f0aedbb5668633e948b1dbd2",
@@ -280,39 +550,8 @@
       "Travel",
       "books"
     ],
-    "created_at": "2026-06-05T09:49:17+00:00",
-    "updated_at": "2026-06-05T09:49:17Z"
-  },
-  {
-    "id": "90aa572ff8b8200afdc66512f3cd7557",
-    "title": "Marjane Satrapi, creator of Persepolis and acclaimed French-Iranian artist, dies aged 56",
-    "author": "Emma Loffhagen",
-    "description": "Family members said the author of the landmark comic book memoir ‘died of sadness’ after the death of her husband last year Marjane Satrapi , the French-Iranian artist, film-maker and graphic novelist whose acclaimed memoir Persepolis helped reshape international perceptions of Iran, has died at the age of 56. In a statement provided to French news agency AFP, relatives said she had “died of sadness” after the death of her husband, the Swedish producer Mattias Ripa. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Marjane Satrapi"
-    ],
-    "genre": [
-      "Memoir"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-04",
-    "thumbnail": "https://i.guim.co.uk/img/media/d9001eb8c12ad96a923ffeb6a45dbde2ac7790d7/724_0_7212_5773/master/7212.jpg?width=700&quality=85&auto=format&fit=max&s=1e45b8ae76b1f4dd412cbd4a85923cd8",
-    "cover_large": "https://i.guim.co.uk/img/media/d9001eb8c12ad96a923ffeb6a45dbde2ac7790d7/724_0_7212_5773/master/7212.jpg?width=700&quality=85&auto=format&fit=max&s=1e45b8ae76b1f4dd412cbd4a85923cd8",
-    "article_url": "https://www.theguardian.com/books/2024/mar/16/marjane-satrapi-interview-persepolis-woman-life-freedom",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Marjane Satrapi",
-      "books"
-    ],
-    "created_at": "2026-06-05T09:49:17+00:00",
-    "updated_at": "2026-06-05T09:49:17Z"
+    "created_at": "2026-06-05T19:48:37+00:00",
+    "updated_at": "2026-06-05T19:48:37Z"
   },
   {
     "id": "ae7311b6cf95bc122816a5754aca9daa",
@@ -343,127 +582,32 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-05T09:49:17+00:00",
-    "updated_at": "2026-06-05T09:49:17Z"
+    "created_at": "2026-06-05T19:48:37+00:00",
+    "updated_at": "2026-06-05T19:48:37Z"
   },
   {
-    "id": "7513a6bd50b80cd0791791dd83602952",
-    "title": "Pride is for Book Lovers: LGBTQ+ Romances Set in Bookstores and Libraries",
-    "author": "R. Nassor",
-    "description": "If you love love and love books, these LGBTQ+ romance novels set in bookstores and libraries are the perfect addition to your Pride TBR.",
+    "id": "2c4b1d658333a16b47ebaaacc78b1fa6",
+    "title": "'The ship of my life': Sting talks the comeback of his musical",
+    "author": "Leila Fadel",
+    "description": "The Last Ship , the first musical to be staged at New York's Metropolitan Opera, inspired by Sting's childhood growing up in the shadow of a shipyard.",
     "summary_ai": "",
     "categories": [
-      "Kissing Books",
-      "Lgbtq",
-      "Reviews",
-      "Romance/Erotica"
-    ],
-    "genre": [
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-04",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/After-Hours-at-Dooryard-Books-by-Cat-Sebastian-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/After-Hours-at-Dooryard-Books-by-Cat-Sebastian-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/lgbtq-romances-set-in-bookstores-and-libraries/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Kissing Books",
-      "LGBTQ",
-      "Romance/Erotica",
-      "reviews"
-    ],
-    "created_at": "2026-06-05T09:49:16+00:00",
-    "updated_at": "2026-06-05T09:49:16Z"
-  },
-  {
-    "id": "e9e7f2ca62cae8de6b867f1ca459f930",
-    "title": "Gold Stars: YA Books Among The Best of the Century So Far",
-    "author": "Kelly Jensen",
-    "description": "In the lead up to unveiling our picks for the Best YA Books of the Century So Far, here's what books have landed on other lists in that series.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "What'S Up In Ya",
-      "Young Adult Literature"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-04",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/04/ash-1-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/04/ash-1-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/ya-titles-best-of-the-century/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "What's Up in YA",
-      "Young Adult Literature",
-      "reviews"
-    ],
-    "created_at": "2026-06-05T09:49:16+00:00",
-    "updated_at": "2026-06-05T09:49:16Z"
-  },
-  {
-    "id": "1b5c0ac120fc9c672569e4c015bcf2dc",
-    "title": "6 New BIPOC Books About Family",
-    "author": "Jamie Canaves",
-    "description": "These BIPOC books about family span a mix of categories, genres, and tropes to explore complicated familial dynamics.",
-    "summary_ai": "",
-    "categories": [
-      "Fiction",
-      "In Reading Color",
-      "Lists",
       "Reviews"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "Book Riot",
+    "publisher": "NPR Books",
     "published_date": "2026-06-04",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/12/Good-People-Patmeena-Sabit-cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/12/Good-People-Patmeena-Sabit-cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/new-bipoc-books-about-family/",
-    "source": "Book Riot",
+    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4201x2801+0+0/resize/4201x2801!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2F07%2Ffeca1e1747d2aa638cc22d5ce8ba%2Fthe-last-ship-2026-show-6546.jpg",
+    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4201x2801+0+0/resize/4201x2801!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2F07%2Ffeca1e1747d2aa638cc22d5ce8ba%2Fthe-last-ship-2026-show-6546.jpg",
+    "article_url": "https://www.npr.org/2026/06/04/nx-s1-5608084/sting-musical-the-last-ship-interview",
+    "source": "NPR Books",
     "source_type": "rss",
     "tags": [
-      "Fiction",
-      "In Reading Color",
-      "Lists",
       "reviews"
     ],
-    "created_at": "2026-06-05T09:49:16+00:00",
-    "updated_at": "2026-06-05T09:49:16Z"
-  },
-  {
-    "id": "5fb6cc2959bc6d3a538af85fc93ad857",
-    "title": "📚 Barnes & Noble Names Best Books of 2026 So Far",
-    "author": "Community",
-    "description": "A tradwife thriller, the year's most discourse-driving memoir, lit fic faves, and more.",
-    "summary_ai": "",
-    "categories": [
-      "Book Riot Newsletter",
-      "Reviews"
-    ],
-    "genre": [
-      "Memoir",
-      "Thriller"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-04",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/It-Books-of-june-2026.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/It-Books-of-june-2026.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/barnes-noble-names-best-books-of-2026-so-far/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Book Riot Newsletter",
-      "reviews"
-    ],
-    "created_at": "2026-06-05T09:49:17+00:00",
-    "updated_at": "2026-06-05T09:49:17Z"
+    "created_at": "2026-06-05T19:48:37+00:00",
+    "updated_at": "2026-06-05T19:48:37Z"
   },
   {
     "id": "232cb56765a4d27fd34b3ef2d5026593",
@@ -507,185 +651,7 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-05T09:49:17+00:00",
-    "updated_at": "2026-06-05T09:49:17Z"
-  },
-  {
-    "id": "60c4d533b79aa30fa224c09234c105ed",
-    "title": "How Poets Went From Describing Art to Personally Admiring It",
-    "author": "Elisa Gabbert",
-    "description": "The form known as ekphrasis — or poetry about art — has taken a turn toward the individual. Our columnist asks what it means.",
-    "summary_ai": "",
-    "categories": [
-      "Art",
-      "Books",
-      "Books And Literature",
-      "Ekphrasis",
-      "Poetry And Poets"
-    ],
-    "genre": [
-      "Poetry"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-03",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/26/books/26TBR-OnPoetry-Ekphrasis/26TBR-OnPoetry-Ekphrasis-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/26/books/26TBR-OnPoetry-Ekphrasis/26TBR-OnPoetry-Ekphrasis-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/03/books/review/on-poetry-art-ekphrasis.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Art",
-      "Books and Literature",
-      "Poetry and Poets",
-      "books",
-      "ekphrasis"
-    ],
-    "created_at": "2026-06-05T09:49:17+00:00",
-    "updated_at": "2026-06-05T09:49:17Z"
-  },
-  {
-    "id": "af7171558d89f10dce84f2baf70caff9",
-    "title": "The Best Audiobooks of 2026 (So Far)",
-    "author": "Lauren Christensen",
-    "description": "The year is nearly halfway over. Here’s what we’ve been listening to.",
-    "summary_ai": "",
-    "categories": [
-      "A Hymn To Life: Shame Has To Change Sides (Book)",
-      "Audiobooks",
-      "Books",
-      "Books And Literature",
-      "Burden, Belle",
-      "Days Of Love And Rage: A Story Of Ordinary People Forging A Revolution (Book)",
-      "Dunham, Lena",
-      "Famesick: A Memoir (Book)",
-      "Good People (Book)",
-      "Gopal, Anand",
-      "Keefe, Patrick Radden",
-      "London Falling: A Mysterious Death In A Gilded City And A Family'S Search For Truth (Book)",
-      "Ndiaye, Marie",
-      "Night Night Fawn (Book)",
-      "Pelicot, Gisele",
-      "Rosenberg, Jordy",
-      "Sabit, Patmeena",
-      "Strangers: A Memoir Of Marriage (Book)",
-      "The Witch (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-03",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/26/books/26TBR-Audiobooks-BestSoFar/26TBR-Audiobooks-BestSoFar-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/26/books/26TBR-Audiobooks-BestSoFar/26TBR-Audiobooks-BestSoFar-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/03/books/review/best-audiobooks-2026.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "A Hymn to Life: Shame Has to Change Sides (Book)",
-      "Audiobooks",
-      "Books and Literature",
-      "Burden, Belle",
-      "Days of Love and Rage: A Story of Ordinary People Forging a Revolution (Book)",
-      "Dunham, Lena",
-      "Famesick: A Memoir (Book)",
-      "Good People (Book)",
-      "Gopal, Anand",
-      "Keefe, Patrick Radden",
-      "London Falling: A Mysterious Death in a Gilded City and a Family's Search for Truth (Book)",
-      "NDiaye, Marie",
-      "Night Night Fawn (Book)",
-      "Pelicot, Gisele",
-      "Rosenberg, Jordy",
-      "Sabit, Patmeena",
-      "Strangers: A Memoir of Marriage (Book)",
-      "The Witch (Book)",
-      "books"
-    ],
-    "created_at": "2026-06-05T09:49:17+00:00",
-    "updated_at": "2026-06-05T09:49:17Z"
-  },
-  {
-    "id": "5ada1d18503f49770ddb692742f1f8dd",
-    "title": "Wimmy Road Boyz by Sufiyaan Salam review – an electric debut set on Manchester’s Curry Mile",
-    "author": "Sana Goyal",
-    "description": "Written in breathless multilingual prose, this coming-of-age meets state-of-the-nation novel is an incredible literary performance Three twentysomethings “drive and dream of an impossible night on an endless street. moving as a massive through mad sticky traffic, destination: where else? manchester, wilmslow road, the curry mile, yo!” Thus opens Sufiyaan Salam’s high-octane debut novel, written largely in gen Z lowercase – and you’re in for a ride. The Boyz are British Pakistani friends in their early 20s. Immy is “something of a bad-boy muslim slut who don’t never text back”; Khan is “the mogul mowgli himself ... the type to recite Warren Buffett epigrams like they’re hadiths”; and Haris has “a mind that never switches off, philosophy subreddits doing bares”. Each is looking for an escape – from their past, present, someone else, or themselves – and they come together for one night “cruising and bruising in a hire car towards what might just be the natural elastic endpoint of a friendship beginning to fray”. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-03",
-    "thumbnail": "https://i.guim.co.uk/img/media/d3eff7c84c4237fe520c20724df6cb41815fcc4f/0_0_3061_2449/master/3061.jpg?width=700&quality=85&auto=format&fit=max&s=2e732741f629ddd81e68c93d7b285b80",
-    "cover_large": "https://i.guim.co.uk/img/media/d3eff7c84c4237fe520c20724df6cb41815fcc4f/0_0_3061_2449/master/3061.jpg?width=700&quality=85&auto=format&fit=max&s=2e732741f629ddd81e68c93d7b285b80",
-    "article_url": "https://www.theguardian.com/books/2026/jun/03/wimmy-road-boyz-by-sufiyaan-salam-review-an-electric-debut-set-on-manchesters-curry-mile",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-06-05T09:49:17+00:00",
-    "updated_at": "2026-06-05T09:49:17Z"
-  },
-  {
-    "id": "67cc1c8b74bc8a9566b5b7721ed51b53",
-    "title": "Ambivalence by Brian Dillon review",
-    "author": "Blake Morrison",
-    "description": "The critic’s memoir’s is a portrait in determination to go against the grain and ‘pursue a life in words and ideas’ Brian Dillon lost his parents early, his mother when he was 16, his father at 21. He writes of them in passing here, as he did in his first book, In the Dark Room , but with little overt display of grief. Narrated in the third person, with young Dillon a removed he rather than an emotionally manipulative I , this isn’t a weepy orphanhood memoir. It describes instead his awkward Dublin education, as he struggles to carve out an identity for himself and to accommodate his passion for avant garde music and literature within academe. He grows up surrounded by the books acquired by his father, who left school early and went to university late. He reads them avidly and adds to them with library borrowings and purchases of his own. But, to begin with, his greater attachment is to music magazines and to David Bowie, whose excitingly ambivalent sexuality echoes his own. His father speaks of duty – to homework, weekly mass and getting a decent job. But his commitment is to jouissance , if only he can find it. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Autobiography And Memoir",
-      "Books",
-      "Culture"
-    ],
-    "genre": [
-      "Memoir"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-03",
-    "thumbnail": "https://i.guim.co.uk/img/media/1792b139a7ac79dbd9dc6b77b0cfb1cb9bf9739a/464_0_4640_3712/master/4640.jpg?width=700&quality=85&auto=format&fit=max&s=74f44697c51a2b937120e43c189df24e",
-    "cover_large": "https://i.guim.co.uk/img/media/1792b139a7ac79dbd9dc6b77b0cfb1cb9bf9739a/464_0_4640_3712/master/4640.jpg?width=700&quality=85&auto=format&fit=max&s=74f44697c51a2b937120e43c189df24e",
-    "article_url": "https://www.theguardian.com/books/2006/oct/14/featuresreviews.guardianreview28",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Autobiography and memoir",
-      "Books",
-      "Culture",
-      "books"
-    ],
-    "created_at": "2026-06-05T09:49:17+00:00",
-    "updated_at": "2026-06-05T09:49:17Z"
-  },
-  {
-    "id": "89511856c2c8f754a7ec0e1499c6f07e",
-    "title": "Michael Jackson's shadow of doubt",
-    "author": "Rodney Carmichael",
-    "description": "A sanded-down biopic about the King of pop and propaganda has resurfaced his music on the charts — along with questions about how his enduring magic became make-believe",
-    "summary_ai": "",
-    "categories": [
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "NPR Books",
-    "published_date": "2026-06-03",
-    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2500x1762+0+0/resize/2500x1762!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F51%2F9e7cd1f64e6f995336b62dbe61db%2Fgettyimages-52767193.jpg",
-    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2500x1762+0+0/resize/2500x1762!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F51%2F9e7cd1f64e6f995336b62dbe61db%2Fgettyimages-52767193.jpg",
-    "article_url": "https://www.npr.org/2026/06/03/nx-s1-5843133/michael-jackson-biopic-legacy-impact-essay",
-    "source": "NPR Books",
-    "source_type": "rss",
-    "tags": [
-      "reviews"
-    ],
-    "created_at": "2026-06-05T09:49:16+00:00",
-    "updated_at": "2026-06-05T09:49:16Z"
+    "created_at": "2026-06-05T19:48:37+00:00",
+    "updated_at": "2026-06-05T19:48:37Z"
   }
 ]
