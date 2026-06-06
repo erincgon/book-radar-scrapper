@@ -1,5 +1,36 @@
 [
   {
+    "id": "82b8028d47c79de992415f8b94eb78ae",
+    "title": "Top 100 reader novels",
+    "author": "Guardian staff and contributors",
+    "description": "After critics and authors picked their top 100 novels we asked for your favourites. From Uruguay to the Isle of Skye, more than 3,000 readers cast their votes. Here’s your list – topped by a new number 1 • Read about your choices here *** 100 Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "Fiction In Translation"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-06",
+    "thumbnail": "https://i.guim.co.uk/img/media/a9c8006fbf16917a44fff2d4965ea446fae54dbf/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=e126adc4806d0789ed8c8f2cd3dba719",
+    "cover_large": "https://i.guim.co.uk/img/media/a9c8006fbf16917a44fff2d4965ea446fae54dbf/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=e126adc4806d0789ed8c8f2cd3dba719",
+    "article_url": "https://www.theguardian.com/books/2026/jun/06/move-over-middlemarch-readers-top-100-novels",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "Fiction in translation",
+      "books"
+    ],
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
+  },
+  {
     "id": "c248fee74589590df3b667238bce3afb",
     "title": "A Summer Book Recommendation Bonanza",
     "author": "Gilbert Cruz, Sarah Diamond, Amy Pearl, Patricia Sulbarán and Larissa Anderson",
@@ -32,8 +63,8 @@
       "books",
       "internal-open-access-audio"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "eeb5449933dd5e27bf9597292c89fc86",
@@ -76,8 +107,8 @@
       "The Man Who Stole the Gods: A True Story of War, Obsession, and a Global Art Conspiracy (Book)",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "8bf2f69327179dc09d35522731f97958",
@@ -108,8 +139,8 @@
       "Villa Coco (Book)",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "51242b0e33b84fcce86a8424a093428a",
@@ -136,8 +167,8 @@
       "Weddings and Engagements",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "d3c735f2387cfd7f15c77ba14d4076a6",
@@ -173,8 +204,8 @@
       "Marjane Satrapi",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "3559a1bc924ee97b597573623c23f713",
@@ -205,8 +236,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "a241cc5dc1efa31d20b1f1aea03545de",
@@ -236,8 +267,8 @@
       "Poetry",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "095f2d9e7eb6478f8e2a4bba4ee0b983",
@@ -276,8 +307,8 @@
       "Niemann, Hans (2003- )",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "47f1e35efb40bb863b90b6a79df8709d",
@@ -316,8 +347,8 @@
       "Tony Awards (Theater Awards)",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "3af805da186261ff16b67cc561cb4e3e",
@@ -347,8 +378,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "a1355264f0aedbb5668633e948b1dbd2",
@@ -380,8 +411,8 @@
       "Travel",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "ae7311b6cf95bc122816a5754aca9daa",
@@ -412,8 +443,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "232cb56765a4d27fd34b3ef2d5026593",
@@ -457,8 +488,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "60c4d533b79aa30fa224c09234c105ed",
@@ -491,8 +522,8 @@
       "books",
       "ekphrasis"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "af7171558d89f10dce84f2baf70caff9",
@@ -551,8 +582,8 @@
       "The Witch (Book)",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "67cc1c8b74bc8a9566b5b7721ed51b53",
@@ -582,8 +613,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "df9a343c694a8fd91c32b0d85d81be3c",
@@ -632,8 +663,8 @@
       "View from the East Wing: A Memoir (Book)",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "e5c71269c58e8243c9108e83e8179c05",
@@ -662,8 +693,8 @@
       "What Came West (Book)",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "9802d0820bc427984de1dd64ac4cbfcb",
@@ -694,8 +725,8 @@
       "books",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "1523f4257a76ccd5309badfe8f8c4ea5",
@@ -734,8 +765,8 @@
       "US and Israeli Attack on Iran (2026)",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "51d159e83b7a9dafd384b0167d4d7e11",
@@ -782,8 +813,8 @@
       "Wiccan and Hulkling: Raid of Ultron (Book)",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "cd29f8375e271820c02627200e68f1d2",
@@ -815,8 +846,8 @@
       "Michael Ondaatje",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "57bd41ee8b43fbfafe98e7c6aefba314",
@@ -853,8 +884,8 @@
       "Pop and rock",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "29069fad914cadf22df6eda4a2ff21dd",
@@ -886,8 +917,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "8d7311adb9974957d1c351bb8f4052b7",
@@ -916,8 +947,8 @@
       "The Man Who Read Everything: The Literary Letters of Harold Bloom (Book)",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "f68266f9b29fffbd6d0f99a1ae2cac15",
@@ -951,41 +982,8 @@
       "UK news",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
-  },
-  {
-    "id": "82be1df4d5178b68d1db7a7c46785355",
-    "title": "Submissions open for 4thWrite short story prize",
-    "author": "Emma Loffhagen",
-    "description": "Now in its 10th year, the £1,000 competition is held by publisher 4th Estate and the Guardian, and open to Black, Asian and minority ethnic writers in the UK and Ireland The 4thWrite prize, an annual short story competition for Black, Asian and minority ethnic writers run by publisher 4th Estate and the Guardian, has opened for submissions. The winner will receive £1,000, a one-day publishing workshop at 4th Estate and publication of their story on the Guardian website. The shortlisted stories will be published on the 4th Estate website. The prize is open to writers aged 18 and over living in the UK or Ireland. Submissions can be made at www.4thEstate.co.uk/prize , where full terms and conditions are available. Any queries can be sent to 4thWritePrize@harpercollins.co.uk Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "4Thwrite Short Story Prize",
-      "Awards And Prizes",
-      "Books",
-      "Culture",
-      "Kamila Shamsie"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "HarperCollins",
-    "published_date": "2026-05-29",
-    "thumbnail": "https://i.guim.co.uk/img/media/34d2fb29229091ba1911714dd07598e24a6d653f/601_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=f17f4c261de15ebfff289c0caa900f44",
-    "cover_large": "https://i.guim.co.uk/img/media/34d2fb29229091ba1911714dd07598e24a6d653f/601_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=f17f4c261de15ebfff289c0caa900f44",
-    "article_url": "http://www.4thestate.co.uk/prize",
-    "source": "4Thestate",
-    "source_type": "rss",
-    "tags": [
-      "4thWrite short story prize",
-      "Awards and prizes",
-      "Books",
-      "Culture",
-      "Kamila Shamsie",
-      "books"
-    ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "9c757d6aaf4d44b96e565b4ad3680e78",
@@ -1018,8 +1016,8 @@
       "Music books",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "70cd24b8757464da7bbe573c0af45489",
@@ -1055,8 +1053,8 @@
       "Sarah Moss",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -1086,7 +1084,7 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-05T19:48:37+00:00",
-    "updated_at": "2026-06-05T19:48:37Z"
+    "created_at": "2026-06-06T08:32:57+00:00",
+    "updated_at": "2026-06-06T08:32:57Z"
   }
 ]
