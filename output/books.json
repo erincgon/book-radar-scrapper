@@ -1,5 +1,89 @@
 [
   {
+    "id": "bec1621bb7d458e896a8792ee15f23df",
+    "title": "An Edith Wharton Short Story Is Published About 100 Years Later",
+    "author": "Emmett Lindner",
+    "description": "The short story, which is set during World War I, is believed to have been printed for the first time on Friday. The story is thought to have been written no earlier than July 1918.",
+    "summary_ai": "",
+    "categories": [
+      "Beinecke Rare Book And Manuscript Library",
+      "Books",
+      "Books And Literature",
+      "Libraries And Librarians",
+      "Magazines",
+      "Michigan",
+      "Strand Magazine",
+      "Wharton, Edith",
+      "World War I (1914-18)",
+      "Writing And Writers",
+      "Yale University"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-06",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/06/multimedia/06xp-wharton-edith-lqpc/06xp-wharton-edith-lqpc-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/06/multimedia/06xp-wharton-edith-lqpc/06xp-wharton-edith-lqpc-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/06/books/edith-wharton-new-short-story.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Beinecke Rare Book and Manuscript Library",
+      "Books and Literature",
+      "Libraries and Librarians",
+      "Magazines",
+      "Michigan",
+      "Strand Magazine",
+      "Wharton, Edith",
+      "World War I (1914-18)",
+      "Writing and Writers",
+      "Yale University",
+      "books"
+    ],
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
+  },
+  {
+    "id": "32610f44762d64c5aa7856bfce2f3c5e",
+    "title": "In ‘Waist Deep,’ Linea Maja Ernst Explores Millennial Desire",
+    "author": "Amelia Nierenberg",
+    "description": "The Danish writer Linea Maja Ernst’s debut novel, “Waist Deep,” a hit in Europe, explores the flirtations and frustrations within a millennial friendship circle.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Denmark",
+      "Linea Maja Ernst",
+      "Millennial Generation",
+      "Polyamory And Non-Monogamous Relationships",
+      "Rooney, Sally (Author)",
+      "Sex",
+      "Waist Deep"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-06",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/08/multimedia/08cul-danish-author-fwjg/08cul-danish-author-fwjg-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/08/multimedia/08cul-danish-author-fwjg/08cul-danish-author-fwjg-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/06/books/linea-ernst-denmark-millennial-novel-waist-deep.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Denmark",
+      "Linea Maja Ernst",
+      "Millennial Generation",
+      "Polyamory and Non-Monogamous Relationships",
+      "Rooney, Sally (Author)",
+      "Sex",
+      "Waist Deep",
+      "books"
+    ],
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
+  },
+  {
     "id": "82b8028d47c79de992415f8b94eb78ae",
     "title": "Top 100 reader novels",
     "author": "Guardian staff and contributors",
@@ -27,8 +111,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "c248fee74589590df3b667238bce3afb",
@@ -63,8 +147,8 @@
       "books",
       "internal-open-access-audio"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "eeb5449933dd5e27bf9597292c89fc86",
@@ -107,8 +191,8 @@
       "The Man Who Stole the Gods: A True Story of War, Obsession, and a Global Art Conspiracy (Book)",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "8bf2f69327179dc09d35522731f97958",
@@ -139,8 +223,8 @@
       "Villa Coco (Book)",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "51242b0e33b84fcce86a8424a093428a",
@@ -167,8 +251,8 @@
       "Weddings and Engagements",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "d3c735f2387cfd7f15c77ba14d4076a6",
@@ -204,8 +288,8 @@
       "Marjane Satrapi",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "3559a1bc924ee97b597573623c23f713",
@@ -236,8 +320,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "a241cc5dc1efa31d20b1f1aea03545de",
@@ -267,8 +351,8 @@
       "Poetry",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "095f2d9e7eb6478f8e2a4bba4ee0b983",
@@ -307,8 +391,8 @@
       "Niemann, Hans (2003- )",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "47f1e35efb40bb863b90b6a79df8709d",
@@ -347,8 +431,8 @@
       "Tony Awards (Theater Awards)",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "3af805da186261ff16b67cc561cb4e3e",
@@ -378,8 +462,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "a1355264f0aedbb5668633e948b1dbd2",
@@ -411,8 +495,8 @@
       "Travel",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "ae7311b6cf95bc122816a5754aca9daa",
@@ -443,8 +527,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "232cb56765a4d27fd34b3ef2d5026593",
@@ -488,8 +572,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "60c4d533b79aa30fa224c09234c105ed",
@@ -522,8 +606,8 @@
       "books",
       "ekphrasis"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "af7171558d89f10dce84f2baf70caff9",
@@ -582,8 +666,8 @@
       "The Witch (Book)",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "67cc1c8b74bc8a9566b5b7721ed51b53",
@@ -613,8 +697,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "df9a343c694a8fd91c32b0d85d81be3c",
@@ -663,8 +747,8 @@
       "View from the East Wing: A Memoir (Book)",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "e5c71269c58e8243c9108e83e8179c05",
@@ -693,8 +777,8 @@
       "What Came West (Book)",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "9802d0820bc427984de1dd64ac4cbfcb",
@@ -725,96 +809,8 @@
       "books",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
-  },
-  {
-    "id": "1523f4257a76ccd5309badfe8f8c4ea5",
-    "title": "Book Review: ‘Stolen Revolution,’ by Yeganeh Torbati and Bozorgmehr Sharafedin",
-    "author": "Reza Aslan",
-    "description": "In a quietly devastating new book, two journalists chart the protest movements fighting for change inside the country.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Demonstrations, Protests And Riots",
-      "Iran",
-      "Politics And Government",
-      "Sharafedin, Bozorgmehr",
-      "Stolen Revolution: Betrayal And Hope In Modern Iran (Book)",
-      "Torbati, Yeganeh",
-      "Us And Israeli Attack On Iran (2026)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-02",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/02/books/02TBR-TorbatiSharafedin-Review/02TBR-TorbatiSharafedin-Review-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/02/books/02TBR-TorbatiSharafedin-Review/02TBR-TorbatiSharafedin-Review-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/02/books/review/stolen-revolutions-yeganeh-torbati-bozorgmehr-sharafedin.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Demonstrations, Protests and Riots",
-      "Iran",
-      "Politics and Government",
-      "Sharafedin, Bozorgmehr",
-      "Stolen Revolution: Betrayal and Hope in Modern Iran (Book)",
-      "Torbati, Yeganeh",
-      "US and Israeli Attack on Iran (2026)",
-      "books"
-    ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
-  },
-  {
-    "id": "51d159e83b7a9dafd384b0167d4d7e11",
-    "title": "9 Comic Books and Graphic Novels to Celebrate Pride Month",
-    "author": "George Gene Gustines",
-    "description": "Historical chronicles and flights of fancy, all with L.G.B.T.Q. protagonists, arrive starting in June.",
-    "summary_ai": "",
-    "categories": [
-      "Bitter Pill: Randy Shilts And The Dawn Of The Hiv/Aids Epidemic (Book)",
-      "Books",
-      "Comic Books And Strips",
-      "Coming Out Perfect (Book)",
-      "Graphic Novels",
-      "Justice League: Dream Girls A Dc Pride Event (Book)",
-      "Ladies Of The Knight (Book)",
-      "Lgbtq Pride Month (Us)",
-      "Pink Monsters (Book)",
-      "Star Trek: Celebrations (Book)",
-      "The City Beneath Her Feet (Book)",
-      "The Nightingales (Book)",
-      "Wiccan And Hulkling: Raid Of Ultron (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-02",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/03/arts/01-cul-pride-comics_art-04/01-cul-pride-comics_art-04-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/03/arts/01-cul-pride-comics_art-04/01-cul-pride-comics_art-04-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/01/arts/pride-month-comic-books-graphic-novels.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Bitter Pill: Randy Shilts and the Dawn of the HIV/AIDS Epidemic (Book)",
-      "Comic Books and Strips",
-      "Coming Out Perfect (Book)",
-      "Graphic Novels",
-      "Justice League: Dream Girls A DC Pride Event (Book)",
-      "LGBTQ Pride Month (US)",
-      "Ladies of the Knight (Book)",
-      "Pink Monsters (Book)",
-      "Star Trek: Celebrations (Book)",
-      "The City Beneath Her Feet (Book)",
-      "The Nightingales (Book)",
-      "Wiccan and Hulkling: Raid of Ultron (Book)",
-      "books"
-    ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "cd29f8375e271820c02627200e68f1d2",
@@ -846,8 +842,8 @@
       "Michael Ondaatje",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "57bd41ee8b43fbfafe98e7c6aefba314",
@@ -884,8 +880,8 @@
       "Pop and rock",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "29069fad914cadf22df6eda4a2ff21dd",
@@ -917,38 +913,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
-  },
-  {
-    "id": "8d7311adb9974957d1c351bb8f4052b7",
-    "title": "Book Review: ‘The Man Who Read Everything: The Literary Letters of Harold Bloom’",
-    "author": "Dwight Garner",
-    "description": "A collection of Harold Bloom’s letters details the working life of one of America’s most influential intellects.",
-    "summary_ai": "",
-    "categories": [
-      "Bloom, Harold",
-      "Books",
-      "Books And Literature",
-      "The Man Who Read Everything: The Literary Letters Of Harold Bloom (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-01",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/01/multimedia/01TBR-Bloom-review-vpzj/01TBR-Bloom-review-vpzj-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/01/multimedia/01TBR-Bloom-review-vpzj/01TBR-Bloom-review-vpzj-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/01/books/review/harold-bloom-man-who-read-everything.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Bloom, Harold",
-      "Books and Literature",
-      "The Man Who Read Everything: The Literary Letters of Harold Bloom (Book)",
-      "books"
-    ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "f68266f9b29fffbd6d0f99a1ae2cac15",
@@ -982,8 +948,8 @@
       "UK news",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "9c757d6aaf4d44b96e565b4ad3680e78",
@@ -1016,8 +982,8 @@
       "Music books",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "70cd24b8757464da7bbe573c0af45489",
@@ -1053,8 +1019,8 @@
       "Sarah Moss",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -1084,7 +1050,47 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
+  },
+  {
+    "id": "65d8c8ca1a174f11e32ec64ace3460db",
+    "title": "The Best Romance Novels of 2024 (So Far)",
+    "author": "Olivia Waite",
+    "description": "Looking for an escapist love story? Here are 2024’s sexiest, swooniest reads.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Chu, Lily (Author)",
+      "Genre-Books-Romance",
+      "Grossman, Felicia (Author)",
+      "Sebastian, Cat",
+      "Williams, Tia",
+      "You Should Be So Lucky (Book)"
+    ],
+    "genre": [
+      "Romance"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2024-10-01",
+    "thumbnail": "https://static01.nyt.com/images/2024/05/03/books/review/03Romance-WhatToReadNow/03Romance-WhatToReadNow-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2024/05/03/books/review/03Romance-WhatToReadNow/03Romance-WhatToReadNow-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/article/best-romance-books.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Chu, Lily (Author)",
+      "Grossman, Felicia (Author)",
+      "Sebastian, Cat",
+      "Williams, Tia",
+      "You Should Be So Lucky (Book)",
+      "books",
+      "genre-books-romance"
+    ],
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   }
 ]

@@ -1,5 +1,89 @@
 [
   {
+    "id": "bec1621bb7d458e896a8792ee15f23df",
+    "title": "An Edith Wharton Short Story Is Published About 100 Years Later",
+    "author": "Emmett Lindner",
+    "description": "The short story, which is set during World War I, is believed to have been printed for the first time on Friday. The story is thought to have been written no earlier than July 1918.",
+    "summary_ai": "",
+    "categories": [
+      "Beinecke Rare Book And Manuscript Library",
+      "Books",
+      "Books And Literature",
+      "Libraries And Librarians",
+      "Magazines",
+      "Michigan",
+      "Strand Magazine",
+      "Wharton, Edith",
+      "World War I (1914-18)",
+      "Writing And Writers",
+      "Yale University"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-06",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/06/multimedia/06xp-wharton-edith-lqpc/06xp-wharton-edith-lqpc-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/06/multimedia/06xp-wharton-edith-lqpc/06xp-wharton-edith-lqpc-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/06/books/edith-wharton-new-short-story.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Beinecke Rare Book and Manuscript Library",
+      "Books and Literature",
+      "Libraries and Librarians",
+      "Magazines",
+      "Michigan",
+      "Strand Magazine",
+      "Wharton, Edith",
+      "World War I (1914-18)",
+      "Writing and Writers",
+      "Yale University",
+      "books"
+    ],
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
+  },
+  {
+    "id": "32610f44762d64c5aa7856bfce2f3c5e",
+    "title": "In ‘Waist Deep,’ Linea Maja Ernst Explores Millennial Desire",
+    "author": "Amelia Nierenberg",
+    "description": "The Danish writer Linea Maja Ernst’s debut novel, “Waist Deep,” a hit in Europe, explores the flirtations and frustrations within a millennial friendship circle.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Denmark",
+      "Linea Maja Ernst",
+      "Millennial Generation",
+      "Polyamory And Non-Monogamous Relationships",
+      "Rooney, Sally (Author)",
+      "Sex",
+      "Waist Deep"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-06",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/08/multimedia/08cul-danish-author-fwjg/08cul-danish-author-fwjg-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/08/multimedia/08cul-danish-author-fwjg/08cul-danish-author-fwjg-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/06/books/linea-ernst-denmark-millennial-novel-waist-deep.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Denmark",
+      "Linea Maja Ernst",
+      "Millennial Generation",
+      "Polyamory and Non-Monogamous Relationships",
+      "Rooney, Sally (Author)",
+      "Sex",
+      "Waist Deep",
+      "books"
+    ],
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
+  },
+  {
     "id": "82b8028d47c79de992415f8b94eb78ae",
     "title": "Top 100 reader novels",
     "author": "Guardian staff and contributors",
@@ -27,8 +111,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "c248fee74589590df3b667238bce3afb",
@@ -63,8 +147,8 @@
       "books",
       "internal-open-access-audio"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "eeb5449933dd5e27bf9597292c89fc86",
@@ -107,8 +191,8 @@
       "The Man Who Stole the Gods: A True Story of War, Obsession, and a Global Art Conspiracy (Book)",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "8bf2f69327179dc09d35522731f97958",
@@ -139,8 +223,8 @@
       "Villa Coco (Book)",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "51242b0e33b84fcce86a8424a093428a",
@@ -167,8 +251,8 @@
       "Weddings and Engagements",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "d3c735f2387cfd7f15c77ba14d4076a6",
@@ -204,8 +288,8 @@
       "Marjane Satrapi",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "3559a1bc924ee97b597573623c23f713",
@@ -236,8 +320,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "a241cc5dc1efa31d20b1f1aea03545de",
@@ -267,70 +351,116 @@
       "Poetry",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
-    "id": "6b57c33a5972fb7d547ef65ac4d86a99",
-    "title": "A World",
-    "author": "Vanessa Diaz",
-    "description": "The history of this bestseller is almost as interesting as the author's life itself.",
+    "id": "b52a448d99d9d2f7bf6805d4d3447550",
+    "title": "On the Workplace Accident That Changed Amazon Union-Leader Chris Smalls’s Life",
+    "author": "Chris Smalls",
+    "description": "My mother didn’t have the budget for me to compete with the kids who had Jordans or AF1s or who rocked any of the more expensive brands. This was something I had hard feelings about when I was younger. Maybe",
     "summary_ai": "",
     "categories": [
-      "Bipoc",
-      "In Reading Color",
+      "Chris Smalls",
+      "Class",
+      "Features",
+      "Injuries",
+      "Jobs",
+      "Knopf Doubleday Publishing Group",
+      "Labor",
+      "Memoir",
+      "News And Culture",
+      "Pantheon Books",
+      "Penguin Random House",
+      "Politics",
       "Reviews",
-      "Zero To Well-Read"
+      "Target",
+      "When The Revolution Comes: A Fight For The Future Of The Working Class"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Penguin Random House",
+    "published_date": "2026-06-05",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/target-parking-lot-768x384.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/target-parking-lot-768x384.jpg",
+    "article_url": "https://lithub.com/on-the-workplace-accident-that-changed-amazon-union-leader-chris-smallss-life/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Chris Smalls",
+      "Features",
+      "Knopf Doubleday Publishing Group",
+      "Memoir",
+      "News and Culture",
+      "Pantheon Books",
+      "Penguin Random House",
+      "Politics",
+      "Target",
+      "When the Revolution Comes: A Fight for the Future of the Working Class",
+      "class",
+      "injuries",
+      "jobs",
+      "labor",
+      "reviews"
+    ],
+    "created_at": "2026-06-06T19:15:20+00:00",
+    "updated_at": "2026-06-06T19:15:20Z"
+  },
+  {
+    "id": "930a1825b046a4b57ce09a81eafc2d6a",
+    "title": "Thrillers About Marriage",
+    "author": "Addison Rizer",
+    "description": "In these thrillers about marriage, you'll find narratives of infidelity, revenge, and even serial killers living in suburbia.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Unusual Suspects"
     ],
     "genre": [
-      "History"
+      "Thriller"
     ],
     "language": "English",
     "publisher": "Book Riot",
     "published_date": "2026-06-05",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2021/08/I-Know-Why-the-Caged-Bird-Sings-Book-Cover.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2021/08/I-Know-Why-the-Caged-Bird-Sings-Book-Cover.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/zero-to-well-read-i-know-why-the-caged-bird-sings/",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/02/211399774._SY475_-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2025/02/211399774._SY475_-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/best-thrillers-about-marriage/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "BIPOC",
-      "In Reading Color",
-      "Zero to Well-Read",
+      "Unusual Suspects",
       "reviews"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:20+00:00",
+    "updated_at": "2026-06-06T19:15:20Z"
   },
   {
-    "id": "cc6b4426843d0a9edda660ebaf520edd",
-    "title": "Summer Horror Reads Coming Out This June 2026",
-    "author": "Emily Martin",
-    "description": "There's a place for feel-good summer reads, but if nightmare fuel is more your speed, check out these new horror releases.",
+    "id": "74eb0b31324621fccfe4d71f4fe78202",
+    "title": "The Most Read Books on Goodreads in 2026 (So Far)",
+    "author": "Community",
+    "description": "We're near the halfway point of the year, and Goodreads has announced users' most read books of 2026 so far. How many have you read?",
     "summary_ai": "",
     "categories": [
-      "Horror",
-      "Reviews",
-      "The Fright Stuff"
+      "Breaking In Books",
+      "News",
+      "Reviews"
     ],
-    "genre": [
-      "Horror"
-    ],
+    "genre": [],
     "language": "English",
     "publisher": "Book Riot",
     "published_date": "2026-06-05",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/marion-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/marion-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/new-horror-books-june-2026/",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2024/02/James-by-Percival-Everett-300x0.jpeg.optimal.jpeg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2024/02/James-by-Percival-Everett-300x0.jpeg.optimal.jpeg",
+    "article_url": "https://bookriot.com/most-read-books-on-goodreads-in-2026-so-far/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Horror",
-      "The Fright Stuff",
+      "News",
+      "breaking in books",
       "reviews"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:20+00:00",
+    "updated_at": "2026-06-06T19:15:20Z"
   },
   {
     "id": "7d91f97d92e8218df1a9afd2ab2e636e",
@@ -355,8 +485,8 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:20+00:00",
+    "updated_at": "2026-06-06T19:15:20Z"
   },
   {
     "id": "846651b59acab926e678ce1054c1ee09",
@@ -381,8 +511,8 @@
       "Literary Activism",
       "reviews"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:20+00:00",
+    "updated_at": "2026-06-06T19:15:20Z"
   },
   {
     "id": "df6f3d97728511eaafdcccbf11cbdbaf",
@@ -409,36 +539,8 @@
       "The Stack",
       "reviews"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
-  },
-  {
-    "id": "1f6d814face82477d75a691ce4d516b4",
-    "title": "A Tennessee School District has Banned Alex Haley’s ROOTS, and More Library News",
-    "author": "Katie McLain Horner",
-    "description": "School officials said, \"Broader themes or historical significance of a work as a whole is not a consideration under the law.\"",
-    "summary_ai": "",
-    "categories": [
-      "Check Your Shelf",
-      "Libraries",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-05",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2021/10/image-of-a-person-holding-a-burning-book.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2021/10/image-of-a-person-holding-a-burning-book.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/tennessee-school-district-banned-roots/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Check Your Shelf",
-      "Libraries",
-      "reviews"
-    ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:20+00:00",
+    "updated_at": "2026-06-06T19:15:20Z"
   },
   {
     "id": "095f2d9e7eb6478f8e2a4bba4ee0b983",
@@ -477,8 +579,8 @@
       "Niemann, Hans (2003- )",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "47f1e35efb40bb863b90b6a79df8709d",
@@ -517,8 +619,8 @@
       "Tony Awards (Theater Awards)",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "3af805da186261ff16b67cc561cb4e3e",
@@ -548,8 +650,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   },
   {
     "id": "a1355264f0aedbb5668633e948b1dbd2",
@@ -581,63 +683,7 @@
       "Travel",
       "books"
     ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
-  },
-  {
-    "id": "ae7311b6cf95bc122816a5754aca9daa",
-    "title": "Dominion by Addie E Citchens review – Women’s prize-shortlisted portrait of patriarchy’s horrors",
-    "author": "Emma Loffhagen",
-    "description": "The violence of male entitlement is embodied in the charismatic son of a Mississippi pastor, in a sharp portrait of cruelty and inheritance ‘To woman he gave a womb, and to man he gave dominion’, that’s what I teach my boys,” the Rev Sabre Winfrey Jr tells his wife, Priscilla, midway through Addie E Citchens’s formidable Women’s prize-shortlisted debut novel, Dominion. In Citchens’s hands, that dominion is exercised not only through violence, but through charisma, piety and the banality of male entitlement. Set in the fictional town of Dominion, Mississippi, at the turn of the millennium, the novel follows the Winfreys, a prominent Black church family whose putative grandeur conceals a deep and hereditary decay. Sabre leads the largest congregation in the state from the pulpit of Seven Seals Baptist church, dispensing wisdom through sermons and local radio broadcasts, exuding the oily confidence of a man convinced that God speaks exclusively in his register. The longsuffering Priscilla writes those sermons, raises their five sons and silently maintains the machinery of his authority without ever receiving credit for it. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [
-      "Fiction",
-      "Horror"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-04",
-    "thumbnail": "https://i.guim.co.uk/img/media/ea75501a8b7e9c1b47a54c5197b11942cac69b23/166_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=ae41140fff02f8c8a12ae1dbd2593b98",
-    "cover_large": "https://i.guim.co.uk/img/media/ea75501a8b7e9c1b47a54c5197b11942cac69b23/166_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=ae41140fff02f8c8a12ae1dbd2593b98",
-    "article_url": "https://www.theguardian.com/books/2026/jun/04/dominion-by-addie-e-citchens-review-womens-prize-shortlisted-portrait-of-patriarchys-horrors",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
-  },
-  {
-    "id": "2c4b1d658333a16b47ebaaacc78b1fa6",
-    "title": "'The ship of my life': Sting talks the comeback of his musical",
-    "author": "Leila Fadel",
-    "description": "The Last Ship , the first musical to be staged at New York's Metropolitan Opera, inspired by Sting's childhood growing up in the shadow of a shipyard.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "NPR Books",
-    "published_date": "2026-06-04",
-    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4201x2801+0+0/resize/4201x2801!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2F07%2Ffeca1e1747d2aa638cc22d5ce8ba%2Fthe-last-ship-2026-show-6546.jpg",
-    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4201x2801+0+0/resize/4201x2801!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2F07%2Ffeca1e1747d2aa638cc22d5ce8ba%2Fthe-last-ship-2026-show-6546.jpg",
-    "article_url": "https://www.npr.org/2026/06/04/nx-s1-5608084/sting-musical-the-last-ship-interview",
-    "source": "NPR Books",
-    "source_type": "rss",
-    "tags": [
-      "reviews"
-    ],
-    "created_at": "2026-06-06T08:32:57+00:00",
-    "updated_at": "2026-06-06T08:32:57Z"
+    "created_at": "2026-06-06T19:15:21+00:00",
+    "updated_at": "2026-06-06T19:15:21Z"
   }
 ]
