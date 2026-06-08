@@ -1,9 +1,139 @@
 [
   {
+    "id": "94be3d8fef5cdb638762e3ccdbf0ffc1",
+    "title": "Gordon S. Wood, Pioneering Historian of Early America, Dies at 92",
+    "author": "David Stout",
+    "description": "In a Pulitzer-winning book, “The Radicalism of the American Revolution,” he wrote that the colonists rose up against an entire worldview, not just against taxation.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Damon, Matt",
+      "Deaths (Obituaries)",
+      "Power And Liberty: Constitutionalism In The American Revolution (Book)",
+      "Pulitzer Prizes",
+      "Revolutionary War, American (1775-83)",
+      "The 1619 Project: A New Origin Story (Book)",
+      "The Radicalism Of The American Revolution (Book)",
+      "Wood, Gordon S",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-08",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/08/obituaries/08wood-gordon-obit/08wood-gordon-obit-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/08/obituaries/08wood-gordon-obit/08wood-gordon-obit-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/08/books/gordon-s-wood-dead.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Damon, Matt",
+      "Deaths (Obituaries)",
+      "Power and Liberty: Constitutionalism in the American Revolution (Book)",
+      "Pulitzer Prizes",
+      "Revolutionary War, American (1775-83)",
+      "The 1619 Project: A New Origin Story (Book)",
+      "The Radicalism of the American Revolution (Book)",
+      "Wood, Gordon S",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
+  },
+  {
+    "id": "1a4e1cdd9d0afaeb849a491e10c4981a",
+    "title": "Robert Coles, Pulitzer-Winning Child Psychiatrist, Is Dead at 97",
+    "author": "Douglas Martin",
+    "description": "His five-volume “Children of Crisis” series, published between 1967 and 1977, drew on his conversations with American children whose voices were not often heard.",
+    "summary_ai": "",
+    "categories": [
+      "Black People",
+      "Books",
+      "Books And Literature",
+      "Bridges, Ruby",
+      "Children And Childhood",
+      "Coles, Robert (1928-2026)",
+      "Deaths (Obituaries)",
+      "Harvard University",
+      "Psychiatry And Psychiatrists",
+      "Pulitzer Prizes"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-08",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/10/obituaries/00Coles-01-print1/00Coles-01-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/10/obituaries/00Coles-01-print1/00Coles-01-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/07/us/robert-coles-dead.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Black People",
+      "Books and Literature",
+      "Bridges, Ruby",
+      "Children and Childhood",
+      "Coles, Robert (1928-2026)",
+      "Deaths (Obituaries)",
+      "Harvard University",
+      "Psychiatry and Psychiatrists",
+      "Pulitzer Prizes",
+      "books"
+    ],
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
+  },
+  {
+    "id": "eeb5449933dd5e27bf9597292c89fc86",
+    "title": "Book Review: ‘The Man Who Stole the Gods,’ by Matthew Campbell",
+    "author": "Hugh Eakin",
+    "description": "In “The Man Who Stole the Gods,” Matthew Campbell recounts how cultural artifacts were pillaged in Cambodia.",
+    "summary_ai": "",
+    "categories": [
+      "Angkor (Cambodia)",
+      "Arts And Antiquities Looting",
+      "Books",
+      "Books And Literature",
+      "Cambodia",
+      "Campbell, Matthew (Journalist)",
+      "Latchford, Douglas A J",
+      "Museums",
+      "Sculpture",
+      "The Man Who Stole The Gods: A True Story Of War, Obsession, And A Global Art Conspiracy (Book)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-08",
+    "thumbnail": "https://static01.nyt.com/images/2026/05/26/multimedia/00TBRCampbell-Review-hflj/00TBRCampbell-Review-hflj-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/05/26/multimedia/00TBRCampbell-Review-hflj/00TBRCampbell-Review-hflj-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/05/books/review/man-who-stole-the-gods-matthew-campbell.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Angkor (Cambodia)",
+      "Arts and Antiquities Looting",
+      "Books and Literature",
+      "Cambodia",
+      "Campbell, Matthew (Journalist)",
+      "Latchford, Douglas A J",
+      "Museums",
+      "Sculpture",
+      "The Man Who Stole the Gods: A True Story of War, Obsession, and a Global Art Conspiracy (Book)",
+      "books"
+    ],
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
+  },
+  {
     "id": "fa3a9d21c7f18b0cf9710f320276a6b1",
     "title": "A British Childhood by Frank Cottrell-Boyce review – are we raising a bookless generation?",
     "author": "Joe Moran",
-    "description": "This clarion call about the loss of delight and safety in children’s lives is also a reminder of the sheer magic of reading Every day, on my walk to work, I pass a primary school. A group of little people are being dropped off by parents. They are met at the gates by a teacher who greets them all by name before leading them up the steps to breakfast club. In the cold and dark of winter, with the school’s windows glowing invitingly, I sometimes envy these children their warm, welcoming cocoon. I thought of that daily scene often when reading this book, which is inspired by Frank Cottrell-Boyce’s time as Waterstones children’s laureate. During his laureateship he ran a campaign with the literary charity BookTrust called Reading Rights, addressing literacy inequality for children in poverty. It was prompted by the discovery that nearly half of children were arriving at school without having been read to. Many had no clue how books worked. They were trying to swipe rather than turn pages, or expand illustrations by pinching them with their fingers. Continue reading...",
+    "description": "This clarion call about the impoverishment of children’s lives is also a reminder of the sheer magic of reading Every day, on my walk to work, I pass a primary school. A group of little people are being dropped off by parents. They are met at the gates by a teacher who greets them all by name before leading them up the steps to breakfast club. In the cold and dark of winter, with the school’s windows glowing invitingly, I sometimes envy these children their warm, welcoming cocoon. I thought of that daily scene often when reading this book, which is inspired by Frank Cottrell-Boyce’s time as Waterstones children’s laureate. During his laureateship he ran a campaign with the literary charity BookTrust called Reading Rights, addressing literacy inequality for children in poverty. It was prompted by the discovery that nearly half of children were arriving at school without having been read to. Many had no clue how books worked. They were trying to swipe rather than turn pages, or expand illustrations by pinching them with their fingers. Continue reading...",
     "summary_ai": "",
     "categories": [
       "Books",
@@ -33,8 +163,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "0d67bf9290037bfd347ec78cb58993d5",
@@ -59,50 +189,69 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
-    "id": "1a4e1cdd9d0afaeb849a491e10c4981a",
-    "title": "Robert Coles, Pulitzer-Winning Child Psychiatrist, Is Dead at 97",
-    "author": "Douglas Martin",
-    "description": "His five-volume “Children of Crisis” series, published between 1967 and 1977, drew on his conversations with American children whose voices were not often heard.",
+    "id": "5d374ac91bf88fc572e4ad062bc6ee5a",
+    "title": "3 Caribbean Romances to Start the Celebration",
+    "author": "Jessica Pryde",
+    "description": "Celebrate Caribbean History Month with these swoony Caribbean romances, from a queer romance set in Trinidad to a tale of Jamaican vampires.",
     "summary_ai": "",
     "categories": [
-      "Black People",
-      "Books",
-      "Books And Literature",
-      "Bridges, Ruby",
-      "Children And Childhood",
-      "Deaths (Obituaries)",
-      "Harvard University",
-      "Pulitzer Prizes",
-      "Robert Coles"
+      "Kissing Books",
+      "Reviews",
+      "Romance/Erotica"
     ],
     "genre": [
-      "Children"
+      "History",
+      "Romance"
     ],
     "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-07",
-    "thumbnail": "https://static01.nyt.com/images/2021/06/28/obituaries/00Coles-01/00Coles-01-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2021/06/28/obituaries/00Coles-01/00Coles-01-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/07/us/robert-coles-dead.html",
-    "source": "The New York Times",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-08",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2022/02/517SmIIhDaL-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2022/02/517SmIIhDaL-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/caribbean-romances/",
+    "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Black People",
-      "Books and Literature",
-      "Bridges, Ruby",
-      "Children and Childhood",
-      "Deaths (Obituaries)",
-      "Harvard University",
-      "Pulitzer Prizes",
-      "Robert Coles",
-      "books"
+      "Kissing Books",
+      "Romance/Erotica",
+      "reviews"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:04+00:00",
+    "updated_at": "2026-06-08T20:09:04Z"
+  },
+  {
+    "id": "bab1447bf561bc974d24dace3b95b350",
+    "title": "Friend or Foe: 6 YA Thrillers About Friendship",
+    "author": "Katie Moench",
+    "description": "The cases in these YA thrillers about friendship are complicated by best friends, ex-friends, and enemies turned friends...and all of them have secrets.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "What'S Up In Ya",
+      "Young Adult Literature"
+    ],
+    "genre": [
+      "Thriller"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-08",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2022/11/the-agathas-book-cover-300x0.jpeg.optimal.jpeg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2022/11/the-agathas-book-cover-300x0.jpeg.optimal.jpeg",
+    "article_url": "https://bookriot.com/ya-thrillers-about-friendship/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "What's Up in YA",
+      "Young Adult Literature",
+      "reviews"
+    ],
+    "created_at": "2026-06-08T20:09:04+00:00",
+    "updated_at": "2026-06-08T20:09:04Z"
   },
   {
     "id": "3b57c29e4b93ec7c85ed61f021774c51",
@@ -131,8 +280,8 @@
       "Eggers, Dave",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "3bafd972aedab77bcb5cb1180e3ff423",
@@ -166,8 +315,8 @@
       "Society",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "e90a7d0058923c103d4bb9f5f7c06201",
@@ -199,8 +348,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "34a6d5d5e0acb510bcc529717c9dcc0a",
@@ -226,37 +375,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:28+00:00",
-    "updated_at": "2026-06-08T10:53:28Z"
-  },
-  {
-    "id": "dc1920a816aa390da16134ed4ec95cfb",
-    "title": "Book Riot’s Deals of the Day for June 7, 2026",
-    "author": "Deals",
-    "description": "A super popular witchy manga, a spicy queer romance, a dystopian story of lost sisters, a gothic mystery, and more of today's best book deals",
-    "summary_ai": "",
-    "categories": [
-      "Book Deals",
-      "Reviews"
-    ],
-    "genre": [
-      "Mystery",
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-07",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/Witch-Hat-Atelier-1-cover.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/Witch-Hat-Atelier-1-cover.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-june-7-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Book Deals",
-      "reviews"
-    ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "636b1c0e06320f8f72677ddfb7c2ab32",
@@ -279,8 +399,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:04+00:00",
+    "updated_at": "2026-06-08T20:09:04Z"
   },
   {
     "id": "2440d9eaf1dadf53f48b257fd05a84cd",
@@ -307,8 +427,8 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:04+00:00",
+    "updated_at": "2026-06-08T20:09:04Z"
   },
   {
     "id": "8ca609094d06ce0ca7083d45931d5626",
@@ -349,8 +469,8 @@
       "Riding, Alan",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "bec1621bb7d458e896a8792ee15f23df",
@@ -393,8 +513,8 @@
       "books",
       "internal-eafs"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "32610f44762d64c5aa7856bfce2f3c5e",
@@ -427,99 +547,8 @@
       "Waist Deep (Book)",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
-  },
-  {
-    "id": "82b8028d47c79de992415f8b94eb78ae",
-    "title": "Top 100 reader novels",
-    "author": "Guardian staff and contributors",
-    "description": "After critics and authors picked their top 100 novels we asked for your favourites. From Uruguay to the Isle of Skye, more than 3,000 readers cast their votes. Here’s your list – topped by a new number 1 • Read about your choices here *** 100 Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "Fiction In Translation"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-06",
-    "thumbnail": "https://i.guim.co.uk/img/media/a9c8006fbf16917a44fff2d4965ea446fae54dbf/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=e126adc4806d0789ed8c8f2cd3dba719",
-    "cover_large": "https://i.guim.co.uk/img/media/a9c8006fbf16917a44fff2d4965ea446fae54dbf/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=e126adc4806d0789ed8c8f2cd3dba719",
-    "article_url": "https://www.theguardian.com/books/2026/jun/06/move-over-middlemarch-readers-top-100-novels",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "Fiction in translation",
-      "books"
-    ],
-    "created_at": "2026-06-08T10:53:28+00:00",
-    "updated_at": "2026-06-08T10:53:28Z"
-  },
-  {
-    "id": "f1ae075a6752808383d54fbd0437286b",
-    "title": "Add the Best New Horror Books of June to Your Watchlist",
-    "author": "Community",
-    "description": "Here's the best way to keep track of new horror books.",
-    "summary_ai": "",
-    "categories": [
-      "Horror",
-      "Reviews",
-      "The Fright Stuff"
-    ],
-    "genre": [
-      "Horror"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-06",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-06-05-at-2.13.04&",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-06-05-at-2.13.04&",
-    "article_url": "https://bookriot.com/the-best-way-to-keep-track-of-new-horror-books/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Horror",
-      "The Fright Stuff",
-      "reviews"
-    ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
-  },
-  {
-    "id": "da5cc6d4f7e578bcf9ce5ad7eb607ad4",
-    "title": "A Sneak Peek of the Biggest New Children’s Books of June",
-    "author": "Community",
-    "description": "Here's the best way to keep track of new children's books—without it becoming a part-time job of catalogue reviews and spreadsheets.",
-    "summary_ai": "",
-    "categories": [
-      "Children'S",
-      "Reviews",
-      "The Kids Are All Right"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-06",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/Screenshot-2026-06-05-at-2.23.31&",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/Screenshot-2026-06-05-at-2.23.31&",
-    "article_url": "https://bookriot.com/the-best-way-to-keep-track-of-new-childrens-books/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Children's",
-      "The Kids Are All Right",
-      "reviews"
-    ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "a62e62ef0851cc98a1a294ea3bb51ec3",
@@ -542,8 +571,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:04+00:00",
+    "updated_at": "2026-06-08T20:09:04Z"
   },
   {
     "id": "2a87cd0b9406a8adae13af3c1c01b2bf",
@@ -568,8 +597,8 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:04+00:00",
+    "updated_at": "2026-06-08T20:09:04Z"
   },
   {
     "id": "c248fee74589590df3b667238bce3afb",
@@ -604,51 +633,39 @@
       "books",
       "internal-open-access-audio"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
-    "id": "eeb5449933dd5e27bf9597292c89fc86",
-    "title": "Book Review: ‘The Man Who Stole the Gods,’ by Matthew Campbell",
-    "author": "Hugh Eakin",
-    "description": "In “The Man Who Stole the Gods,” Matthew Campbell recounts a shocking, decades-long crime and the search for its perpetrator.",
+    "id": "8bf2f69327179dc09d35522731f97958",
+    "title": "Book Review: ‘Villa Coco,’ by Andrew Sean Greer",
+    "author": "Stuart Emmrich",
+    "description": "Following his “Less” books with “Villa Coco,” Andrew Sean Greer drops an aimless postgraduate into a glamorous, romantic and secret-laden setting.",
     "summary_ai": "",
     "categories": [
-      "Angkor (Cambodia)",
-      "Arts And Antiquities Looting",
       "Books",
       "Books And Literature",
-      "Cambodia",
-      "Campbell, Matthew (Journalist)",
-      "Latchford, Douglas A J",
-      "Museums",
-      "Sculpture",
-      "The Man Who Stole The Gods: A True Story Of War, Obsession, And A Global Art Conspiracy (Book)"
+      "Greer, Andrew Sean",
+      "Less (Book)",
+      "Villa Coco (Book)"
     ],
-    "genre": [
-      "Crime"
-    ],
+    "genre": [],
     "language": "English",
     "publisher": "The New York Times",
     "published_date": "2026-06-05",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/26/multimedia/00TBRCampbell-Review-hflj/00TBRCampbell-Review-hflj-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/26/multimedia/00TBRCampbell-Review-hflj/00TBRCampbell-Review-hflj-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/05/books/review/man-who-stole-the-gods-matthew-campbell.html",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/09/books/09TBR-Greer-review/09TBR-Greer-review-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/09/books/09TBR-Greer-review/09TBR-Greer-review-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/05/books/review/villa-coco-andrew-sean-greer.html",
     "source": "The New York Times",
     "source_type": "rss",
     "tags": [
-      "Angkor (Cambodia)",
-      "Arts and Antiquities Looting",
       "Books and Literature",
-      "Cambodia",
-      "Campbell, Matthew (Journalist)",
-      "Latchford, Douglas A J",
-      "Museums",
-      "Sculpture",
-      "The Man Who Stole the Gods: A True Story of War, Obsession, and a Global Art Conspiracy (Book)",
+      "Greer, Andrew Sean",
+      "Less (Book)",
+      "Villa Coco (Book)",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   }
 ]

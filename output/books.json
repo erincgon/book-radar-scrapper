@@ -1,9 +1,139 @@
 [
   {
+    "id": "94be3d8fef5cdb638762e3ccdbf0ffc1",
+    "title": "Gordon S. Wood, Pioneering Historian of Early America, Dies at 92",
+    "author": "David Stout",
+    "description": "In a Pulitzer-winning book, “The Radicalism of the American Revolution,” he wrote that the colonists rose up against an entire worldview, not just against taxation.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Damon, Matt",
+      "Deaths (Obituaries)",
+      "Power And Liberty: Constitutionalism In The American Revolution (Book)",
+      "Pulitzer Prizes",
+      "Revolutionary War, American (1775-83)",
+      "The 1619 Project: A New Origin Story (Book)",
+      "The Radicalism Of The American Revolution (Book)",
+      "Wood, Gordon S",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-08",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/08/obituaries/08wood-gordon-obit/08wood-gordon-obit-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/08/obituaries/08wood-gordon-obit/08wood-gordon-obit-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/08/books/gordon-s-wood-dead.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Damon, Matt",
+      "Deaths (Obituaries)",
+      "Power and Liberty: Constitutionalism in the American Revolution (Book)",
+      "Pulitzer Prizes",
+      "Revolutionary War, American (1775-83)",
+      "The 1619 Project: A New Origin Story (Book)",
+      "The Radicalism of the American Revolution (Book)",
+      "Wood, Gordon S",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
+  },
+  {
+    "id": "1a4e1cdd9d0afaeb849a491e10c4981a",
+    "title": "Robert Coles, Pulitzer-Winning Child Psychiatrist, Is Dead at 97",
+    "author": "Douglas Martin",
+    "description": "His five-volume “Children of Crisis” series, published between 1967 and 1977, drew on his conversations with American children whose voices were not often heard.",
+    "summary_ai": "",
+    "categories": [
+      "Black People",
+      "Books",
+      "Books And Literature",
+      "Bridges, Ruby",
+      "Children And Childhood",
+      "Coles, Robert (1928-2026)",
+      "Deaths (Obituaries)",
+      "Harvard University",
+      "Psychiatry And Psychiatrists",
+      "Pulitzer Prizes"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-08",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/10/obituaries/00Coles-01-print1/00Coles-01-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/10/obituaries/00Coles-01-print1/00Coles-01-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/07/us/robert-coles-dead.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Black People",
+      "Books and Literature",
+      "Bridges, Ruby",
+      "Children and Childhood",
+      "Coles, Robert (1928-2026)",
+      "Deaths (Obituaries)",
+      "Harvard University",
+      "Psychiatry and Psychiatrists",
+      "Pulitzer Prizes",
+      "books"
+    ],
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
+  },
+  {
+    "id": "eeb5449933dd5e27bf9597292c89fc86",
+    "title": "Book Review: ‘The Man Who Stole the Gods,’ by Matthew Campbell",
+    "author": "Hugh Eakin",
+    "description": "In “The Man Who Stole the Gods,” Matthew Campbell recounts how cultural artifacts were pillaged in Cambodia.",
+    "summary_ai": "",
+    "categories": [
+      "Angkor (Cambodia)",
+      "Arts And Antiquities Looting",
+      "Books",
+      "Books And Literature",
+      "Cambodia",
+      "Campbell, Matthew (Journalist)",
+      "Latchford, Douglas A J",
+      "Museums",
+      "Sculpture",
+      "The Man Who Stole The Gods: A True Story Of War, Obsession, And A Global Art Conspiracy (Book)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-08",
+    "thumbnail": "https://static01.nyt.com/images/2026/05/26/multimedia/00TBRCampbell-Review-hflj/00TBRCampbell-Review-hflj-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/05/26/multimedia/00TBRCampbell-Review-hflj/00TBRCampbell-Review-hflj-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/05/books/review/man-who-stole-the-gods-matthew-campbell.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Angkor (Cambodia)",
+      "Arts and Antiquities Looting",
+      "Books and Literature",
+      "Cambodia",
+      "Campbell, Matthew (Journalist)",
+      "Latchford, Douglas A J",
+      "Museums",
+      "Sculpture",
+      "The Man Who Stole the Gods: A True Story of War, Obsession, and a Global Art Conspiracy (Book)",
+      "books"
+    ],
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
+  },
+  {
     "id": "fa3a9d21c7f18b0cf9710f320276a6b1",
     "title": "A British Childhood by Frank Cottrell-Boyce review – are we raising a bookless generation?",
     "author": "Joe Moran",
-    "description": "This clarion call about the loss of delight and safety in children’s lives is also a reminder of the sheer magic of reading Every day, on my walk to work, I pass a primary school. A group of little people are being dropped off by parents. They are met at the gates by a teacher who greets them all by name before leading them up the steps to breakfast club. In the cold and dark of winter, with the school’s windows glowing invitingly, I sometimes envy these children their warm, welcoming cocoon. I thought of that daily scene often when reading this book, which is inspired by Frank Cottrell-Boyce’s time as Waterstones children’s laureate. During his laureateship he ran a campaign with the literary charity BookTrust called Reading Rights, addressing literacy inequality for children in poverty. It was prompted by the discovery that nearly half of children were arriving at school without having been read to. Many had no clue how books worked. They were trying to swipe rather than turn pages, or expand illustrations by pinching them with their fingers. Continue reading...",
+    "description": "This clarion call about the impoverishment of children’s lives is also a reminder of the sheer magic of reading Every day, on my walk to work, I pass a primary school. A group of little people are being dropped off by parents. They are met at the gates by a teacher who greets them all by name before leading them up the steps to breakfast club. In the cold and dark of winter, with the school’s windows glowing invitingly, I sometimes envy these children their warm, welcoming cocoon. I thought of that daily scene often when reading this book, which is inspired by Frank Cottrell-Boyce’s time as Waterstones children’s laureate. During his laureateship he ran a campaign with the literary charity BookTrust called Reading Rights, addressing literacy inequality for children in poverty. It was prompted by the discovery that nearly half of children were arriving at school without having been read to. Many had no clue how books worked. They were trying to swipe rather than turn pages, or expand illustrations by pinching them with their fingers. Continue reading...",
     "summary_ai": "",
     "categories": [
       "Books",
@@ -33,8 +163,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "0d67bf9290037bfd347ec78cb58993d5",
@@ -59,50 +189,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
-  },
-  {
-    "id": "1a4e1cdd9d0afaeb849a491e10c4981a",
-    "title": "Robert Coles, Pulitzer-Winning Child Psychiatrist, Is Dead at 97",
-    "author": "Douglas Martin",
-    "description": "His five-volume “Children of Crisis” series, published between 1967 and 1977, drew on his conversations with American children whose voices were not often heard.",
-    "summary_ai": "",
-    "categories": [
-      "Black People",
-      "Books",
-      "Books And Literature",
-      "Bridges, Ruby",
-      "Children And Childhood",
-      "Deaths (Obituaries)",
-      "Harvard University",
-      "Pulitzer Prizes",
-      "Robert Coles"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-07",
-    "thumbnail": "https://static01.nyt.com/images/2021/06/28/obituaries/00Coles-01/00Coles-01-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2021/06/28/obituaries/00Coles-01/00Coles-01-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/07/us/robert-coles-dead.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Black People",
-      "Books and Literature",
-      "Bridges, Ruby",
-      "Children and Childhood",
-      "Deaths (Obituaries)",
-      "Harvard University",
-      "Pulitzer Prizes",
-      "Robert Coles",
-      "books"
-    ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "3b57c29e4b93ec7c85ed61f021774c51",
@@ -131,8 +219,8 @@
       "Eggers, Dave",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "3bafd972aedab77bcb5cb1180e3ff423",
@@ -166,8 +254,8 @@
       "Society",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "e90a7d0058923c103d4bb9f5f7c06201",
@@ -199,8 +287,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "34a6d5d5e0acb510bcc529717c9dcc0a",
@@ -226,8 +314,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:28+00:00",
-    "updated_at": "2026-06-08T10:53:28Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "8ca609094d06ce0ca7083d45931d5626",
@@ -268,8 +356,8 @@
       "Riding, Alan",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "bec1621bb7d458e896a8792ee15f23df",
@@ -312,8 +400,8 @@
       "books",
       "internal-eafs"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "32610f44762d64c5aa7856bfce2f3c5e",
@@ -346,39 +434,8 @@
       "Waist Deep (Book)",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
-  },
-  {
-    "id": "82b8028d47c79de992415f8b94eb78ae",
-    "title": "Top 100 reader novels",
-    "author": "Guardian staff and contributors",
-    "description": "After critics and authors picked their top 100 novels we asked for your favourites. From Uruguay to the Isle of Skye, more than 3,000 readers cast their votes. Here’s your list – topped by a new number 1 • Read about your choices here *** 100 Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "Fiction In Translation"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-06",
-    "thumbnail": "https://i.guim.co.uk/img/media/a9c8006fbf16917a44fff2d4965ea446fae54dbf/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=e126adc4806d0789ed8c8f2cd3dba719",
-    "cover_large": "https://i.guim.co.uk/img/media/a9c8006fbf16917a44fff2d4965ea446fae54dbf/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=e126adc4806d0789ed8c8f2cd3dba719",
-    "article_url": "https://www.theguardian.com/books/2026/jun/06/move-over-middlemarch-readers-top-100-novels",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "Fiction in translation",
-      "books"
-    ],
-    "created_at": "2026-06-08T10:53:28+00:00",
-    "updated_at": "2026-06-08T10:53:28Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "c248fee74589590df3b667238bce3afb",
@@ -413,52 +470,8 @@
       "books",
       "internal-open-access-audio"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
-  },
-  {
-    "id": "eeb5449933dd5e27bf9597292c89fc86",
-    "title": "Book Review: ‘The Man Who Stole the Gods,’ by Matthew Campbell",
-    "author": "Hugh Eakin",
-    "description": "In “The Man Who Stole the Gods,” Matthew Campbell recounts a shocking, decades-long crime and the search for its perpetrator.",
-    "summary_ai": "",
-    "categories": [
-      "Angkor (Cambodia)",
-      "Arts And Antiquities Looting",
-      "Books",
-      "Books And Literature",
-      "Cambodia",
-      "Campbell, Matthew (Journalist)",
-      "Latchford, Douglas A J",
-      "Museums",
-      "Sculpture",
-      "The Man Who Stole The Gods: A True Story Of War, Obsession, And A Global Art Conspiracy (Book)"
-    ],
-    "genre": [
-      "Crime"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-05",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/26/multimedia/00TBRCampbell-Review-hflj/00TBRCampbell-Review-hflj-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/26/multimedia/00TBRCampbell-Review-hflj/00TBRCampbell-Review-hflj-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/05/books/review/man-who-stole-the-gods-matthew-campbell.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Angkor (Cambodia)",
-      "Arts and Antiquities Looting",
-      "Books and Literature",
-      "Cambodia",
-      "Campbell, Matthew (Journalist)",
-      "Latchford, Douglas A J",
-      "Museums",
-      "Sculpture",
-      "The Man Who Stole the Gods: A True Story of War, Obsession, and a Global Art Conspiracy (Book)",
-      "books"
-    ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "8bf2f69327179dc09d35522731f97958",
@@ -489,8 +502,8 @@
       "Villa Coco (Book)",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "51242b0e33b84fcce86a8424a093428a",
@@ -517,8 +530,8 @@
       "Weddings and Engagements",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "d3c735f2387cfd7f15c77ba14d4076a6",
@@ -554,8 +567,8 @@
       "Marjane Satrapi",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:28+00:00",
-    "updated_at": "2026-06-08T10:53:28Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "095f2d9e7eb6478f8e2a4bba4ee0b983",
@@ -594,8 +607,8 @@
       "Niemann, Hans (2003- )",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "47f1e35efb40bb863b90b6a79df8709d",
@@ -634,8 +647,8 @@
       "Tony Awards (Theater Awards)",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "232cb56765a4d27fd34b3ef2d5026593",
@@ -679,8 +692,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "60c4d533b79aa30fa224c09234c105ed",
@@ -713,8 +726,8 @@
       "books",
       "ekphrasis"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "67cc1c8b74bc8a9566b5b7721ed51b53",
@@ -744,8 +757,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:28+00:00",
-    "updated_at": "2026-06-08T10:53:28Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "cd29f8375e271820c02627200e68f1d2",
@@ -777,8 +790,8 @@
       "Michael Ondaatje",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:28+00:00",
-    "updated_at": "2026-06-08T10:53:28Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "57bd41ee8b43fbfafe98e7c6aefba314",
@@ -815,8 +828,8 @@
       "Pop and rock",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:28+00:00",
-    "updated_at": "2026-06-08T10:53:28Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "29069fad914cadf22df6eda4a2ff21dd",
@@ -848,8 +861,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:28+00:00",
-    "updated_at": "2026-06-08T10:53:28Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "f68266f9b29fffbd6d0f99a1ae2cac15",
@@ -883,8 +896,8 @@
       "UK news",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:28+00:00",
-    "updated_at": "2026-06-08T10:53:28Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "9c757d6aaf4d44b96e565b4ad3680e78",
@@ -917,8 +930,8 @@
       "Music books",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:28+00:00",
-    "updated_at": "2026-06-08T10:53:28Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "70cd24b8757464da7bbe573c0af45489",
@@ -954,8 +967,8 @@
       "Sarah Moss",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:28+00:00",
-    "updated_at": "2026-06-08T10:53:28Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -985,8 +998,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:28+00:00",
-    "updated_at": "2026-06-08T10:53:28Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1025,8 +1038,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   },
   {
     "id": "755ba738881478773c8491c271f5d902",
@@ -1053,7 +1066,7 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-06-08T10:53:27+00:00",
-    "updated_at": "2026-06-08T10:53:27Z"
+    "created_at": "2026-06-08T20:09:05+00:00",
+    "updated_at": "2026-06-08T20:09:05Z"
   }
 ]
