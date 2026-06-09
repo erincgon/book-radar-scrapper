@@ -26,8 +26,8 @@
       "Rasputin Swims the Potomac (Book)",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "0b6d5a1554ce6af3cabd9e8fa63e6ffa",
@@ -56,8 +56,79 @@
       "Red Sheet (Book)",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
+  },
+  {
+    "id": "94be3d8fef5cdb638762e3ccdbf0ffc1",
+    "title": "Gordon S. Wood, Pioneering Historian of Early America, Dies at 92",
+    "author": "David Stout",
+    "description": "In a Pulitzer-winning book, “The Radicalism of the American Revolution,” he wrote that the colonists rose up against an entire worldview, not just against taxation.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Brown University",
+      "Deaths (Obituaries)",
+      "Power And Liberty: Constitutionalism In The American Revolution (Book)",
+      "Pulitzer Prizes",
+      "Revolutionary War, American (1775-83)",
+      "The 1619 Project: A New Origin Story (Book)",
+      "The Radicalism Of The American Revolution (Book)",
+      "Wood, Gordon S",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-09",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/10/obituaries/08wood-gordon-obit-print1/08wood-gordon-obit-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/10/obituaries/08wood-gordon-obit-print1/08wood-gordon-obit-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/08/books/gordon-s-wood-dead.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Brown University",
+      "Deaths (Obituaries)",
+      "Power and Liberty: Constitutionalism in the American Revolution (Book)",
+      "Pulitzer Prizes",
+      "Revolutionary War, American (1775-83)",
+      "The 1619 Project: A New Origin Story (Book)",
+      "The Radicalism of the American Revolution (Book)",
+      "Wood, Gordon S",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
+  },
+  {
+    "id": "6b5161b6a1e64b94c13fb22d9035c89e",
+    "title": "‘Nobody is pretending to like my work because of my fresh-faced good looks’: the pros of being a debut novelist at 51",
+    "author": "Patrick Freyne",
+    "description": "There are some advantages to being an older debutant, including knowing what it’s like to fail and not having your new novel overshadowed by early literary promise Recently I was at a film event where I was introduced to a big producer by a very nice actor. The actor said, “this is Patrick, he has a debut novel coming out soon.” The producer looked me up and down and said, “You took your time.” Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-09",
+    "thumbnail": "https://i.guim.co.uk/img/media/ffb4191cc902cdbfde26cdcd940dad2406be6e8e/414_0_4101_3280/master/4101.jpg?width=700&quality=85&auto=format&fit=max&s=99b9d66540f597aaebafc04ba33dc806",
+    "cover_large": "https://i.guim.co.uk/img/media/ffb4191cc902cdbfde26cdcd940dad2406be6e8e/414_0_4101_3280/master/4101.jpg?width=700&quality=85&auto=format&fit=max&s=99b9d66540f597aaebafc04ba33dc806",
+    "article_url": "https://www.theguardian.com/books/2026/jun/09/patrick-freyne-experts-dying-field-debut-novelist-at-51",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "books"
+    ],
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "a21e684049b2901694cc2b024cf0abab",
@@ -92,8 +163,8 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "1fae8b8cf672ed074b61bd6288ff4a30",
@@ -129,52 +200,153 @@
       "History books",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
-    "id": "94be3d8fef5cdb638762e3ccdbf0ffc1",
-    "title": "Gordon S. Wood, Pioneering Historian of Early America, Dies at 92",
-    "author": "David Stout",
-    "description": "In a Pulitzer-winning book, “The Radicalism of the American Revolution,” he wrote that the colonists rose up against an entire worldview, not just against taxation.",
+    "id": "a00a18fd0ea0c6be42798145c4b8ba46",
+    "title": "The Best Books You’ve Never Heard Of (Summer 2026)",
+    "author": "Danika Ellis",
+    "description": "If you're tired of seeing the same books get recommended over and over, check out these hidden gems that you've (probably) never heard of.",
     "summary_ai": "",
     "categories": [
-      "Books",
-      "Books And Literature",
-      "Damon, Matt",
-      "Deaths (Obituaries)",
-      "Power And Liberty: Constitutionalism In The American Revolution (Book)",
-      "Pulitzer Prizes",
-      "Revolutionary War, American (1775-83)",
-      "The 1619 Project: A New Origin Story (Book)",
-      "The Radicalism Of The American Revolution (Book)",
-      "Wood, Gordon S",
-      "Writing And Writers"
+      "Featured",
+      "In The Club",
+      "Lists",
+      "Reviews",
+      "The Best Books You'Ve Never Heard Of"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-08",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/08/obituaries/08wood-gordon-obit/08wood-gordon-obit-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/08/obituaries/08wood-gordon-obit/08wood-gordon-obit-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/08/books/gordon-s-wood-dead.html",
-    "source": "The New York Times",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-09",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/01/The-Hollow-Half-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2025/01/The-Hollow-Half-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/the-best-books-youve-never-heard-of-summer-2026/",
+    "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Books and Literature",
-      "Damon, Matt",
-      "Deaths (Obituaries)",
-      "Power and Liberty: Constitutionalism in the American Revolution (Book)",
-      "Pulitzer Prizes",
-      "Revolutionary War, American (1775-83)",
-      "The 1619 Project: A New Origin Story (Book)",
-      "The Radicalism of the American Revolution (Book)",
-      "Wood, Gordon S",
-      "Writing and Writers",
-      "books"
+      "Featured",
+      "In the Club",
+      "Lists",
+      "reviews",
+      "the best books you've never heard of"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
+  },
+  {
+    "id": "e8d5ef20904b5e5fa55c8acc147c8f57",
+    "title": "📚 Let the chaos take you",
+    "author": "Community",
+    "description": "Utah bans its 35th book from schools statewide, while the 2025 and 2026 book awards seasons meet in real time.",
+    "summary_ai": "",
+    "categories": [
+      "Book Riot Newsletter",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-09",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/new-releases-june-9.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/new-releases-june-9.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/let-the-chaos-take-you/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Book Riot Newsletter",
+      "reviews"
+    ],
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
+  },
+  {
+    "id": "356e694821dee16cb35d1cbce27c6333",
+    "title": "6 of the Best New Book Releases Out June 9, 2026",
+    "author": "Erica Ezeifedi",
+    "description": "There's a charming and eccentric time in an Italian villa , a jet-setting romance, a memoir by trans actress and icon Laverne Cox, and more.",
+    "summary_ai": "",
+    "categories": [
+      "New Books",
+      "Reviews"
+    ],
+    "genre": [
+      "Memoir",
+      "Romance"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-09",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/03/persepolis-book-cover.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/03/persepolis-book-cover.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/new-book-releases-june-9-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "New Books",
+      "reviews"
+    ],
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
+  },
+  {
+    "id": "5de1a75cc534b000fde3de7f7fcd65dd",
+    "title": "Library Patron Privacy in the Age of AI, Plus More News For Library Workers",
+    "author": "Katie McLain Horner",
+    "description": "A new report outlines the challenges of library patron privacy in the age of AI—plus, more library news.",
+    "summary_ai": "",
+    "categories": [
+      "Check Your Shelf",
+      "Libraries",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-09",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/07/library.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/07/library.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/library-patron-privacy-in-the-age-of-ai/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Check Your Shelf",
+      "Libraries",
+      "reviews"
+    ],
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
+  },
+  {
+    "id": "3da7ccf3aca9e189d0733759fc461fe2",
+    "title": "Libro.fm’s Bestselling Audiobooks of 2026 So Far",
+    "author": "Rebecca Joines Schinsky",
+    "description": "Libro.fm's bestselling audiobooks of the year include a Jane Austen classic, everyone's favorite hockey romance, and more",
+    "summary_ai": "",
+    "categories": [
+      "Audiobooks",
+      "News",
+      "Reviews"
+    ],
+    "genre": [
+      "Romance"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-09",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/libro.fm-logo.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/libro.fm-logo.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/libro-fm-bestselling-audiobooks-of-2026-so-far/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Audiobooks",
+      "News",
+      "reviews"
+    ],
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "1a4e1cdd9d0afaeb849a491e10c4981a",
@@ -217,8 +389,8 @@
       "Pulitzer Prizes",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "eeb5449933dd5e27bf9597292c89fc86",
@@ -259,8 +431,8 @@
       "The Man Who Stole the Gods: A True Story of War, Obsession, and a Global Art Conspiracy (Book)",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "fa3a9d21c7f18b0cf9710f320276a6b1",
@@ -296,8 +468,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "0d67bf9290037bfd347ec78cb58993d5",
@@ -322,160 +494,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
-  },
-  {
-    "id": "cbf63d67595154379795f9b269494b9b",
-    "title": "9 Must",
-    "author": "Erica Ezeifedi",
-    "description": "Whether you want to keep things local or spread out, these must-read cookbooks will take you from Navajo frybread to Ethiopian injera and beyond.",
-    "summary_ai": "",
-    "categories": [
-      "Read Harder",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-08",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/81wM27u-6L._SL1500_-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/81wM27u-6L._SL1500_-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/must-read-cookbooks/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Read Harder",
-      "reviews"
-    ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
-  },
-  {
-    "id": "452fad837de773c13ba722c358aaa5e0",
-    "title": "The Best New Graphic Novels for Kids Out This Year",
-    "author": "Ashlie Swicker",
-    "description": "These new graphic novels for kids include a cute adventure story that tackles darker themes, an ode to '90s nostalgia, and more.",
-    "summary_ai": "",
-    "categories": [
-      "All Access",
-      "Children'S",
-      "Comics/Graphic Novels",
-      "Graphic Novels",
-      "Reviews",
-      "The Kids Are All Right"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-08",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/cover-of-squalo-mage-vs-the-rage-of-the-bakunawa-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/cover-of-squalo-mage-vs-the-rage-of-the-bakunawa-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/new-graphic-novels-for-kids-june-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "All Access",
-      "Children's",
-      "Comics/Graphic Novels",
-      "The Kids Are All Right",
-      "graphic novels",
-      "reviews"
-    ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
-  },
-  {
-    "id": "6dc103ce9f36de22ad1b11bffe13a306",
-    "title": "June’s New Mystery/Thriller Adaptations, From A Psychological Thriller to a Victim With No Memory",
-    "author": "Jamie Canaves",
-    "description": "Mark your calendars for this month's new mystery and thriller adaptations!",
-    "summary_ai": "",
-    "categories": [
-      "Adaptations",
-      "Mystery/Thriller",
-      "Reviews",
-      "Unusual Suspects"
-    ],
-    "genre": [
-      "Mystery",
-      "Thriller"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-08",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/Cape-Fear-by-John-D.-MacDonald-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/Cape-Fear-by-John-D.-MacDonald-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/new-mystery-thriller-adaptations-june-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Mystery/Thriller",
-      "Unusual Suspects",
-      "adaptations",
-      "reviews"
-    ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
-  },
-  {
-    "id": "5d374ac91bf88fc572e4ad062bc6ee5a",
-    "title": "3 Caribbean Romances to Start the Celebration",
-    "author": "Jessica Pryde",
-    "description": "Celebrate Caribbean History Month with these swoony Caribbean romances, from a queer romance set in Trinidad to a tale of Jamaican vampires.",
-    "summary_ai": "",
-    "categories": [
-      "Kissing Books",
-      "Reviews",
-      "Romance/Erotica"
-    ],
-    "genre": [
-      "History",
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-08",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2022/02/517SmIIhDaL-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2022/02/517SmIIhDaL-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/caribbean-romances/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Kissing Books",
-      "Romance/Erotica",
-      "reviews"
-    ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
-  },
-  {
-    "id": "7dbbb5bdf307590c8a313b65797abc96",
-    "title": "The Nebula and Bram Stoker Award Winners Have Been Announced",
-    "author": "Erica Ezeifedi",
-    "description": "Plus, authors recommend the perfect beach read, and we celebrate Caribbean Heritage Month with some romances",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Today In Books"
-    ],
-    "genre": [
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-08",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Untitled-design-2026-06-08T160849.946.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Untitled-design-2026-06-08T160849.946.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/nebula-and-bram-stoker-award-winners-have-been-announced/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Today in Books",
-      "reviews"
-    ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "3b57c29e4b93ec7c85ed61f021774c51",
@@ -504,8 +524,8 @@
       "Eggers, Dave",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "3bafd972aedab77bcb5cb1180e3ff423",
@@ -539,41 +559,8 @@
       "Society",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
-  },
-  {
-    "id": "e90a7d0058923c103d4bb9f5f7c06201",
-    "title": "Should we ditch the idea of three meals a day?",
-    "author": "Eli Davies",
-    "description": "Our rigid eating habits date to the Industrial Revolution – it’s time to embrace culinary spontaneity ‘One of the stupidest things in an earnest but stupid school of culinary thought is that each of the three daily meals should be ‘balanced’.” So argues American food writer MFK Fisher in her 1942 book How to Cook a Wolf. She goes on: “In the first place not all people need or want three meals each day. Many of them feel better with two or one and one-half, or five.” Fisher wrote her book ostensibly as a guide on how to feed yourself pleasurably and nourishingly during a period of food shortages caused by war, but there is much in her insightful advice to inspire and provoke us today. More than 80 years later, threats to the sacred breakfast-lunch-dinner mode of eating can still make the news: “A nation of snackers: Britons no longer eat three meals a day”, gasped one recent headline in the Times. Deviations from the “standard” model are the subject of research by academics and health professionals, and food retailers commission studies in an attempt to understand (and shape?) when and how customers consume their food. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Food",
-      "Nutrition",
-      "Society Books"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Journals",
-    "published_date": "2026-06-07",
-    "thumbnail": "https://i.guim.co.uk/img/media/228e7f73cbf16ed60b2821748ed5a50612ae483e/179_0_1531_1224/master/1531.jpg?width=700&quality=85&auto=format&fit=max&s=2ed3102cb851e9868d3ebe31c59c619c",
-    "cover_large": "https://i.guim.co.uk/img/media/228e7f73cbf16ed60b2821748ed5a50612ae483e/179_0_1531_1224/master/1531.jpg?width=700&quality=85&auto=format&fit=max&s=2ed3102cb851e9868d3ebe31c59c619c",
-    "article_url": "https://journals.sagepub.com/doi/full/10.1177/0748730419892105",
-    "source": "Journals",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Food",
-      "Nutrition",
-      "Society books",
-      "books"
-    ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "636b1c0e06320f8f72677ddfb7c2ab32",
@@ -596,8 +583,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "8ca609094d06ce0ca7083d45931d5626",
@@ -638,8 +625,8 @@
       "Riding, Alan",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "bec1621bb7d458e896a8792ee15f23df",
@@ -682,7 +669,7 @@
       "books",
       "internal-eafs"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   }
 ]

@@ -26,8 +26,8 @@
       "Rasputin Swims the Potomac (Book)",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "0b6d5a1554ce6af3cabd9e8fa63e6ffa",
@@ -56,8 +56,79 @@
       "Red Sheet (Book)",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
+  },
+  {
+    "id": "94be3d8fef5cdb638762e3ccdbf0ffc1",
+    "title": "Gordon S. Wood, Pioneering Historian of Early America, Dies at 92",
+    "author": "David Stout",
+    "description": "In a Pulitzer-winning book, “The Radicalism of the American Revolution,” he wrote that the colonists rose up against an entire worldview, not just against taxation.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Brown University",
+      "Deaths (Obituaries)",
+      "Power And Liberty: Constitutionalism In The American Revolution (Book)",
+      "Pulitzer Prizes",
+      "Revolutionary War, American (1775-83)",
+      "The 1619 Project: A New Origin Story (Book)",
+      "The Radicalism Of The American Revolution (Book)",
+      "Wood, Gordon S",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-09",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/10/obituaries/08wood-gordon-obit-print1/08wood-gordon-obit-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/10/obituaries/08wood-gordon-obit-print1/08wood-gordon-obit-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/08/books/gordon-s-wood-dead.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Brown University",
+      "Deaths (Obituaries)",
+      "Power and Liberty: Constitutionalism in the American Revolution (Book)",
+      "Pulitzer Prizes",
+      "Revolutionary War, American (1775-83)",
+      "The 1619 Project: A New Origin Story (Book)",
+      "The Radicalism of the American Revolution (Book)",
+      "Wood, Gordon S",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
+  },
+  {
+    "id": "6b5161b6a1e64b94c13fb22d9035c89e",
+    "title": "‘Nobody is pretending to like my work because of my fresh-faced good looks’: the pros of being a debut novelist at 51",
+    "author": "Patrick Freyne",
+    "description": "There are some advantages to being an older debutant, including knowing what it’s like to fail and not having your new novel overshadowed by early literary promise Recently I was at a film event where I was introduced to a big producer by a very nice actor. The actor said, “this is Patrick, he has a debut novel coming out soon.” The producer looked me up and down and said, “You took your time.” Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-09",
+    "thumbnail": "https://i.guim.co.uk/img/media/ffb4191cc902cdbfde26cdcd940dad2406be6e8e/414_0_4101_3280/master/4101.jpg?width=700&quality=85&auto=format&fit=max&s=99b9d66540f597aaebafc04ba33dc806",
+    "cover_large": "https://i.guim.co.uk/img/media/ffb4191cc902cdbfde26cdcd940dad2406be6e8e/414_0_4101_3280/master/4101.jpg?width=700&quality=85&auto=format&fit=max&s=99b9d66540f597aaebafc04ba33dc806",
+    "article_url": "https://www.theguardian.com/books/2026/jun/09/patrick-freyne-experts-dying-field-debut-novelist-at-51",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "books"
+    ],
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "a21e684049b2901694cc2b024cf0abab",
@@ -92,8 +163,8 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "1fae8b8cf672ed074b61bd6288ff4a30",
@@ -129,52 +200,8 @@
       "History books",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
-  },
-  {
-    "id": "94be3d8fef5cdb638762e3ccdbf0ffc1",
-    "title": "Gordon S. Wood, Pioneering Historian of Early America, Dies at 92",
-    "author": "David Stout",
-    "description": "In a Pulitzer-winning book, “The Radicalism of the American Revolution,” he wrote that the colonists rose up against an entire worldview, not just against taxation.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Damon, Matt",
-      "Deaths (Obituaries)",
-      "Power And Liberty: Constitutionalism In The American Revolution (Book)",
-      "Pulitzer Prizes",
-      "Revolutionary War, American (1775-83)",
-      "The 1619 Project: A New Origin Story (Book)",
-      "The Radicalism Of The American Revolution (Book)",
-      "Wood, Gordon S",
-      "Writing And Writers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-08",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/08/obituaries/08wood-gordon-obit/08wood-gordon-obit-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/08/obituaries/08wood-gordon-obit/08wood-gordon-obit-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/08/books/gordon-s-wood-dead.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Damon, Matt",
-      "Deaths (Obituaries)",
-      "Power and Liberty: Constitutionalism in the American Revolution (Book)",
-      "Pulitzer Prizes",
-      "Revolutionary War, American (1775-83)",
-      "The 1619 Project: A New Origin Story (Book)",
-      "The Radicalism of the American Revolution (Book)",
-      "Wood, Gordon S",
-      "Writing and Writers",
-      "books"
-    ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "1a4e1cdd9d0afaeb849a491e10c4981a",
@@ -217,8 +244,8 @@
       "Pulitzer Prizes",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "eeb5449933dd5e27bf9597292c89fc86",
@@ -259,8 +286,8 @@
       "The Man Who Stole the Gods: A True Story of War, Obsession, and a Global Art Conspiracy (Book)",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "fa3a9d21c7f18b0cf9710f320276a6b1",
@@ -296,8 +323,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "0d67bf9290037bfd347ec78cb58993d5",
@@ -322,8 +349,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "3b57c29e4b93ec7c85ed61f021774c51",
@@ -352,8 +379,8 @@
       "Eggers, Dave",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "3bafd972aedab77bcb5cb1180e3ff423",
@@ -387,41 +414,8 @@
       "Society",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
-  },
-  {
-    "id": "e90a7d0058923c103d4bb9f5f7c06201",
-    "title": "Should we ditch the idea of three meals a day?",
-    "author": "Eli Davies",
-    "description": "Our rigid eating habits date to the Industrial Revolution – it’s time to embrace culinary spontaneity ‘One of the stupidest things in an earnest but stupid school of culinary thought is that each of the three daily meals should be ‘balanced’.” So argues American food writer MFK Fisher in her 1942 book How to Cook a Wolf. She goes on: “In the first place not all people need or want three meals each day. Many of them feel better with two or one and one-half, or five.” Fisher wrote her book ostensibly as a guide on how to feed yourself pleasurably and nourishingly during a period of food shortages caused by war, but there is much in her insightful advice to inspire and provoke us today. More than 80 years later, threats to the sacred breakfast-lunch-dinner mode of eating can still make the news: “A nation of snackers: Britons no longer eat three meals a day”, gasped one recent headline in the Times. Deviations from the “standard” model are the subject of research by academics and health professionals, and food retailers commission studies in an attempt to understand (and shape?) when and how customers consume their food. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Food",
-      "Nutrition",
-      "Society Books"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Journals",
-    "published_date": "2026-06-07",
-    "thumbnail": "https://i.guim.co.uk/img/media/228e7f73cbf16ed60b2821748ed5a50612ae483e/179_0_1531_1224/master/1531.jpg?width=700&quality=85&auto=format&fit=max&s=2ed3102cb851e9868d3ebe31c59c619c",
-    "cover_large": "https://i.guim.co.uk/img/media/228e7f73cbf16ed60b2821748ed5a50612ae483e/179_0_1531_1224/master/1531.jpg?width=700&quality=85&auto=format&fit=max&s=2ed3102cb851e9868d3ebe31c59c619c",
-    "article_url": "https://journals.sagepub.com/doi/full/10.1177/0748730419892105",
-    "source": "Journals",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Food",
-      "Nutrition",
-      "Society books",
-      "books"
-    ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "8ca609094d06ce0ca7083d45931d5626",
@@ -462,8 +456,8 @@
       "Riding, Alan",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "bec1621bb7d458e896a8792ee15f23df",
@@ -506,8 +500,8 @@
       "books",
       "internal-eafs"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "32610f44762d64c5aa7856bfce2f3c5e",
@@ -540,8 +534,8 @@
       "Waist Deep (Book)",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "c248fee74589590df3b667238bce3afb",
@@ -576,8 +570,8 @@
       "books",
       "internal-open-access-audio"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "8bf2f69327179dc09d35522731f97958",
@@ -608,8 +602,8 @@
       "Villa Coco (Book)",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "51242b0e33b84fcce86a8424a093428a",
@@ -636,8 +630,8 @@
       "Weddings and Engagements",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "3559a1bc924ee97b597573623c23f713",
@@ -668,8 +662,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:17+00:00",
+    "updated_at": "2026-06-09T20:03:17Z"
   },
   {
     "id": "095f2d9e7eb6478f8e2a4bba4ee0b983",
@@ -708,8 +702,8 @@
       "Niemann, Hans (2003- )",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "47f1e35efb40bb863b90b6a79df8709d",
@@ -748,8 +742,8 @@
       "Tony Awards (Theater Awards)",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "a1355264f0aedbb5668633e948b1dbd2",
@@ -781,8 +775,8 @@
       "Travel",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:17+00:00",
+    "updated_at": "2026-06-09T20:03:17Z"
   },
   {
     "id": "67cc1c8b74bc8a9566b5b7721ed51b53",
@@ -812,8 +806,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:17+00:00",
+    "updated_at": "2026-06-09T20:03:17Z"
   },
   {
     "id": "cd29f8375e271820c02627200e68f1d2",
@@ -845,8 +839,8 @@
       "Michael Ondaatje",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:17+00:00",
+    "updated_at": "2026-06-09T20:03:17Z"
   },
   {
     "id": "57bd41ee8b43fbfafe98e7c6aefba314",
@@ -883,8 +877,8 @@
       "Pop and rock",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:17+00:00",
+    "updated_at": "2026-06-09T20:03:17Z"
   },
   {
     "id": "f68266f9b29fffbd6d0f99a1ae2cac15",
@@ -918,8 +912,8 @@
       "UK news",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:17+00:00",
+    "updated_at": "2026-06-09T20:03:17Z"
   },
   {
     "id": "70cd24b8757464da7bbe573c0af45489",
@@ -955,8 +949,8 @@
       "Sarah Moss",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:17+00:00",
+    "updated_at": "2026-06-09T20:03:17Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -986,8 +980,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1026,8 +1020,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   },
   {
     "id": "755ba738881478773c8491c271f5d902",
@@ -1054,7 +1048,7 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-06-09T09:42:11+00:00",
-    "updated_at": "2026-06-09T09:42:11Z"
+    "created_at": "2026-06-09T20:03:16+00:00",
+    "updated_at": "2026-06-09T20:03:16Z"
   }
 ]
