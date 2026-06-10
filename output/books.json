@@ -34,12 +34,12 @@
       "Revolutionary War, American (1775-83)",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
-    "id": "3f8f1c671982e3a2257616100fefbbdd",
-    "title": "In a New Memoir, Laverne Cox Takes on Her Demons",
+    "id": "eaaa6ceb13b853ca1f3d7f06e5ed9981",
+    "title": "How Laverne Cox Slayed Her Demons: With Grit and Glamour",
     "author": "Tim Teeman",
     "description": "Her memoir follows the path from an abusive childhood to Hollywood stardom. But it’s being released amid a backlash over transgender rights that’s caught up to her, too.",
     "summary_ai": "",
@@ -68,14 +68,137 @@
       "Actors and Actresses",
       "Books and Literature",
       "Cox, Laverne",
-      "Orange is the New Black (TV Program)",
+      "Orange Is the New Black (TV Program)",
       "Television",
       "Transcendent (Book)",
       "Transgender",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
+  },
+  {
+    "id": "be4b4fa34b6a393fbe5ff7d9ed136e87",
+    "title": "John Basinger, Who Memorized All 12 Books of ‘Paradise Lost,’ Dies at 92",
+    "author": "Alex Traub",
+    "description": "After nearly nine years of practice, he made John Milton’s epic poem vividly dramatic for audiences and inspired a study of his “memory virtuosity.”",
+    "summary_ai": "",
+    "categories": [
+      "Basinger, John",
+      "Books",
+      "Deafness",
+      "Deaths (Obituaries)",
+      "Memory",
+      "Milton, John",
+      "National Theater Of The Deaf",
+      "Paradise Lost (Book)",
+      "Poetry And Poets",
+      "Theater"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-10",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/09/multimedia/09Basinger--wpch/09Basinger--wpch-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/09/multimedia/09Basinger--wpch/09Basinger--wpch-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/09/arts/john-basinger-dead.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Basinger, John",
+      "Deafness",
+      "Deaths (Obituaries)",
+      "Memory",
+      "Milton, John",
+      "National Theater of the Deaf",
+      "Paradise Lost (Book)",
+      "Poetry and Poets",
+      "Theater",
+      "books"
+    ],
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
+  },
+  {
+    "id": "d9bc0ac77a54252d347f66051b39dba7",
+    "title": "Sales of Meta whistleblower’s memoir soar after Hay festival ‘silencing’",
+    "author": "Ella Creamer",
+    "description": "Sarah Wynn-Williams remained silent during her hour-long appearance, but sales of Careless People have since increased by more than 300% Sales of the whistleblowing memoir Careless People increased by more than 300% in the UK the week after its author was “silenced” during an appearance at Hay festival following legal action by Meta, the subject of the book. Sarah Wynn-Williams – who between 2011 and 2017 served as the director of global public policy at what was then called Facebook – sat on stage but did not speak during her hour-long appearance on 31 May on the advice of her lawyer. She appeared alongside the journalist Carole Cadwalladr and academic Tim Wu. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Facebook",
+      "Festivals",
+      "Hay Festival",
+      "Media",
+      "Meta",
+      "Technology"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-10",
+    "thumbnail": "https://i.guim.co.uk/img/media/d5fdf0169bd1d6539ac8e70b6ca9dcb7c9cee142/809_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=c4460f93bdc166d05ec60c24a942958d",
+    "cover_large": "https://i.guim.co.uk/img/media/d5fdf0169bd1d6539ac8e70b6ca9dcb7c9cee142/809_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=c4460f93bdc166d05ec60c24a942958d",
+    "article_url": "https://www.theguardian.com/technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Facebook",
+      "Festivals",
+      "Hay festival",
+      "Media",
+      "Meta",
+      "Technology",
+      "books"
+    ],
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
+  },
+  {
+    "id": "070d17f4bea63f4f1e67ba59a48c6d0e",
+    "title": "No fairytale: what happened to the real children behind fiction’s best-loved characters?",
+    "author": "Melissa Albert",
+    "description": "Peter Pan, Christopher Robin and Alice in Wonderland ... being the star of a classic story might seem like a dream, but there’s a dark side, argues the author of The Children I’d loved the children for years before discovering they were real . I can almost summon the magic I felt when I first saw the photographs that proved it: the little boy clad in an approximation of hunters’ skins, posing victorious. The dark-haired girl with the offset gaze, her interior expression that of a person just growing used to being looked at. And – this is the one that really kills me – the big-eyed, dimple-chinned seven-year-old in a soft sweater and tenderly mummish haircut, clutching the teddy bear that would end up even more famous than he would. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Aa Milne",
+      "Books",
+      "Children",
+      "Children And Teenagers",
+      "Culture",
+      "Jm Barrie",
+      "Lewis Carroll"
+    ],
+    "genre": [
+      "Children",
+      "Fiction"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-10",
+    "thumbnail": "https://i.guim.co.uk/img/media/d2f55b21a37a6b5e0b4ddbdb0cfd8714825a8f57/487_138_3080_2465/master/3080.jpg?width=700&quality=85&auto=format&fit=max&s=1c69c56df66e727cb33edf8df354db6c",
+    "cover_large": "https://i.guim.co.uk/img/media/d2f55b21a37a6b5e0b4ddbdb0cfd8714825a8f57/487_138_3080_2465/master/3080.jpg?width=700&quality=85&auto=format&fit=max&s=1c69c56df66e727cb33edf8df354db6c",
+    "article_url": "https://www.theguardian.com/books/2026/jun/10/peter-pan-christopher-robin-alice-the-unsettling-stories-of-the-children-behind-fictions-most-enduring-tales",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "AA Milne",
+      "Books",
+      "Children",
+      "Children and teenagers",
+      "Culture",
+      "JM Barrie",
+      "Lewis Carroll",
+      "books"
+    ],
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "792ec2c32be75d2c938165df3e4af29d",
@@ -109,8 +232,8 @@
       "Middle East and north Africa",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "ad71d410809d8d838032046d0274a1b9",
@@ -143,8 +266,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "6f8e288f91c59c51c52c0c349e5d4ed3",
@@ -173,8 +296,8 @@
       "Rasputin Swims the Potomac (Book)",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "0b6d5a1554ce6af3cabd9e8fa63e6ffa",
@@ -203,8 +326,8 @@
       "Red Sheet (Book)",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "94be3d8fef5cdb638762e3ccdbf0ffc1",
@@ -247,8 +370,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "6b5161b6a1e64b94c13fb22d9035c89e",
@@ -274,8 +397,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "a21e684049b2901694cc2b024cf0abab",
@@ -310,45 +433,8 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
-  },
-  {
-    "id": "1fae8b8cf672ed074b61bd6288ff4a30",
-    "title": "Flamboyance by Jack Parlett review",
-    "author": "John-Baptiste Oduor",
-    "description": "What does it mean to push the boat out, and can peacocking be more than just a beautiful gesture? A friend’s mother once told me that for a couple of years in the 1980s – as the Conservatives were waging war on the miners and she spent late nights at Marxist-feminist reading groups – she wore an almost daily uniform of jeans and a white T-shirt. On her wedding day she broke with habit and put on a dress she had bought, at great expense to her, that was fun, sexy and, although she didn’t use this word, flamboyant. The next week at the school she taught in she saw a colleague wearing it. “Nice dress,” she said. “It’s OK for work,” her colleague replied, “but I wouldn’t wear it out .” I found myself recalling this anecdote as I read Jack Parlett’s memoir-cum-cultural history of our attempts to push the boat out. To make any effort is to risk embarrassment, to be seen either as ridiculous or hopelessly naive. One way to avoid those charges is to use playful or cynical irony. Parlett finds examples of this in Oscar Wilde and what the cultural critic Susan Sontag once described as camp, a worldview obsessed with artifice and performance. Although Flamboyance is not a polemic, it’s...",
-    "summary_ai": "",
-    "categories": [
-      "Autobiography And Memoir",
-      "Biography Books",
-      "Books",
-      "Culture",
-      "History Books"
-    ],
-    "genre": [
-      "History",
-      "Memoir",
-      "Politics"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-09",
-    "thumbnail": "https://i.guim.co.uk/img/media/ff324d2aa19fa6ddc8c3cd5c4eece3fab46fd46d/837_378_4611_3689/master/4611.jpg?width=700&quality=85&auto=format&fit=max&s=1f655b1295f75fcd386bc26551717da7",
-    "cover_large": "https://i.guim.co.uk/img/media/ff324d2aa19fa6ddc8c3cd5c4eece3fab46fd46d/837_378_4611_3689/master/4611.jpg?width=700&quality=85&auto=format&fit=max&s=1f655b1295f75fcd386bc26551717da7",
-    "article_url": "https://www.theguardian.com/books/2026/jun/09/flamboyance-by-jack-parlett-review-a-serious-study-of-the-spectacular",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Autobiography and memoir",
-      "Biography books",
-      "Books",
-      "Culture",
-      "History books",
-      "books"
-    ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "1a4e1cdd9d0afaeb849a491e10c4981a",
@@ -391,8 +477,8 @@
       "Pulitzer Prizes",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "eeb5449933dd5e27bf9597292c89fc86",
@@ -433,45 +519,8 @@
       "The Man Who Stole the Gods: A True Story of War, Obsession, and a Global Art Conspiracy (Book)",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
-  },
-  {
-    "id": "fa3a9d21c7f18b0cf9710f320276a6b1",
-    "title": "A British Childhood by Frank Cottrell-Boyce review – are we raising a bookless generation?",
-    "author": "Joe Moran",
-    "description": "This clarion call about the impoverishment of children’s lives is also a reminder of the sheer magic of reading Every day, on my walk to work, I pass a primary school. A group of little people are being dropped off by parents. They are met at the gates by a teacher who greets them all by name before leading them up the steps to breakfast club. In the cold and dark of winter, with the school’s windows glowing invitingly, I sometimes envy these children their warm, welcoming cocoon. I thought of that daily scene often when reading this book, which is inspired by Frank Cottrell-Boyce’s time as Waterstones children’s laureate. During his laureateship he ran a campaign with the literary charity BookTrust called Reading Rights, addressing literacy inequality for children in poverty. It was prompted by the discovery that nearly half of children were arriving at school without having been read to. Many had no clue how books worked. They were trying to swipe rather than turn pages, or expand illustrations by pinching them with their fingers. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Children",
-      "Children'S Laureate",
-      "Culture",
-      "Frank Cottrell-Boyce",
-      "Society Books"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-08",
-    "thumbnail": "https://i.guim.co.uk/img/media/a0cfb32fba9cae4e669aacb6952839cc52ce90d8/0_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=ad7c169e402618d85c53445439719768",
-    "cover_large": "https://i.guim.co.uk/img/media/a0cfb32fba9cae4e669aacb6952839cc52ce90d8/0_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=ad7c169e402618d85c53445439719768",
-    "article_url": "https://www.theguardian.com/books/2026/jun/08/a-british-childhood-by-frank-cottrell-boyce-review-are-we-raising-a-bookless-generation",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Children",
-      "Children's laureate",
-      "Culture",
-      "Frank Cottrell-Boyce",
-      "Society books",
-      "books"
-    ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "3b57c29e4b93ec7c85ed61f021774c51",
@@ -500,8 +549,8 @@
       "Eggers, Dave",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "8ca609094d06ce0ca7083d45931d5626",
@@ -542,8 +591,8 @@
       "Riding, Alan",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "bec1621bb7d458e896a8792ee15f23df",
@@ -586,8 +635,8 @@
       "books",
       "internal-eafs"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "32610f44762d64c5aa7856bfce2f3c5e",
@@ -620,8 +669,8 @@
       "Waist Deep (Book)",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "c248fee74589590df3b667238bce3afb",
@@ -656,8 +705,8 @@
       "books",
       "internal-open-access-audio"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "8bf2f69327179dc09d35522731f97958",
@@ -688,8 +737,8 @@
       "Villa Coco (Book)",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "3559a1bc924ee97b597573623c23f713",
@@ -720,8 +769,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "a1355264f0aedbb5668633e948b1dbd2",
@@ -753,8 +802,8 @@
       "Travel",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "67cc1c8b74bc8a9566b5b7721ed51b53",
@@ -784,8 +833,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "cd29f8375e271820c02627200e68f1d2",
@@ -817,8 +866,8 @@
       "Michael Ondaatje",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "57bd41ee8b43fbfafe98e7c6aefba314",
@@ -855,8 +904,8 @@
       "Pop and rock",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "f68266f9b29fffbd6d0f99a1ae2cac15",
@@ -890,8 +939,8 @@
       "UK news",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "70cd24b8757464da7bbe573c0af45489",
@@ -927,8 +976,8 @@
       "Sarah Moss",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -958,8 +1007,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -998,8 +1047,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "755ba738881478773c8491c271f5d902",
@@ -1026,49 +1075,7 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
-  },
-  {
-    "id": "f0a8987fb7322e3a0dc23bf36fa062e5",
-    "title": "Martin Amis: An Appreciation",
-    "author": "A.O. Scott",
-    "description": "Our critic assesses the achievement of Martin Amis, Britain’s most famous literary son.",
-    "summary_ai": "",
-    "categories": [
-      "Amis, Martin",
-      "Audio-Neutral-Informative",
-      "Books",
-      "Books And Literature",
-      "Content Type: Personal Profile",
-      "Inside Story (Book)",
-      "London Fields (Book)",
-      "The Information (Book)",
-      "The Rachel Papers (Book)",
-      "Writing And Writers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2023-05-22",
-    "thumbnail": "https://static01.nyt.com/images/2023/06/11/books/review/22AMIS-APPRECIATION/22AMIS-APPRECIATION-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2023/06/11/books/review/22AMIS-APPRECIATION/22AMIS-APPRECIATION-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2023/05/22/books/review/martin-amis.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Amis, Martin",
-      "Books and Literature",
-      "Content Type: Personal Profile",
-      "Inside Story (Book)",
-      "London Fields (Book)",
-      "The Information (Book)",
-      "The Rachel Papers (Book)",
-      "Writing and Writers",
-      "audio-neutral-informative",
-      "books"
-    ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   }
 ]

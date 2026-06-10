@@ -34,12 +34,12 @@
       "Revolutionary War, American (1775-83)",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
-    "id": "3f8f1c671982e3a2257616100fefbbdd",
-    "title": "In a New Memoir, Laverne Cox Takes on Her Demons",
+    "id": "eaaa6ceb13b853ca1f3d7f06e5ed9981",
+    "title": "How Laverne Cox Slayed Her Demons: With Grit and Glamour",
     "author": "Tim Teeman",
     "description": "Her memoir follows the path from an abusive childhood to Hollywood stardom. But it’s being released amid a backlash over transgender rights that’s caught up to her, too.",
     "summary_ai": "",
@@ -68,14 +68,137 @@
       "Actors and Actresses",
       "Books and Literature",
       "Cox, Laverne",
-      "Orange is the New Black (TV Program)",
+      "Orange Is the New Black (TV Program)",
       "Television",
       "Transcendent (Book)",
       "Transgender",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
+  },
+  {
+    "id": "be4b4fa34b6a393fbe5ff7d9ed136e87",
+    "title": "John Basinger, Who Memorized All 12 Books of ‘Paradise Lost,’ Dies at 92",
+    "author": "Alex Traub",
+    "description": "After nearly nine years of practice, he made John Milton’s epic poem vividly dramatic for audiences and inspired a study of his “memory virtuosity.”",
+    "summary_ai": "",
+    "categories": [
+      "Basinger, John",
+      "Books",
+      "Deafness",
+      "Deaths (Obituaries)",
+      "Memory",
+      "Milton, John",
+      "National Theater Of The Deaf",
+      "Paradise Lost (Book)",
+      "Poetry And Poets",
+      "Theater"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-10",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/09/multimedia/09Basinger--wpch/09Basinger--wpch-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/09/multimedia/09Basinger--wpch/09Basinger--wpch-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/09/arts/john-basinger-dead.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Basinger, John",
+      "Deafness",
+      "Deaths (Obituaries)",
+      "Memory",
+      "Milton, John",
+      "National Theater of the Deaf",
+      "Paradise Lost (Book)",
+      "Poetry and Poets",
+      "Theater",
+      "books"
+    ],
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
+  },
+  {
+    "id": "d9bc0ac77a54252d347f66051b39dba7",
+    "title": "Sales of Meta whistleblower’s memoir soar after Hay festival ‘silencing’",
+    "author": "Ella Creamer",
+    "description": "Sarah Wynn-Williams remained silent during her hour-long appearance, but sales of Careless People have since increased by more than 300% Sales of the whistleblowing memoir Careless People increased by more than 300% in the UK the week after its author was “silenced” during an appearance at Hay festival following legal action by Meta, the subject of the book. Sarah Wynn-Williams – who between 2011 and 2017 served as the director of global public policy at what was then called Facebook – sat on stage but did not speak during her hour-long appearance on 31 May on the advice of her lawyer. She appeared alongside the journalist Carole Cadwalladr and academic Tim Wu. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Facebook",
+      "Festivals",
+      "Hay Festival",
+      "Media",
+      "Meta",
+      "Technology"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-10",
+    "thumbnail": "https://i.guim.co.uk/img/media/d5fdf0169bd1d6539ac8e70b6ca9dcb7c9cee142/809_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=c4460f93bdc166d05ec60c24a942958d",
+    "cover_large": "https://i.guim.co.uk/img/media/d5fdf0169bd1d6539ac8e70b6ca9dcb7c9cee142/809_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=c4460f93bdc166d05ec60c24a942958d",
+    "article_url": "https://www.theguardian.com/technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Facebook",
+      "Festivals",
+      "Hay festival",
+      "Media",
+      "Meta",
+      "Technology",
+      "books"
+    ],
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
+  },
+  {
+    "id": "070d17f4bea63f4f1e67ba59a48c6d0e",
+    "title": "No fairytale: what happened to the real children behind fiction’s best-loved characters?",
+    "author": "Melissa Albert",
+    "description": "Peter Pan, Christopher Robin and Alice in Wonderland ... being the star of a classic story might seem like a dream, but there’s a dark side, argues the author of The Children I’d loved the children for years before discovering they were real . I can almost summon the magic I felt when I first saw the photographs that proved it: the little boy clad in an approximation of hunters’ skins, posing victorious. The dark-haired girl with the offset gaze, her interior expression that of a person just growing used to being looked at. And – this is the one that really kills me – the big-eyed, dimple-chinned seven-year-old in a soft sweater and tenderly mummish haircut, clutching the teddy bear that would end up even more famous than he would. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Aa Milne",
+      "Books",
+      "Children",
+      "Children And Teenagers",
+      "Culture",
+      "Jm Barrie",
+      "Lewis Carroll"
+    ],
+    "genre": [
+      "Children",
+      "Fiction"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-10",
+    "thumbnail": "https://i.guim.co.uk/img/media/d2f55b21a37a6b5e0b4ddbdb0cfd8714825a8f57/487_138_3080_2465/master/3080.jpg?width=700&quality=85&auto=format&fit=max&s=1c69c56df66e727cb33edf8df354db6c",
+    "cover_large": "https://i.guim.co.uk/img/media/d2f55b21a37a6b5e0b4ddbdb0cfd8714825a8f57/487_138_3080_2465/master/3080.jpg?width=700&quality=85&auto=format&fit=max&s=1c69c56df66e727cb33edf8df354db6c",
+    "article_url": "https://www.theguardian.com/books/2026/jun/10/peter-pan-christopher-robin-alice-the-unsettling-stories-of-the-children-behind-fictions-most-enduring-tales",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "AA Milne",
+      "Books",
+      "Children",
+      "Children and teenagers",
+      "Culture",
+      "JM Barrie",
+      "Lewis Carroll",
+      "books"
+    ],
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "792ec2c32be75d2c938165df3e4af29d",
@@ -109,8 +232,8 @@
       "Middle East and north Africa",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "ad71d410809d8d838032046d0274a1b9",
@@ -143,8 +266,104 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
+  },
+  {
+    "id": "c11a759e918d130e04b10393fc184d13",
+    "title": "The Best Books of the Century So Far: Young Adult",
+    "author": "Community",
+    "description": "These are our picks for the best young adult books of the century so far.",
+    "summary_ai": "",
+    "categories": [
+      "Best Books",
+      "Best Books Of The Century So Far Ya",
+      "Events",
+      "Featured",
+      "Reviews",
+      "Riot Headline",
+      "What'S Up In Ya",
+      "Young Adult Literature"
+    ],
+    "genre": [
+      "Young Adult"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-10",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/american-born-chinese.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/american-born-chinese.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/best-young-adult-books-of-the-century-so-far/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Best Books",
+      "Best Books of the Century So Far YA",
+      "Events",
+      "Featured",
+      "Riot Headline",
+      "What's Up in YA",
+      "Young Adult Literature",
+      "reviews"
+    ],
+    "created_at": "2026-06-10T20:25:13+00:00",
+    "updated_at": "2026-06-10T20:25:13Z"
+  },
+  {
+    "id": "6253c5070ebf577a8e38a347640c4edf",
+    "title": "Amazon Editors Name the Best Books of 2026 So Far",
+    "author": "Rebecca Joines Schinsky",
+    "description": "Amazon Editors name the best books of the year so far.",
+    "summary_ai": "",
+    "categories": [
+      "News",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-10",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Announcing-the-Best-Books-of-2026-So-Far.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Announcing-the-Best-Books-of-2026-So-Far.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/amazon-best-books-2026-so-far/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "News",
+      "reviews"
+    ],
+    "created_at": "2026-06-10T20:25:13+00:00",
+    "updated_at": "2026-06-10T20:25:13Z"
+  },
+  {
+    "id": "ec19089eb5c75df98357f01dd9e79393",
+    "title": "The Best Nonfiction Books of the Year (So Far), According to The New York Times",
+    "author": "Kendra Winchester",
+    "description": "Plus, this year's excellent nonfiction, according to Esquire, and an award-winning biography.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "True Story"
+    ],
+    "genre": [
+      "Biography",
+      "Fiction",
+      "Nonfiction"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-10",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/09/people-and-things-69.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/09/people-and-things-69.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/best-nonfiction-of-the-year-so-far-according-to-the-new-york-times/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "True Story",
+      "reviews"
+    ],
+    "created_at": "2026-06-10T20:25:13+00:00",
+    "updated_at": "2026-06-10T20:25:13Z"
   },
   {
     "id": "6f8e288f91c59c51c52c0c349e5d4ed3",
@@ -173,8 +392,8 @@
       "Rasputin Swims the Potomac (Book)",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "0b6d5a1554ce6af3cabd9e8fa63e6ffa",
@@ -203,8 +422,8 @@
       "Red Sheet (Book)",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "94be3d8fef5cdb638762e3ccdbf0ffc1",
@@ -247,8 +466,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "6b5161b6a1e64b94c13fb22d9035c89e",
@@ -274,8 +493,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "a21e684049b2901694cc2b024cf0abab",
@@ -310,133 +529,8 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
-  },
-  {
-    "id": "1fae8b8cf672ed074b61bd6288ff4a30",
-    "title": "Flamboyance by Jack Parlett review",
-    "author": "John-Baptiste Oduor",
-    "description": "What does it mean to push the boat out, and can peacocking be more than just a beautiful gesture? A friend’s mother once told me that for a couple of years in the 1980s – as the Conservatives were waging war on the miners and she spent late nights at Marxist-feminist reading groups – she wore an almost daily uniform of jeans and a white T-shirt. On her wedding day she broke with habit and put on a dress she had bought, at great expense to her, that was fun, sexy and, although she didn’t use this word, flamboyant. The next week at the school she taught in she saw a colleague wearing it. “Nice dress,” she said. “It’s OK for work,” her colleague replied, “but I wouldn’t wear it out .” I found myself recalling this anecdote as I read Jack Parlett’s memoir-cum-cultural history of our attempts to push the boat out. To make any effort is to risk embarrassment, to be seen either as ridiculous or hopelessly naive. One way to avoid those charges is to use playful or cynical irony. Parlett finds examples of this in Oscar Wilde and what the cultural critic Susan Sontag once described as camp, a worldview obsessed with artifice and performance. Although Flamboyance is not a polemic, it’s...",
-    "summary_ai": "",
-    "categories": [
-      "Autobiography And Memoir",
-      "Biography Books",
-      "Books",
-      "Culture",
-      "History Books"
-    ],
-    "genre": [
-      "History",
-      "Memoir",
-      "Politics"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-09",
-    "thumbnail": "https://i.guim.co.uk/img/media/ff324d2aa19fa6ddc8c3cd5c4eece3fab46fd46d/837_378_4611_3689/master/4611.jpg?width=700&quality=85&auto=format&fit=max&s=1f655b1295f75fcd386bc26551717da7",
-    "cover_large": "https://i.guim.co.uk/img/media/ff324d2aa19fa6ddc8c3cd5c4eece3fab46fd46d/837_378_4611_3689/master/4611.jpg?width=700&quality=85&auto=format&fit=max&s=1f655b1295f75fcd386bc26551717da7",
-    "article_url": "https://www.theguardian.com/books/2026/jun/09/flamboyance-by-jack-parlett-review-a-serious-study-of-the-spectacular",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Autobiography and memoir",
-      "Biography books",
-      "Books",
-      "Culture",
-      "History books",
-      "books"
-    ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
-  },
-  {
-    "id": "f451bf94a2760417bae14e0be2dddb15",
-    "title": "7 Seaside Romance Books to Pack in Your Beach Bag",
-    "author": "Julia Rittenberg",
-    "description": "Whether you bring one on vacation or tote it along on your commute, these seaside romance books will transport you to exciting places.",
-    "summary_ai": "",
-    "categories": [
-      "Kissing Books",
-      "Reviews",
-      "Romance/Erotica"
-    ],
-    "genre": [
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-09",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/nearlywed-cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/nearlywed-cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/seaside-romance-books/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Kissing Books",
-      "Romance/Erotica",
-      "reviews"
-    ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
-  },
-  {
-    "id": "a00a18fd0ea0c6be42798145c4b8ba46",
-    "title": "The Best Books You’ve Never Heard Of (Summer 2026)",
-    "author": "Danika Ellis",
-    "description": "If you're tired of seeing the same books get recommended over and over, check out these hidden gems that you've (probably) never heard of.",
-    "summary_ai": "",
-    "categories": [
-      "Featured",
-      "In The Club",
-      "Lists",
-      "Reviews",
-      "The Best Books You'Ve Never Heard Of"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-09",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/01/The-Hollow-Half-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/01/The-Hollow-Half-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/the-best-books-youve-never-heard-of-summer-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Featured",
-      "In the Club",
-      "Lists",
-      "reviews",
-      "the best books you've never heard of"
-    ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
-  },
-  {
-    "id": "e8d5ef20904b5e5fa55c8acc147c8f57",
-    "title": "📚 Let the chaos take you",
-    "author": "Community",
-    "description": "Utah bans its 35th book from schools statewide, while the 2025 and 2026 book awards seasons meet in real time.",
-    "summary_ai": "",
-    "categories": [
-      "Book Riot Newsletter",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-09",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/new-releases-june-9.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/new-releases-june-9.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/let-the-chaos-take-you/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Book Riot Newsletter",
-      "reviews"
-    ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "be511c2537236e5647cbf25ebf4001d7",
@@ -461,36 +555,8 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
-  },
-  {
-    "id": "5de1a75cc534b000fde3de7f7fcd65dd",
-    "title": "Library Patron Privacy in the Age of AI, Plus More News For Library Workers",
-    "author": "Katie McLain Horner",
-    "description": "A new report outlines the challenges of library patron privacy in the age of AI—plus, more library news.",
-    "summary_ai": "",
-    "categories": [
-      "Check Your Shelf",
-      "Libraries",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-09",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/07/library.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/07/library.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/library-patron-privacy-in-the-age-of-ai/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Check Your Shelf",
-      "Libraries",
-      "reviews"
-    ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:25:13+00:00",
+    "updated_at": "2026-06-10T20:25:13Z"
   },
   {
     "id": "1a4e1cdd9d0afaeb849a491e10c4981a",
@@ -533,8 +599,8 @@
       "Pulitzer Prizes",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "eeb5449933dd5e27bf9597292c89fc86",
@@ -575,45 +641,8 @@
       "The Man Who Stole the Gods: A True Story of War, Obsession, and a Global Art Conspiracy (Book)",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
-  },
-  {
-    "id": "fa3a9d21c7f18b0cf9710f320276a6b1",
-    "title": "A British Childhood by Frank Cottrell-Boyce review – are we raising a bookless generation?",
-    "author": "Joe Moran",
-    "description": "This clarion call about the impoverishment of children’s lives is also a reminder of the sheer magic of reading Every day, on my walk to work, I pass a primary school. A group of little people are being dropped off by parents. They are met at the gates by a teacher who greets them all by name before leading them up the steps to breakfast club. In the cold and dark of winter, with the school’s windows glowing invitingly, I sometimes envy these children their warm, welcoming cocoon. I thought of that daily scene often when reading this book, which is inspired by Frank Cottrell-Boyce’s time as Waterstones children’s laureate. During his laureateship he ran a campaign with the literary charity BookTrust called Reading Rights, addressing literacy inequality for children in poverty. It was prompted by the discovery that nearly half of children were arriving at school without having been read to. Many had no clue how books worked. They were trying to swipe rather than turn pages, or expand illustrations by pinching them with their fingers. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Children",
-      "Children'S Laureate",
-      "Culture",
-      "Frank Cottrell-Boyce",
-      "Society Books"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-08",
-    "thumbnail": "https://i.guim.co.uk/img/media/a0cfb32fba9cae4e669aacb6952839cc52ce90d8/0_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=ad7c169e402618d85c53445439719768",
-    "cover_large": "https://i.guim.co.uk/img/media/a0cfb32fba9cae4e669aacb6952839cc52ce90d8/0_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=ad7c169e402618d85c53445439719768",
-    "article_url": "https://www.theguardian.com/books/2026/jun/08/a-british-childhood-by-frank-cottrell-boyce-review-are-we-raising-a-bookless-generation",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Children",
-      "Children's laureate",
-      "Culture",
-      "Frank Cottrell-Boyce",
-      "Society books",
-      "books"
-    ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "3b57c29e4b93ec7c85ed61f021774c51",
@@ -642,8 +671,8 @@
       "Eggers, Dave",
       "books"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:24:43+00:00",
+    "updated_at": "2026-06-10T20:24:43Z"
   },
   {
     "id": "636b1c0e06320f8f72677ddfb7c2ab32",
@@ -666,7 +695,7 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-06-10T09:59:09+00:00",
-    "updated_at": "2026-06-10T09:59:09Z"
+    "created_at": "2026-06-10T20:25:13+00:00",
+    "updated_at": "2026-06-10T20:25:13Z"
   }
 ]
