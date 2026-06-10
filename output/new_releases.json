@@ -32,8 +32,8 @@
       "publishers",
       "trailers"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "a395ad0dc08fb3edf50492970169a5e8",
@@ -70,8 +70,8 @@
       "The Wheel of Time",
       "publishers"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "622ee5dc7f96ac4c073130813d2d6bb5",
@@ -108,8 +108,8 @@
       "nostalgia",
       "publishers"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "c588b6eb5df4775898dbceec4e9d5155",
@@ -144,8 +144,8 @@
       "Star Trek: The Original Series",
       "publishers"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "37d860532d47ef4687591cdc544836fa",
@@ -182,8 +182,80 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
+  },
+  {
+    "id": "34adb55d648497f177688f4bad4a7200",
+    "title": "Robert Munsch’s Potty Picture Book Gets a Fresh Update",
+    "author": "",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-09",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129652-2.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129652-2.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100600-robert-munsch-s-potty-picture-book-gets-a-stinky-update.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
+  },
+  {
+    "id": "5ee3e27880033f6dc7be0f474f97b8d3",
+    "title": "Rights Report: Week of June 8, 2026",
+    "author": "",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-09",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129646-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129646-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100599-rights-report-week-of-june-8-2026.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
+  },
+  {
+    "id": "b9b13260ded4143e1d6b64a2a84872a4",
+    "title": "USBS 2026: Raising the Next Generation of Readers",
+    "author": "Emma Kantor",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-09",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129623-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129623-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100591-usbs-2026-raising-the-next-generation-of-readers.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "1773b97dc061ad1b7de816814013d869",
@@ -206,8 +278,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "e4656048f65199d393d7211ae558c85e",
@@ -230,8 +302,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "ae9e70a44e227ab00cb2413ea9287b03",
@@ -254,8 +326,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "ce9b6f8bfbb8568221fcab97cf2d4109",
@@ -286,8 +358,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "ed964ae208b9411a32c6436be45d03eb",
@@ -324,8 +396,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "41678c13820536eecc1ac104210cec56",
@@ -366,8 +438,8 @@
       "movie reviews",
       "publishers"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "d48e61456f49bde610c1d4ab4d7414e9",
@@ -402,8 +474,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "661d24c60c2899fd95fcd6eb0fad5149",
@@ -442,8 +514,8 @@
       "publishers",
       "trailers"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "48e88b97c85a1b8affe3ec6e37703fc8",
@@ -482,8 +554,8 @@
       "publishers",
       "television reviews"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "fe59c08a537a85de083a35fb5b1caf9c",
@@ -516,8 +588,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "fa5a2e1bee6c8f0bce4461ce7111ed45",
@@ -548,8 +620,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "45cda4e51962f40f70465fdb54b4b33a",
@@ -586,93 +658,7 @@
       "publishers",
       "talking animals"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
-  },
-  {
-    "id": "7464b9e99dd6b631cf7165b252510a0a",
-    "title": "Eight Overlooked Characters from Lewis Carroll’s Alice Books",
-    "author": "Sarah",
-    "description": "Everyone loves the White Rabbit and the Cheshire Cat, but what about these weird and wonderful creations? The post Eight Overlooked Characters from Lewis Carroll’s Alice Books appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Alice In Wonderland",
-      "Alice Through The Looking Glass",
-      "Blog",
-      "Children'S Books",
-      "Children'S Classics",
-      "Lewis Carroll",
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-06-08",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/06/Wasp-in-a-Wig-header.png",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/06/Wasp-in-a-Wig-header.png",
-    "article_url": "https://reactormag.com/eight-overlooked-characters-from-lewis-carrolls-alice-books/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Alice Through the Looking Glass",
-      "Alice in Wonderland",
-      "Blog",
-      "Children's Books",
-      "Lewis Carroll",
-      "children's classics",
-      "publishers"
-    ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
-  },
-  {
-    "id": "3b8e2e285b7566856bbd6662ae344bf1",
-    "title": "U.S. Audiobook Sales Grew 9% in 2025, to $2.43 Billion",
-    "author": "Ed Nawotka",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-06-08",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129619-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129619-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/audio-books/article/100588-u-s-audiobook-sales-up-9-in-2025-reaches-2-43-billion.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
-  },
-  {
-    "id": "33e0fdda6afc45876c8925a825a31e32",
-    "title": "Baker Publishing Group to Launch Children’s Imprint",
-    "author": "Cathy Lynn Grossman",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-06-08",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129620-2.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129620-2.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/religion/article/100586-bpg-to-launch-imprint-for-children-in-spring-2027.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   }
 ]

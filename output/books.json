@@ -1,5 +1,152 @@
 [
   {
+    "id": "1104a22874baeb0de2df82d082878fa6",
+    "title": "Book Review: ‘Cocked and Boozy,’ by Brooke Barbier",
+    "author": "J. D. Biersdorfer",
+    "description": "In her new history, “Cocked and Boozy,” Brooke Barbier illuminates the pervasive role that alcohol played throughout the colonial era.",
+    "summary_ai": "",
+    "categories": [
+      "Alcoholic Beverages",
+      "Barbier, Brooke",
+      "Books",
+      "Books And Literature",
+      "Cocked And Boozy: An Intoxicating History Of The American Revolution (Book)",
+      "North America",
+      "Revolutionary War, American (1775-83)"
+    ],
+    "genre": [
+      "History"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-10",
+    "thumbnail": "https://static01.nyt.com/images/2026/05/31/multimedia/09TBR-Barbier-Review-qtcm/09TBR-Barbier-Review-qtcm-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/05/31/multimedia/09TBR-Barbier-Review-qtcm/09TBR-Barbier-Review-qtcm-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/10/books/review/cocked-and-boozy-brooke-barbier.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Alcoholic Beverages",
+      "Barbier, Brooke",
+      "Books and Literature",
+      "Cocked and Boozy: An Intoxicating History of the American Revolution (Book)",
+      "North America",
+      "Revolutionary War, American (1775-83)",
+      "books"
+    ],
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
+  },
+  {
+    "id": "3f8f1c671982e3a2257616100fefbbdd",
+    "title": "In a New Memoir, Laverne Cox Takes on Her Demons",
+    "author": "Tim Teeman",
+    "description": "Her memoir follows the path from an abusive childhood to Hollywood stardom. But it’s being released amid a backlash over transgender rights that’s caught up to her, too.",
+    "summary_ai": "",
+    "categories": [
+      "Actors And Actresses",
+      "Books",
+      "Books And Literature",
+      "Cox, Laverne",
+      "Orange Is The New Black (Tv Program)",
+      "Television",
+      "Transcendent (Book)",
+      "Transgender"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-10",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/04/multimedia/00hp-tbr-laverne-cox-kvgj/00hp-tbr-laverne-cox-kvgj-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/04/multimedia/00hp-tbr-laverne-cox-kvgj/00hp-tbr-laverne-cox-kvgj-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/10/books/review/laverne-cox-transcendent-memoir.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Actors and Actresses",
+      "Books and Literature",
+      "Cox, Laverne",
+      "Orange is the New Black (TV Program)",
+      "Television",
+      "Transcendent (Book)",
+      "Transgender",
+      "books"
+    ],
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
+  },
+  {
+    "id": "792ec2c32be75d2c938165df3e4af29d",
+    "title": "Stolen Revolution by Bozorgmehr Sharafedin and Yeganeh Torbati review – Iran’s recent history explained",
+    "author": "Dina Nayeri",
+    "description": "This account of the Islamic Republic and its discontents told via six contrasting lives should be required reading It’s difficult in 2026 to talk about Iran without confronting a lot of crude certainty. The average non-Iranian gets their information in snippets, filtered by algorithms. The Iranian diaspora is too fractured and traumatised to educate everyone. And the regime has muffled the voices inside its borders, responding to every major uprising with internet blackouts that hide both the people’s rage and its own violent response. Meanwhile, its own network of misinformation spreads lies – that protesters are foreign instruments, that the unrest is manufactured by outsiders – exploiting legitimate western anxieties about intervention, Islamophobia, sanctions, oil and Israeli imperialism. Bozorgmehr Sharafedin and Yeganeh Torbati’s powerful history of the Islamic republic is a badly needed corrective because it is at once an engrossing story and a balanced, meticulously researched primer on modern Iran (the clearest I’ve ever read). And it is dramatic, personal and often heartbreaking, told through six lives lived at the forefront of the Iranian people’s almost five-decade...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "History Books",
+      "Iran",
+      "Middle East And North Africa"
+    ],
+    "genre": [
+      "History"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-10",
+    "thumbnail": "https://i.guim.co.uk/img/media/963c79e06894008a668f265e2e24e000c7431e50/198_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=9384aaba1d1569a88801344a9b79e466",
+    "cover_large": "https://i.guim.co.uk/img/media/963c79e06894008a668f265e2e24e000c7431e50/198_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=9384aaba1d1569a88801344a9b79e466",
+    "article_url": "https://www.theguardian.com/books/2026/jun/10/stolen-revolution-by-bozorgmehr-sharafedin-and-yeganeh-torbati-review-irans-recent-history-explained",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "History books",
+      "Iran",
+      "Middle East and north Africa",
+      "books"
+    ],
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
+  },
+  {
+    "id": "ad71d410809d8d838032046d0274a1b9",
+    "title": "Lovers XXX by Allie Rowbottom review",
+    "author": "Madeleine Feeny",
+    "description": "A young woman begins a career in the adult industry while, 30 years later, her friend tries to find out what happened to her, in an addictive, twist-filled story Just as there is a lack of pornography made by women, there is a lack of books about making pornography written by women. Recent nonfiction titles such as Polly Barton’s Porn: An Oral History and Fiona Vera-Gray’s Women on Porn have sought to address the silence and moral confusion, while Rufi Thorpe’s novel Margo’s Got Money Troubles imagined a student mum paying her way with OnlyFans. Now Allie Rowbottom, author of a memoir, Jell-O Girls, and a novel, Aesthetica, braves the dicey terrain in her sleazy, cinematic second novel. Published into a contemporary landscape where algorithms promote increasingly extreme content, Lovers XXX takes us to the so-called golden age of the Los Angeles porn industry, through the eyes of two teenage runaways who trade troubled homes for big-city dreams. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction"
+    ],
+    "genre": [
+      "Fiction",
+      "History",
+      "Memoir",
+      "Nonfiction"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-10",
+    "thumbnail": "https://i.guim.co.uk/img/media/02379f0290f5c62ff533da1becab6ab3b1efa0ed/370_0_4126_3300/master/4126.jpg?width=700&quality=85&auto=format&fit=max&s=5e64a6a5f4728cefae94f937a79fdf48",
+    "cover_large": "https://i.guim.co.uk/img/media/02379f0290f5c62ff533da1becab6ab3b1efa0ed/370_0_4126_3300/master/4126.jpg?width=700&quality=85&auto=format&fit=max&s=5e64a6a5f4728cefae94f937a79fdf48",
+    "article_url": "https://www.theguardian.com/books/2026/jun/10/lovers-xxx-by-allie-rowbottom-review-a-wild-journey-through-the-80s-la-porn-scene",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "books"
+    ],
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
+  },
+  {
     "id": "6f8e288f91c59c51c52c0c349e5d4ed3",
     "title": "Book Review: ‘Rasputin Swims the Potomac,’ by Ben Fountain",
     "author": "David Gates",
@@ -26,8 +173,8 @@
       "Rasputin Swims the Potomac (Book)",
       "books"
     ],
-    "created_at": "2026-06-09T20:03:16+00:00",
-    "updated_at": "2026-06-09T20:03:16Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "0b6d5a1554ce6af3cabd9e8fa63e6ffa",
@@ -56,8 +203,8 @@
       "Red Sheet (Book)",
       "books"
     ],
-    "created_at": "2026-06-09T20:03:16+00:00",
-    "updated_at": "2026-06-09T20:03:16Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "94be3d8fef5cdb638762e3ccdbf0ffc1",
@@ -100,8 +247,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-09T20:03:16+00:00",
-    "updated_at": "2026-06-09T20:03:16Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "6b5161b6a1e64b94c13fb22d9035c89e",
@@ -127,8 +274,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-09T20:03:16+00:00",
-    "updated_at": "2026-06-09T20:03:16Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "a21e684049b2901694cc2b024cf0abab",
@@ -163,8 +310,8 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-06-09T20:03:16+00:00",
-    "updated_at": "2026-06-09T20:03:16Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "1fae8b8cf672ed074b61bd6288ff4a30",
@@ -200,8 +347,8 @@
       "History books",
       "books"
     ],
-    "created_at": "2026-06-09T20:03:16+00:00",
-    "updated_at": "2026-06-09T20:03:16Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "1a4e1cdd9d0afaeb849a491e10c4981a",
@@ -244,8 +391,8 @@
       "Pulitzer Prizes",
       "books"
     ],
-    "created_at": "2026-06-09T20:03:16+00:00",
-    "updated_at": "2026-06-09T20:03:16Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "eeb5449933dd5e27bf9597292c89fc86",
@@ -286,8 +433,8 @@
       "The Man Who Stole the Gods: A True Story of War, Obsession, and a Global Art Conspiracy (Book)",
       "books"
     ],
-    "created_at": "2026-06-09T20:03:16+00:00",
-    "updated_at": "2026-06-09T20:03:16Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "fa3a9d21c7f18b0cf9710f320276a6b1",
@@ -323,34 +470,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-06-09T20:03:16+00:00",
-    "updated_at": "2026-06-09T20:03:16Z"
-  },
-  {
-    "id": "0d67bf9290037bfd347ec78cb58993d5",
-    "title": "Villa Coco by Andrew Sean Greer review",
-    "author": "Christobel Kent",
-    "description": "The Pulitzer-winning author of Less has crafted a breezy confection of fish-out-of-water wit, insecurity and self-discovery set in an Italian paradise ‘There’s a place in Italy in need of someone. Why don’t you look into that?” Inspired by his two-year stint directing a writers’ residency, the Santa Maddalena Foundation outside Florence, with these words American author Andrew Sean Greer launches a hapless, clueless innocent into the Tuscan hills and the embrace of its eccentric aristocracy, in the person of the eponymous Coco, Baronessa Lisabetta. Variously known as “our young man”, Gio and Giovedi, Villa Coco’s narrator is here to fill the post of “adjutant” for the Baronessa. His duties include pruning roses, emptying drains, hunting the Baronessa’s mortal enemy, the pine marten, and cataloguing the dilapidated Villa Coco’s contents. Among the camel saddles and hat racks, he is assured, lurk priceless works of art, including a Picasso and a Botticelli. He joins a staff consisting of a Sri Lankan cook, her husband and a Lebanese factotum; they share in the sisyphean task of keeping Villa Coco going, and the Baronessa out of harm’s way. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Fiction"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-08",
-    "thumbnail": "https://i.guim.co.uk/img/media/4cdf339836f1764d35d2c6351390bb3c808f6d46/0_95_3828_3063/master/3828.jpg?width=700&quality=85&auto=format&fit=max&s=ae190645c1d6fd7ebec6fdfbf977d5aa",
-    "cover_large": "https://i.guim.co.uk/img/media/4cdf339836f1764d35d2c6351390bb3c808f6d46/0_95_3828_3063/master/3828.jpg?width=700&quality=85&auto=format&fit=max&s=ae190645c1d6fd7ebec6fdfbf977d5aa",
-    "article_url": "https://www.theguardian.com/books/2026/jun/08/villa-coco-by-andrew-sean-greer-review-fun-in-the-tuscan-sun",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-06-09T20:03:16+00:00",
-    "updated_at": "2026-06-09T20:03:16Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "3b57c29e4b93ec7c85ed61f021774c51",
@@ -379,43 +500,8 @@
       "Eggers, Dave",
       "books"
     ],
-    "created_at": "2026-06-09T20:03:16+00:00",
-    "updated_at": "2026-06-09T20:03:16Z"
-  },
-  {
-    "id": "3bafd972aedab77bcb5cb1180e3ff423",
-    "title": "‘Far right groups prey on it’: Olivia Laing on the weaponisation of loneliness",
-    "author": "Olivia Laing",
-    "description": "A decade after The Lonely City was first published, the writer reflects on what’s changed – and how the feelings that drove them to write their bestseller are key to understanding our turbulent politics I first had the idea of writing a book about loneliness in 2012. I was 35 and had just moved to New York City when I became lost in a labyrinth of isolation and misery. A love affair had ended abruptly while I was still sky-high with expectation, buoyant with relief that I was finally entering settled coupledom. To have failed in this transition, to have been rejected and left alone, filled me with a shame that felt literally unspeakable. So there I was: alone in the city, an exile condemned to watch the world go by. It was a humiliating and very frightening feeling. The pain was intensified, as a broken leg or even a broken heart would not have been, by the fact that my loneliness felt inadmissible, a thing that could not be said for fear of repelling other people. This was the most alarming aspect of the experience, in that the need for concealment further entrenched the isolation, so that loneliness grew ever more inescapable, a fortress of solitude whose bulwarks and ramparts...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Loneliness",
-      "Olivia Laing",
-      "Society"
-    ],
-    "genre": [
-      "Politics"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-07",
-    "thumbnail": "https://i.guim.co.uk/img/media/a7b9ca73f6b6d093d8db7bf04600ece1302c8946/945_0_5909_4726/master/5909.jpg?width=700&quality=85&auto=format&fit=max&s=4a6ba59dcfa6b35ab1e28dc5a04cc24a",
-    "cover_large": "https://i.guim.co.uk/img/media/a7b9ca73f6b6d093d8db7bf04600ece1302c8946/945_0_5909_4726/master/5909.jpg?width=700&quality=85&auto=format&fit=max&s=4a6ba59dcfa6b35ab1e28dc5a04cc24a",
-    "article_url": "https://www.theguardian.com/books/2026/jun/07/far-right-groups-prey-on-it-olivia-laing-on-the-weaponisation-of-loneliness",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Loneliness",
-      "Olivia Laing",
-      "Society",
-      "books"
-    ],
-    "created_at": "2026-06-09T20:03:16+00:00",
-    "updated_at": "2026-06-09T20:03:16Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "8ca609094d06ce0ca7083d45931d5626",
@@ -456,8 +542,8 @@
       "Riding, Alan",
       "books"
     ],
-    "created_at": "2026-06-09T20:03:16+00:00",
-    "updated_at": "2026-06-09T20:03:16Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "bec1621bb7d458e896a8792ee15f23df",
@@ -482,8 +568,8 @@
     "language": "English",
     "publisher": "The New York Times",
     "published_date": "2026-06-06",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/06/multimedia/06xp-wharton-edith-lqpc/06xp-wharton-edith-lqpc-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/06/multimedia/06xp-wharton-edith-lqpc/06xp-wharton-edith-lqpc-mediumSquareAt3X.jpg",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/10/multimedia/06xp-wharton-edith-lqpc/06xp-wharton-edith-lqpc-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/10/multimedia/06xp-wharton-edith-lqpc/06xp-wharton-edith-lqpc-mediumSquareAt3X.jpg",
     "article_url": "https://www.nytimes.com/2026/06/06/books/edith-wharton-new-short-story.html",
     "source": "The New York Times",
     "source_type": "rss",
@@ -500,8 +586,8 @@
       "books",
       "internal-eafs"
     ],
-    "created_at": "2026-06-09T20:03:16+00:00",
-    "updated_at": "2026-06-09T20:03:16Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "32610f44762d64c5aa7856bfce2f3c5e",
@@ -534,8 +620,8 @@
       "Waist Deep (Book)",
       "books"
     ],
-    "created_at": "2026-06-09T20:03:16+00:00",
-    "updated_at": "2026-06-09T20:03:16Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "c248fee74589590df3b667238bce3afb",
@@ -570,8 +656,8 @@
       "books",
       "internal-open-access-audio"
     ],
-    "created_at": "2026-06-09T20:03:16+00:00",
-    "updated_at": "2026-06-09T20:03:16Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "8bf2f69327179dc09d35522731f97958",
@@ -602,36 +688,8 @@
       "Villa Coco (Book)",
       "books"
     ],
-    "created_at": "2026-06-09T20:03:16+00:00",
-    "updated_at": "2026-06-09T20:03:16Z"
-  },
-  {
-    "id": "51242b0e33b84fcce86a8424a093428a",
-    "title": "11 Books That Capture the Swoonworthy Drama of Wedding Season",
-    "author": "Jenny Singer",
-    "description": "Some will have you mentally arranging flowers for your own happy day. Others provide the vicarious thrill of watching it all burn.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Weddings And Engagements"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-05",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/26/books/26TBR-RecList-WeddingList/26TBR-RecList-WeddingList-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/26/books/26TBR-RecList-WeddingList/26TBR-RecList-WeddingList-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/04/books/wedding-novels.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Weddings and Engagements",
-      "books"
-    ],
-    "created_at": "2026-06-09T20:03:16+00:00",
-    "updated_at": "2026-06-09T20:03:16Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "3559a1bc924ee97b597573623c23f713",
@@ -662,88 +720,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
-  },
-  {
-    "id": "095f2d9e7eb6478f8e2a4bba4ee0b983",
-    "title": "Book Review: ‘Checkmate,’ by Ben Mezrich",
-    "author": "Dylan Loeb McClain",
-    "description": "The story at the heart of “Checkmate” is a good one, but Ben Mezrich has hustled it into print too quickly.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Carlsen, Magnus",
-      "Cheating",
-      "Checkmate: Genius, Lies, Ambition, And The Biggest Scandal In Chess (Book)",
-      "Chess",
-      "Chess.Com Llc",
-      "Mezrich, Ben",
-      "Niemann, Hans (2003- )"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-04",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/02/books/02TBRMezrich-Review/02TBRMezrich-Review-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/02/books/02TBRMezrich-Review/02TBRMezrich-Review-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/04/books/review/checkmate-ben-mezrich.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Carlsen, Magnus",
-      "Cheating",
-      "Checkmate: Genius, Lies, Ambition, and the Biggest Scandal in Chess (Book)",
-      "Chess",
-      "Chess.com LLC",
-      "Mezrich, Ben",
-      "Niemann, Hans (2003- )",
-      "books"
-    ],
-    "created_at": "2026-06-09T20:03:16+00:00",
-    "updated_at": "2026-06-09T20:03:16Z"
-  },
-  {
-    "id": "47f1e35efb40bb863b90b6a79df8709d",
-    "title": "Caissie Levy, Tony Awards Contender and ‘Ragtime’ Star, Is Having a Moment",
-    "author": "Michael Paulson and George Etheredge",
-    "description": "Caissie Levy was Broadway’s first Elsa. She starred in “Hair” and “Ghost.” And now, for “Ragtime,” she is an odds-on favorite to win a Tony Award.",
-    "summary_ai": "",
-    "categories": [
-      "Actors And Actresses",
-      "Books",
-      "Content Type: Personal Profile",
-      "Levy, Caissie",
-      "Lincoln Center Theater",
-      "Ragtime (Play)",
-      "Theater",
-      "Theater (Broadway)",
-      "Tony Awards (Theater Awards)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-04",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/03/multimedia/03cul-caissie-levy-jqth/03cul-caissie-levy-jqth-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/03/multimedia/03cul-caissie-levy-jqth/03cul-caissie-levy-jqth-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/03/theater/caissie-levy-broadway-tonys-ragtime.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Actors and Actresses",
-      "Content Type: Personal Profile",
-      "Levy, Caissie",
-      "Lincoln Center Theater",
-      "Ragtime (Play)",
-      "Theater",
-      "Theater (Broadway)",
-      "Tony Awards (Theater Awards)",
-      "books"
-    ],
-    "created_at": "2026-06-09T20:03:16+00:00",
-    "updated_at": "2026-06-09T20:03:16Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "a1355264f0aedbb5668633e948b1dbd2",
@@ -775,8 +753,8 @@
       "Travel",
       "books"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "67cc1c8b74bc8a9566b5b7721ed51b53",
@@ -806,8 +784,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "cd29f8375e271820c02627200e68f1d2",
@@ -839,8 +817,8 @@
       "Michael Ondaatje",
       "books"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "57bd41ee8b43fbfafe98e7c6aefba314",
@@ -877,8 +855,8 @@
       "Pop and rock",
       "books"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "f68266f9b29fffbd6d0f99a1ae2cac15",
@@ -912,8 +890,8 @@
       "UK news",
       "books"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "70cd24b8757464da7bbe573c0af45489",
@@ -949,8 +927,8 @@
       "Sarah Moss",
       "books"
     ],
-    "created_at": "2026-06-09T20:03:17+00:00",
-    "updated_at": "2026-06-09T20:03:17Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -980,8 +958,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-09T20:03:16+00:00",
-    "updated_at": "2026-06-09T20:03:16Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1020,8 +998,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-09T20:03:16+00:00",
-    "updated_at": "2026-06-09T20:03:16Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   },
   {
     "id": "755ba738881478773c8491c271f5d902",
@@ -1048,7 +1026,49 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-06-09T20:03:16+00:00",
-    "updated_at": "2026-06-09T20:03:16Z"
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
+  },
+  {
+    "id": "f0a8987fb7322e3a0dc23bf36fa062e5",
+    "title": "Martin Amis: An Appreciation",
+    "author": "A.O. Scott",
+    "description": "Our critic assesses the achievement of Martin Amis, Britain’s most famous literary son.",
+    "summary_ai": "",
+    "categories": [
+      "Amis, Martin",
+      "Audio-Neutral-Informative",
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Inside Story (Book)",
+      "London Fields (Book)",
+      "The Information (Book)",
+      "The Rachel Papers (Book)",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2023-05-22",
+    "thumbnail": "https://static01.nyt.com/images/2023/06/11/books/review/22AMIS-APPRECIATION/22AMIS-APPRECIATION-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2023/06/11/books/review/22AMIS-APPRECIATION/22AMIS-APPRECIATION-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2023/05/22/books/review/martin-amis.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Amis, Martin",
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Inside Story (Book)",
+      "London Fields (Book)",
+      "The Information (Book)",
+      "The Rachel Papers (Book)",
+      "Writing and Writers",
+      "audio-neutral-informative",
+      "books"
+    ],
+    "created_at": "2026-06-10T09:59:09+00:00",
+    "updated_at": "2026-06-10T09:59:09Z"
   }
 ]
