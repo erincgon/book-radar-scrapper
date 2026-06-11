@@ -10,9 +10,10 @@
       "Books And Literature",
       "Bronte, Charlotte",
       "Bronte, Emily",
+      "Content Type: Personal Profile",
       "Haworth (England)",
-      "Lutz, Deborah",
-      "This Dark Night (Book)",
+      "Lutz, Deborah (1970- )",
+      "This Dark Night: Emily Bronte, A Life (Book)",
       "Wuthering Heights (Book)"
     ],
     "genre": [
@@ -30,14 +31,15 @@
       "Books and Literature",
       "Bronte, Charlotte",
       "Bronte, Emily",
+      "Content Type: Personal Profile",
       "Haworth (England)",
-      "Lutz, Deborah",
-      "THIS DARK NIGHT (Book)",
+      "Lutz, Deborah (1970- )",
+      "This Dark Night: Emily Bronte, a Life (Book)",
       "Wuthering Heights (Book)",
       "books"
     ],
-    "created_at": "2026-06-11T10:23:21+00:00",
-    "updated_at": "2026-06-11T10:23:21Z"
+    "created_at": "2026-06-11T20:14:47+00:00",
+    "updated_at": "2026-06-11T20:14:47Z"
   },
   {
     "id": "4d201eb884e379ec4c83dc36ffb2298c",
@@ -66,8 +68,51 @@
       "The Typing Lady (and Other Fictions) (Book)",
       "books"
     ],
-    "created_at": "2026-06-11T10:23:21+00:00",
-    "updated_at": "2026-06-11T10:23:21Z"
+    "created_at": "2026-06-11T20:14:47+00:00",
+    "updated_at": "2026-06-11T20:14:47Z"
+  },
+  {
+    "id": "627e12ba9a73fe8f199efdc9895648a2",
+    "title": "Women’s prize: Virginia Evans wins for fiction and Lyse Doucet takes award for nonfiction",
+    "author": "Emma Loffhagen",
+    "description": "Evans’s The Correspondent and the BBC journalist’s ‘people’s history’ of modern Afghanistan, The Finest Hotel in Kabul, win £30,000 prizes Debut novelist Virginia Evans has won this year’s Women’s prize for fiction, while the BBC’s chief international correspondent Lyse Doucet took home the nonfiction award, also for her debut. Evans’s The Correspondent and Doucet’s The Finest Hotel in Kabul were announced as the winners at a ceremony in central London on Thursday evening, with each author awarded £30,000. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Awards And Prizes",
+      "Books",
+      "Culture",
+      "Fiction",
+      "History Books",
+      "Women'S Prize For Fiction",
+      "Women'S Prize For Nonfiction",
+      "Women'S Prizes"
+    ],
+    "genre": [
+      "Fiction",
+      "History",
+      "Nonfiction"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-11",
+    "thumbnail": "https://i.guim.co.uk/img/media/8a9ba109ba9906e83c6c11857344d102a58af190/0_0_2700_2160/master/2700.jpg?width=700&quality=85&auto=format&fit=max&s=604345f8ba24ad2d8a36435d6b9c5f93",
+    "cover_large": "https://i.guim.co.uk/img/media/8a9ba109ba9906e83c6c11857344d102a58af190/0_0_2700_2160/master/2700.jpg?width=700&quality=85&auto=format&fit=max&s=604345f8ba24ad2d8a36435d6b9c5f93",
+    "article_url": "https://www.theguardian.com/books/2026/jun/11/womens-prize-virginia-evans-the-correspondent-fiction-lyse-doucet-the-finest-hotel-in-kabul-nonfiction",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Awards and prizes",
+      "Books",
+      "Culture",
+      "Fiction",
+      "History books",
+      "Women's prize for fiction",
+      "Women's prize for nonfiction",
+      "Women's prizes",
+      "books"
+    ],
+    "created_at": "2026-06-11T20:14:48+00:00",
+    "updated_at": "2026-06-11T20:14:48Z"
   },
   {
     "id": "1aa905cb92f4888eaeaaaac059eb88b8",
@@ -95,8 +140,67 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-11T10:23:21+00:00",
-    "updated_at": "2026-06-11T10:23:21Z"
+    "created_at": "2026-06-11T20:14:48+00:00",
+    "updated_at": "2026-06-11T20:14:48Z"
+  },
+  {
+    "id": "23e43e070391ed6f7b26def883251c8c",
+    "title": "The Artist by Lucy Steeds audiobook review",
+    "author": "Fiona Sturges",
+    "description": "A reclusive artist is the reluctant subject of a journalist’s attention in a rich world of scents, scenery and secrets When a British journalist named Joseph Adelaide tracks down a reclusive artist to his remote farmhouse in the south of France, his plan is to interview him for a magazine profile. Edouard Tartuffe is a revered painter who was taught by Cézanne and is known on the Parisian art scene as the “Master of Light”. But then he retreated from the limelight amid rumours of a feud with his former mentor. Tartuffe – known as Tata – now lives with his 27-year-old niece, Ettie, and is blind in one eye. Joseph quickly learns that Tata also has an explosive temper and rules the household with an iron fist. On meeting Joseph, he barks that he will not be giving an interview but that his guest can stay on one condition: that he model for him for a new portrait. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-11",
+    "thumbnail": "https://i.guim.co.uk/img/media/6e830e692f8570ef7f8bf78998b7ff345f04ff52/0_1664_3334_2667/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=19f53283c5c36854d5fe29c3537097c3",
+    "cover_large": "https://i.guim.co.uk/img/media/6e830e692f8570ef7f8bf78998b7ff345f04ff52/0_1664_3334_2667/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=19f53283c5c36854d5fe29c3537097c3",
+    "article_url": "https://www.theguardian.com/books/2026/jun/11/the-artist-by-lucy-steeds-audiobook-review-a-sensory-feast-in-provence",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "books"
+    ],
+    "created_at": "2026-06-11T20:14:48+00:00",
+    "updated_at": "2026-06-11T20:14:48Z"
+  },
+  {
+    "id": "56e1e47d3dfe02e22672af11b7022ca5",
+    "title": "5 Unhinged Romance Books to Read on the Beach This Summer",
+    "author": "Susie Dumond",
+    "description": "Life hack! Want uninterrupted reading time on the beach? Read these wildly unhinged romance books.",
+    "summary_ai": "",
+    "categories": [
+      "Kissing Books",
+      "Reviews",
+      "Romance/Erotica"
+    ],
+    "genre": [
+      "Romance"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-11",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/04/Theres-Something-Fishy-About-My-Boyfriend-Gloria-Duke-cover-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/04/Theres-Something-Fishy-About-My-Boyfriend-Gloria-Duke-cover-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/unhinged-romance-books/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Kissing Books",
+      "Romance/Erotica",
+      "reviews"
+    ],
+    "created_at": "2026-06-11T20:14:47+00:00",
+    "updated_at": "2026-06-11T20:14:47Z"
   },
   {
     "id": "4d7850d96336554668019cb00dfbba90",
@@ -125,8 +229,8 @@
       "Young Adult Literature",
       "reviews"
     ],
-    "created_at": "2026-06-11T10:23:20+00:00",
-    "updated_at": "2026-06-11T10:23:20Z"
+    "created_at": "2026-06-11T20:14:47+00:00",
+    "updated_at": "2026-06-11T20:14:47Z"
   },
   {
     "id": "da198ebf79ee9fc734372edb7e0385c6",
@@ -151,8 +255,68 @@
       "Book Riot Newsletter",
       "reviews"
     ],
-    "created_at": "2026-06-11T10:23:20+00:00",
-    "updated_at": "2026-06-11T10:23:20Z"
+    "created_at": "2026-06-11T20:14:47+00:00",
+    "updated_at": "2026-06-11T20:14:47Z"
+  },
+  {
+    "id": "d17de5efd1a653b1123b9e484924b541",
+    "title": "The Best Queer Books to Read This Pride Month, Chosen by People Magazine",
+    "author": "Erica Ezeifedi",
+    "description": "Plus, Barnes & Noble's Discover Prize finalists, book pajamas, and a new fan festival by Reese Witherspoon.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Today In Books"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-11",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2023/12/two-brown-skinned-Black-women-cuddling-on-the-bed-while-reading-a-book-together.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2023/12/two-brown-skinned-Black-women-cuddling-on-the-bed-while-reading-a-book-together.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/best-queer-books-to-read-this-pride-month-by-people-magazine/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Today in Books",
+      "reviews"
+    ],
+    "created_at": "2026-06-11T20:14:47+00:00",
+    "updated_at": "2026-06-11T20:14:47Z"
+  },
+  {
+    "id": "1cb68d9d2df3dc3222e247f37fb0e0a0",
+    "title": "Take Action to Fund Libraries in 2027: The Latest on the Institute of Museum and Library Services",
+    "author": "Kelly Jensen",
+    "description": "The IMLS's 2027 funding was restored in the House Appropriations Committee. It's time to take action to ensure that funding remains.",
+    "summary_ai": "",
+    "categories": [
+      "Censorship",
+      "Check Your Shelf",
+      "Libraries",
+      "Literary Activism",
+      "News",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-11",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/03/imls-update.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/03/imls-update.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/fund-imls-2027/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Censorship",
+      "Check Your Shelf",
+      "Libraries",
+      "Literary Activism",
+      "News",
+      "reviews"
+    ],
+    "created_at": "2026-06-11T20:14:47+00:00",
+    "updated_at": "2026-06-11T20:14:47Z"
   },
   {
     "id": "1104a22874baeb0de2df82d082878fa6",
@@ -189,8 +353,8 @@
       "Revolutionary War, American (1775-83)",
       "books"
     ],
-    "created_at": "2026-06-11T10:23:21+00:00",
-    "updated_at": "2026-06-11T10:23:21Z"
+    "created_at": "2026-06-11T20:14:47+00:00",
+    "updated_at": "2026-06-11T20:14:47Z"
   },
   {
     "id": "eaaa6ceb13b853ca1f3d7f06e5ed9981",
@@ -229,8 +393,8 @@
       "Transgender",
       "books"
     ],
-    "created_at": "2026-06-11T10:23:21+00:00",
-    "updated_at": "2026-06-11T10:23:21Z"
+    "created_at": "2026-06-11T20:14:47+00:00",
+    "updated_at": "2026-06-11T20:14:47Z"
   },
   {
     "id": "be4b4fa34b6a393fbe5ff7d9ed136e87",
@@ -271,8 +435,8 @@
       "Theater",
       "books"
     ],
-    "created_at": "2026-06-11T10:23:21+00:00",
-    "updated_at": "2026-06-11T10:23:21Z"
+    "created_at": "2026-06-11T20:14:47+00:00",
+    "updated_at": "2026-06-11T20:14:47Z"
   },
   {
     "id": "d9bc0ac77a54252d347f66051b39dba7",
@@ -312,14 +476,14 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-06-11T10:23:21+00:00",
-    "updated_at": "2026-06-11T10:23:21Z"
+    "created_at": "2026-06-11T20:14:48+00:00",
+    "updated_at": "2026-06-11T20:14:48Z"
   },
   {
     "id": "65ffcaf7b614fba072f276f7fb73a99e",
     "title": "‘Pleasure and invigoration’: Diana Evans wins UK’s Jhalak prose prize",
     "author": "Ella Creamer",
-    "description": "Awards for prose, children’s writing and poetry, for writers of colour in UK and Ireland, come with £1,000 Diana Evans has won this year’s Jhalak prose prize for I Want to Talk to You, a nonfiction collection on subjects ranging from Jean Rhys and Toni Morrison to lockdowns and the British monarchy. The book, described as a “pleasure and an invigoration” by the Guardian’s reviewer Alex Clark, was announced as the 10th winner at a reception on Wednesday evening. Continue reading...",
+    "description": "Awards for prose, children’s writing and poetry, for writers of colour in UK and Ireland, come with £1,000 Diana Evans has won this year’s Jhalak prose prize for I Want to Talk to You, a nonfiction collection on subjects ranging from Jean Rhys and Toni Morrison to lockdowns and the British monarchy. The book, described as a “pleasure and an invigoration” by the Guardian’s reviewer Alex Clark, was announced as the 10th winner at a reception on Wednesday evening. I Want to Talk to You by Diana Evans (Vintage Publishing, £18.99). To support the Guardian, order your copy at guardianbookshop.com . Delivery charges may apply. Continue reading...",
     "summary_ai": "",
     "categories": [
       "Awards And Prizes",
@@ -339,7 +503,7 @@
       "Poetry"
     ],
     "language": "English",
-    "publisher": "The Guardian",
+    "publisher": "Vintage",
     "published_date": "2026-06-10",
     "thumbnail": "https://i.guim.co.uk/img/media/51d0978a090141da31c15ac4200400570910312a/761_0_6139_4912/master/6139.jpg?width=700&quality=85&auto=format&fit=max&s=c0a87f4adaf099f57e59e2bf8615371e",
     "cover_large": "https://i.guim.co.uk/img/media/51d0978a090141da31c15ac4200400570910312a/761_0_6139_4912/master/6139.jpg?width=700&quality=85&auto=format&fit=max&s=c0a87f4adaf099f57e59e2bf8615371e",
@@ -358,8 +522,8 @@
       "UK news",
       "books"
     ],
-    "created_at": "2026-06-11T10:23:21+00:00",
-    "updated_at": "2026-06-11T10:23:21Z"
+    "created_at": "2026-06-11T20:14:48+00:00",
+    "updated_at": "2026-06-11T20:14:48Z"
   },
   {
     "id": "070d17f4bea63f4f1e67ba59a48c6d0e",
@@ -398,8 +562,8 @@
       "Lewis Carroll",
       "books"
     ],
-    "created_at": "2026-06-11T10:23:21+00:00",
-    "updated_at": "2026-06-11T10:23:21Z"
+    "created_at": "2026-06-11T20:14:48+00:00",
+    "updated_at": "2026-06-11T20:14:48Z"
   },
   {
     "id": "792ec2c32be75d2c938165df3e4af29d",
@@ -433,122 +597,34 @@
       "Middle East and north Africa",
       "books"
     ],
-    "created_at": "2026-06-11T10:23:21+00:00",
-    "updated_at": "2026-06-11T10:23:21Z"
+    "created_at": "2026-06-11T20:14:48+00:00",
+    "updated_at": "2026-06-11T20:14:48Z"
   },
   {
-    "id": "ad71d410809d8d838032046d0274a1b9",
-    "title": "Lovers XXX by Allie Rowbottom review",
-    "author": "Madeleine Feeny",
-    "description": "A young woman begins a career in the adult industry while, 30 years later, her friend tries to find out what happened to her, in an addictive, twist-filled story Just as there is a lack of pornography made by women, there is a lack of books about making pornography written by women. Recent nonfiction titles such as Polly Barton’s Porn: An Oral History and Fiona Vera-Gray’s Women on Porn have sought to address the silence and moral confusion, while Rufi Thorpe’s novel Margo’s Got Money Troubles imagined a student mum paying her way with OnlyFans. Now Allie Rowbottom, author of a memoir, Jell-O Girls, and a novel, Aesthetica, braves the dicey terrain in her sleazy, cinematic second novel. Published into a contemporary landscape where algorithms promote increasingly extreme content, Lovers XXX takes us to the so-called golden age of the Los Angeles porn industry, through the eyes of two teenage runaways who trade troubled homes for big-city dreams. Continue reading...",
+    "id": "06b8bcc351aa411668cb99290dded71a",
+    "title": "Soundgarden guitarist Kim Thayil chronicles the band's ascent in his new memoir",
+    "author": "A Martínez",
+    "description": "Soundgarden guitarist Kim Thayil writes about the ascent of the first grunge band to sign with a major label and the death of lead singer Chris Cornell in his memoir, \"A Screaming Life.\"",
     "summary_ai": "",
     "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [
-      "Fiction",
-      "History",
-      "Memoir",
-      "Nonfiction"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-10",
-    "thumbnail": "https://i.guim.co.uk/img/media/02379f0290f5c62ff533da1becab6ab3b1efa0ed/370_0_4126_3300/master/4126.jpg?width=700&quality=85&auto=format&fit=max&s=5e64a6a5f4728cefae94f937a79fdf48",
-    "cover_large": "https://i.guim.co.uk/img/media/02379f0290f5c62ff533da1becab6ab3b1efa0ed/370_0_4126_3300/master/4126.jpg?width=700&quality=85&auto=format&fit=max&s=5e64a6a5f4728cefae94f937a79fdf48",
-    "article_url": "https://www.theguardian.com/books/2026/jun/10/lovers-xxx-by-allie-rowbottom-review-a-wild-journey-through-the-80s-la-porn-scene",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-06-11T10:23:21+00:00",
-    "updated_at": "2026-06-11T10:23:21Z"
-  },
-  {
-    "id": "1ed24dd5805fa2f86be1b73706fe527a",
-    "title": "Book Riot’s Deals of the Day for June 10, 2026",
-    "author": "Deals",
-    "description": "A particularly treacherous preacher, writers with a complicated history, everything is tuberculosis, and more of today's best book deals.",
-    "summary_ai": "",
-    "categories": [
-      "Book Deals",
       "Reviews"
     ],
     "genre": [
-      "History"
+      "Memoir"
     ],
     "language": "English",
-    "publisher": "Book Riot",
+    "publisher": "NPR Books",
     "published_date": "2026-06-10",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/how-to-end-a-love-story-199x300.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/how-to-end-a-love-story-199x300.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-june-10-2026/",
-    "source": "Book Riot",
+    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2226+0+0/resize/3000x2226!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd5%2Fd2%2Fe21bcc484ef69b0a89df7728832c%2Fgettyimages-104500001.jpg",
+    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2226+0+0/resize/3000x2226!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd5%2Fd2%2Fe21bcc484ef69b0a89df7728832c%2Fgettyimages-104500001.jpg",
+    "article_url": "https://www.npr.org/2026/06/10/nx-s1-5590213/soundgarden-guitarist-kim-thayil-chronicles-the-bands-ascent-in-his-new-memoir",
+    "source": "NPR Books",
     "source_type": "rss",
     "tags": [
-      "Book Deals",
       "reviews"
     ],
-    "created_at": "2026-06-11T10:23:20+00:00",
-    "updated_at": "2026-06-11T10:23:20Z"
-  },
-  {
-    "id": "393f36945372d44e35a57b634ef366e1",
-    "title": "20 of the Best Books of 2026, According to Amazon",
-    "author": "Erica Ezeifedi",
-    "description": "Plus, a refreshing list of 2026's best debuts, why authors' salaries are so low, and the best YA books of the century.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Today In Books"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-10",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/01/people-and-things-96.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/01/people-and-things-96.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/best-books-of-2026-according-to-amazon/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Today in Books",
-      "reviews"
-    ],
-    "created_at": "2026-06-11T10:23:20+00:00",
-    "updated_at": "2026-06-11T10:23:20Z"
-  },
-  {
-    "id": "6253c5070ebf577a8e38a347640c4edf",
-    "title": "Amazon Editors Name the Best Books of 2026 So Far",
-    "author": "Rebecca Joines Schinsky",
-    "description": "Amazon Editors name the best books of the year so far.",
-    "summary_ai": "",
-    "categories": [
-      "News",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-10",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Announcing-the-Best-Books-of-2026-So-Far.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Announcing-the-Best-Books-of-2026-So-Far.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/amazon-best-books-2026-so-far/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "News",
-      "reviews"
-    ],
-    "created_at": "2026-06-11T10:23:20+00:00",
-    "updated_at": "2026-06-11T10:23:20Z"
+    "created_at": "2026-06-11T20:14:47+00:00",
+    "updated_at": "2026-06-11T20:14:47Z"
   },
   {
     "id": "6f8e288f91c59c51c52c0c349e5d4ed3",
@@ -577,8 +653,8 @@
       "Rasputin Swims the Potomac (Book)",
       "books"
     ],
-    "created_at": "2026-06-11T10:23:21+00:00",
-    "updated_at": "2026-06-11T10:23:21Z"
+    "created_at": "2026-06-11T20:14:47+00:00",
+    "updated_at": "2026-06-11T20:14:47Z"
   },
   {
     "id": "0b6d5a1554ce6af3cabd9e8fa63e6ffa",
@@ -607,95 +683,7 @@
       "Red Sheet (Book)",
       "books"
     ],
-    "created_at": "2026-06-11T10:23:21+00:00",
-    "updated_at": "2026-06-11T10:23:21Z"
-  },
-  {
-    "id": "94be3d8fef5cdb638762e3ccdbf0ffc1",
-    "title": "Gordon S. Wood, Pioneering Historian of Early America, Dies at 92",
-    "author": "David Stout",
-    "description": "In a Pulitzer-winning book, “The Radicalism of the American Revolution,” he wrote that the colonists rose up against an entire worldview, not just against taxation.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Brown University",
-      "Deaths (Obituaries)",
-      "Power And Liberty: Constitutionalism In The American Revolution (Book)",
-      "Pulitzer Prizes",
-      "Revolutionary War, American (1775-83)",
-      "The 1619 Project: A New Origin Story (Book)",
-      "The Radicalism Of The American Revolution (Book)",
-      "Wood, Gordon S",
-      "Writing And Writers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-09",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/10/obituaries/08wood-gordon-obit-print1/08wood-gordon-obit-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/10/obituaries/08wood-gordon-obit-print1/08wood-gordon-obit-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/08/books/gordon-s-wood-dead.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Brown University",
-      "Deaths (Obituaries)",
-      "Power and Liberty: Constitutionalism in the American Revolution (Book)",
-      "Pulitzer Prizes",
-      "Revolutionary War, American (1775-83)",
-      "The 1619 Project: A New Origin Story (Book)",
-      "The Radicalism of the American Revolution (Book)",
-      "Wood, Gordon S",
-      "Writing and Writers",
-      "books"
-    ],
-    "created_at": "2026-06-11T10:23:21+00:00",
-    "updated_at": "2026-06-11T10:23:21Z"
-  },
-  {
-    "id": "1a4e1cdd9d0afaeb849a491e10c4981a",
-    "title": "Robert Coles, Pulitzer-Winning Child Psychiatrist, Is Dead at 97",
-    "author": "Douglas Martin",
-    "description": "His five-volume “Children of Crisis” series, published between 1967 and 1977, drew on his conversations with American children whose voices were not often heard.",
-    "summary_ai": "",
-    "categories": [
-      "Black People",
-      "Books",
-      "Books And Literature",
-      "Bridges, Ruby",
-      "Children And Childhood",
-      "Coles, Robert (1928-2026)",
-      "Deaths (Obituaries)",
-      "Harvard University",
-      "Psychiatry And Psychiatrists",
-      "Pulitzer Prizes"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-08",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/10/obituaries/00Coles-01-print1/00Coles-01-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/10/obituaries/00Coles-01-print1/00Coles-01-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/07/us/robert-coles-dead.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Black People",
-      "Books and Literature",
-      "Bridges, Ruby",
-      "Children and Childhood",
-      "Coles, Robert (1928-2026)",
-      "Deaths (Obituaries)",
-      "Harvard University",
-      "Psychiatry and Psychiatrists",
-      "Pulitzer Prizes",
-      "books"
-    ],
-    "created_at": "2026-06-11T10:23:21+00:00",
-    "updated_at": "2026-06-11T10:23:21Z"
+    "created_at": "2026-06-11T20:14:47+00:00",
+    "updated_at": "2026-06-11T20:14:47Z"
   }
 ]
