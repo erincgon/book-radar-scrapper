@@ -34,8 +34,8 @@
       "publishers",
       "trailers"
     ],
-    "created_at": "2026-06-11T20:14:48+00:00",
-    "updated_at": "2026-06-11T20:14:48Z"
+    "created_at": "2026-06-12T10:12:30+00:00",
+    "updated_at": "2026-06-12T10:12:30Z"
   },
   {
     "id": "4edb825fe1472a9aba4708a27165b1e7",
@@ -72,8 +72,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-06-11T20:14:48+00:00",
-    "updated_at": "2026-06-11T20:14:48Z"
+    "created_at": "2026-06-12T10:12:30+00:00",
+    "updated_at": "2026-06-12T10:12:30Z"
   },
   {
     "id": "35f6308bfcaaccff6e4a84a3ad360089",
@@ -110,8 +110,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-06-11T20:14:48+00:00",
-    "updated_at": "2026-06-11T20:14:48Z"
+    "created_at": "2026-06-12T10:12:30+00:00",
+    "updated_at": "2026-06-12T10:12:30Z"
   },
   {
     "id": "8891bf0992afaf60a83925a9bebd3d06",
@@ -151,8 +151,8 @@
       "queer SFF",
       "queer horror"
     ],
-    "created_at": "2026-06-11T20:14:48+00:00",
-    "updated_at": "2026-06-11T20:14:48Z"
+    "created_at": "2026-06-12T10:12:30+00:00",
+    "updated_at": "2026-06-12T10:12:30Z"
   },
   {
     "id": "6a16171c5b77ce4f641cf829ea52e387",
@@ -191,8 +191,8 @@
       "satire",
       "translation"
     ],
-    "created_at": "2026-06-11T20:14:48+00:00",
-    "updated_at": "2026-06-11T20:14:48Z"
+    "created_at": "2026-06-12T10:12:30+00:00",
+    "updated_at": "2026-06-12T10:12:30Z"
   },
   {
     "id": "2570e672fc97ee41218ffe281ec3d04e",
@@ -234,8 +234,8 @@
       "publishers",
       "reading recommendations"
     ],
-    "created_at": "2026-06-11T20:14:48+00:00",
-    "updated_at": "2026-06-11T20:14:48Z"
+    "created_at": "2026-06-12T10:12:30+00:00",
+    "updated_at": "2026-06-12T10:12:30Z"
   },
   {
     "id": "a96e4483da194fdfe1c448826ebdb908",
@@ -274,8 +274,8 @@
       "nostalgia",
       "publishers"
     ],
-    "created_at": "2026-06-11T20:14:48+00:00",
-    "updated_at": "2026-06-11T20:14:48Z"
+    "created_at": "2026-06-12T10:12:30+00:00",
+    "updated_at": "2026-06-12T10:12:30Z"
   },
   {
     "id": "eb9d7032f72d1730b9de7e277c1d4073",
@@ -316,8 +316,152 @@
       "fantasy",
       "publishers"
     ],
-    "created_at": "2026-06-11T20:14:48+00:00",
-    "updated_at": "2026-06-11T20:14:48Z"
+    "created_at": "2026-06-12T10:12:30+00:00",
+    "updated_at": "2026-06-12T10:12:30Z"
+  },
+  {
+    "id": "0c3e8d85aaa9c81e7228469a91cb025e",
+    "title": "Little, Brown Books for Young Readers Celebrates a Century of Publishing",
+    "author": "Sally Lodge",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Little, Brown",
+    "published_date": "2026-06-11",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129700-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129700-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100616-little-brown-books-for-young-readers-celebrates-a-century-of-publishing.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-12T10:12:30+00:00",
+    "updated_at": "2026-06-12T10:12:30Z"
+  },
+  {
+    "id": "e16f676de40de002317fa09f843eecae",
+    "title": "In Brief: June 11, 2026",
+    "author": "",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-11",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129693-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129693-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100615-in-brief-june-11-2026.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-12T10:12:30+00:00",
+    "updated_at": "2026-06-12T10:12:30Z"
+  },
+  {
+    "id": "697298ff210575fe7d3d747dd8fd69cb",
+    "title": "Rosiee Thor on Centering Aromantic Voices for YA Readers",
+    "author": "Rosiee Thor",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-11",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129691-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129691-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100614-rosiee-thor-on-centering-aromantic-voices-for-ya-readers.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-12T10:12:30+00:00",
+    "updated_at": "2026-06-12T10:12:30Z"
+  },
+  {
+    "id": "a666eebaf773ab7d36b442357fd2120c",
+    "title": "Three on a Theme: Pop Stars in Peril",
+    "author": "Iyana Jones",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-11",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129687-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129687-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100613-three-on-a-theme-pop-stars-in-peril.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-12T10:12:30+00:00",
+    "updated_at": "2026-06-12T10:12:30Z"
+  },
+  {
+    "id": "89ffa5694c39eb1dffb378e75ecec319",
+    "title": "In Conversation: David Levithan and Gabriel Duckels",
+    "author": "",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-11",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129682-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129682-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100611-in-conversation-david-levithan-and-gabriel-duckels.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-12T10:12:30+00:00",
+    "updated_at": "2026-06-12T10:12:30Z"
+  },
+  {
+    "id": "5e9b791ef8928998c758c09651c85906",
+    "title": "New Kids’ and YA Books: Week of June 15, 2026",
+    "author": "",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-11",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129717-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129717-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100618-new-kids-and-ya-books-week-of-june-15-2026.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-12T10:12:30+00:00",
+    "updated_at": "2026-06-12T10:12:30Z"
   },
   {
     "id": "e238cc2a96e8b33ef123bc43d6bafbef",
@@ -340,8 +484,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-11T20:14:48+00:00",
-    "updated_at": "2026-06-11T20:14:48Z"
+    "created_at": "2026-06-12T10:12:30+00:00",
+    "updated_at": "2026-06-12T10:12:30Z"
   },
   {
     "id": "84a22959277c8f9bbe2dd9ccff1ae04e",
@@ -364,8 +508,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-11T20:14:48+00:00",
-    "updated_at": "2026-06-11T20:14:48Z"
+    "created_at": "2026-06-12T10:12:30+00:00",
+    "updated_at": "2026-06-12T10:12:30Z"
   },
   {
     "id": "2d563a7a535700cb87e64d7c13cc39dc",
@@ -390,8 +534,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-11T20:14:48+00:00",
-    "updated_at": "2026-06-11T20:14:48Z"
+    "created_at": "2026-06-12T10:12:30+00:00",
+    "updated_at": "2026-06-12T10:12:30Z"
   },
   {
     "id": "5a7469f4da043ee55f1ab9a850cbfa61",
@@ -414,8 +558,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-11T20:14:48+00:00",
-    "updated_at": "2026-06-11T20:14:48Z"
+    "created_at": "2026-06-12T10:12:30+00:00",
+    "updated_at": "2026-06-12T10:12:30Z"
   },
   {
     "id": "33df8a818a8df297b97b8755b31f448f",
@@ -450,8 +594,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-06-11T20:14:48+00:00",
-    "updated_at": "2026-06-11T20:14:48Z"
+    "created_at": "2026-06-12T10:12:30+00:00",
+    "updated_at": "2026-06-12T10:12:30Z"
   },
   {
     "id": "0d8a609112d64798371cf26c18221c6e",
@@ -488,203 +632,7 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-06-11T20:14:48+00:00",
-    "updated_at": "2026-06-11T20:14:48Z"
-  },
-  {
-    "id": "bd636270a103b97d0f2dff954f64744f",
-    "title": "Doctor Who Christmas Special Canceled as BBC Changes Gears",
-    "author": "Molly Templeton",
-    "description": "Russell Davies weighs in as the BBC puts Doctor Who up for \"competitive tender\" The post Doctor Who Christmas Special Canceled as BBC Changes Gears appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Bbc",
-      "Blog",
-      "Doctor Who",
-      "News",
-      "Publishers",
-      "Russell T. Davies",
-      "Television"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-06-10",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2024/01/youve-redecorated-i-dont-like-it-doctor-who-740x411.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2024/01/youve-redecorated-i-dont-like-it-doctor-who-740x411.jpg",
-    "article_url": "https://reactormag.com/doctor-who-christmas-special-davies-bad-wolf/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "BBC",
-      "Blog",
-      "Doctor Who",
-      "Russell T. Davies",
-      "news",
-      "publishers",
-      "television"
-    ],
-    "created_at": "2026-06-11T20:14:48+00:00",
-    "updated_at": "2026-06-11T20:14:48Z"
-  },
-  {
-    "id": "84facdb709377ccb1a0962ae82419df0",
-    "title": "Smoke and Mirrors: Stephen Graham Jones’ The Buffalo Hunter Hunter (Part 9)",
-    "author": "Sarah",
-    "description": "Could tobacco make one's blood toxic to a vampire? The post Smoke and Mirrors: Stephen Graham Jones’ The Buffalo Hunter Hunter (Part 9) appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Horror",
-      "Publishers",
-      "Reading The Weird",
-      "Stephen Graham Jones",
-      "The Buffalo Hunter Hunter",
-      "Weird Fiction"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-06-10",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/02/buffalo-hunter-hunter-header-740x407.png",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/02/buffalo-hunter-hunter-header-740x407.png",
-    "article_url": "https://reactormag.com/reading-the-weird-stephen-graham-jones-the-buffalo-hunter-hunter-part-9/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Horror",
-      "Reading the Weird",
-      "Stephen Graham Jones",
-      "The Buffalo Hunter Hunter",
-      "Weird Fiction",
-      "publishers"
-    ],
-    "created_at": "2026-06-11T20:14:48+00:00",
-    "updated_at": "2026-06-11T20:14:48Z"
-  },
-  {
-    "id": "1d975e1a4d5d544e37e9226bcaf28aec",
-    "title": "The Endless: You Can Go Home Again (But Maybe You Shouldn’t)",
-    "author": "Sarah",
-    "description": "A disturbingly cheery cult, cosmic horror, and classic Southern California weirdness. The post The Endless : You Can Go Home Again (But Maybe You Shouldn’t) appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Publishers",
-      "Science Fiction",
-      "Science Fiction Film Club",
-      "The Endless",
-      "Time Loops"
-    ],
-    "genre": [
-      "Horror"
-    ],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-06-10",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/06/the-endless-header-740x423.png",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/06/the-endless-header-740x423.png",
-    "article_url": "https://reactormag.com/the-endless-you-can-go-home-again-but-maybe-you-shouldnt/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Science Fiction",
-      "Science Fiction Film Club",
-      "The Endless",
-      "Time Loops",
-      "publishers"
-    ],
-    "created_at": "2026-06-11T20:14:48+00:00",
-    "updated_at": "2026-06-11T20:14:48Z"
-  },
-  {
-    "id": "6241f8a5e8e3db37e04ac3573f60d94c",
-    "title": "Read an Excerpt From The Inn at the Foot of Mount Vengeance by Chiara Bullen",
-    "author": "Stefan Raets",
-    "description": "An aspiring scholar is sent to research the mysteries of an adventurer’s inn, only to uncover a centuries-old secret—and find true friendship. The post Read an Excerpt From The Inn at the Foot of Mount Vengeance by Chiara Bullen appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Chiara Bullen",
-      "Cozy Fantasy",
-      "Del Rey",
-      "Excerpts",
-      "Fantasy",
-      "Publishers",
-      "Romantasy",
-      "The Inn At The Foot Of Mount Vengeance"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Del Rey",
-    "published_date": "2026-06-10",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/06/The-Inn-at-the-Foot-of-Mount-Vengeance-header-740x407.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/06/The-Inn-at-the-Foot-of-Mount-Vengeance-header-740x407.jpg",
-    "article_url": "https://reactormag.com/excerpts-the-inn-at-the-foot-of-mount-vengeance-by-chiara-bullen/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Chiara Bullen",
-      "Del Rey",
-      "Excerpts",
-      "Romantasy",
-      "The Inn at the Foot of Mount Vengeance",
-      "cozy fantasy",
-      "fantasy",
-      "publishers"
-    ],
-    "created_at": "2026-06-11T20:14:48+00:00",
-    "updated_at": "2026-06-11T20:14:48Z"
-  },
-  {
-    "id": "7f366d8aea3bf064c99d672ab9717746",
-    "title": "Reed to Oversee Harmony and Convergent Imprints",
-    "author": "Jim Milliot",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-06-10",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129678-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129678-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/people/article/100604-reed-to-oversee-harmony-and-convergent-imprints.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-06-11T20:14:48+00:00",
-    "updated_at": "2026-06-11T20:14:48Z"
-  },
-  {
-    "id": "e370bcaa6f5f557bcfe56cd0f1ad4190",
-    "title": "Panel Mania: ‘The Roots of My Hair: A Graphic Novel’ by Lou Lubie",
-    "author": "Compiled by Calvin Reid",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-06-10",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129626-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129626-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/100595-panel-mania-the-roots-of-my-hair-a-graphic-novel-by-lou-lubie.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-06-11T20:14:48+00:00",
-    "updated_at": "2026-06-11T20:14:48Z"
+    "created_at": "2026-06-12T10:12:30+00:00",
+    "updated_at": "2026-06-12T10:12:30Z"
   }
 ]
