@@ -1,5 +1,35 @@
 [
   {
+    "id": "33b96b53811abff07d307ba2b80519d9",
+    "title": "Book Review: ‘Drayton and Mackenzie,’ by Alexander Starritt",
+    "author": "John Williams",
+    "description": "In “Drayton and Mackenzie,” two young grads navigating the 2008 financial crisis enact a plan they hope will change their fate.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Drayton And Mackenzie (Book)",
+      "Starritt, Alexander"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-12",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/12/books/12TBR-Starritt-review/12TBR-Starritt-review-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/12/books/12TBR-Starritt-review/12TBR-Starritt-review-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/12/books/review/drayton-and-mackenzie-alexander-starritt.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Drayton and Mackenzie (Book)",
+      "Starritt, Alexander",
+      "books"
+    ],
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
+  },
+  {
     "id": "6eb2eddeb9d2a53f072efff1674fdf03",
     "title": "The Books Times Readers Are Most Excited About This Summer",
     "author": "",
@@ -29,8 +59,89 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-06-12T10:12:30+00:00",
-    "updated_at": "2026-06-12T10:12:30Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
+  },
+  {
+    "id": "c34f2dbb59a0ea63c258ee675ddfaf55",
+    "title": "Book Review: ‘The American School of Spies,’ by Stephan Talty",
+    "author": "Edward Dolnick",
+    "description": "In “The American School of Spies,” Stephan Talty tells the story of the desperate struggle to preserve antiquities during World War II.",
+    "summary_ai": "",
+    "categories": [
+      "Archaeology And Anthropology",
+      "Arts And Antiquities Looting",
+      "Athens (Greece)",
+      "Books",
+      "Books And Literature",
+      "Espionage And Intelligence Services",
+      "Greece",
+      "Greek Civilization",
+      "Holocaust And The Nazi Era",
+      "Talty, Stephan",
+      "The American School Of Spies: The Archaeologists Who Fought The Nazis And Saved The Treasures Of Ancient Greece (Book)",
+      "United States International Relations",
+      "World War Ii (1939-45)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-12",
+    "thumbnail": "https://static01.nyt.com/images/2026/05/26/multimedia/00TBRTalty-Review-tzgw/00TBRTalty-Review-tzgw-mediumSquareAt3X-v2.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/05/26/multimedia/00TBRTalty-Review-tzgw/00TBRTalty-Review-tzgw-mediumSquareAt3X-v2.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/11/books/review/the-american-school-of-spies-stephan-talty.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Archaeology and Anthropology",
+      "Arts and Antiquities Looting",
+      "Athens (Greece)",
+      "Books and Literature",
+      "Espionage and Intelligence Services",
+      "Greece",
+      "Greek Civilization",
+      "Holocaust and the Nazi Era",
+      "Talty, Stephan",
+      "The American School of Spies: The Archaeologists Who Fought the Nazis and Saved the Treasures of Ancient Greece (Book)",
+      "United States International Relations",
+      "World War II (1939-45)",
+      "books"
+    ],
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
+  },
+  {
+    "id": "58a4284af163fe910889ab09c53c4763",
+    "title": "‘Failure was my thing’: Women’s prize winner Virginia Evans on her long journey to success",
+    "author": "Lisa Allardice",
+    "description": "The American author received ‘thousands of rejections’ over two decades before finally hitting gold with her first published novel Just as I am about to interview this year’s Women’s prize winner , debut American novelist Virginia Evans, at the party on a drizzly evening in a leafy London square, we are interrupted because someone wants to congratulate her. The fan is Richard Curtis. A warm-hearted weepy with a sprinkling of gentle humour, Evans’s prize-winning novel The Correspondent is prime Curtis material. In fact, he is too late. “I think he just wants to be my friend,” Evans jokes modestly – Notting Hill is her favourite movie of all time. A film of The Correspondent is already in the pipeline with Jane Fonda playing 73-year-old Sybil Van Antwerp, the crotchety correspondent of the title. Evans will be one of the producers and will have a cameo appearance, “walking a dog or something”. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Awards And Prizes",
+      "Books",
+      "Fiction",
+      "Women'S Prize For Fiction",
+      "Women'S Prizes"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-12",
+    "thumbnail": "https://i.guim.co.uk/img/media/96fdeb907c2461d5dccd0a53f7af6c7972680826/560_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=642600f38e2e7cd7879fdfcdaf5d0f74",
+    "cover_large": "https://i.guim.co.uk/img/media/96fdeb907c2461d5dccd0a53f7af6c7972680826/560_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=642600f38e2e7cd7879fdfcdaf5d0f74",
+    "article_url": "https://www.theguardian.com/books/2026/jun/11/womens-prize-virginia-evans-the-correspondent-fiction-lyse-doucet-the-finest-hotel-in-kabul-nonfiction",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Awards and prizes",
+      "Books",
+      "Fiction",
+      "Women's prize for fiction",
+      "Women's prizes",
+      "books"
+    ],
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
     "id": "cc4fd656bc98e85fc642d77aad59a06c",
@@ -58,14 +169,52 @@
       "Ruth Ozeki",
       "books"
     ],
-    "created_at": "2026-06-12T10:12:30+00:00",
-    "updated_at": "2026-06-12T10:12:30Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
+  },
+  {
+    "id": "0af03eaf7b083faebd49b08b66333eac",
+    "title": "The best recent science fiction, fantasy and horror",
+    "author": "Lisa Tuttle",
+    "description": "Not With a Bang by Temi Oh; Tillinghast by Clare Cavenagh; Atomic Coffin by Benedict Anning; The Unicorn Hunters by Katherine Arden; Bad Things Happen Here by Mark Morris Not With a Bang by Temi Oh (Solstice, £20) The four daughters of a doomsday prepper were trained what to do in an emergency: grab their bags and head for the well-stocked bunker he had built in the garden of their London home. But when a world-shattering event occurs, the family are dispersed, individually forced to weigh their best options for survival as they shelter in place or struggle through devastated, chaotic streets. The story could suit a disaster movie (the author also writes screenplays), but it’s the complex characterisations and conflicted relationships that make for a powerfully compelling read. The characters are shown from different perspectives, and are flawed, human and real. Perfectly paced, this is a suspenseful depiction of survival amid civilisational collapse. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fantasy Books",
+      "Horror Books",
+      "Science Fiction Books"
+    ],
+    "genre": [
+      "Fantasy",
+      "Fiction",
+      "Horror",
+      "Science Fiction"
+    ],
+    "language": "English",
+    "publisher": "Guardianbookshop",
+    "published_date": "2026-06-12",
+    "thumbnail": "https://i.guim.co.uk/img/media/4c2a0221193385a1a24f128b0da7789feca06b1f/379_0_6139_4912/master/6139.jpg?width=700&quality=85&auto=format&fit=max&s=2302e19addfbec85cedd796ba4026c78",
+    "cover_large": "https://i.guim.co.uk/img/media/4c2a0221193385a1a24f128b0da7789feca06b1f/379_0_6139_4912/master/6139.jpg?width=700&quality=85&auto=format&fit=max&s=2302e19addfbec85cedd796ba4026c78",
+    "article_url": "https://guardianbookshop.com/not-with-a-bang-9781398533257/?amp%3Bamp%3Butm_medium=merch&amp%3Bamp%3Butm_campaign=article",
+    "source": "Guardianbookshop",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fantasy books",
+      "Horror books",
+      "Science fiction books",
+      "books"
+    ],
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
     "id": "da9552e3314c26d160dbb7239ab9a359",
     "title": "The Twitnam Summer by Hester Grant review – Swift, Gay and Pope’s season in the sun",
     "author": "Kathryn Hughes",
-    "description": "A noble, if ultimately unsuccessful, attempt to argue that Jonathan Swift, Alexander Pope and John Gay spending a few weeks in 1726 together was a momentous turning point in each man’s career In 1726 Jonathan Swift, dean of Saint Patrick’s Cathedral in Dublin, crossed the Irish sea with the manuscript of Gulliver’s Travels in his luggage. Beneath the child-friendly chatter about a sailor marooned on an island full of tiny Lilliputians, the book was a scabrous satire on the corruption of public life under the politically ascendant Whigs, whom Swift regarded as a pack of moral pygmies. Swift’s ultimate destination, though, was not Whitehall but rather the idyllic Twickenham – “Twitnam”, as they knew it – home of his old friend, the poet Alexander Pope. Here he intended to work out a plan for anonymous publication of his sulphurous masterpiece, one that would not land him in legal trouble. In Pope he could be sure of a sympathetic co‐conspirator. Both men were members of the Scriblerus Club, an unofficial association of dissident wits who nonetheless set great store by literary collaboration. Pope was equally disaffected with the state of the nation, although his loathing was...",
+    "description": "A historian makes the case that a meeting of minds in 1726 changed the course of English literature In 1726 Jonathan Swift, dean of Saint Patrick’s Cathedral in Dublin, crossed the Irish sea with the manuscript of Gulliver’s Travels in his luggage. Beneath the child-friendly chatter about a sailor marooned on an island full of tiny Lilliputians, the book was a scabrous satire on the corruption of public life under the politically ascendant Whigs, whom Swift regarded as a pack of moral pygmies. Swift’s ultimate destination, though, was not Whitehall but rather the idyllic Twickenham – “Twitnam”, as they knew it – home of his old friend, the poet Alexander Pope. Here he intended to work out a plan for anonymous publication of his sulphurous masterpiece, one that would not land him in legal trouble. In Pope he could be sure of a sympathetic co‐conspirator. Both men were members of the Scriblerus Club, an unofficial association of dissident wits who nonetheless set great store by literary collaboration. Pope was equally disaffected with the state of the nation, although his loathing was directed towards the philistine Hanoverians, who had arrived from Germany in 1714 to take up the...",
     "summary_ai": "",
     "categories": [
       "Biography Books",
@@ -89,44 +238,66 @@
       "Jonathan Swift",
       "books"
     ],
-    "created_at": "2026-06-12T10:12:30+00:00",
-    "updated_at": "2026-06-12T10:12:30Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
-    "id": "c34f2dbb59a0ea63c258ee675ddfaf55",
-    "title": "Book Review: ‘The American School of Spies,’ by Stephan Talty",
-    "author": "Edward Dolnick",
-    "description": "In “The American School of Spies,” Stephan Talty tells the story of the desperate struggle to preserve antiquities during World War II.",
+    "id": "4e025fe2f39212405c74fc237b9def02",
+    "title": "We Deserve More “Ugly” Female Characters in Comics",
+    "author": "Eileen Gonzalez",
+    "description": "When it comes to how their female characters look and dress, comic books are deathly afraid of difference.",
     "summary_ai": "",
     "categories": [
-      "Archaeology And Anthropology",
-      "Arts And Antiquities Looting",
-      "Books",
-      "Books And Literature",
-      "Talty, Stephan",
-      "The American School Of Spies: The Archaeologists Who Fought The Nazis And Saved The Treasures Of Ancient Greece (Book)",
-      "World War Ii (1939-45)"
+      "Comics/Graphic Novels",
+      "Reviews",
+      "The Stack"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-11",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/26/multimedia/00TBRTalty-Review-tzgw/00TBRTalty-Review-tzgw-mediumSquareAt3X-v2.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/26/multimedia/00TBRTalty-Review-tzgw/00TBRTalty-Review-tzgw-mediumSquareAt3X-v2.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/11/books/review/the-american-school-of-spies-stephan-talty.html",
-    "source": "The New York Times",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-12",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/Avengers-Annual-10.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/Avengers-Annual-10.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/we-deserve-more-ugly-female-characters/",
+    "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Archaeology and Anthropology",
-      "Arts and Antiquities Looting",
-      "Books and Literature",
-      "THE AMERICAN SCHOOL OF SPIES: The Archaeologists Who Fought the Nazis and Saved the Treasures of Ancient Greece (Book)",
-      "Talty, Stephan",
-      "World War II (1939-45)",
-      "books"
+      "Comics/Graphic Novels",
+      "The Stack",
+      "reviews"
     ],
-    "created_at": "2026-06-12T10:12:30+00:00",
-    "updated_at": "2026-06-12T10:12:30Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
+  },
+  {
+    "id": "5afd96c1103c163ec7afc1c530a3d905",
+    "title": "Horror Bookstores You Should Visit During Your Summer Travels!",
+    "author": "Emily Martin",
+    "description": "If you're traveling to New York City, Kentucky, Canada, or Virginia, make sure to stop by these horror bookstores!",
+    "summary_ai": "",
+    "categories": [
+      "Horror",
+      "Reviews",
+      "The Fright Stuff"
+    ],
+    "genre": [
+      "Horror"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-12",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Untitled-design-2026-06-08T085417.665.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Untitled-design-2026-06-08T085417.665.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/horror-bookstores/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Horror",
+      "The Fright Stuff",
+      "reviews"
+    ],
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
     "id": "13578b599259dd193c64c80094cb1ce7",
@@ -167,8 +338,8 @@
       "Wuthering Heights (Book)",
       "books"
     ],
-    "created_at": "2026-06-12T10:12:30+00:00",
-    "updated_at": "2026-06-12T10:12:30Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
     "id": "4d201eb884e379ec4c83dc36ffb2298c",
@@ -203,51 +374,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-12T10:12:30+00:00",
-    "updated_at": "2026-06-12T10:12:30Z"
-  },
-  {
-    "id": "627e12ba9a73fe8f199efdc9895648a2",
-    "title": "Women’s prize: Virginia Evans wins for fiction and Lyse Doucet takes award for nonfiction",
-    "author": "Emma Loffhagen",
-    "description": "Evans’s The Correspondent and the BBC journalist’s ‘people’s history’ of modern Afghanistan, The Finest Hotel in Kabul, win £30,000 prizes Debut novelist Virginia Evans has won this year’s Women’s prize for fiction, while the BBC’s chief international correspondent Lyse Doucet took home the nonfiction award, also for her debut. Evans’s The Correspondent and Doucet’s The Finest Hotel in Kabul were announced as the winners at a ceremony in central London on Thursday evening, with each author awarded £30,000. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Awards And Prizes",
-      "Books",
-      "Culture",
-      "Fiction",
-      "History Books",
-      "Women'S Prize For Fiction",
-      "Women'S Prize For Nonfiction",
-      "Women'S Prizes"
-    ],
-    "genre": [
-      "Fiction",
-      "History",
-      "Nonfiction"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-11",
-    "thumbnail": "https://i.guim.co.uk/img/media/8a9ba109ba9906e83c6c11857344d102a58af190/0_0_2700_2160/master/2700.jpg?width=700&quality=85&auto=format&fit=max&s=604345f8ba24ad2d8a36435d6b9c5f93",
-    "cover_large": "https://i.guim.co.uk/img/media/8a9ba109ba9906e83c6c11857344d102a58af190/0_0_2700_2160/master/2700.jpg?width=700&quality=85&auto=format&fit=max&s=604345f8ba24ad2d8a36435d6b9c5f93",
-    "article_url": "https://www.theguardian.com/books/2026/jun/11/womens-prize-virginia-evans-the-correspondent-fiction-lyse-doucet-the-finest-hotel-in-kabul-nonfiction",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Awards and prizes",
-      "Books",
-      "Culture",
-      "Fiction",
-      "History books",
-      "Women's prize for fiction",
-      "Women's prize for nonfiction",
-      "Women's prizes",
-      "books"
-    ],
-    "created_at": "2026-06-12T10:12:30+00:00",
-    "updated_at": "2026-06-12T10:12:30Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
     "id": "1aa905cb92f4888eaeaaaac059eb88b8",
@@ -275,63 +403,53 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-12T10:12:30+00:00",
-    "updated_at": "2026-06-12T10:12:30Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
-    "id": "23e43e070391ed6f7b26def883251c8c",
-    "title": "The Artist by Lucy Steeds audiobook review",
-    "author": "Fiona Sturges",
-    "description": "A reclusive artist is the reluctant subject of a journalist’s attention in a rich world of scents, scenery and secrets When a British journalist named Joseph Adelaide tracks down a reclusive artist to his remote farmhouse in the south of France, his plan is to interview him for a magazine profile. Edouard Tartuffe is a revered painter who was taught by Cézanne and is known on the Parisian art scene as the “Master of Light”. But then he retreated from the limelight amid rumours of a feud with his former mentor. Tartuffe – known as Tata – now lives with his 27-year-old niece, Ettie, and is blind in one eye. Joseph quickly learns that Tata also has an explosive temper and rules the household with an iron fist. On meeting Joseph, he barks that he will not be giving an interview but that his guest can stay on one condition: that he model for him for a new portrait. Continue reading...",
+    "id": "d4032ed3819bb4a0ab849c9b28584963",
+    "title": "Here are the winners of the 2026 Women’s Prizes in Fiction and Nonfiction.",
+    "author": "Literary Hub",
+    "description": "Today, the UK’s Women’s Prize Trust announced the winner of the 2026 Women’s Prize for Fiction, which “champions excellence, originality, and accessibility in women’s writing,” and is awarded to the best novel of each year written in English and published",
     "summary_ai": "",
     "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
+      "Book News",
+      "Literary Prizes",
+      "Lyse Doucet",
+      "News And Culture",
+      "Reviews",
+      "The Hub",
+      "Virginia Evans",
+      "Women'S Prize For Fiction",
+      "Women'S Prize For Nonfition",
+      "Women'S Prizes"
     ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-11",
-    "thumbnail": "https://i.guim.co.uk/img/media/6e830e692f8570ef7f8bf78998b7ff345f04ff52/0_1664_3334_2667/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=19f53283c5c36854d5fe29c3537097c3",
-    "cover_large": "https://i.guim.co.uk/img/media/6e830e692f8570ef7f8bf78998b7ff345f04ff52/0_1664_3334_2667/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=19f53283c5c36854d5fe29c3537097c3",
-    "article_url": "https://www.theguardian.com/books/2026/jun/11/the-artist-by-lucy-steeds-audiobook-review-a-sensory-feast-in-provence",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
+    "genre": [
       "Fiction",
-      "books"
+      "Nonfiction"
     ],
-    "created_at": "2026-06-12T10:12:30+00:00",
-    "updated_at": "2026-06-12T10:12:30Z"
-  },
-  {
-    "id": "a23a668270a8a1dc0eb4001867f84954",
-    "title": "Book Riot’s Deals of the Day for June 11, 2026",
-    "author": "Deals",
-    "description": "An Arctic Norwegian town that's been wiped out of men, a queer coming-of-age in 1950s Chinatown, a girl gone missing from a small Irish town, and more of today's best book deals",
-    "summary_ai": "",
-    "categories": [
-      "Book Deals",
-      "Reviews"
-    ],
-    "genre": [],
     "language": "English",
-    "publisher": "Book Riot",
+    "publisher": "Literary Hub",
     "published_date": "2026-06-11",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/11/Darkrooms-Rebecca-Hannigan-cover-199x300.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/11/Darkrooms-Rebecca-Hannigan-cover-199x300.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-june-11-2026/",
-    "source": "Book Riot",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2025/06/womensprize-copy-768x384.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2025/06/womensprize-copy-768x384.jpg",
+    "article_url": "https://lithub.com/here-are-the-winners-of-the-2026-womens-prizes-in-fiction-and-nonfiction/",
+    "source": "Literary Hub",
     "source_type": "rss",
     "tags": [
-      "Book Deals",
+      "Book News",
+      "Lyse Doucet",
+      "News and Culture",
+      "The Hub",
+      "Virginia Evans",
+      "Women's Prize for Fiction",
+      "Women's Prize for Nonfition",
+      "Women's Prizes",
+      "literary prizes",
       "reviews"
     ],
-    "created_at": "2026-06-12T10:12:29+00:00",
-    "updated_at": "2026-06-12T10:12:29Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
     "id": "0f674f586480cede63db06777d539d37",
@@ -341,6 +459,8 @@
     "summary_ai": "",
     "categories": [
       "Latine Lit",
+      "Lgbtq",
+      "Our Queerest Shelves",
       "Reviews"
     ],
     "genre": [],
@@ -353,73 +473,13 @@
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
+      "LGBTQ",
       "Latine Lit",
+      "Our Queerest Shelves",
       "reviews"
     ],
-    "created_at": "2026-06-12T10:12:29+00:00",
-    "updated_at": "2026-06-12T10:12:29Z"
-  },
-  {
-    "id": "1130a2bc7dcc09f435aeaf92b21df0a7",
-    "title": "Celebrating Freedom Day: 5 Picture Books About Juneteenth",
-    "author": "Margaret Kingsbury",
-    "description": "Celebrate Juneteenth with these five picture books that feature parades to family celebrations and the history of the holiday.",
-    "summary_ai": "",
-    "categories": [
-      "Children'S Books",
-      "Juneteenth",
-      "Picture Books",
-      "Reviews",
-      "The Kids Are All Right"
-    ],
-    "genre": [
-      "History"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-11",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/a-flag-for-juneteenth-taylor-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/a-flag-for-juneteenth-taylor-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/picture-books-about-juneteenth/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "The Kids Are All Right",
-      "children's books",
-      "juneteenth",
-      "picture books",
-      "reviews"
-    ],
-    "created_at": "2026-06-12T10:12:29+00:00",
-    "updated_at": "2026-06-12T10:12:29Z"
-  },
-  {
-    "id": "8f68bbbd47fbe65246f698a6558851c8",
-    "title": "Cats Don’t Wear Pants: What Are The Dungeon Crawler Carl Books (and What Books Should You Read After You Devour the Series?)",
-    "author": "Liberty Hardy",
-    "description": "Get the rundown on the dungeon adventure series that is sweeping the planet!",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Science Fiction/Fantasy",
-      "Swords And Spaceships"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-11",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/04/A-Parade-of-Horribles-Dungeon-Crawler-Carl-Matt-Dinniman-cover.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/04/A-Parade-of-Horribles-Dungeon-Crawler-Carl-Matt-Dinniman-cover.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/what-are-the-dungeon-crawler-carl-books/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Science Fiction/Fantasy",
-      "Swords and Spaceships",
-      "reviews"
-    ],
-    "created_at": "2026-06-12T10:12:29+00:00",
-    "updated_at": "2026-06-12T10:12:29Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
     "id": "ac4df7fd2924183cb1fd028cc9aac32e",
@@ -442,8 +502,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-06-12T10:12:29+00:00",
-    "updated_at": "2026-06-12T10:12:29Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
     "id": "d17de5efd1a653b1123b9e484924b541",
@@ -468,8 +528,8 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-12T10:12:29+00:00",
-    "updated_at": "2026-06-12T10:12:29Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
     "id": "1cb68d9d2df3dc3222e247f37fb0e0a0",
@@ -502,8 +562,8 @@
       "News",
       "reviews"
     ],
-    "created_at": "2026-06-12T10:12:29+00:00",
-    "updated_at": "2026-06-12T10:12:29Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
     "id": "1104a22874baeb0de2df82d082878fa6",
@@ -540,8 +600,8 @@
       "Revolutionary War, American (1775-83)",
       "books"
     ],
-    "created_at": "2026-06-12T10:12:30+00:00",
-    "updated_at": "2026-06-12T10:12:30Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
     "id": "eaaa6ceb13b853ca1f3d7f06e5ed9981",
@@ -580,8 +640,8 @@
       "Transgender",
       "books"
     ],
-    "created_at": "2026-06-12T10:12:30+00:00",
-    "updated_at": "2026-06-12T10:12:30Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
     "id": "be4b4fa34b6a393fbe5ff7d9ed136e87",
@@ -622,48 +682,7 @@
       "Theater",
       "books"
     ],
-    "created_at": "2026-06-12T10:12:30+00:00",
-    "updated_at": "2026-06-12T10:12:30Z"
-  },
-  {
-    "id": "d9bc0ac77a54252d347f66051b39dba7",
-    "title": "Sales of Meta whistleblower’s memoir soar after Hay festival ‘silencing’",
-    "author": "Ella Creamer",
-    "description": "Sarah Wynn-Williams remained silent during her hour-long appearance, but sales of Careless People have since increased by more than 300% Sales of the whistleblowing memoir Careless People increased by more than 300% in the UK the week after its author was “silenced” during an appearance at Hay festival following legal action by Meta, the subject of the book. Sarah Wynn-Williams – who between 2011 and 2017 served as the director of global public policy at what was then called Facebook – sat on stage but did not speak during her hour-long appearance on 31 May on the advice of her lawyer. She appeared alongside the journalist Carole Cadwalladr and academic Tim Wu. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Facebook",
-      "Festivals",
-      "Hay Festival",
-      "Media",
-      "Meta",
-      "Technology"
-    ],
-    "genre": [
-      "Memoir"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-10",
-    "thumbnail": "https://i.guim.co.uk/img/media/d5fdf0169bd1d6539ac8e70b6ca9dcb7c9cee142/809_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=c4460f93bdc166d05ec60c24a942958d",
-    "cover_large": "https://i.guim.co.uk/img/media/d5fdf0169bd1d6539ac8e70b6ca9dcb7c9cee142/809_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=c4460f93bdc166d05ec60c24a942958d",
-    "article_url": "https://www.theguardian.com/technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Facebook",
-      "Festivals",
-      "Hay festival",
-      "Media",
-      "Meta",
-      "Technology",
-      "books"
-    ],
-    "created_at": "2026-06-12T10:12:30+00:00",
-    "updated_at": "2026-06-12T10:12:30Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   }
 ]

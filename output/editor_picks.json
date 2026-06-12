@@ -1,5 +1,29 @@
 [
   {
+    "id": "df08ddb61df26290a0a5a61bcd6fb15b",
+    "title": "4 hands on the keys: The continuing piano adventures of the fearless Labèque sisters",
+    "author": "Tom Huizenga",
+    "description": "The French pianists celebrate more than a half century of recording together with a triple-disc set containing many brand new tracks.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "NPR Books",
+    "published_date": "2026-06-12",
+    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5517x4138+0+0/resize/5517x4138!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2F53%2Ff836357744088c558accc65aaefa%2Fkatia-marielle-labeque-c8a0563-umberto-nicoletti-jpg-crop.jpg",
+    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5517x4138+0+0/resize/5517x4138!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2F53%2Ff836357744088c558accc65aaefa%2Fkatia-marielle-labeque-c8a0563-umberto-nicoletti-jpg-crop.jpg",
+    "article_url": "https://www.npr.org/2026/06/12/nx-s1-5829850/katia-marielle-labeque-album-review-55",
+    "source": "NPR Books",
+    "source_type": "rss",
+    "tags": [
+      "reviews"
+    ],
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
+  },
+  {
     "id": "f808f7be2382a7caca4732192d9ef54c",
     "title": "Olivia Rodrigo, pop princess of vengeful angst, tries her hand at love songs",
     "author": "Hazel Cills",
@@ -20,8 +44,36 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-06-12T10:12:29+00:00",
-    "updated_at": "2026-06-12T10:12:29Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
+  },
+  {
+    "id": "09e10941da02e5362f95b100c3ee4b67",
+    "title": "Lit Hub Daily: June 12, 2026",
+    "author": "Lit Hub Daily",
+    "description": "If literacy is in decline, why are bookstores booming? “Bookstores are filling a social void.” | Lit Hub Bookstores Korean poets and their translators pair poetry collections with K-pop albums. | Lit Hub On Translation Did you know the Mayflower Puritans",
+    "summary_ai": "",
+    "categories": [
+      "Lit Hub Daily",
+      "Reviews"
+    ],
+    "genre": [
+      "Poetry"
+    ],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-06-12",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/annefrank-768x344.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/annefrank-768x344.jpg",
+    "article_url": "https://lithub.com/lit-hub-daily-june-12-2026/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Lit Hub Daily",
+      "reviews"
+    ],
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
     "id": "2a44c8f5f823242b11a6b05095e8b483",
@@ -72,8 +124,8 @@
       "colonial America",
       "reviews"
     ],
-    "created_at": "2026-06-12T10:12:29+00:00",
-    "updated_at": "2026-06-12T10:12:29Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
     "id": "8af0c9c5454b9563d4e6c54ee4bc724e",
@@ -88,7 +140,7 @@
       "Chaucer'S Books",
       "Ellen O'Connell Whittet",
       "Epilogue Books",
-      "Features",
+      "Fullwidth Slider",
       "Literacy Crisis",
       "Literati Bookstore",
       "News And Culture",
@@ -112,7 +164,7 @@
       "Chaucer's Books",
       "Ellen O'Connell Whittet",
       "Epilogue Books",
-      "Features",
+      "Fullwidth Slider",
       "Literati Bookstore",
       "News and Culture",
       "Parnassus Books",
@@ -120,8 +172,8 @@
       "literacy crisis",
       "reviews"
     ],
-    "created_at": "2026-06-12T10:12:29+00:00",
-    "updated_at": "2026-06-12T10:12:29Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
     "id": "61143b96859c67a3c6cf7cbc5e315269",
@@ -172,8 +224,8 @@
       "honeybees",
       "reviews"
     ],
-    "created_at": "2026-06-12T10:12:29+00:00",
-    "updated_at": "2026-06-12T10:12:29Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
     "id": "dcf61f393456bb17ace3816b24077f6e",
@@ -212,8 +264,8 @@
       "book reviews",
       "reviews"
     ],
-    "created_at": "2026-06-12T10:12:29+00:00",
-    "updated_at": "2026-06-12T10:12:29Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
     "id": "6ebcc11669de67e397faf7faabc2608d",
@@ -299,8 +351,8 @@
       "poetry in translation",
       "reviews"
     ],
-    "created_at": "2026-06-12T10:12:29+00:00",
-    "updated_at": "2026-06-12T10:12:29Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
     "id": "af1a8110bd523389b6d000d619878830",
@@ -349,8 +401,8 @@
       "reviews",
       "testimony"
     ],
-    "created_at": "2026-06-12T10:12:29+00:00",
-    "updated_at": "2026-06-12T10:12:29Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
     "id": "3ff1bf74dc0ba07335ce2b8825eafd11",
@@ -397,8 +449,8 @@
       "sculpture",
       "writing advice"
     ],
-    "created_at": "2026-06-12T10:12:29+00:00",
-    "updated_at": "2026-06-12T10:12:29Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
     "id": "0212d9a0d2e020dd46ecb3bd8f568c3a",
@@ -435,8 +487,68 @@
       "W. W. Norton",
       "reviews"
     ],
-    "created_at": "2026-06-12T10:12:29+00:00",
-    "updated_at": "2026-06-12T10:12:29Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
+  },
+  {
+    "id": "17ec9516872bde97bbe5a595f495bdf5",
+    "title": "Book Riot’s Deals of the Day for June 12, 2026",
+    "author": "Deals",
+    "description": "How the pyramid scheme shaped America, an oral history of queer people of color, sisters witches trying to break a curse, and more of today's best book deals",
+    "summary_ai": "",
+    "categories": [
+      "Book Deals",
+      "Reviews"
+    ],
+    "genre": [
+      "History"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-12",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/11/witches-of-honeysuckle-house.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2025/11/witches-of-honeysuckle-house.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-june-12-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Book Deals",
+      "reviews"
+    ],
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
+  },
+  {
+    "id": "233f5b0fc0d2be2c639baecaf46dcc35",
+    "title": "Do Minors Have a Right to Privacy in the Library?: Book Censorship News, June 12, 2026",
+    "author": "Kelly Jensen",
+    "description": "Several states have attempted to strip minors of their rights to privacy in public libraries in this era of censorship.",
+    "summary_ai": "",
+    "categories": [
+      "Censorship",
+      "Libraries",
+      "Literary Activism",
+      "News",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-12",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/tough-topics-shreve-memorial.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/tough-topics-shreve-memorial.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/minors-rights-to-library-privacy/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Censorship",
+      "Libraries",
+      "Literary Activism",
+      "News",
+      "reviews"
+    ],
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
     "id": "8d568fd91c0ddafbc849e36de330bca9",
@@ -461,8 +573,8 @@
       "Check Your Shelf",
       "reviews"
     ],
-    "created_at": "2026-06-12T10:12:29+00:00",
-    "updated_at": "2026-06-12T10:12:29Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   },
   {
     "id": "7577964078f4094204b0cbbbe3f3f049",
@@ -489,136 +601,7 @@
       "breaking in books",
       "reviews"
     ],
-    "created_at": "2026-06-12T10:12:29+00:00",
-    "updated_at": "2026-06-12T10:12:29Z"
-  },
-  {
-    "id": "4e025fe2f39212405c74fc237b9def02",
-    "title": "We Deserve More “Ugly” Female Characters in Comics",
-    "author": "Eileen Gonzalez",
-    "description": "When it comes to how their female characters look and dress, comic books are deathly afraid of difference.",
-    "summary_ai": "",
-    "categories": [
-      "Comics/Graphic Novels",
-      "Reviews",
-      "The Stack"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-12",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/Avengers-Annual-10.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/Avengers-Annual-10.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/we-deserve-more-ugly-female-characters/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Comics/Graphic Novels",
-      "The Stack",
-      "reviews"
-    ],
-    "created_at": "2026-06-12T10:12:29+00:00",
-    "updated_at": "2026-06-12T10:12:29Z"
-  },
-  {
-    "id": "5afd96c1103c163ec7afc1c530a3d905",
-    "title": "Horror Bookstores You Should Visit During Your Summer Travels!",
-    "author": "Emily Martin",
-    "description": "If you're traveling to New York City, Kentucky, Canada, or Virginia, make sure to stop by these horror bookstores!",
-    "summary_ai": "",
-    "categories": [
-      "Horror",
-      "Reviews",
-      "The Fright Stuff"
-    ],
-    "genre": [
-      "Horror"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-12",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Untitled-design-2026-06-08T085417.665.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Untitled-design-2026-06-08T085417.665.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/horror-bookstores/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Horror",
-      "The Fright Stuff",
-      "reviews"
-    ],
-    "created_at": "2026-06-12T10:12:29+00:00",
-    "updated_at": "2026-06-12T10:12:29Z"
-  },
-  {
-    "id": "d4032ed3819bb4a0ab849c9b28584963",
-    "title": "Here are the winners of the 2026 Women’s Prizes in Fiction and Nonfiction.",
-    "author": "Literary Hub",
-    "description": "Today, the UK’s Women’s Prize Trust announced the winner of the 2026 Women’s Prize for Fiction, which “champions excellence, originality, and accessibility in women’s writing,” and is awarded to the best novel of each year written in English and published",
-    "summary_ai": "",
-    "categories": [
-      "Book News",
-      "Literary Prizes",
-      "Lyse Doucet",
-      "News And Culture",
-      "Reviews",
-      "The Hub",
-      "Virginia Evans",
-      "Women'S Prize For Fiction",
-      "Women'S Prize For Nonfition",
-      "Women'S Prizes"
-    ],
-    "genre": [
-      "Fiction",
-      "Nonfiction"
-    ],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-06-11",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2025/06/womensprize-copy-768x384.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2025/06/womensprize-copy-768x384.jpg",
-    "article_url": "https://lithub.com/here-are-the-winners-of-the-2026-womens-prizes-in-fiction-and-nonfiction/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Book News",
-      "Lyse Doucet",
-      "News and Culture",
-      "The Hub",
-      "Virginia Evans",
-      "Women's Prize for Fiction",
-      "Women's Prize for Nonfition",
-      "Women's Prizes",
-      "literary prizes",
-      "reviews"
-    ],
-    "created_at": "2026-06-12T10:12:29+00:00",
-    "updated_at": "2026-06-12T10:12:29Z"
-  },
-  {
-    "id": "f649a10bc4988162f05bfae9fff94a15",
-    "title": "Lit Hub Daily: June 11, 2026",
-    "author": "Lit Hub Daily",
-    "description": "Round two of our Best of the Best Books Reading Challenge​begins today with 50 of the greatest summer novels of all time!​| Lit Hub Thomas Levenson pushes back against anti-vaxxer arguments: “Microbial pathogens don’t participate in human philosophical disputation—and once they",
-    "summary_ai": "",
-    "categories": [
-      "Lit Hub Daily",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-06-11",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/tolstoy-768x344.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/tolstoy-768x344.jpg",
-    "article_url": "https://lithub.com/lit-hub-daily-june-11-2026/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Lit Hub Daily",
-      "reviews"
-    ],
-    "created_at": "2026-06-12T10:12:29+00:00",
-    "updated_at": "2026-06-12T10:12:29Z"
+    "created_at": "2026-06-12T20:04:23+00:00",
+    "updated_at": "2026-06-12T20:04:23Z"
   }
 ]
