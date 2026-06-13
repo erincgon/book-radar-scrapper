@@ -1,5 +1,100 @@
 [
   {
+    "id": "780d3026daec05ca9a53b3eb7ce82972",
+    "title": "70 brilliant books for the summer",
+    "author": "Justine Jordan, David Shariatmadari, Imogen Russell Williams and Guardian staff",
+    "description": "From dynamite debuts to must-read memoirs and magical children’s fiction, here’s our selection of this year’s hottest holiday reads • Leading authors Mark Haddon, Samantha Harvey, Zadie Smith select their favourites *** Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Autobiography And Memoir",
+      "Biography Books",
+      "Books",
+      "Children And Teenagers",
+      "Children'S Books: 7 And Under",
+      "Culture",
+      "Fiction",
+      "Health, Mind And Body Books",
+      "History Books",
+      "Paperbacks",
+      "Politics Books",
+      "Science And Nature Books",
+      "Summer Reading"
+    ],
+    "genre": [
+      "Children",
+      "Fiction",
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-13",
+    "thumbnail": "https://i.guim.co.uk/img/media/d093a7c23a4b6f478bbb2050dbe43de396f26278/0_2054_4284_3426/master/4284.jpg?width=700&quality=85&auto=format&fit=max&s=ebcc7087e3416e4020d470a6c99fe60e",
+    "cover_large": "https://i.guim.co.uk/img/media/d093a7c23a4b6f478bbb2050dbe43de396f26278/0_2054_4284_3426/master/4284.jpg?width=700&quality=85&auto=format&fit=max&s=ebcc7087e3416e4020d470a6c99fe60e",
+    "article_url": "https://www.theguardian.com/books/2026/jun/13/what-to-read-this-summer-by-mark-haddon-samantha-harvey-zadie-smith-and-more",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Autobiography and memoir",
+      "Biography books",
+      "Books",
+      "Children and teenagers",
+      "Children's books: 7 and under",
+      "Culture",
+      "Fiction",
+      "Health, mind and body books",
+      "History books",
+      "Paperbacks",
+      "Politics books",
+      "Science and nature books",
+      "Summer reading",
+      "books"
+    ],
+    "created_at": "2026-06-13T08:57:42+00:00",
+    "updated_at": "2026-06-13T08:57:42Z"
+  },
+  {
+    "id": "4e0dff5edc3919245c0900048aad5807",
+    "title": "What to read this summer by Mark Haddon, Samantha Harvey, Zadie Smith and more",
+    "author": "Tahmima Anam, William Boyd, Jonathan Coe, William Dalrymple, Joe Dunthorne, Anne Enright, Virginia Evans, Bernardine Evaristo, Stephen Grosz, Mark Haddon, Luke Kennard, Marian Keyes, Olivia Laing, Sarah Moss,Gary Shteyngart, Zadie Smith, Nina Stibbe and Sarah Waters",
+    "description": "Leading authors including Sarah Waters, William Dalrymple, Bernardine Evaristo and Anne Enright reveal their perfect holiday reading • Read our selection of 70 brilliant books for the summer Zadie Smith Margaret Busby’s Part of the Story: Writings from Half a Century is the record of one woman’s lifelong passion for the literature and life of Africa and its diaspora, wherever she finds it. A beautiful collection. The funniest and smartest novel I’ve read in a while is Black Bag by Luke Kennard. Mark Haddon Can I recommend some metaphorical summer travel? Taiwan Travelogue by Yáng Shuāng-zǐ, translated by Lin King, won the International Booker prize so you’re legally obliged to read it. But there are three other books on the shortlist I would strongly urge you to get your hands on. The Director by Daniel Kehlmann, translated by Ross Benjamin, brilliantly fictionalises the story of the film director WG Pabst who fled Germany before the outbreak of the second world war, felt ignored in Hollywood and made the foolish decision to return home. On Earth As It Is Beneath by Ana Paula Maia, translated by Padma Viswanathan, is a short, sharp cleaver-blow of political horror set in a...",
+    "summary_ai": "",
+    "categories": [
+      "Autobiography And Memoir",
+      "Biography Books",
+      "Books",
+      "Culture",
+      "Fiction",
+      "History Books",
+      "Poetry",
+      "Summer Reading"
+    ],
+    "genre": [
+      "Fiction",
+      "Horror"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-13",
+    "thumbnail": "https://i.guim.co.uk/img/media/b05d588de79e37e936d4df6ab5f5072f6e6c4ad8/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=dd7223ffaaca27e57c61254200fd3d17",
+    "cover_large": "https://i.guim.co.uk/img/media/b05d588de79e37e936d4df6ab5f5072f6e6c4ad8/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=dd7223ffaaca27e57c61254200fd3d17",
+    "article_url": "https://www.theguardian.com/books/ng-interactive/2026/jun/13/70-brilliant-books-for-the-summer",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Autobiography and memoir",
+      "Biography books",
+      "Books",
+      "Culture",
+      "Fiction",
+      "History books",
+      "Poetry",
+      "Summer reading",
+      "books"
+    ],
+    "created_at": "2026-06-13T08:57:42+00:00",
+    "updated_at": "2026-06-13T08:57:42Z"
+  },
+  {
     "id": "33b96b53811abff07d307ba2b80519d9",
     "title": "Book Review: ‘Drayton and Mackenzie,’ by Alexander Starritt",
     "author": "John Williams",
@@ -26,8 +121,8 @@
       "Starritt, Alexander",
       "books"
     ],
-    "created_at": "2026-06-12T20:04:23+00:00",
-    "updated_at": "2026-06-12T20:04:23Z"
+    "created_at": "2026-06-13T08:57:42+00:00",
+    "updated_at": "2026-06-13T08:57:42Z"
   },
   {
     "id": "6eb2eddeb9d2a53f072efff1674fdf03",
@@ -59,8 +154,8 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-06-12T20:04:23+00:00",
-    "updated_at": "2026-06-12T20:04:23Z"
+    "created_at": "2026-06-13T08:57:42+00:00",
+    "updated_at": "2026-06-13T08:57:42Z"
   },
   {
     "id": "c34f2dbb59a0ea63c258ee675ddfaf55",
@@ -107,8 +202,8 @@
       "World War II (1939-45)",
       "books"
     ],
-    "created_at": "2026-06-12T20:04:23+00:00",
-    "updated_at": "2026-06-12T20:04:23Z"
+    "created_at": "2026-06-13T08:57:42+00:00",
+    "updated_at": "2026-06-13T08:57:42Z"
   },
   {
     "id": "58a4284af163fe910889ab09c53c4763",
@@ -140,8 +235,8 @@
       "Women's prizes",
       "books"
     ],
-    "created_at": "2026-06-12T20:04:23+00:00",
-    "updated_at": "2026-06-12T20:04:23Z"
+    "created_at": "2026-06-13T08:57:42+00:00",
+    "updated_at": "2026-06-13T08:57:42Z"
   },
   {
     "id": "cc4fd656bc98e85fc642d77aad59a06c",
@@ -169,8 +264,8 @@
       "Ruth Ozeki",
       "books"
     ],
-    "created_at": "2026-06-12T20:04:23+00:00",
-    "updated_at": "2026-06-12T20:04:23Z"
+    "created_at": "2026-06-13T08:57:42+00:00",
+    "updated_at": "2026-06-13T08:57:42Z"
   },
   {
     "id": "0af03eaf7b083faebd49b08b66333eac",
@@ -207,8 +302,8 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-06-12T20:04:23+00:00",
-    "updated_at": "2026-06-12T20:04:23Z"
+    "created_at": "2026-06-13T08:57:42+00:00",
+    "updated_at": "2026-06-13T08:57:42Z"
   },
   {
     "id": "da9552e3314c26d160dbb7239ab9a359",
@@ -238,8 +333,8 @@
       "Jonathan Swift",
       "books"
     ],
-    "created_at": "2026-06-12T20:04:23+00:00",
-    "updated_at": "2026-06-12T20:04:23Z"
+    "created_at": "2026-06-13T08:57:42+00:00",
+    "updated_at": "2026-06-13T08:57:42Z"
   },
   {
     "id": "4e025fe2f39212405c74fc237b9def02",
@@ -266,8 +361,36 @@
       "The Stack",
       "reviews"
     ],
-    "created_at": "2026-06-12T20:04:23+00:00",
-    "updated_at": "2026-06-12T20:04:23Z"
+    "created_at": "2026-06-13T08:57:42+00:00",
+    "updated_at": "2026-06-13T08:57:42Z"
+  },
+  {
+    "id": "77a247515fd2edd5d663a4d00b7c6451",
+    "title": "New York Times Readers Share Their Most Anticipated Books of the Summer",
+    "author": "Erica Ezeifedi",
+    "description": "Plus, the winners of the 2026 Women's Prizes, unhinged romances, and AI chatbots being weird (again).",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Today In Books"
+    ],
+    "genre": [
+      "Romance"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-12",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/02/people-and-things-2026-02-06T123932.148.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/02/people-and-things-2026-02-06T123932.148.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/new-york-times-readers-most-anticipated-books-of-the-summer/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Today in Books",
+      "reviews"
+    ],
+    "created_at": "2026-06-13T08:57:42+00:00",
+    "updated_at": "2026-06-13T08:57:42Z"
   },
   {
     "id": "5afd96c1103c163ec7afc1c530a3d905",
@@ -296,8 +419,8 @@
       "The Fright Stuff",
       "reviews"
     ],
-    "created_at": "2026-06-12T20:04:23+00:00",
-    "updated_at": "2026-06-12T20:04:23Z"
+    "created_at": "2026-06-13T08:57:42+00:00",
+    "updated_at": "2026-06-13T08:57:42Z"
   },
   {
     "id": "13578b599259dd193c64c80094cb1ce7",
@@ -338,8 +461,8 @@
       "Wuthering Heights (Book)",
       "books"
     ],
-    "created_at": "2026-06-12T20:04:23+00:00",
-    "updated_at": "2026-06-12T20:04:23Z"
+    "created_at": "2026-06-13T08:57:42+00:00",
+    "updated_at": "2026-06-13T08:57:42Z"
   },
   {
     "id": "4d201eb884e379ec4c83dc36ffb2298c",
@@ -374,37 +497,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-12T20:04:23+00:00",
-    "updated_at": "2026-06-12T20:04:23Z"
-  },
-  {
-    "id": "1aa905cb92f4888eaeaaaac059eb88b8",
-    "title": "Frida Slattery As Herself by Ana Kinsella review – will-they-won’t",
-    "author": "Anjali Joseph",
-    "description": "This impressive and charismatic debut novel revisits an actor and a director over various collaborations The central characters of Frida Slattery As Herself, Ana Kinsella’s debut novel, are the eponymous Frida, 23 when the novel opens, and John Reddan, five years older. Both live in Dublin. Frida loves acting but has never had a significant role, and didn’t even get into drama school. John is a writer-director who has just had a play put on at a “real theatre”. What’s compelling about Frida is not necessarily what she says, thinks or does, but the way she is, and a large part of that lies in the physicality Kinsella writes into her. Frida, we learn, is “addicted” to the theatre. “Every time she came off stage she felt like a prizefighter. The curtain fell in the community theatre and there she was, rolling her neck, bobbing on her feet.” However, Frida’s acting aspirations are going nowhere. She eventually confides in her friend Catherine, who at university was a much more successful actor in student productions, but now has a proper job (“She owned an espresso machine and Frida lived in a bedsit”). “I just want something to happen,” Frida says. Catherine introduces Frida to...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-11",
-    "thumbnail": "https://i.guim.co.uk/img/media/26385c368391ef79ff74a88632a92a47c62a7496/200_1625_5384_4307/master/5384.jpg?width=700&quality=85&auto=format&fit=max&s=d59fedf1a922f95453d56eb50830c3bf",
-    "cover_large": "https://i.guim.co.uk/img/media/26385c368391ef79ff74a88632a92a47c62a7496/200_1625_5384_4307/master/5384.jpg?width=700&quality=85&auto=format&fit=max&s=d59fedf1a922f95453d56eb50830c3bf",
-    "article_url": "https://www.theguardian.com/books/2026/jun/11/frida-slattery-as-herself-by-ana-kinsella-review-will-they-wont-they-in-a-skilful-theatrical-romance",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-06-12T20:04:23+00:00",
-    "updated_at": "2026-06-12T20:04:23Z"
+    "created_at": "2026-06-13T08:57:42+00:00",
+    "updated_at": "2026-06-13T08:57:42Z"
   },
   {
     "id": "d4032ed3819bb4a0ab849c9b28584963",
@@ -448,38 +542,8 @@
       "literary prizes",
       "reviews"
     ],
-    "created_at": "2026-06-12T20:04:23+00:00",
-    "updated_at": "2026-06-12T20:04:23Z"
-  },
-  {
-    "id": "0f674f586480cede63db06777d539d37",
-    "title": "Queer Latine Books on Sale at Bookshop.org",
-    "author": "Vanessa Diaz",
-    "description": "Support queer Latine books for Pride, and at a discount!",
-    "summary_ai": "",
-    "categories": [
-      "Latine Lit",
-      "Lgbtq",
-      "Our Queerest Shelves",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-11",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/05/archive-of-unknown-universes-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/05/archive-of-unknown-universes-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/queer-latine-books-on-sale-pride-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "LGBTQ",
-      "Latine Lit",
-      "Our Queerest Shelves",
-      "reviews"
-    ],
-    "created_at": "2026-06-12T20:04:23+00:00",
-    "updated_at": "2026-06-12T20:04:23Z"
+    "created_at": "2026-06-13T08:57:42+00:00",
+    "updated_at": "2026-06-13T08:57:42Z"
   },
   {
     "id": "ac4df7fd2924183cb1fd028cc9aac32e",
@@ -502,8 +566,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-06-12T20:04:23+00:00",
-    "updated_at": "2026-06-12T20:04:23Z"
+    "created_at": "2026-06-13T08:57:42+00:00",
+    "updated_at": "2026-06-13T08:57:42Z"
   },
   {
     "id": "d17de5efd1a653b1123b9e484924b541",
@@ -528,8 +592,8 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-12T20:04:23+00:00",
-    "updated_at": "2026-06-12T20:04:23Z"
+    "created_at": "2026-06-13T08:57:42+00:00",
+    "updated_at": "2026-06-13T08:57:42Z"
   },
   {
     "id": "1cb68d9d2df3dc3222e247f37fb0e0a0",
@@ -562,8 +626,8 @@
       "News",
       "reviews"
     ],
-    "created_at": "2026-06-12T20:04:23+00:00",
-    "updated_at": "2026-06-12T20:04:23Z"
+    "created_at": "2026-06-13T08:57:42+00:00",
+    "updated_at": "2026-06-13T08:57:42Z"
   },
   {
     "id": "1104a22874baeb0de2df82d082878fa6",
@@ -600,8 +664,8 @@
       "Revolutionary War, American (1775-83)",
       "books"
     ],
-    "created_at": "2026-06-12T20:04:23+00:00",
-    "updated_at": "2026-06-12T20:04:23Z"
+    "created_at": "2026-06-13T08:57:42+00:00",
+    "updated_at": "2026-06-13T08:57:42Z"
   },
   {
     "id": "eaaa6ceb13b853ca1f3d7f06e5ed9981",
@@ -640,49 +704,7 @@
       "Transgender",
       "books"
     ],
-    "created_at": "2026-06-12T20:04:23+00:00",
-    "updated_at": "2026-06-12T20:04:23Z"
-  },
-  {
-    "id": "be4b4fa34b6a393fbe5ff7d9ed136e87",
-    "title": "John Basinger, Who Memorized All 12 Books of ‘Paradise Lost,’ Dies at 92",
-    "author": "Alex Traub",
-    "description": "After nearly nine years of practice, he made John Milton’s epic poem vividly dramatic for audiences and inspired a study of his “memory virtuosity.”",
-    "summary_ai": "",
-    "categories": [
-      "Basinger, John",
-      "Books",
-      "Deafness",
-      "Deaths (Obituaries)",
-      "Memory",
-      "Milton, John",
-      "National Theater Of The Deaf",
-      "Paradise Lost (Book)",
-      "Poetry And Poets",
-      "Theater"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-10",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/09/multimedia/09Basinger--wpch/09Basinger--wpch-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/09/multimedia/09Basinger--wpch/09Basinger--wpch-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/09/arts/john-basinger-dead.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Basinger, John",
-      "Deafness",
-      "Deaths (Obituaries)",
-      "Memory",
-      "Milton, John",
-      "National Theater of the Deaf",
-      "Paradise Lost (Book)",
-      "Poetry and Poets",
-      "Theater",
-      "books"
-    ],
-    "created_at": "2026-06-12T20:04:23+00:00",
-    "updated_at": "2026-06-12T20:04:23Z"
+    "created_at": "2026-06-13T08:57:42+00:00",
+    "updated_at": "2026-06-13T08:57:42Z"
   }
 ]
