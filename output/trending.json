@@ -1,5 +1,50 @@
 [
   {
+    "id": "eec42c32dd0a3a532e6eba08983e4e62",
+    "title": "Jane Yolen, Whose Books for Children Drew on Everyday Life, Dies at 87",
+    "author": "Clay Risen",
+    "description": "She wrote some 450 books, including novels, poetry and nonfiction in many genres. One critic called her “a modern equivalent to Aesop.”",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Children And Childhood",
+      "Deaths (Obituaries)",
+      "Dream Weaver (Song)",
+      "Poetry And Poets",
+      "Smith College",
+      "Writing And Writers",
+      "Yolen, Jane"
+    ],
+    "genre": [
+      "Children",
+      "Fiction",
+      "Nonfiction",
+      "Poetry"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-14",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/13/obituaries/13yolen-02/13yolen-02-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/13/obituaries/13yolen-02/13yolen-02-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/14/books/jane-yolen-dead.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Children and Childhood",
+      "Deaths (Obituaries)",
+      "Dream Weaver (Song)",
+      "Poetry and Poets",
+      "Smith College",
+      "Writing and Writers",
+      "Yolen, Jane",
+      "books"
+    ],
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
+  },
+  {
     "id": "6f8d05d6678fc2d6ea6892fdbfbcf96d",
     "title": "Book Review: ‘Empire of Ink,’ by Alex Wright",
     "author": "Alexandra Jacobs",
@@ -9,11 +54,12 @@
       "Books",
       "Books And Literature",
       "Empire Of Ink: The Printers, Rogues, And Radicals Who Invented The American Newspaper (Book)",
-      "News And News Media",
       "Newspapers",
       "Printing And Allied Trades",
       "Twain, Mark",
-      "Wright, Alex"
+      "United States",
+      "Wright, Alex (1966- )",
+      "Writing And Writers"
     ],
     "genre": [],
     "language": "English",
@@ -27,18 +73,19 @@
     "tags": [
       "Books and Literature",
       "Empire of Ink: The Printers, Rogues, and Radicals Who Invented the American Newspaper (Book)",
-      "News and News Media",
       "Newspapers",
       "Printing and Allied Trades",
       "Twain, Mark",
-      "Wright, Alex",
+      "United States",
+      "Wright, Alex (1966- )",
+      "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
-    "id": "d61b145895b223750bb9788cbf9728a7",
+    "id": "870854e023e80f6ab51718cd542f1808",
     "title": "A Graphic Novelist Captures the Lives of Vermont Lesbians Ahead of Their Time",
     "author": "Robert Ito",
     "description": "Leaning on a rich written record, the graphic novelist Tillie Walden used nearby resources to visualize the true story of seamstresses who shared a home for decades.",
@@ -46,12 +93,16 @@
     "categories": [
       "Books",
       "Books And Literature",
+      "Cartoons And Cartoonists",
       "Charity & Sylvia (Book)",
       "Charity & Sylvia: A Same-Sex Marriage In Early America (Book)",
+      "Content Type: Personal Profile",
       "Graphic Novels",
+      "Homosexuality And Bisexuality",
       "Spinning (Book)",
       "Vermont",
-      "Walden, Tillie"
+      "Walden, Tillie",
+      "Women And Girls"
     ],
     "genre": [],
     "language": "English",
@@ -59,21 +110,54 @@
     "published_date": "2026-06-14",
     "thumbnail": "https://static01.nyt.com/images/2026/06/14/multimedia/14tbr-tillie-walden-01-tjlf/14tbr-tillie-walden-01-tjlf-mediumSquareAt3X.jpg",
     "cover_large": "https://static01.nyt.com/images/2026/06/14/multimedia/14tbr-tillie-walden-01-tjlf/14tbr-tillie-walden-01-tjlf-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/14/books/review/seeing-herself-in-the-lives-of-19th-century-vermont-lesbians.html",
+    "article_url": "https://www.nytimes.com/2026/06/14/books/review/tillie-walden-vermont-charity-sylvia.html",
     "source": "The New York Times",
     "source_type": "rss",
     "tags": [
       "Books and Literature",
+      "Cartoons and Cartoonists",
       "Charity & Sylvia (Book)",
       "Charity & Sylvia: A Same-Sex Marriage in Early America (Book)",
+      "Content Type: Personal Profile",
       "Graphic Novels",
+      "Homosexuality and Bisexuality",
       "Spinning (Book)",
       "Vermont",
       "Walden, Tillie",
+      "Women and Girls",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
+  },
+  {
+    "id": "03c7e55d18f81990a4d704ec338e14ad",
+    "title": "Tom Gauld on a Fifa prize for literature",
+    "author": "Tom Gauld",
+    "description": "Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Illustration"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-14",
+    "thumbnail": "https://i.guim.co.uk/img/media/540ae688685a6e4f98f4a835314af9849c75482f/1127_345_1101_881/master/1101.png?width=700&quality=85&auto=format&fit=max&s=2c576abe2d8ac16061958f0671aa20bc",
+    "cover_large": "https://i.guim.co.uk/img/media/540ae688685a6e4f98f4a835314af9849c75482f/1127_345_1101_881/master/1101.png?width=700&quality=85&auto=format&fit=max&s=2c576abe2d8ac16061958f0671aa20bc",
+    "article_url": "https://www.theguardian.com/books/picture/2026/jun/14/tom-gauld-on-a-fifa-prize-for-literature-cartoon",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Illustration",
+      "books"
+    ],
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "0898bca843cb7bd5c22fc490b1f8f6de",
@@ -85,10 +169,9 @@
       "Books",
       "Books And Literature",
       "Cash, Madeline",
-      "Chinatown (Manhattan, Ny)",
+      "Content Type: Personal Profile",
       "Levy, Anika Jade",
-      "London (England)",
-      "Paradise Logic (Book)",
+      "Lost Lambs (Book)",
       "Writing And Writers"
     ],
     "genre": [],
@@ -103,15 +186,14 @@
     "tags": [
       "Books and Literature",
       "Cash, Madeline",
-      "Chinatown (Manhattan, NY)",
+      "Content Type: Personal Profile",
       "Levy, Anika Jade",
-      "London (England)",
-      "Paradise Logic (Book)",
+      "Lost Lambs (Book)",
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "780d3026daec05ca9a53b3eb7ce82972",
@@ -163,8 +245,8 @@
       "Summer reading",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "4e0dff5edc3919245c0900048aad5807",
@@ -205,8 +287,8 @@
       "Summer reading",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "33b96b53811abff07d307ba2b80519d9",
@@ -235,8 +317,8 @@
       "Starritt, Alexander",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "6eb2eddeb9d2a53f072efff1674fdf03",
@@ -266,8 +348,8 @@
       "Books and Literature",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "c34f2dbb59a0ea63c258ee675ddfaf55",
@@ -314,8 +396,8 @@
       "World War II (1939-45)",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "58a4284af163fe910889ab09c53c4763",
@@ -347,8 +429,8 @@
       "Women's prizes",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "cc4fd656bc98e85fc642d77aad59a06c",
@@ -376,8 +458,8 @@
       "Ruth Ozeki",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "0af03eaf7b083faebd49b08b66333eac",
@@ -414,39 +496,56 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
-    "id": "da9552e3314c26d160dbb7239ab9a359",
-    "title": "The Twitnam Summer by Hester Grant review – Swift, Gay and Pope’s season in the sun",
-    "author": "Kathryn Hughes",
-    "description": "A historian makes the case that a meeting of minds in 1726 changed the course of English literature In 1726 Jonathan Swift, dean of Saint Patrick’s Cathedral in Dublin, crossed the Irish sea with the manuscript of Gulliver’s Travels in his luggage. Beneath the child-friendly chatter about a sailor marooned on an island full of tiny Lilliputians, the book was a scabrous satire on the corruption of public life under the politically ascendant Whigs, whom Swift regarded as a pack of moral pygmies. Swift’s ultimate destination, though, was not Whitehall but rather the idyllic Twickenham – “Twitnam”, as they knew it – home of his old friend, the poet Alexander Pope. Here he intended to work out a plan for anonymous publication of his sulphurous masterpiece, one that would not land him in legal trouble. In Pope he could be sure of a sympathetic co‐conspirator. Both men were members of the Scriblerus Club, an unofficial association of dissident wits who nonetheless set great store by literary collaboration. Pope was equally disaffected with the state of the nation, although his loathing was directed towards the philistine Hanoverians, who had arrived from Germany in 1714 to take up the...",
+    "id": "3ff1bf74dc0ba07335ce2b8825eafd11",
+    "title": "Claire Fuller on Taking Writing Lessons from Sculpting",
+    "author": "Claire Fuller",
+    "description": "This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. I’d been sculpting and drawing since I was sixteen but when, at forty, I started writing short stories and novels, all my desire to sculpt fell away. I still have my chisels,",
     "summary_ai": "",
     "categories": [
-      "Biography Books",
-      "Books",
-      "Culture",
-      "Jonathan Swift"
+      "Art",
+      "Art And Writing",
+      "Claire Fuller",
+      "Craft And Advice",
+      "Craft And Criticism",
+      "Features",
+      "Hunger And Thirst",
+      "On Writing",
+      "Reviews",
+      "Sculpture",
+      "The Craft Of Writing",
+      "Tin House",
+      "Writing Advice"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "The Guardian",
+    "publisher": "Literary Hub",
     "published_date": "2026-06-12",
-    "thumbnail": "https://i.guim.co.uk/img/media/9c5eb0b53993938bc5c462d3e64ea1ed182fff7f/936_0_4680_3744/master/4680.jpg?width=700&quality=85&auto=format&fit=max&s=20a6c0d7abab4970bdbeb8a2716efc92",
-    "cover_large": "https://i.guim.co.uk/img/media/9c5eb0b53993938bc5c462d3e64ea1ed182fff7f/936_0_4680_3744/master/4680.jpg?width=700&quality=85&auto=format&fit=max&s=20a6c0d7abab4970bdbeb8a2716efc92",
-    "article_url": "https://www.theguardian.com/books/2026/jun/12/the-twitnam-summer-by-hester-grant-review-swift-gay-and-popes-season-in-the-sun",
-    "source": "The Guardian",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/alexander-andrews-c91LS-JK7cw-unsplash-768x432.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/alexander-andrews-c91LS-JK7cw-unsplash-768x432.jpg",
+    "article_url": "https://lithub.com/claire-fuller-on-taking-writing-lessons-from-sculpting/",
+    "source": "Literary Hub",
     "source_type": "rss",
     "tags": [
-      "Biography books",
-      "Books",
-      "Culture",
-      "Jonathan Swift",
-      "books"
+      "Claire Fuller",
+      "Craft and Advice",
+      "Craft and Criticism",
+      "Features",
+      "Hunger and Thirst",
+      "The Craft of Writing",
+      "Tin House",
+      "art",
+      "art and writing",
+      "on writing",
+      "reviews",
+      "sculpture",
+      "writing advice"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "0212d9a0d2e020dd46ecb3bd8f568c3a",
@@ -483,8 +582,8 @@
       "W. W. Norton",
       "reviews"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "233f5b0fc0d2be2c639baecaf46dcc35",
@@ -515,8 +614,8 @@
       "News",
       "reviews"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "8d568fd91c0ddafbc849e36de330bca9",
@@ -541,36 +640,8 @@
       "Check Your Shelf",
       "reviews"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
-  },
-  {
-    "id": "7577964078f4094204b0cbbbe3f3f049",
-    "title": "The Most Read Books on Goodreads This Week",
-    "author": "Community",
-    "description": "Can you guess the five most-read books on Goodreads this week? Here's a hint: one series has taken three of the spots.",
-    "summary_ai": "",
-    "categories": [
-      "Breaking In Books",
-      "Lists",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-12",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/04/The-Missed-Connection-by-Tia-Williams-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/04/The-Missed-Connection-by-Tia-Williams-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/most-read-books-on-goodreads-june-12-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Lists",
-      "breaking in books",
-      "reviews"
-    ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "77a247515fd2edd5d663a4d00b7c6451",
@@ -597,38 +668,8 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
-  },
-  {
-    "id": "5afd96c1103c163ec7afc1c530a3d905",
-    "title": "Horror Bookstores You Should Visit During Your Summer Travels!",
-    "author": "Emily Martin",
-    "description": "If you're traveling to New York City, Kentucky, Canada, or Virginia, make sure to stop by these horror bookstores!",
-    "summary_ai": "",
-    "categories": [
-      "Horror",
-      "Reviews",
-      "The Fright Stuff"
-    ],
-    "genre": [
-      "Horror"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-12",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Untitled-design-2026-06-08T085417.665.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Untitled-design-2026-06-08T085417.665.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/horror-bookstores/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Horror",
-      "The Fright Stuff",
-      "reviews"
-    ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "13578b599259dd193c64c80094cb1ce7",
@@ -669,8 +710,8 @@
       "Wuthering Heights (Book)",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "4d201eb884e379ec4c83dc36ffb2298c",
@@ -705,7 +746,7 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   }
 ]

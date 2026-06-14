@@ -1,5 +1,60 @@
 [
   {
+    "id": "276721280094279ef4ac964e52c1fb92",
+    "title": "Book Riot’s Deals of the Day for June 14, 2026",
+    "author": "Deals",
+    "description": "Lots of excellent nonfiction! From James Baldwin to Jesmyn Ward, Erik Larson, George Saunders, and more!",
+    "summary_ai": "",
+    "categories": [
+      "Book Deals",
+      "Reviews"
+    ],
+    "genre": [
+      "Fiction",
+      "Nonfiction"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-14",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/02/the-fire-next-time-book-cover.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/02/the-fire-next-time-book-cover.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-june-14-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Book Deals",
+      "reviews"
+    ],
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
+  },
+  {
+    "id": "2266188af3acc4999452f8d40c4e02fe",
+    "title": "The Book News We Covered This Week",
+    "author": "Community",
+    "description": "Amazon names their best books of 2026 so far, a 35th book is banned in Utah public schools, the 2026 Locus Award winners, and more",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Today In Books"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-14",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/05/image-of-stack-of-newspapers-1.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/05/image-of-stack-of-newspapers-1.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/today-in-books-june-14-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Today in Books",
+      "reviews"
+    ],
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
+  },
+  {
     "id": "f0b879ed3973003677eca8fa1fd60d43",
     "title": "Lit Hub Weekly: June 8 – 12, 2026",
     "author": "Lit Hub Daily",
@@ -24,8 +79,8 @@
       "Lit Hub Daily",
       "reviews"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "46ec0378bb4d165d63d27721a379dd9d",
@@ -54,8 +109,8 @@
       "Young Adult Literature",
       "reviews"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "b176599fbe7336a44a45c270df58167e",
@@ -85,36 +140,8 @@
       "Unusual Suspects",
       "reviews"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
-  },
-  {
-    "id": "c68a699f5ef357390ad6510709d759fb",
-    "title": "Book Riot’s Deals of the Day for June 13, 2026",
-    "author": "Deals",
-    "description": "Romance by Kennedy Ryan, an award-winning Latine YA novel, William Gibson's sci-fi classic, and more of today's best deals",
-    "summary_ai": "",
-    "categories": [
-      "Book Deals",
-      "Reviews"
-    ],
-    "genre": [
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-13",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/10/be-mine-forever.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/10/be-mine-forever.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-june-13-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Book Deals",
-      "reviews"
-    ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "2c28c38a13b1e559e01841346bde4912",
@@ -139,8 +166,8 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "df08ddb61df26290a0a5a61bcd6fb15b",
@@ -163,8 +190,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "f808f7be2382a7caca4732192d9ef54c",
@@ -187,8 +214,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "09e10941da02e5362f95b100c3ee4b67",
@@ -215,8 +242,8 @@
       "Lit Hub Daily",
       "reviews"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "2a44c8f5f823242b11a6b05095e8b483",
@@ -267,8 +294,8 @@
       "colonial America",
       "reviews"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "8af0c9c5454b9563d4e6c54ee4bc724e",
@@ -315,8 +342,8 @@
       "literacy crisis",
       "reviews"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "61143b96859c67a3c6cf7cbc5e315269",
@@ -367,8 +394,8 @@
       "honeybees",
       "reviews"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "dcf61f393456bb17ace3816b24077f6e",
@@ -407,8 +434,8 @@
       "book reviews",
       "reviews"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "6ebcc11669de67e397faf7faabc2608d",
@@ -494,8 +521,8 @@
       "poetry in translation",
       "reviews"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "af1a8110bd523389b6d000d619878830",
@@ -544,55 +571,7 @@
       "reviews",
       "testimony"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
-  },
-  {
-    "id": "3ff1bf74dc0ba07335ce2b8825eafd11",
-    "title": "Claire Fuller on Taking Writing Lessons from Sculpting",
-    "author": "Claire Fuller",
-    "description": "This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. I’d been sculpting and drawing since I was sixteen but when, at forty, I started writing short stories and novels, all my desire to sculpt fell away. I still have my chisels,",
-    "summary_ai": "",
-    "categories": [
-      "Art",
-      "Art And Writing",
-      "Claire Fuller",
-      "Craft And Advice",
-      "Craft And Criticism",
-      "Features",
-      "Hunger And Thirst",
-      "On Writing",
-      "Reviews",
-      "Sculpture",
-      "The Craft Of Writing",
-      "Tin House",
-      "Writing Advice"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-06-12",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/alexander-andrews-c91LS-JK7cw-unsplash-768x432.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/alexander-andrews-c91LS-JK7cw-unsplash-768x432.jpg",
-    "article_url": "https://lithub.com/claire-fuller-on-taking-writing-lessons-from-sculpting/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Claire Fuller",
-      "Craft and Advice",
-      "Craft and Criticism",
-      "Features",
-      "Hunger and Thirst",
-      "The Craft of Writing",
-      "Tin House",
-      "art",
-      "art and writing",
-      "on writing",
-      "reviews",
-      "sculpture",
-      "writing advice"
-    ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   }
 ]

@@ -1,5 +1,50 @@
 [
   {
+    "id": "eec42c32dd0a3a532e6eba08983e4e62",
+    "title": "Jane Yolen, Whose Books for Children Drew on Everyday Life, Dies at 87",
+    "author": "Clay Risen",
+    "description": "She wrote some 450 books, including novels, poetry and nonfiction in many genres. One critic called her “a modern equivalent to Aesop.”",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Children And Childhood",
+      "Deaths (Obituaries)",
+      "Dream Weaver (Song)",
+      "Poetry And Poets",
+      "Smith College",
+      "Writing And Writers",
+      "Yolen, Jane"
+    ],
+    "genre": [
+      "Children",
+      "Fiction",
+      "Nonfiction",
+      "Poetry"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-14",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/13/obituaries/13yolen-02/13yolen-02-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/13/obituaries/13yolen-02/13yolen-02-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/14/books/jane-yolen-dead.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Children and Childhood",
+      "Deaths (Obituaries)",
+      "Dream Weaver (Song)",
+      "Poetry and Poets",
+      "Smith College",
+      "Writing and Writers",
+      "Yolen, Jane",
+      "books"
+    ],
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
+  },
+  {
     "id": "6f8d05d6678fc2d6ea6892fdbfbcf96d",
     "title": "Book Review: ‘Empire of Ink,’ by Alex Wright",
     "author": "Alexandra Jacobs",
@@ -9,11 +54,12 @@
       "Books",
       "Books And Literature",
       "Empire Of Ink: The Printers, Rogues, And Radicals Who Invented The American Newspaper (Book)",
-      "News And News Media",
       "Newspapers",
       "Printing And Allied Trades",
       "Twain, Mark",
-      "Wright, Alex"
+      "United States",
+      "Wright, Alex (1966- )",
+      "Writing And Writers"
     ],
     "genre": [],
     "language": "English",
@@ -27,18 +73,19 @@
     "tags": [
       "Books and Literature",
       "Empire of Ink: The Printers, Rogues, and Radicals Who Invented the American Newspaper (Book)",
-      "News and News Media",
       "Newspapers",
       "Printing and Allied Trades",
       "Twain, Mark",
-      "Wright, Alex",
+      "United States",
+      "Wright, Alex (1966- )",
+      "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
-    "id": "d61b145895b223750bb9788cbf9728a7",
+    "id": "870854e023e80f6ab51718cd542f1808",
     "title": "A Graphic Novelist Captures the Lives of Vermont Lesbians Ahead of Their Time",
     "author": "Robert Ito",
     "description": "Leaning on a rich written record, the graphic novelist Tillie Walden used nearby resources to visualize the true story of seamstresses who shared a home for decades.",
@@ -46,12 +93,16 @@
     "categories": [
       "Books",
       "Books And Literature",
+      "Cartoons And Cartoonists",
       "Charity & Sylvia (Book)",
       "Charity & Sylvia: A Same-Sex Marriage In Early America (Book)",
+      "Content Type: Personal Profile",
       "Graphic Novels",
+      "Homosexuality And Bisexuality",
       "Spinning (Book)",
       "Vermont",
-      "Walden, Tillie"
+      "Walden, Tillie",
+      "Women And Girls"
     ],
     "genre": [],
     "language": "English",
@@ -59,21 +110,54 @@
     "published_date": "2026-06-14",
     "thumbnail": "https://static01.nyt.com/images/2026/06/14/multimedia/14tbr-tillie-walden-01-tjlf/14tbr-tillie-walden-01-tjlf-mediumSquareAt3X.jpg",
     "cover_large": "https://static01.nyt.com/images/2026/06/14/multimedia/14tbr-tillie-walden-01-tjlf/14tbr-tillie-walden-01-tjlf-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/14/books/review/seeing-herself-in-the-lives-of-19th-century-vermont-lesbians.html",
+    "article_url": "https://www.nytimes.com/2026/06/14/books/review/tillie-walden-vermont-charity-sylvia.html",
     "source": "The New York Times",
     "source_type": "rss",
     "tags": [
       "Books and Literature",
+      "Cartoons and Cartoonists",
       "Charity & Sylvia (Book)",
       "Charity & Sylvia: A Same-Sex Marriage in Early America (Book)",
+      "Content Type: Personal Profile",
       "Graphic Novels",
+      "Homosexuality and Bisexuality",
       "Spinning (Book)",
       "Vermont",
       "Walden, Tillie",
+      "Women and Girls",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
+  },
+  {
+    "id": "03c7e55d18f81990a4d704ec338e14ad",
+    "title": "Tom Gauld on a Fifa prize for literature",
+    "author": "Tom Gauld",
+    "description": "Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Illustration"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-14",
+    "thumbnail": "https://i.guim.co.uk/img/media/540ae688685a6e4f98f4a835314af9849c75482f/1127_345_1101_881/master/1101.png?width=700&quality=85&auto=format&fit=max&s=2c576abe2d8ac16061958f0671aa20bc",
+    "cover_large": "https://i.guim.co.uk/img/media/540ae688685a6e4f98f4a835314af9849c75482f/1127_345_1101_881/master/1101.png?width=700&quality=85&auto=format&fit=max&s=2c576abe2d8ac16061958f0671aa20bc",
+    "article_url": "https://www.theguardian.com/books/picture/2026/jun/14/tom-gauld-on-a-fifa-prize-for-literature-cartoon",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Illustration",
+      "books"
+    ],
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "0898bca843cb7bd5c22fc490b1f8f6de",
@@ -85,10 +169,9 @@
       "Books",
       "Books And Literature",
       "Cash, Madeline",
-      "Chinatown (Manhattan, Ny)",
+      "Content Type: Personal Profile",
       "Levy, Anika Jade",
-      "London (England)",
-      "Paradise Logic (Book)",
+      "Lost Lambs (Book)",
       "Writing And Writers"
     ],
     "genre": [],
@@ -103,15 +186,14 @@
     "tags": [
       "Books and Literature",
       "Cash, Madeline",
-      "Chinatown (Manhattan, NY)",
+      "Content Type: Personal Profile",
       "Levy, Anika Jade",
-      "London (England)",
-      "Paradise Logic (Book)",
+      "Lost Lambs (Book)",
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "780d3026daec05ca9a53b3eb7ce82972",
@@ -163,8 +245,8 @@
       "Summer reading",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "4e0dff5edc3919245c0900048aad5807",
@@ -205,8 +287,8 @@
       "Summer reading",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "33b96b53811abff07d307ba2b80519d9",
@@ -235,8 +317,8 @@
       "Starritt, Alexander",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "6eb2eddeb9d2a53f072efff1674fdf03",
@@ -266,8 +348,8 @@
       "Books and Literature",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "c34f2dbb59a0ea63c258ee675ddfaf55",
@@ -314,8 +396,8 @@
       "World War II (1939-45)",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "58a4284af163fe910889ab09c53c4763",
@@ -347,8 +429,8 @@
       "Women's prizes",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "cc4fd656bc98e85fc642d77aad59a06c",
@@ -376,8 +458,8 @@
       "Ruth Ozeki",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "0af03eaf7b083faebd49b08b66333eac",
@@ -414,39 +496,8 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
-  },
-  {
-    "id": "da9552e3314c26d160dbb7239ab9a359",
-    "title": "The Twitnam Summer by Hester Grant review – Swift, Gay and Pope’s season in the sun",
-    "author": "Kathryn Hughes",
-    "description": "A historian makes the case that a meeting of minds in 1726 changed the course of English literature In 1726 Jonathan Swift, dean of Saint Patrick’s Cathedral in Dublin, crossed the Irish sea with the manuscript of Gulliver’s Travels in his luggage. Beneath the child-friendly chatter about a sailor marooned on an island full of tiny Lilliputians, the book was a scabrous satire on the corruption of public life under the politically ascendant Whigs, whom Swift regarded as a pack of moral pygmies. Swift’s ultimate destination, though, was not Whitehall but rather the idyllic Twickenham – “Twitnam”, as they knew it – home of his old friend, the poet Alexander Pope. Here he intended to work out a plan for anonymous publication of his sulphurous masterpiece, one that would not land him in legal trouble. In Pope he could be sure of a sympathetic co‐conspirator. Both men were members of the Scriblerus Club, an unofficial association of dissident wits who nonetheless set great store by literary collaboration. Pope was equally disaffected with the state of the nation, although his loathing was directed towards the philistine Hanoverians, who had arrived from Germany in 1714 to take up the...",
-    "summary_ai": "",
-    "categories": [
-      "Biography Books",
-      "Books",
-      "Culture",
-      "Jonathan Swift"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-12",
-    "thumbnail": "https://i.guim.co.uk/img/media/9c5eb0b53993938bc5c462d3e64ea1ed182fff7f/936_0_4680_3744/master/4680.jpg?width=700&quality=85&auto=format&fit=max&s=20a6c0d7abab4970bdbeb8a2716efc92",
-    "cover_large": "https://i.guim.co.uk/img/media/9c5eb0b53993938bc5c462d3e64ea1ed182fff7f/936_0_4680_3744/master/4680.jpg?width=700&quality=85&auto=format&fit=max&s=20a6c0d7abab4970bdbeb8a2716efc92",
-    "article_url": "https://www.theguardian.com/books/2026/jun/12/the-twitnam-summer-by-hester-grant-review-swift-gay-and-popes-season-in-the-sun",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Biography books",
-      "Books",
-      "Culture",
-      "Jonathan Swift",
-      "books"
-    ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "13578b599259dd193c64c80094cb1ce7",
@@ -487,8 +538,8 @@
       "Wuthering Heights (Book)",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "4d201eb884e379ec4c83dc36ffb2298c",
@@ -523,8 +574,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "1104a22874baeb0de2df82d082878fa6",
@@ -561,8 +612,8 @@
       "Revolutionary War, American (1775-83)",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "eaaa6ceb13b853ca1f3d7f06e5ed9981",
@@ -601,8 +652,8 @@
       "Transgender",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "be4b4fa34b6a393fbe5ff7d9ed136e87",
@@ -643,8 +694,8 @@
       "Theater",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "792ec2c32be75d2c938165df3e4af29d",
@@ -678,8 +729,8 @@
       "Middle East and north Africa",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "ad71d410809d8d838032046d0274a1b9",
@@ -712,8 +763,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "6f8e288f91c59c51c52c0c349e5d4ed3",
@@ -742,8 +793,8 @@
       "Rasputin Swims the Potomac (Book)",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "0b6d5a1554ce6af3cabd9e8fa63e6ffa",
@@ -772,52 +823,8 @@
       "Red Sheet (Book)",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
-  },
-  {
-    "id": "94be3d8fef5cdb638762e3ccdbf0ffc1",
-    "title": "Gordon S. Wood, Pioneering Historian of Early America, Dies at 92",
-    "author": "David Stout",
-    "description": "In a Pulitzer-winning book, “The Radicalism of the American Revolution,” he wrote that the colonists rose up against an entire worldview, not just against taxation.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Brown University",
-      "Deaths (Obituaries)",
-      "Power And Liberty: Constitutionalism In The American Revolution (Book)",
-      "Pulitzer Prizes",
-      "Revolutionary War, American (1775-83)",
-      "The 1619 Project: A New Origin Story (Book)",
-      "The Radicalism Of The American Revolution (Book)",
-      "Wood, Gordon S",
-      "Writing And Writers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-09",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/10/obituaries/08wood-gordon-obit-print1/08wood-gordon-obit-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/10/obituaries/08wood-gordon-obit-print1/08wood-gordon-obit-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/08/books/gordon-s-wood-dead.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Brown University",
-      "Deaths (Obituaries)",
-      "Power and Liberty: Constitutionalism in the American Revolution (Book)",
-      "Pulitzer Prizes",
-      "Revolutionary War, American (1775-83)",
-      "The 1619 Project: A New Origin Story (Book)",
-      "The Radicalism of the American Revolution (Book)",
-      "Wood, Gordon S",
-      "Writing and Writers",
-      "books"
-    ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "1fae8b8cf672ed074b61bd6288ff4a30",
@@ -853,8 +860,8 @@
       "History books",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "fa3a9d21c7f18b0cf9710f320276a6b1",
@@ -890,8 +897,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "a1355264f0aedbb5668633e948b1dbd2",
@@ -923,8 +930,8 @@
       "Travel",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "cd29f8375e271820c02627200e68f1d2",
@@ -956,8 +963,8 @@
       "Michael Ondaatje",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "70cd24b8757464da7bbe573c0af45489",
@@ -993,8 +1000,8 @@
       "Sarah Moss",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -1024,8 +1031,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1064,7 +1071,7 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-14T09:33:32+00:00",
-    "updated_at": "2026-06-14T09:33:32Z"
+    "created_at": "2026-06-14T19:19:56+00:00",
+    "updated_at": "2026-06-14T19:19:56Z"
   }
 ]
