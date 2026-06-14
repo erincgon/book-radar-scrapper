@@ -1,5 +1,81 @@
 [
   {
+    "id": "6f8d05d6678fc2d6ea6892fdbfbcf96d",
+    "title": "Book Review: ‘Empire of Ink,’ by Alex Wright",
+    "author": "Alexandra Jacobs",
+    "description": "In “Empire of Ink,” Alex Wright describes how newfangled technologies and disruptive personalities have regularly unsettled the American media.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Empire Of Ink: The Printers, Rogues, And Radicals Who Invented The American Newspaper (Book)",
+      "News And News Media",
+      "Newspapers",
+      "Printing And Allied Trades",
+      "Twain, Mark",
+      "Wright, Alex"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-14",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/14/multimedia/14tbr-wright-review-fbhq/14tbr-wright-review-fbhq-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/14/multimedia/14tbr-wright-review-fbhq/14tbr-wright-review-fbhq-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/14/books/review/empire-of-ink-newspapers-alex-wright.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Empire of Ink: The Printers, Rogues, and Radicals Who Invented the American Newspaper (Book)",
+      "News and News Media",
+      "Newspapers",
+      "Printing and Allied Trades",
+      "Twain, Mark",
+      "Wright, Alex",
+      "books"
+    ],
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
+  },
+  {
+    "id": "d61b145895b223750bb9788cbf9728a7",
+    "title": "A Graphic Novelist Captures the Lives of Vermont Lesbians Ahead of Their Time",
+    "author": "Robert Ito",
+    "description": "Leaning on a rich written record, the graphic novelist Tillie Walden used nearby resources to visualize the true story of seamstresses who shared a home for decades.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Charity & Sylvia (Book)",
+      "Charity & Sylvia: A Same-Sex Marriage In Early America (Book)",
+      "Graphic Novels",
+      "Spinning (Book)",
+      "Vermont",
+      "Walden, Tillie"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-14",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/14/multimedia/14tbr-tillie-walden-01-tjlf/14tbr-tillie-walden-01-tjlf-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/14/multimedia/14tbr-tillie-walden-01-tjlf/14tbr-tillie-walden-01-tjlf-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/14/books/review/seeing-herself-in-the-lives-of-19th-century-vermont-lesbians.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Charity & Sylvia (Book)",
+      "Charity & Sylvia: A Same-Sex Marriage in Early America (Book)",
+      "Graphic Novels",
+      "Spinning (Book)",
+      "Vermont",
+      "Walden, Tillie",
+      "books"
+    ],
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
+  },
+  {
     "id": "0898bca843cb7bd5c22fc490b1f8f6de",
     "title": "Madeline Cash Isn’t Playing Around. Or Is She?",
     "author": "Mikkel Rosengaard",
@@ -34,8 +110,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "780d3026daec05ca9a53b3eb7ce82972",
@@ -87,8 +163,8 @@
       "Summer reading",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "4e0dff5edc3919245c0900048aad5807",
@@ -129,8 +205,8 @@
       "Summer reading",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "33b96b53811abff07d307ba2b80519d9",
@@ -159,8 +235,8 @@
       "Starritt, Alexander",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "6eb2eddeb9d2a53f072efff1674fdf03",
@@ -190,8 +266,8 @@
       "Books and Literature",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "c34f2dbb59a0ea63c258ee675ddfaf55",
@@ -238,8 +314,8 @@
       "World War II (1939-45)",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "58a4284af163fe910889ab09c53c4763",
@@ -271,8 +347,8 @@
       "Women's prizes",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "cc4fd656bc98e85fc642d77aad59a06c",
@@ -300,8 +376,8 @@
       "Ruth Ozeki",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "0af03eaf7b083faebd49b08b66333eac",
@@ -338,8 +414,8 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "da9552e3314c26d160dbb7239ab9a359",
@@ -369,8 +445,8 @@
       "Jonathan Swift",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "0212d9a0d2e020dd46ecb3bd8f568c3a",
@@ -407,8 +483,8 @@
       "W. W. Norton",
       "reviews"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "233f5b0fc0d2be2c639baecaf46dcc35",
@@ -439,8 +515,8 @@
       "News",
       "reviews"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "8d568fd91c0ddafbc849e36de330bca9",
@@ -465,8 +541,8 @@
       "Check Your Shelf",
       "reviews"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "7577964078f4094204b0cbbbe3f3f049",
@@ -493,8 +569,8 @@
       "breaking in books",
       "reviews"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "77a247515fd2edd5d663a4d00b7c6451",
@@ -521,8 +597,8 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "5afd96c1103c163ec7afc1c530a3d905",
@@ -551,8 +627,8 @@
       "The Fright Stuff",
       "reviews"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "13578b599259dd193c64c80094cb1ce7",
@@ -593,8 +669,8 @@
       "Wuthering Heights (Book)",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "4d201eb884e379ec4c83dc36ffb2298c",
@@ -629,69 +705,7 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
-  },
-  {
-    "id": "ac4df7fd2924183cb1fd028cc9aac32e",
-    "title": "KATSEYE on the ups and downs of being a global girl group",
-    "author": "Ailsa Chang",
-    "description": "NPR's Ailsa Chang speaks with Sophia Laforteza, Lara Raj, Daniela Avanzini, and Jeung Yoonchae about the ups and downs of being part of the global girl group KATSEYE.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "NPR Books",
-    "published_date": "2026-06-11",
-    "thumbnail": "",
-    "cover_large": "",
-    "article_url": "https://www.npr.org/2026/06/11/nx-s1-5671215/katseye-on-the-ups-and-downs-of-being-a-global-girl-group",
-    "source": "NPR Books",
-    "source_type": "rss",
-    "tags": [
-      "reviews"
-    ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
-  },
-  {
-    "id": "1104a22874baeb0de2df82d082878fa6",
-    "title": "Book Review: ‘Cocked and Boozy,’ by Brooke Barbier",
-    "author": "J. D. Biersdorfer",
-    "description": "In her new history, “Cocked and Boozy,” Brooke Barbier illuminates the pervasive role that alcohol played throughout the colonial era.",
-    "summary_ai": "",
-    "categories": [
-      "Alcoholic Beverages",
-      "Barbier, Brooke",
-      "Books",
-      "Books And Literature",
-      "Cocked And Boozy: An Intoxicating History Of The American Revolution (Book)",
-      "North America",
-      "Revolutionary War, American (1775-83)"
-    ],
-    "genre": [
-      "History"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-10",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/31/multimedia/09TBR-Barbier-Review-qtcm/09TBR-Barbier-Review-qtcm-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/31/multimedia/09TBR-Barbier-Review-qtcm/09TBR-Barbier-Review-qtcm-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/10/books/review/cocked-and-boozy-brooke-barbier.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Alcoholic Beverages",
-      "Barbier, Brooke",
-      "Books and Literature",
-      "Cocked and Boozy: An Intoxicating History of the American Revolution (Book)",
-      "North America",
-      "Revolutionary War, American (1775-83)",
-      "books"
-    ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   }
 ]

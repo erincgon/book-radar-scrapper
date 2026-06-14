@@ -1,5 +1,81 @@
 [
   {
+    "id": "6f8d05d6678fc2d6ea6892fdbfbcf96d",
+    "title": "Book Review: ‘Empire of Ink,’ by Alex Wright",
+    "author": "Alexandra Jacobs",
+    "description": "In “Empire of Ink,” Alex Wright describes how newfangled technologies and disruptive personalities have regularly unsettled the American media.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Empire Of Ink: The Printers, Rogues, And Radicals Who Invented The American Newspaper (Book)",
+      "News And News Media",
+      "Newspapers",
+      "Printing And Allied Trades",
+      "Twain, Mark",
+      "Wright, Alex"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-14",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/14/multimedia/14tbr-wright-review-fbhq/14tbr-wright-review-fbhq-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/14/multimedia/14tbr-wright-review-fbhq/14tbr-wright-review-fbhq-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/14/books/review/empire-of-ink-newspapers-alex-wright.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Empire of Ink: The Printers, Rogues, and Radicals Who Invented the American Newspaper (Book)",
+      "News and News Media",
+      "Newspapers",
+      "Printing and Allied Trades",
+      "Twain, Mark",
+      "Wright, Alex",
+      "books"
+    ],
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
+  },
+  {
+    "id": "d61b145895b223750bb9788cbf9728a7",
+    "title": "A Graphic Novelist Captures the Lives of Vermont Lesbians Ahead of Their Time",
+    "author": "Robert Ito",
+    "description": "Leaning on a rich written record, the graphic novelist Tillie Walden used nearby resources to visualize the true story of seamstresses who shared a home for decades.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Charity & Sylvia (Book)",
+      "Charity & Sylvia: A Same-Sex Marriage In Early America (Book)",
+      "Graphic Novels",
+      "Spinning (Book)",
+      "Vermont",
+      "Walden, Tillie"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-14",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/14/multimedia/14tbr-tillie-walden-01-tjlf/14tbr-tillie-walden-01-tjlf-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/14/multimedia/14tbr-tillie-walden-01-tjlf/14tbr-tillie-walden-01-tjlf-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/14/books/review/seeing-herself-in-the-lives-of-19th-century-vermont-lesbians.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Charity & Sylvia (Book)",
+      "Charity & Sylvia: A Same-Sex Marriage in Early America (Book)",
+      "Graphic Novels",
+      "Spinning (Book)",
+      "Vermont",
+      "Walden, Tillie",
+      "books"
+    ],
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
+  },
+  {
     "id": "0898bca843cb7bd5c22fc490b1f8f6de",
     "title": "Madeline Cash Isn’t Playing Around. Or Is She?",
     "author": "Mikkel Rosengaard",
@@ -34,8 +110,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "780d3026daec05ca9a53b3eb7ce82972",
@@ -87,8 +163,8 @@
       "Summer reading",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "4e0dff5edc3919245c0900048aad5807",
@@ -129,8 +205,8 @@
       "Summer reading",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "33b96b53811abff07d307ba2b80519d9",
@@ -159,8 +235,8 @@
       "Starritt, Alexander",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "6eb2eddeb9d2a53f072efff1674fdf03",
@@ -190,8 +266,8 @@
       "Books and Literature",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "c34f2dbb59a0ea63c258ee675ddfaf55",
@@ -238,8 +314,8 @@
       "World War II (1939-45)",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "58a4284af163fe910889ab09c53c4763",
@@ -271,8 +347,8 @@
       "Women's prizes",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "cc4fd656bc98e85fc642d77aad59a06c",
@@ -300,8 +376,8 @@
       "Ruth Ozeki",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "0af03eaf7b083faebd49b08b66333eac",
@@ -338,8 +414,8 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "da9552e3314c26d160dbb7239ab9a359",
@@ -369,8 +445,8 @@
       "Jonathan Swift",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "13578b599259dd193c64c80094cb1ce7",
@@ -411,8 +487,8 @@
       "Wuthering Heights (Book)",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "4d201eb884e379ec4c83dc36ffb2298c",
@@ -447,8 +523,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "1104a22874baeb0de2df82d082878fa6",
@@ -485,8 +561,8 @@
       "Revolutionary War, American (1775-83)",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "eaaa6ceb13b853ca1f3d7f06e5ed9981",
@@ -525,8 +601,8 @@
       "Transgender",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "be4b4fa34b6a393fbe5ff7d9ed136e87",
@@ -567,8 +643,8 @@
       "Theater",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "792ec2c32be75d2c938165df3e4af29d",
@@ -602,8 +678,8 @@
       "Middle East and north Africa",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "ad71d410809d8d838032046d0274a1b9",
@@ -636,8 +712,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "6f8e288f91c59c51c52c0c349e5d4ed3",
@@ -666,8 +742,8 @@
       "Rasputin Swims the Potomac (Book)",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "0b6d5a1554ce6af3cabd9e8fa63e6ffa",
@@ -696,8 +772,8 @@
       "Red Sheet (Book)",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "94be3d8fef5cdb638762e3ccdbf0ffc1",
@@ -740,8 +816,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "1fae8b8cf672ed074b61bd6288ff4a30",
@@ -777,52 +853,8 @@
       "History books",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
-  },
-  {
-    "id": "1a4e1cdd9d0afaeb849a491e10c4981a",
-    "title": "Robert Coles, Pulitzer-Winning Child Psychiatrist, Is Dead at 97",
-    "author": "Douglas Martin",
-    "description": "His five-volume “Children of Crisis” series, published between 1967 and 1977, drew on his conversations with American children whose voices were not often heard.",
-    "summary_ai": "",
-    "categories": [
-      "Black People",
-      "Books",
-      "Books And Literature",
-      "Bridges, Ruby",
-      "Children And Childhood",
-      "Coles, Robert (1928-2026)",
-      "Deaths (Obituaries)",
-      "Harvard University",
-      "Psychiatry And Psychiatrists",
-      "Pulitzer Prizes"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-08",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/10/obituaries/00Coles-01-print1/00Coles-01-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/10/obituaries/00Coles-01-print1/00Coles-01-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/07/us/robert-coles-dead.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Black People",
-      "Books and Literature",
-      "Bridges, Ruby",
-      "Children and Childhood",
-      "Coles, Robert (1928-2026)",
-      "Deaths (Obituaries)",
-      "Harvard University",
-      "Psychiatry and Psychiatrists",
-      "Pulitzer Prizes",
-      "books"
-    ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "fa3a9d21c7f18b0cf9710f320276a6b1",
@@ -858,8 +890,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "a1355264f0aedbb5668633e948b1dbd2",
@@ -891,8 +923,8 @@
       "Travel",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "cd29f8375e271820c02627200e68f1d2",
@@ -924,8 +956,8 @@
       "Michael Ondaatje",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "70cd24b8757464da7bbe573c0af45489",
@@ -961,8 +993,8 @@
       "Sarah Moss",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -992,8 +1024,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1032,35 +1064,7 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
-  },
-  {
-    "id": "755ba738881478773c8491c271f5d902",
-    "title": "What Book Should You Read Next?",
-    "author": "The New York Times Books Staff",
-    "description": "Finding a book you’ll love can be daunting. Let us help.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Content Type: Service"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2024-09-04",
-    "thumbnail": "https://static01.nyt.com/images/2024/09/05/books/review/00WhatToReadNow-092024/00WhatToReadNow-092024-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2024/09/05/books/review/00WhatToReadNow-092024/00WhatToReadNow-092024-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/article/best-books.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Content Type: Service",
-      "books"
-    ],
-    "created_at": "2026-06-13T19:19:03+00:00",
-    "updated_at": "2026-06-13T19:19:03Z"
+    "created_at": "2026-06-14T09:33:32+00:00",
+    "updated_at": "2026-06-14T09:33:32Z"
   }
 ]
