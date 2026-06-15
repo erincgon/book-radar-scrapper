@@ -1,5 +1,53 @@
 [
   {
+    "id": "0b0c429379899f7bf32918c23ba232ca",
+    "title": "Spotlight: Opportunities for AI in Publishing Operations",
+    "author": "",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-15",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129624-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129624-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/promotionalss/article/100594-pw-studio-spotlight-westchester-publishing-now-webinar.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-15T12:12:30+00:00",
+    "updated_at": "2026-06-15T12:12:30Z"
+  },
+  {
+    "id": "fd257f682e8f5301cd6c1f903038b459",
+    "title": "Beyond the Book: Rex Ogle",
+    "author": "",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-15",
+    "thumbnail": "https://www.publishersweekly.com/images/data/IMG/img/000/000/1-3.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/IMG/img/000/000/1-3.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/authors/interviews/article/100579-pw-studio-beyond-the-book-rex-ogle.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-15T12:12:30+00:00",
+    "updated_at": "2026-06-15T12:12:30Z"
+  },
+  {
     "id": "24f92f51aa078c7f844734d11fe88932",
     "title": "Disclosure Day Should Have Remained Undisclosed",
     "author": "Emmet Asher-Perrin",
@@ -40,8 +88,8 @@
       "movies",
       "publishers"
     ],
-    "created_at": "2026-06-14T19:19:57+00:00",
-    "updated_at": "2026-06-14T19:19:57Z"
+    "created_at": "2026-06-15T12:12:30+00:00",
+    "updated_at": "2026-06-15T12:12:30Z"
   },
   {
     "id": "a2cee4aceea49c32b27d45702bdb3814",
@@ -76,8 +124,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-06-14T19:19:57+00:00",
-    "updated_at": "2026-06-14T19:19:57Z"
+    "created_at": "2026-06-15T12:12:30+00:00",
+    "updated_at": "2026-06-15T12:12:30Z"
   },
   {
     "id": "393198a2e32f35ac6336e30507856d64",
@@ -120,8 +168,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-06-14T19:19:57+00:00",
-    "updated_at": "2026-06-14T19:19:57Z"
+    "created_at": "2026-06-15T12:12:30+00:00",
+    "updated_at": "2026-06-15T12:12:30Z"
   },
   {
     "id": "8f8fdf596eab7abb99449ae2ac8f7208",
@@ -156,8 +204,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-06-14T19:19:57+00:00",
-    "updated_at": "2026-06-14T19:19:57Z"
+    "created_at": "2026-06-15T12:12:30+00:00",
+    "updated_at": "2026-06-15T12:12:30Z"
   },
   {
     "id": "470a1aaf6ef3634d38e3bea30dfe57d1",
@@ -182,8 +230,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-14T19:19:57+00:00",
-    "updated_at": "2026-06-14T19:19:57Z"
+    "created_at": "2026-06-15T12:12:30+00:00",
+    "updated_at": "2026-06-15T12:12:30Z"
   },
   {
     "id": "91282c5cf63dace3d624f9ec847796c7",
@@ -209,8 +257,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-14T19:19:57+00:00",
-    "updated_at": "2026-06-14T19:19:57Z"
+    "created_at": "2026-06-15T12:12:30+00:00",
+    "updated_at": "2026-06-15T12:12:30Z"
   },
   {
     "id": "667aaae68c04b1a0c2d085e374931a6c",
@@ -235,8 +283,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-14T19:19:57+00:00",
-    "updated_at": "2026-06-14T19:19:57Z"
+    "created_at": "2026-06-15T12:12:30+00:00",
+    "updated_at": "2026-06-15T12:12:30Z"
   },
   {
     "id": "3913d45d1d3b125e434e61e09fd4574e",
@@ -264,8 +312,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-14T19:19:57+00:00",
-    "updated_at": "2026-06-14T19:19:57Z"
+    "created_at": "2026-06-15T12:12:30+00:00",
+    "updated_at": "2026-06-15T12:12:30Z"
   },
   {
     "id": "ffc8a7550bcd5f2b989acb046ea81aaf",
@@ -290,8 +338,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-14T19:19:57+00:00",
-    "updated_at": "2026-06-14T19:19:57Z"
+    "created_at": "2026-06-15T12:12:30+00:00",
+    "updated_at": "2026-06-15T12:12:30Z"
   },
   {
     "id": "5c4436eee3c3796da16c448dbf917484",
@@ -314,8 +362,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-14T19:19:57+00:00",
-    "updated_at": "2026-06-14T19:19:57Z"
+    "created_at": "2026-06-15T12:12:30+00:00",
+    "updated_at": "2026-06-15T12:12:30Z"
   },
   {
     "id": "af0b114c0af05ebe71b3b1662ec79f8d",
@@ -338,8 +386,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-14T19:19:57+00:00",
-    "updated_at": "2026-06-14T19:19:57Z"
+    "created_at": "2026-06-15T12:12:30+00:00",
+    "updated_at": "2026-06-15T12:12:30Z"
   },
   {
     "id": "4b6342e99fe276faaaf0268bd1a43f06",
@@ -362,8 +410,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-14T19:19:57+00:00",
-    "updated_at": "2026-06-14T19:19:57Z"
+    "created_at": "2026-06-15T12:12:30+00:00",
+    "updated_at": "2026-06-15T12:12:30Z"
   },
   {
     "id": "0ef6749850e09b73f31fe1c79222b554",
@@ -386,8 +434,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-14T19:19:57+00:00",
-    "updated_at": "2026-06-14T19:19:57Z"
+    "created_at": "2026-06-15T12:12:30+00:00",
+    "updated_at": "2026-06-15T12:12:30Z"
   },
   {
     "id": "15b4226b5cffb38d11dc27a76f0c9ec9",
@@ -412,8 +460,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-14T19:19:57+00:00",
-    "updated_at": "2026-06-14T19:19:57Z"
+    "created_at": "2026-06-15T12:12:30+00:00",
+    "updated_at": "2026-06-15T12:12:30Z"
   },
   {
     "id": "622463ed40a09932c95f8a31fc10823c",
@@ -436,8 +484,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-14T19:19:57+00:00",
-    "updated_at": "2026-06-14T19:19:57Z"
+    "created_at": "2026-06-15T12:12:30+00:00",
+    "updated_at": "2026-06-15T12:12:30Z"
   },
   {
     "id": "11863de48a534e34254ada6c076bae53",
@@ -460,8 +508,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-14T19:19:57+00:00",
-    "updated_at": "2026-06-14T19:19:57Z"
+    "created_at": "2026-06-15T12:12:30+00:00",
+    "updated_at": "2026-06-15T12:12:30Z"
   },
   {
     "id": "99437e076f7f2865c949c254ca1e929c",
@@ -484,56 +532,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-14T19:19:57+00:00",
-    "updated_at": "2026-06-14T19:19:57Z"
-  },
-  {
-    "id": "245814d8893c835346d425c4f80e219e",
-    "title": "How ‘Cool Machine’ by Colson Whitehead Got Made",
-    "author": "PW Staff",
-    "description": "An inside look at the publication process for the Pulitzer Prize winner’s latest novel.",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-06-12",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129724-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129724-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100623-how-cool-machine-by-colson-whitehead-got-made.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-06-14T19:19:57+00:00",
-    "updated_at": "2026-06-14T19:19:57Z"
-  },
-  {
-    "id": "22c5ef6e1b7fc2b3035921f0525a4480",
-    "title": "This Week’s Bestsellers: June 15, 2026",
-    "author": "Edited by Carolyn Juris",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-06-12",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129722-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129722-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/100622-this-week-s-bestsellers-june-15-2026.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-06-14T19:19:57+00:00",
-    "updated_at": "2026-06-14T19:19:57Z"
+    "created_at": "2026-06-15T12:12:30+00:00",
+    "updated_at": "2026-06-15T12:12:30Z"
   },
   {
     "id": "2a15075d6c1fce7b4045f36acf57d4fb",
@@ -570,7 +570,7 @@
       "publishers",
       "trailers"
     ],
-    "created_at": "2026-06-14T19:19:57+00:00",
-    "updated_at": "2026-06-14T19:19:57Z"
+    "created_at": "2026-06-15T12:12:30+00:00",
+    "updated_at": "2026-06-15T12:12:30Z"
   }
 ]
