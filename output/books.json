@@ -38,8 +38,49 @@
       "The Nord Stream Conspiracy: The Inside Story of the Explosions That Shook the World (Book)",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
+  },
+  {
+    "id": "eec42c32dd0a3a532e6eba08983e4e62",
+    "title": "Jane Yolen, Whose Books for Children Drew on Everyday Life, Dies at 87",
+    "author": "Clay Risen",
+    "description": "She wrote some 450 books, including novels, poetry and nonfiction in many genres. One critic called her “a modern equivalent to Aesop.”",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Children And Childhood",
+      "Deaths (Obituaries)",
+      "Poetry And Poets",
+      "Writing And Writers",
+      "Yolen, Jane"
+    ],
+    "genre": [
+      "Children",
+      "Fiction",
+      "Nonfiction",
+      "Poetry"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-15",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/13/obituaries/13yolen-02/13yolen-02-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/13/obituaries/13yolen-02/13yolen-02-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/14/books/jane-yolen-dead.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Children and Childhood",
+      "Deaths (Obituaries)",
+      "Poetry and Poets",
+      "Writing and Writers",
+      "Yolen, Jane",
+      "books"
+    ],
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "2dbb9f6b1052d8e9e2207308496c93f2",
@@ -77,8 +118,8 @@
       "Virginia Woolf",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "657f7750264d46294edd96cd66936fbf",
@@ -106,8 +147,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "c6c29f533fb77266b790740512875994",
@@ -137,53 +178,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
-  },
-  {
-    "id": "eec42c32dd0a3a532e6eba08983e4e62",
-    "title": "Jane Yolen, Whose Books for Children Drew on Everyday Life, Dies at 87",
-    "author": "Clay Risen",
-    "description": "She wrote some 450 books, including novels, poetry and nonfiction in many genres. One critic called her “a modern equivalent to Aesop.”",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Children And Childhood",
-      "Deaths (Obituaries)",
-      "Dream Weaver (Song)",
-      "Poetry And Poets",
-      "Smith College",
-      "Writing And Writers",
-      "Yolen, Jane"
-    ],
-    "genre": [
-      "Children",
-      "Fiction",
-      "Nonfiction",
-      "Poetry"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-14",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/13/obituaries/13yolen-02/13yolen-02-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/13/obituaries/13yolen-02/13yolen-02-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/14/books/jane-yolen-dead.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Children and Childhood",
-      "Deaths (Obituaries)",
-      "Dream Weaver (Song)",
-      "Poetry and Poets",
-      "Smith College",
-      "Writing and Writers",
-      "Yolen, Jane",
-      "books"
-    ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "6f8d05d6678fc2d6ea6892fdbfbcf96d",
@@ -222,8 +218,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "870854e023e80f6ab51718cd542f1808",
@@ -268,8 +264,8 @@
       "Women and Girls",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "03c7e55d18f81990a4d704ec338e14ad",
@@ -297,8 +293,8 @@
       "Illustration",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "0898bca843cb7bd5c22fc490b1f8f6de",
@@ -333,8 +329,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "780d3026daec05ca9a53b3eb7ce82972",
@@ -386,8 +382,8 @@
       "Summer reading",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "4e0dff5edc3919245c0900048aad5807",
@@ -428,8 +424,8 @@
       "Summer reading",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "33b96b53811abff07d307ba2b80519d9",
@@ -458,8 +454,8 @@
       "Starritt, Alexander",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "6eb2eddeb9d2a53f072efff1674fdf03",
@@ -489,8 +485,8 @@
       "Books and Literature",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "c34f2dbb59a0ea63c258ee675ddfaf55",
@@ -537,8 +533,8 @@
       "World War II (1939-45)",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "58a4284af163fe910889ab09c53c4763",
@@ -570,8 +566,8 @@
       "Women's prizes",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "0af03eaf7b083faebd49b08b66333eac",
@@ -608,8 +604,8 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "da9552e3314c26d160dbb7239ab9a359",
@@ -639,8 +635,8 @@
       "Jonathan Swift",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "13578b599259dd193c64c80094cb1ce7",
@@ -655,6 +651,7 @@
       "Bronte, Emily",
       "Content Type: Personal Profile",
       "Haworth (England)",
+      "Internal-Open-Access-From-Nl",
       "Lutz, Deborah (1970- )",
       "This Dark Night: Emily Bronte, A Life (Book)",
       "Wuthering Heights (Book)"
@@ -679,10 +676,11 @@
       "Lutz, Deborah (1970- )",
       "This Dark Night: Emily Bronte, a Life (Book)",
       "Wuthering Heights (Book)",
-      "books"
+      "books",
+      "internal-open-access-from-nl"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "4d201eb884e379ec4c83dc36ffb2298c",
@@ -717,8 +715,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "1aa905cb92f4888eaeaaaac059eb88b8",
@@ -746,8 +744,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "1104a22874baeb0de2df82d082878fa6",
@@ -784,8 +782,8 @@
       "Revolutionary War, American (1775-83)",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "eaaa6ceb13b853ca1f3d7f06e5ed9981",
@@ -824,8 +822,8 @@
       "Transgender",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "be4b4fa34b6a393fbe5ff7d9ed136e87",
@@ -866,8 +864,8 @@
       "Theater",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "792ec2c32be75d2c938165df3e4af29d",
@@ -901,8 +899,8 @@
       "Middle East and north Africa",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "6f8e288f91c59c51c52c0c349e5d4ed3",
@@ -931,8 +929,8 @@
       "Rasputin Swims the Potomac (Book)",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "1fae8b8cf672ed074b61bd6288ff4a30",
@@ -968,8 +966,8 @@
       "History books",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "cd29f8375e271820c02627200e68f1d2",
@@ -1001,8 +999,8 @@
       "Michael Ondaatje",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "70cd24b8757464da7bbe573c0af45489",
@@ -1038,8 +1036,8 @@
       "Sarah Moss",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -1069,8 +1067,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1109,7 +1107,7 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   }
 ]

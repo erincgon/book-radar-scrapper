@@ -38,8 +38,49 @@
       "The Nord Stream Conspiracy: The Inside Story of the Explosions That Shook the World (Book)",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
+  },
+  {
+    "id": "eec42c32dd0a3a532e6eba08983e4e62",
+    "title": "Jane Yolen, Whose Books for Children Drew on Everyday Life, Dies at 87",
+    "author": "Clay Risen",
+    "description": "She wrote some 450 books, including novels, poetry and nonfiction in many genres. One critic called her “a modern equivalent to Aesop.”",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Children And Childhood",
+      "Deaths (Obituaries)",
+      "Poetry And Poets",
+      "Writing And Writers",
+      "Yolen, Jane"
+    ],
+    "genre": [
+      "Children",
+      "Fiction",
+      "Nonfiction",
+      "Poetry"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-15",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/13/obituaries/13yolen-02/13yolen-02-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/13/obituaries/13yolen-02/13yolen-02-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/14/books/jane-yolen-dead.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Children and Childhood",
+      "Deaths (Obituaries)",
+      "Poetry and Poets",
+      "Writing and Writers",
+      "Yolen, Jane",
+      "books"
+    ],
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "2dbb9f6b1052d8e9e2207308496c93f2",
@@ -77,8 +118,8 @@
       "Virginia Woolf",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "657f7750264d46294edd96cd66936fbf",
@@ -106,8 +147,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "c6c29f533fb77266b790740512875994",
@@ -137,53 +178,92 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
-    "id": "eec42c32dd0a3a532e6eba08983e4e62",
-    "title": "Jane Yolen, Whose Books for Children Drew on Everyday Life, Dies at 87",
-    "author": "Clay Risen",
-    "description": "She wrote some 450 books, including novels, poetry and nonfiction in many genres. One critic called her “a modern equivalent to Aesop.”",
+    "id": "926dde09fa64826244c4e307fe350c0b",
+    "title": "The Buzziest Summer Reading Books of 2026",
+    "author": "Danika Ellis",
+    "description": "In today's literary headlines: the winners of the Lambda Literary Awards, the buzziest summer reading books, and an adaptation cancellation.",
     "summary_ai": "",
     "categories": [
-      "Books",
-      "Books And Literature",
-      "Children And Childhood",
-      "Deaths (Obituaries)",
-      "Dream Weaver (Song)",
-      "Poetry And Poets",
-      "Smith College",
-      "Writing And Writers",
-      "Yolen, Jane"
+      "Reviews",
+      "Today In Books"
     ],
-    "genre": [
-      "Children",
-      "Fiction",
-      "Nonfiction",
-      "Poetry"
-    ],
+    "genre": [],
     "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-14",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/13/obituaries/13yolen-02/13yolen-02-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/13/obituaries/13yolen-02/13yolen-02-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/14/books/jane-yolen-dead.html",
-    "source": "The New York Times",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-15",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2023/06/reading-on-the-beach.png",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2023/06/reading-on-the-beach.png",
+    "article_url": "https://bookriot.com/the-buzziest-summer-reading-books-of-2026/",
+    "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Books and Literature",
-      "Children and Childhood",
-      "Deaths (Obituaries)",
-      "Dream Weaver (Song)",
-      "Poetry and Poets",
-      "Smith College",
-      "Writing and Writers",
-      "Yolen, Jane",
-      "books"
+      "Today in Books",
+      "reviews"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
+  },
+  {
+    "id": "7b47e5df4cf7dc65ecda20bbf66d774a",
+    "title": "Simon & Schuster and The Black List Partner to Get Books Discovered for Adaptation",
+    "author": "Rebecca Joines Schinsky",
+    "description": "Film and TV industry pros can now search more than 6,000 Simon & Schuster titles for adaptation.",
+    "summary_ai": "",
+    "categories": [
+      "News",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Simon & Schuster",
+    "published_date": "2026-06-15",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/simon-and-schuster-and-the-black-list.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/simon-and-schuster-and-the-black-list.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/simon-and-schuster-black-list-adaptations/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "News",
+      "reviews"
+    ],
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
+  },
+  {
+    "id": "b843ae0169a5058c62a5faca4031c885",
+    "title": "Why Children’s Summer Reading Challenges Are Important",
+    "author": "Rachel Rosenberg",
+    "description": "Children's summer reading programs aren't just challenges, but celebration of literacy, summer holidays, and of libraries themselves.",
+    "summary_ai": "",
+    "categories": [
+      "Children'S",
+      "Libraries",
+      "Reviews",
+      "The Kids Are All Right"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-15",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2022/11/kids-at-library.png",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2022/11/kids-at-library.png",
+    "article_url": "https://bookriot.com/why-childrens-summer-reading-challenges-are-important/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Children's",
+      "Libraries",
+      "The Kids Are All Right",
+      "reviews"
+    ],
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "6f8d05d6678fc2d6ea6892fdbfbcf96d",
@@ -222,8 +302,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "870854e023e80f6ab51718cd542f1808",
@@ -268,8 +348,8 @@
       "Women and Girls",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "03c7e55d18f81990a4d704ec338e14ad",
@@ -297,8 +377,8 @@
       "Illustration",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "276721280094279ef4ac964e52c1fb92",
@@ -326,8 +406,8 @@
       "Book Deals",
       "reviews"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "2266188af3acc4999452f8d40c4e02fe",
@@ -352,8 +432,8 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "0898bca843cb7bd5c22fc490b1f8f6de",
@@ -388,8 +468,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "780d3026daec05ca9a53b3eb7ce82972",
@@ -441,8 +521,8 @@
       "Summer reading",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "4e0dff5edc3919245c0900048aad5807",
@@ -483,95 +563,8 @@
       "Summer reading",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
-  },
-  {
-    "id": "46ec0378bb4d165d63d27721a379dd9d",
-    "title": "The Buzziest New Young Adult Books Coming Out Soon",
-    "author": "Community",
-    "description": "Here's a sneak peek at the biggest new young adult books out in May, plus the best way to keep track of upcoming YA books.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "What'S Up In Ya",
-      "Young Adult Literature"
-    ],
-    "genre": [
-      "Young Adult"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-13",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/Screenshot-2026-06-12-at-9.15.21&",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/Screenshot-2026-06-12-at-9.15.21&",
-    "article_url": "https://bookriot.com/the-best-way-to-keep-track-of-new-young-adult-books/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "What's Up in YA",
-      "Young Adult Literature",
-      "reviews"
-    ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
-  },
-  {
-    "id": "b176599fbe7336a44a45c270df58167e",
-    "title": "A Sneak Peek at the Buzziest Upcoming Mystery and Thriller Books",
-    "author": "Community",
-    "description": "Here's the best way to keep track of new mystery and thriller books—without it becoming a part-time job of catalog reviews and spreadsheets.",
-    "summary_ai": "",
-    "categories": [
-      "Mystery/Thriller",
-      "Reviews",
-      "Unusual Suspects"
-    ],
-    "genre": [
-      "Mystery",
-      "Thriller"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-13",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/Screenshot-2026-06-12-at-9.06.04&",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/Screenshot-2026-06-12-at-9.06.04&",
-    "article_url": "https://bookriot.com/the-best-way-to-keep-track-of-upcoming-mystery-thriller-books/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Mystery/Thriller",
-      "Unusual Suspects",
-      "reviews"
-    ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
-  },
-  {
-    "id": "2c28c38a13b1e559e01841346bde4912",
-    "title": "The Best Books of 2026 So Far, According to Amazon",
-    "author": "Community",
-    "description": "House lawmakers up to their usual shenanigans, Amazon's best books of 2026 so far, the winners of this year's Nebula awards, and more.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Today In Books"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-13",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/04/eyeglasses-coffee-newspapers-white-table-news.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/04/eyeglasses-coffee-newspapers-white-table-news.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/today-in-books-june-13-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Today in Books",
-      "reviews"
-    ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "33b96b53811abff07d307ba2b80519d9",
@@ -600,8 +593,8 @@
       "Starritt, Alexander",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "6eb2eddeb9d2a53f072efff1674fdf03",
@@ -631,8 +624,8 @@
       "Books and Literature",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "c34f2dbb59a0ea63c258ee675ddfaf55",
@@ -679,8 +672,8 @@
       "World War II (1939-45)",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   },
   {
     "id": "58a4284af163fe910889ab09c53c4763",
@@ -712,7 +705,7 @@
       "Women's prizes",
       "books"
     ],
-    "created_at": "2026-06-15T12:12:29+00:00",
-    "updated_at": "2026-06-15T12:12:29Z"
+    "created_at": "2026-06-15T20:51:25+00:00",
+    "updated_at": "2026-06-15T20:51:25Z"
   }
 ]
