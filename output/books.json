@@ -1,5 +1,97 @@
 [
   {
+    "id": "3b6d3b4d5c414a2138c521f57cf82f5a",
+    "title": "Book Review: ‘Ghost-Eye,’ by Amitav Ghosh",
+    "author": "Junot Díaz",
+    "description": "Fascinating if overstuffed, Amitav Ghosh’s “Ghost-Eye” connects the mystifying case of a girl in Calcutta to the global climate crisis.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Ghosh, Amitav",
+      "Ghost-Eye (Book)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-16",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/16/books/16TBR-Ghosh-review/16TBR-Ghosh-review-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/16/books/16TBR-Ghosh-review/16TBR-Ghosh-review-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/16/books/review/amitav-ghosh-ghost-eye.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Ghosh, Amitav",
+      "Ghost-Eye (Book)",
+      "books"
+    ],
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
+  },
+  {
+    "id": "d77c0d787f44779748bda704b1568fa5",
+    "title": "Natural Disaster by Lisa Owens review",
+    "author": "Diana Evans",
+    "description": "Parenting is represented in all its hilarious, moving and truthfully plodding detail, in the story of a mother and her two little boys The last day of maternity leave, and an unnamed mother of two decides to stage a “yes day”, full of treats and good feelings. Of course it does not go according to plan: the treats are deficient, misjudged and underappreciated; the good feelings are fleeting, quickly upstaged by anxiety, guilt or humiliation. This familiar-sounding scenario is the simple yet bracing premise of Lisa Owens’s second novel, following her impressive first comic fiction of female-centred modernity, 2016’s Not Working . The academic E Ann Kaplan once wrote that “motherhood is the major emotional experience of my adult life” – certainly a relatable observation, and reason enough why some writers may swerve going through the experience altogether. But when using it as narrative material, the aim is to render the cluttered yet lonely planet of motherhood in some new way, drawing on the energies of honesty and idiosyncrasy to frame a common, universal adventure as something singular and memorable. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction"
+    ],
+    "genre": [
+      "Fiction"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-16",
+    "thumbnail": "https://i.guim.co.uk/img/media/2b561f028b0894aecb81fa07823aca5e453f902c/188_401_4245_3395/master/4245.jpg?width=700&quality=85&auto=format&fit=max&s=4f35fa64c38b553137b79e836b4b7a60",
+    "cover_large": "https://i.guim.co.uk/img/media/2b561f028b0894aecb81fa07823aca5e453f902c/188_401_4245_3395/master/4245.jpg?width=700&quality=85&auto=format&fit=max&s=4f35fa64c38b553137b79e836b4b7a60",
+    "article_url": "https://www.theguardian.com/books/2016/apr/15/not-working-lisa-owens-review-novel",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "books"
+    ],
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
+  },
+  {
+    "id": "ac4d068528b29e0f4edc6b4ff85b63db",
+    "title": "The Uses of Utopia by Joad Raymond Wren review – can the ideal society ever exist?",
+    "author": "Steven Poole",
+    "description": "This fascinating intellectual history of imagined paradises takes us from Thomas More to Ursula K Le Guin By definition, utopia cannot exist. In 1516, educated readers of Thomas More’s Utopia would have appreciated a tension between two possible derivations of this novel word: the Greek “eu-topos”, meaning good place, and “ou-topos”, meaning not a place at all. It might have been a compact warning that one should never attempt to turn utopias into reality. Those who have tried usually witnessed the model societies they founded devolving into grungily dysfunctional communes, weird sex cults, or both. In this richly diverting intellectual history of the idea, we begin, as we must, with Plato, and the zany prescriptions of his Republic (“we should neutralise the poets’ influence on mothers”). Passing in silence over the potentially utopian aspects of Jesus’s thinking, we arrive at More’s utopia, where “nothing is private”, and so “the common affairs be earnestly looked upon”. The great Renaissance scientist Francis Bacon’s New Atlantis portrays a utopia of rational scientific experimentation – which, Wren suggests ingeniously, might have inspired Wakanda in the Marvel Black Panther...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Literary Criticism"
+    ],
+    "genre": [
+      "History"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-16",
+    "thumbnail": "https://i.guim.co.uk/img/media/e38053c496a7d6da9c9b2f68070a313e374f192f/647_0_1349_1080/master/1349.jpg?width=700&quality=85&auto=format&fit=max&s=f959555b4565e0689c454f41e10c8d43",
+    "cover_large": "https://i.guim.co.uk/img/media/e38053c496a7d6da9c9b2f68070a313e374f192f/647_0_1349_1080/master/1349.jpg?width=700&quality=85&auto=format&fit=max&s=f959555b4565e0689c454f41e10c8d43",
+    "article_url": "https://www.theguardian.com/books/2026/jun/16/the-uses-of-utopia-by-joad-raymond-wren-review-can-the-ideal-society-ever-exist",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Literary criticism",
+      "books"
+    ],
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
+  },
+  {
     "id": "f917acbed54d01428d2240632bcaf4fe",
     "title": "Book Review: ‘The Nord Stream Conspiracy,’ by Bojan Pancevski",
     "author": "Robert F. Worth",
@@ -38,8 +130,8 @@
       "The Nord Stream Conspiracy: The Inside Story of the Explosions That Shook the World (Book)",
       "books"
     ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
   },
   {
     "id": "eec42c32dd0a3a532e6eba08983e4e62",
@@ -79,8 +171,8 @@
       "Yolen, Jane",
       "books"
     ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
   },
   {
     "id": "2dbb9f6b1052d8e9e2207308496c93f2",
@@ -118,8 +210,8 @@
       "Virginia Woolf",
       "books"
     ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
   },
   {
     "id": "657f7750264d46294edd96cd66936fbf",
@@ -147,8 +239,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
   },
   {
     "id": "c6c29f533fb77266b790740512875994",
@@ -178,8 +270,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
   },
   {
     "id": "6f8d05d6678fc2d6ea6892fdbfbcf96d",
@@ -218,8 +310,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
   },
   {
     "id": "870854e023e80f6ab51718cd542f1808",
@@ -264,37 +356,8 @@
       "Women and Girls",
       "books"
     ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
-  },
-  {
-    "id": "03c7e55d18f81990a4d704ec338e14ad",
-    "title": "Tom Gauld on a Fifa prize for literature",
-    "author": "Tom Gauld",
-    "description": "Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Illustration"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-14",
-    "thumbnail": "https://i.guim.co.uk/img/media/540ae688685a6e4f98f4a835314af9849c75482f/1127_345_1101_881/master/1101.png?width=700&quality=85&auto=format&fit=max&s=2c576abe2d8ac16061958f0671aa20bc",
-    "cover_large": "https://i.guim.co.uk/img/media/540ae688685a6e4f98f4a835314af9849c75482f/1127_345_1101_881/master/1101.png?width=700&quality=85&auto=format&fit=max&s=2c576abe2d8ac16061958f0671aa20bc",
-    "article_url": "https://www.theguardian.com/books/picture/2026/jun/14/tom-gauld-on-a-fifa-prize-for-literature-cartoon",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Illustration",
-      "books"
-    ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
   },
   {
     "id": "0898bca843cb7bd5c22fc490b1f8f6de",
@@ -329,8 +392,50 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
+  },
+  {
+    "id": "4e0dff5edc3919245c0900048aad5807",
+    "title": "What to read this summer by Mark Haddon, Samantha Harvey, Zadie Smith and more",
+    "author": "Tahmima Anam, William Boyd, Jonathan Coe, William Dalrymple, Joe Dunthorne, Anne Enright, Virginia Evans, Bernardine Evaristo, Stephen Grosz, Mark Haddon, Luke Kennard, Marian Keyes, Olivia Laing, Sarah Moss,Gary Shteyngart, Zadie Smith, Nina Stibbe and Sarah Waters",
+    "description": "Leading authors including Sarah Waters, William Dalrymple, Bernardine Evaristo and Anne Enright reveal their perfect holiday reading • Read our selection of 70 brilliant books for the summer Zadie Smith Margaret Busby’s Part of the Story: Writings from Half a Century is the record of one woman’s lifelong passion for the literature and life of Africa and its diaspora, wherever she finds it. A beautiful collection. The funniest and smartest novel I’ve read in a while is Black Bag by Luke Kennard. Mark Haddon Can I recommend some metaphorical summer travel? Taiwan Travelogue by Yáng Shuāng-zǐ, translated by Lin King, won the International Booker prize so you’re legally obliged to read it. But there are three other books on the shortlist I would strongly urge you to get your hands on. The Director by Daniel Kehlmann, translated by Ross Benjamin, brilliantly fictionalises the story of the film director WG Pabst who fled Germany before the outbreak of the second world war, felt ignored in Hollywood and made the foolish decision to return home. On Earth As It Is Beneath by Ana Paula Maia, translated by Padma Viswanathan, is a short, sharp cleaver-blow of political horror set in a...",
+    "summary_ai": "",
+    "categories": [
+      "Autobiography And Memoir",
+      "Biography Books",
+      "Books",
+      "Culture",
+      "Fiction",
+      "History Books",
+      "Poetry",
+      "Summer Reading"
+    ],
+    "genre": [
+      "Fiction",
+      "Horror"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-13",
+    "thumbnail": "https://i.guim.co.uk/img/media/b05d588de79e37e936d4df6ab5f5072f6e6c4ad8/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=dd7223ffaaca27e57c61254200fd3d17",
+    "cover_large": "https://i.guim.co.uk/img/media/b05d588de79e37e936d4df6ab5f5072f6e6c4ad8/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=dd7223ffaaca27e57c61254200fd3d17",
+    "article_url": "https://www.theguardian.com/books/ng-interactive/2026/jun/13/70-brilliant-books-for-the-summer",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Autobiography and memoir",
+      "Biography books",
+      "Books",
+      "Culture",
+      "Fiction",
+      "History books",
+      "Poetry",
+      "Summer reading",
+      "books"
+    ],
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
   },
   {
     "id": "780d3026daec05ca9a53b3eb7ce82972",
@@ -382,50 +487,8 @@
       "Summer reading",
       "books"
     ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
-  },
-  {
-    "id": "4e0dff5edc3919245c0900048aad5807",
-    "title": "What to read this summer by Mark Haddon, Samantha Harvey, Zadie Smith and more",
-    "author": "Tahmima Anam, William Boyd, Jonathan Coe, William Dalrymple, Joe Dunthorne, Anne Enright, Virginia Evans, Bernardine Evaristo, Stephen Grosz, Mark Haddon, Luke Kennard, Marian Keyes, Olivia Laing, Sarah Moss,Gary Shteyngart, Zadie Smith, Nina Stibbe and Sarah Waters",
-    "description": "Leading authors including Sarah Waters, William Dalrymple, Bernardine Evaristo and Anne Enright reveal their perfect holiday reading • Read our selection of 70 brilliant books for the summer Zadie Smith Margaret Busby’s Part of the Story: Writings from Half a Century is the record of one woman’s lifelong passion for the literature and life of Africa and its diaspora, wherever she finds it. A beautiful collection. The funniest and smartest novel I’ve read in a while is Black Bag by Luke Kennard. Mark Haddon Can I recommend some metaphorical summer travel? Taiwan Travelogue by Yáng Shuāng-zǐ, translated by Lin King, won the International Booker prize so you’re legally obliged to read it. But there are three other books on the shortlist I would strongly urge you to get your hands on. The Director by Daniel Kehlmann, translated by Ross Benjamin, brilliantly fictionalises the story of the film director WG Pabst who fled Germany before the outbreak of the second world war, felt ignored in Hollywood and made the foolish decision to return home. On Earth As It Is Beneath by Ana Paula Maia, translated by Padma Viswanathan, is a short, sharp cleaver-blow of political horror set in a...",
-    "summary_ai": "",
-    "categories": [
-      "Autobiography And Memoir",
-      "Biography Books",
-      "Books",
-      "Culture",
-      "Fiction",
-      "History Books",
-      "Poetry",
-      "Summer Reading"
-    ],
-    "genre": [
-      "Fiction",
-      "Horror"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-13",
-    "thumbnail": "https://i.guim.co.uk/img/media/b05d588de79e37e936d4df6ab5f5072f6e6c4ad8/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=dd7223ffaaca27e57c61254200fd3d17",
-    "cover_large": "https://i.guim.co.uk/img/media/b05d588de79e37e936d4df6ab5f5072f6e6c4ad8/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=dd7223ffaaca27e57c61254200fd3d17",
-    "article_url": "https://www.theguardian.com/books/ng-interactive/2026/jun/13/70-brilliant-books-for-the-summer",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Autobiography and memoir",
-      "Biography books",
-      "Books",
-      "Culture",
-      "Fiction",
-      "History books",
-      "Poetry",
-      "Summer reading",
-      "books"
-    ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
   },
   {
     "id": "33b96b53811abff07d307ba2b80519d9",
@@ -454,8 +517,8 @@
       "Starritt, Alexander",
       "books"
     ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
   },
   {
     "id": "6eb2eddeb9d2a53f072efff1674fdf03",
@@ -485,8 +548,8 @@
       "Books and Literature",
       "books"
     ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
   },
   {
     "id": "c34f2dbb59a0ea63c258ee675ddfaf55",
@@ -533,41 +596,39 @@
       "World War II (1939-45)",
       "books"
     ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
   },
   {
-    "id": "58a4284af163fe910889ab09c53c4763",
-    "title": "‘Failure was my thing’: Women’s prize winner Virginia Evans on her long journey to success",
-    "author": "Lisa Allardice",
-    "description": "The American author received ‘thousands of rejections’ over two decades before finally hitting gold with her first published novel Just as I am about to interview this year’s Women’s prize winner , debut American novelist Virginia Evans, at the party on a drizzly evening in a leafy London square, we are interrupted because someone wants to congratulate her. The fan is Richard Curtis. A warm-hearted weepy with a sprinkling of gentle humour, Evans’s prize-winning novel The Correspondent is prime Curtis material. In fact, he is too late. “I think he just wants to be my friend,” Evans jokes modestly – Notting Hill is her favourite movie of all time. A film of The Correspondent is already in the pipeline with Jane Fonda playing 73-year-old Sybil Van Antwerp, the crotchety correspondent of the title. Evans will be one of the producers and will have a cameo appearance, “walking a dog or something”. The Correspondent by Virginia Evans (Penguin Books, £9.99). To support the Guardian, order your copy at guardianbookshop.com . Delivery charges may apply. Continue reading...",
+    "id": "da9552e3314c26d160dbb7239ab9a359",
+    "title": "The Twitnam Summer by Hester Grant review – Swift, Gay and Pope’s season in the sun",
+    "author": "Kathryn Hughes",
+    "description": "A historian makes the case that a meeting of minds in 1726 changed the course of English literature In 1726 Jonathan Swift, dean of Saint Patrick’s Cathedral in Dublin, crossed the Irish sea with the manuscript of Gulliver’s Travels in his luggage. Beneath the child-friendly chatter about a sailor marooned on an island full of tiny Lilliputians, the book was a scabrous satire on the corruption of public life under the politically ascendant Whigs, whom Swift regarded as a pack of moral pygmies. Swift’s ultimate destination, though, was not Whitehall but rather the idyllic Twickenham – “Twitnam”, as they knew it – home of his old friend, the poet Alexander Pope. Here he intended to work out a plan for anonymous publication of his sulphurous masterpiece, one that would not land him in legal trouble. In Pope he could be sure of a sympathetic co‐conspirator. Both men were members of the Scriblerus Club, an unofficial association of dissident wits who nonetheless set great store by literary collaboration. Pope was equally disaffected with the state of the nation, although his loathing was directed towards the philistine Hanoverians, who had arrived from Germany in 1714 to take up the...",
     "summary_ai": "",
     "categories": [
-      "Awards And Prizes",
+      "Biography Books",
       "Books",
-      "Fiction",
-      "Women'S Prize For Fiction",
-      "Women'S Prizes"
+      "Culture",
+      "Jonathan Swift"
     ],
     "genre": [],
     "language": "English",
     "publisher": "The Guardian",
     "published_date": "2026-06-12",
-    "thumbnail": "https://i.guim.co.uk/img/media/96fdeb907c2461d5dccd0a53f7af6c7972680826/560_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=642600f38e2e7cd7879fdfcdaf5d0f74",
-    "cover_large": "https://i.guim.co.uk/img/media/96fdeb907c2461d5dccd0a53f7af6c7972680826/560_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=642600f38e2e7cd7879fdfcdaf5d0f74",
-    "article_url": "https://www.theguardian.com/books/2026/jun/11/womens-prize-virginia-evans-the-correspondent-fiction-lyse-doucet-the-finest-hotel-in-kabul-nonfiction",
+    "thumbnail": "https://i.guim.co.uk/img/media/9c5eb0b53993938bc5c462d3e64ea1ed182fff7f/936_0_4680_3744/master/4680.jpg?width=700&quality=85&auto=format&fit=max&s=20a6c0d7abab4970bdbeb8a2716efc92",
+    "cover_large": "https://i.guim.co.uk/img/media/9c5eb0b53993938bc5c462d3e64ea1ed182fff7f/936_0_4680_3744/master/4680.jpg?width=700&quality=85&auto=format&fit=max&s=20a6c0d7abab4970bdbeb8a2716efc92",
+    "article_url": "https://www.theguardian.com/books/2026/jun/12/the-twitnam-summer-by-hester-grant-review-swift-gay-and-popes-season-in-the-sun",
     "source": "The Guardian",
     "source_type": "rss",
     "tags": [
-      "Awards and prizes",
+      "Biography books",
       "Books",
-      "Fiction",
-      "Women's prize for fiction",
-      "Women's prizes",
+      "Culture",
+      "Jonathan Swift",
       "books"
     ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
   },
   {
     "id": "0af03eaf7b083faebd49b08b66333eac",
@@ -604,39 +665,8 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
-  },
-  {
-    "id": "da9552e3314c26d160dbb7239ab9a359",
-    "title": "The Twitnam Summer by Hester Grant review – Swift, Gay and Pope’s season in the sun",
-    "author": "Kathryn Hughes",
-    "description": "A historian makes the case that a meeting of minds in 1726 changed the course of English literature In 1726 Jonathan Swift, dean of Saint Patrick’s Cathedral in Dublin, crossed the Irish sea with the manuscript of Gulliver’s Travels in his luggage. Beneath the child-friendly chatter about a sailor marooned on an island full of tiny Lilliputians, the book was a scabrous satire on the corruption of public life under the politically ascendant Whigs, whom Swift regarded as a pack of moral pygmies. Swift’s ultimate destination, though, was not Whitehall but rather the idyllic Twickenham – “Twitnam”, as they knew it – home of his old friend, the poet Alexander Pope. Here he intended to work out a plan for anonymous publication of his sulphurous masterpiece, one that would not land him in legal trouble. In Pope he could be sure of a sympathetic co‐conspirator. Both men were members of the Scriblerus Club, an unofficial association of dissident wits who nonetheless set great store by literary collaboration. Pope was equally disaffected with the state of the nation, although his loathing was directed towards the philistine Hanoverians, who had arrived from Germany in 1714 to take up the...",
-    "summary_ai": "",
-    "categories": [
-      "Biography Books",
-      "Books",
-      "Culture",
-      "Jonathan Swift"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-12",
-    "thumbnail": "https://i.guim.co.uk/img/media/9c5eb0b53993938bc5c462d3e64ea1ed182fff7f/936_0_4680_3744/master/4680.jpg?width=700&quality=85&auto=format&fit=max&s=20a6c0d7abab4970bdbeb8a2716efc92",
-    "cover_large": "https://i.guim.co.uk/img/media/9c5eb0b53993938bc5c462d3e64ea1ed182fff7f/936_0_4680_3744/master/4680.jpg?width=700&quality=85&auto=format&fit=max&s=20a6c0d7abab4970bdbeb8a2716efc92",
-    "article_url": "https://www.theguardian.com/books/2026/jun/12/the-twitnam-summer-by-hester-grant-review-swift-gay-and-popes-season-in-the-sun",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Biography books",
-      "Books",
-      "Culture",
-      "Jonathan Swift",
-      "books"
-    ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
   },
   {
     "id": "13578b599259dd193c64c80094cb1ce7",
@@ -679,8 +709,8 @@
       "books",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
   },
   {
     "id": "4d201eb884e379ec4c83dc36ffb2298c",
@@ -715,37 +745,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
-  },
-  {
-    "id": "1aa905cb92f4888eaeaaaac059eb88b8",
-    "title": "Frida Slattery As Herself by Ana Kinsella review – will-they-won’t",
-    "author": "Anjali Joseph",
-    "description": "This impressive and charismatic debut novel revisits an actor and a director over various collaborations The central characters of Frida Slattery As Herself, Ana Kinsella’s debut novel, are the eponymous Frida, 23 when the novel opens, and John Reddan, five years older. Both live in Dublin. Frida loves acting but has never had a significant role, and didn’t even get into drama school. John is a writer-director who has just had a play put on at a “real theatre”. What’s compelling about Frida is not necessarily what she says, thinks or does, but the way she is, and a large part of that lies in the physicality Kinsella writes into her. Frida, we learn, is “addicted” to the theatre. “Every time she came off stage she felt like a prizefighter. The curtain fell in the community theatre and there she was, rolling her neck, bobbing on her feet.” However, Frida’s acting aspirations are going nowhere. She eventually confides in her friend Catherine, who at university was a much more successful actor in student productions, but now has a proper job (“She owned an espresso machine and Frida lived in a bedsit”). “I just want something to happen,” Frida says. Catherine introduces Frida to...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-11",
-    "thumbnail": "https://i.guim.co.uk/img/media/26385c368391ef79ff74a88632a92a47c62a7496/200_1625_5384_4307/master/5384.jpg?width=700&quality=85&auto=format&fit=max&s=d59fedf1a922f95453d56eb50830c3bf",
-    "cover_large": "https://i.guim.co.uk/img/media/26385c368391ef79ff74a88632a92a47c62a7496/200_1625_5384_4307/master/5384.jpg?width=700&quality=85&auto=format&fit=max&s=d59fedf1a922f95453d56eb50830c3bf",
-    "article_url": "https://www.theguardian.com/books/2026/jun/11/frida-slattery-as-herself-by-ana-kinsella-review-will-they-wont-they-in-a-skilful-theatrical-romance",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
   },
   {
     "id": "1104a22874baeb0de2df82d082878fa6",
@@ -782,90 +783,8 @@
       "Revolutionary War, American (1775-83)",
       "books"
     ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
-  },
-  {
-    "id": "eaaa6ceb13b853ca1f3d7f06e5ed9981",
-    "title": "How Laverne Cox Slayed Her Demons: With Grit and Glamour",
-    "author": "Tim Teeman",
-    "description": "Her memoir follows the path from an abusive childhood to Hollywood stardom. But it’s being released amid a backlash over transgender rights that’s caught up to her, too.",
-    "summary_ai": "",
-    "categories": [
-      "Actors And Actresses",
-      "Books",
-      "Books And Literature",
-      "Cox, Laverne",
-      "Orange Is The New Black (Tv Program)",
-      "Television",
-      "Transcendent (Book)",
-      "Transgender"
-    ],
-    "genre": [
-      "Memoir"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-10",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/04/multimedia/00hp-tbr-laverne-cox-kvgj/00hp-tbr-laverne-cox-kvgj-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/04/multimedia/00hp-tbr-laverne-cox-kvgj/00hp-tbr-laverne-cox-kvgj-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/10/books/review/laverne-cox-transcendent-memoir.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Actors and Actresses",
-      "Books and Literature",
-      "Cox, Laverne",
-      "Orange Is the New Black (TV Program)",
-      "Television",
-      "Transcendent (Book)",
-      "Transgender",
-      "books"
-    ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
-  },
-  {
-    "id": "be4b4fa34b6a393fbe5ff7d9ed136e87",
-    "title": "John Basinger, Who Memorized All 12 Books of ‘Paradise Lost,’ Dies at 92",
-    "author": "Alex Traub",
-    "description": "After nearly nine years of practice, he made John Milton’s epic poem vividly dramatic for audiences and inspired a study of his “memory virtuosity.”",
-    "summary_ai": "",
-    "categories": [
-      "Basinger, John",
-      "Books",
-      "Deafness",
-      "Deaths (Obituaries)",
-      "Memory",
-      "Milton, John",
-      "National Theater Of The Deaf",
-      "Paradise Lost (Book)",
-      "Poetry And Poets",
-      "Theater"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-10",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/13/multimedia/09Basinger--wpch-print1/09Basinger--wpch-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/13/multimedia/09Basinger--wpch-print1/09Basinger--wpch-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/09/arts/john-basinger-dead.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Basinger, John",
-      "Deafness",
-      "Deaths (Obituaries)",
-      "Memory",
-      "Milton, John",
-      "National Theater of the Deaf",
-      "Paradise Lost (Book)",
-      "Poetry and Poets",
-      "Theater",
-      "books"
-    ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
   },
   {
     "id": "792ec2c32be75d2c938165df3e4af29d",
@@ -899,38 +818,8 @@
       "Middle East and north Africa",
       "books"
     ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
-  },
-  {
-    "id": "6f8e288f91c59c51c52c0c349e5d4ed3",
-    "title": "Book Review: ‘Rasputin Swims the Potomac,’ by Ben Fountain",
-    "author": "David Gates",
-    "description": "In Ben Fountain’s new novel, Washington insiders scheme to replace the president with a religious professional wrestler.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Fountain, Ben",
-      "Rasputin Swims The Potomac (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-09",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/09/books/09TBR-Fountain-review/09TBR-Fountain-review-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/09/books/09TBR-Fountain-review/09TBR-Fountain-review-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/09/books/review/ben-fountain-rasputin-swims-the-potomac.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Fountain, Ben",
-      "Rasputin Swims the Potomac (Book)",
-      "books"
-    ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
   },
   {
     "id": "1fae8b8cf672ed074b61bd6288ff4a30",
@@ -966,8 +855,45 @@
       "History books",
       "books"
     ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
+  },
+  {
+    "id": "fa3a9d21c7f18b0cf9710f320276a6b1",
+    "title": "A British Childhood by Frank Cottrell-Boyce review – are we raising a bookless generation?",
+    "author": "Joe Moran",
+    "description": "This clarion call about the impoverishment of children’s lives is also a reminder of the sheer magic of reading Every day, on my walk to work, I pass a primary school. A group of little people are being dropped off by parents. They are met at the gates by a teacher who greets them all by name before leading them up the steps to breakfast club. In the cold and dark of winter, with the school’s windows glowing invitingly, I sometimes envy these children their warm, welcoming cocoon. I thought of that daily scene often when reading this book, which is inspired by Frank Cottrell-Boyce’s time as Waterstones children’s laureate. During his laureateship he ran a campaign with the literary charity BookTrust called Reading Rights, addressing literacy inequality for children in poverty. It was prompted by the discovery that nearly half of children were arriving at school without having been read to. Many had no clue how books worked. They were trying to swipe rather than turn pages, or expand illustrations by pinching them with their fingers. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Children",
+      "Children'S Laureate",
+      "Culture",
+      "Frank Cottrell-Boyce",
+      "Society Books"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-08",
+    "thumbnail": "https://i.guim.co.uk/img/media/a0cfb32fba9cae4e669aacb6952839cc52ce90d8/0_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=ad7c169e402618d85c53445439719768",
+    "cover_large": "https://i.guim.co.uk/img/media/a0cfb32fba9cae4e669aacb6952839cc52ce90d8/0_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=ad7c169e402618d85c53445439719768",
+    "article_url": "https://www.theguardian.com/books/2026/jun/08/a-british-childhood-by-frank-cottrell-boyce-review-are-we-raising-a-bookless-generation",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Children",
+      "Children's laureate",
+      "Culture",
+      "Frank Cottrell-Boyce",
+      "Society books",
+      "books"
+    ],
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
   },
   {
     "id": "cd29f8375e271820c02627200e68f1d2",
@@ -999,8 +925,8 @@
       "Michael Ondaatje",
       "books"
     ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
   },
   {
     "id": "70cd24b8757464da7bbe573c0af45489",
@@ -1036,8 +962,8 @@
       "Sarah Moss",
       "books"
     ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -1067,8 +993,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1107,7 +1033,77 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-15T20:51:25+00:00",
-    "updated_at": "2026-06-15T20:51:25Z"
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
+  },
+  {
+    "id": "755ba738881478773c8491c271f5d902",
+    "title": "What Book Should You Read Next?",
+    "author": "The New York Times Books Staff",
+    "description": "Finding a book you’ll love can be daunting. Let us help.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Content Type: Service"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2024-09-04",
+    "thumbnail": "https://static01.nyt.com/images/2024/09/05/books/review/00WhatToReadNow-092024/00WhatToReadNow-092024-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2024/09/05/books/review/00WhatToReadNow-092024/00WhatToReadNow-092024-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/article/best-books.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Content Type: Service",
+      "books"
+    ],
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
+  },
+  {
+    "id": "f0a8987fb7322e3a0dc23bf36fa062e5",
+    "title": "Martin Amis: An Appreciation",
+    "author": "A.O. Scott",
+    "description": "Our critic assesses the achievement of Martin Amis, Britain’s most famous literary son.",
+    "summary_ai": "",
+    "categories": [
+      "Amis, Martin",
+      "Audio-Neutral-Informative",
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Inside Story (Book)",
+      "London Fields (Book)",
+      "The Information (Book)",
+      "The Rachel Papers (Book)",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2023-05-22",
+    "thumbnail": "https://static01.nyt.com/images/2023/06/11/books/review/22AMIS-APPRECIATION/22AMIS-APPRECIATION-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2023/06/11/books/review/22AMIS-APPRECIATION/22AMIS-APPRECIATION-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2023/05/22/books/review/martin-amis.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Amis, Martin",
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Inside Story (Book)",
+      "London Fields (Book)",
+      "The Information (Book)",
+      "The Rachel Papers (Book)",
+      "Writing and Writers",
+      "audio-neutral-informative",
+      "books"
+    ],
+    "created_at": "2026-06-16T11:09:51+00:00",
+    "updated_at": "2026-06-16T11:09:51Z"
   }
 ]
