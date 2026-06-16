@@ -1,5 +1,47 @@
 [
   {
+    "id": "cb1efeb382d11a66987c412bb10abbf9",
+    "title": "The ‘Paddington’ Musical Will Come to Broadway Next Spring",
+    "author": "Michael Paulson",
+    "description": "The show, which revisits the story of a marmalade-loving bear, plans to open next April at the Hirschfeld Theater in New York.",
+    "summary_ai": "",
+    "categories": [
+      "Bond, Michael (1926- )",
+      "Books",
+      "Books And Literature",
+      "Friedman, Sonia",
+      "Hirschfeld, Al, Theater",
+      "Paddington: The Musical (Play)",
+      "Sheppard, Luke (Theater Director)",
+      "Swale, Jessica",
+      "Theater",
+      "Theater (Broadway)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-16",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/17/multimedia/16cul-theater-paddington-gqkf/16cul-theater-paddington-gqkf-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/17/multimedia/16cul-theater-paddington-gqkf/16cul-theater-paddington-gqkf-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/16/theater/paddington-musical-broadway.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Bond, Michael (1926- )",
+      "Books and Literature",
+      "Friedman, Sonia",
+      "Hirschfeld, Al, Theater",
+      "Paddington: The Musical (Play)",
+      "Sheppard, Luke (Theater Director)",
+      "Swale, Jessica",
+      "Theater",
+      "Theater (Broadway)",
+      "books"
+    ],
+    "created_at": "2026-06-16T20:45:46+00:00",
+    "updated_at": "2026-06-16T20:45:46Z"
+  },
+  {
     "id": "3b6d3b4d5c414a2138c521f57cf82f5a",
     "title": "Book Review: ‘Ghost-Eye,’ by Amitav Ghosh",
     "author": "Junot Díaz",
@@ -26,8 +68,114 @@
       "Ghost-Eye (Book)",
       "books"
     ],
-    "created_at": "2026-06-16T11:09:51+00:00",
-    "updated_at": "2026-06-16T11:09:51Z"
+    "created_at": "2026-06-16T20:45:46+00:00",
+    "updated_at": "2026-06-16T20:45:46Z"
+  },
+  {
+    "id": "6f8d05d6678fc2d6ea6892fdbfbcf96d",
+    "title": "Book Review: ‘Empire of Ink,’ by Alex Wright",
+    "author": "Alexandra Jacobs",
+    "description": "In “Empire of Ink,” Alex Wright describes how newfangled technologies and disruptive personalities have regularly unsettled the American media.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Empire Of Ink: The Printers, Rogues, And Radicals Who Invented The American Newspaper (Book)",
+      "Newspapers",
+      "Printing And Allied Trades",
+      "Twain, Mark",
+      "United States",
+      "Wright, Alex (1966- )",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-16",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/14/multimedia/14tbr-wright-review-fbhq/14tbr-wright-review-fbhq-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/14/multimedia/14tbr-wright-review-fbhq/14tbr-wright-review-fbhq-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/14/books/review/empire-of-ink-newspapers-alex-wright.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Empire of Ink: The Printers, Rogues, and Radicals Who Invented the American Newspaper (Book)",
+      "Newspapers",
+      "Printing and Allied Trades",
+      "Twain, Mark",
+      "United States",
+      "Wright, Alex (1966- )",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-06-16T20:45:46+00:00",
+    "updated_at": "2026-06-16T20:45:46Z"
+  },
+  {
+    "id": "d762342d53e8ca9b0b829baa02623833",
+    "title": "‘Don DeLillo gave me his blessing’: film director Ben Rivers on how fan mail from the Underworld author led to his latest work",
+    "author": "Steve Rose",
+    "description": "When Rivers received a surprise letter from DeLillo, it encouraged him to set the author’s one-act play in an adult-free, postapocalyptic world Nine-year-old girls reciting the gnomic prose of Don DeLillo – it sounds like an extreme English detention, but for film-maker Ben Rivers this was the foundation of his new movie, and the culmination of an unlikely friendship with the literary titan. DeLillo is an almost mythical figure of contemporary literature. His prose is precisely hewn, his narratives sophisticated and his preoccupations uncannily prophetic: conspiracy, terrorism, nuclear power, hypercapitalism – the 89-year-old New Yorker has been ahead of the curve for much of the late 20th and early 21st century. Rivers, a 53-year-old independent film-maker based in London, has been a lifelong fan, he says. So he was stunned to receive a letter from DeLillo himself one day in 2017. A mutual friend had sent DeLillo a DVD of Rivers’ 2015 film The Sky Trembles and the Earth is Afraid and the Two Eyes Are Not Brothers , a hallucinatory parable set in a semi-abstract Morocco, and the writer responded with a hand-typed letter. “He thought that the film was really powerful and he was...",
+    "summary_ai": "",
+    "categories": [
+      "Ben Rivers",
+      "Books",
+      "Culture",
+      "Don Delillo",
+      "Film",
+      "Film Adaptations"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-16",
+    "thumbnail": "https://i.guim.co.uk/img/media/dd41fc0bf43b4fd519d9204a2191e9b2ccf5d076/0_0_1363_1090/master/1363.jpg?width=700&quality=85&auto=format&fit=max&s=41344edb06d365a177e4ce753eb590d7",
+    "cover_large": "https://i.guim.co.uk/img/media/dd41fc0bf43b4fd519d9204a2191e9b2ccf5d076/0_0_1363_1090/master/1363.jpg?width=700&quality=85&auto=format&fit=max&s=41344edb06d365a177e4ce753eb590d7",
+    "article_url": "https://www.theguardian.com/film/2016/may/05/the-sky-trembles-and-the-earth-is-afraid-and-the-two-eyes-are-not-brothers-review-brutal-essay-on-orientalism",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Ben Rivers",
+      "Books",
+      "Culture",
+      "Don DeLillo",
+      "Film",
+      "Film adaptations",
+      "books"
+    ],
+    "created_at": "2026-06-16T20:45:46+00:00",
+    "updated_at": "2026-06-16T20:45:46Z"
+  },
+  {
+    "id": "ad3784a74393d9a5cd689810f0c839d4",
+    "title": "Kazuo Ishiguro announces 1930s spy caper to be published next year",
+    "author": "Ella Creamer",
+    "description": "Miss Lambert Steps Aboard Danger is the first novel from the Nobel laureate since 2021’s Klara and the Sun and draws on the author’s love of music, art and Golden Age cinema A new novel by Nobel laureate Kazuo Ishiguro is set to be published in March next year. Miss Lambert Steps Aboard Danger, announced by his UK publisher Faber, is a spy caper. Set in 1938, the novel follows Richard Hadley as he encounters the enigmatic Miss Lambert, and follows her to a conference at a hotel in Devon, and then on to a Scotland-bound train, where he encounters a school friend and a former Tory minister, among others. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "Kazuo Ishiguro"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-16",
+    "thumbnail": "https://i.guim.co.uk/img/media/70fe9c27f8e1b8abb13513cfcab73753a3e88576/377_0_2726_2181/master/2726.jpg?width=700&quality=85&auto=format&fit=max&s=078c624f6f4f09e52e9d568cab9f6764",
+    "cover_large": "https://i.guim.co.uk/img/media/70fe9c27f8e1b8abb13513cfcab73753a3e88576/377_0_2726_2181/master/2726.jpg?width=700&quality=85&auto=format&fit=max&s=078c624f6f4f09e52e9d568cab9f6764",
+    "article_url": "https://www.theguardian.com/books/2026/jun/16/kazuo-ishiguro-new-1930s-spy-caper-novel",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "Kazuo Ishiguro",
+      "books"
+    ],
+    "created_at": "2026-06-16T20:45:46+00:00",
+    "updated_at": "2026-06-16T20:45:46Z"
   },
   {
     "id": "d77c0d787f44779748bda704b1568fa5",
@@ -57,8 +205,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-16T11:09:51+00:00",
-    "updated_at": "2026-06-16T11:09:51Z"
+    "created_at": "2026-06-16T20:45:46+00:00",
+    "updated_at": "2026-06-16T20:45:46Z"
   },
   {
     "id": "ac4d068528b29e0f4edc6b4ff85b63db",
@@ -88,8 +236,121 @@
       "Literary criticism",
       "books"
     ],
-    "created_at": "2026-06-16T11:09:51+00:00",
-    "updated_at": "2026-06-16T11:09:51Z"
+    "created_at": "2026-06-16T20:45:46+00:00",
+    "updated_at": "2026-06-16T20:45:46Z"
+  },
+  {
+    "id": "7f6a46db856a545ed745ab6c6deb64e3",
+    "title": "6 of the Best New Book Releases Out June 16, 2026",
+    "author": "Erica Ezeifedi",
+    "description": "There's a Secret Garden-esque romance by Ashley Poston, a Bollywood/Hollywood murder mystery, fabulism in 1960's India, and more.",
+    "summary_ai": "",
+    "categories": [
+      "New Books",
+      "Reviews"
+    ],
+    "genre": [
+      "Mystery",
+      "Romance"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-16",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/04/The-Someday-Garden-Ashley-Poston-cover-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/04/The-Someday-Garden-Ashley-Poston-cover-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/new-book-releases-june-16-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "New Books",
+      "reviews"
+    ],
+    "created_at": "2026-06-16T20:45:46+00:00",
+    "updated_at": "2026-06-16T20:45:46Z"
+  },
+  {
+    "id": "cc7847aa8ffae0f653ddf5147c00bd7c",
+    "title": "Why I Set My New Novel On a Weed Farm",
+    "author": "Guest",
+    "description": "Ariel Delgado Dixon discusses why she set her new novel, Sourland, on a weed farm.",
+    "summary_ai": "",
+    "categories": [
+      "Essays",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-16",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/Ariel-Delgado-Dixon.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/Ariel-Delgado-Dixon.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/ariel-delgado-dixon-on-sourland/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Essays",
+      "reviews"
+    ],
+    "created_at": "2026-06-16T20:45:46+00:00",
+    "updated_at": "2026-06-16T20:45:46Z"
+  },
+  {
+    "id": "1726d56fe418c1d976c272731064b0bd",
+    "title": "Step Right Up: The Fantasy Backlist Titles at the Top of My TBR",
+    "author": "Liberty Hardy",
+    "description": "Get ready to add these fun fantasies to your TBR!",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Science Fiction/Fantasy",
+      "Swords And Spaceships"
+    ],
+    "genre": [
+      "Fantasy"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-16",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2021/06/holding-stack-of-books.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2021/06/holding-stack-of-books.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/fantasy-backlist-titles-on-my-tbr/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Science Fiction/Fantasy",
+      "Swords and Spaceships",
+      "reviews"
+    ],
+    "created_at": "2026-06-16T20:45:46+00:00",
+    "updated_at": "2026-06-16T20:45:46Z"
+  },
+  {
+    "id": "0604b1a7b40e92956c61cb7c4f3303fb",
+    "title": "University of Nebraska Bans Textbook on Human Sexuality, and More Library Updates",
+    "author": "Katie McLain Horner",
+    "description": "The University of Nebraska at Kearney banned a textbook on human sexuality after a student complained it exposed them to “pornography.”",
+    "summary_ai": "",
+    "categories": [
+      "Check Your Shelf",
+      "Libraries",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-16",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2022/07/caution-tape-on-books.png",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2022/07/caution-tape-on-books.png",
+    "article_url": "https://bookriot.com/university-of-nebraska-bans-textbook-on-human-sexuality/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Check Your Shelf",
+      "Libraries",
+      "reviews"
+    ],
+    "created_at": "2026-06-16T20:45:46+00:00",
+    "updated_at": "2026-06-16T20:45:46Z"
   },
   {
     "id": "f917acbed54d01428d2240632bcaf4fe",
@@ -130,8 +391,8 @@
       "The Nord Stream Conspiracy: The Inside Story of the Explosions That Shook the World (Book)",
       "books"
     ],
-    "created_at": "2026-06-16T11:09:51+00:00",
-    "updated_at": "2026-06-16T11:09:51Z"
+    "created_at": "2026-06-16T20:45:46+00:00",
+    "updated_at": "2026-06-16T20:45:46Z"
   },
   {
     "id": "eec42c32dd0a3a532e6eba08983e4e62",
@@ -171,8 +432,8 @@
       "Yolen, Jane",
       "books"
     ],
-    "created_at": "2026-06-16T11:09:51+00:00",
-    "updated_at": "2026-06-16T11:09:51Z"
+    "created_at": "2026-06-16T20:45:46+00:00",
+    "updated_at": "2026-06-16T20:45:46Z"
   },
   {
     "id": "2dbb9f6b1052d8e9e2207308496c93f2",
@@ -210,8 +471,8 @@
       "Virginia Woolf",
       "books"
     ],
-    "created_at": "2026-06-16T11:09:51+00:00",
-    "updated_at": "2026-06-16T11:09:51Z"
+    "created_at": "2026-06-16T20:45:46+00:00",
+    "updated_at": "2026-06-16T20:45:46Z"
   },
   {
     "id": "657f7750264d46294edd96cd66936fbf",
@@ -239,8 +500,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-06-16T11:09:51+00:00",
-    "updated_at": "2026-06-16T11:09:51Z"
+    "created_at": "2026-06-16T20:45:46+00:00",
+    "updated_at": "2026-06-16T20:45:46Z"
   },
   {
     "id": "c6c29f533fb77266b790740512875994",
@@ -270,272 +531,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-16T11:09:51+00:00",
-    "updated_at": "2026-06-16T11:09:51Z"
-  },
-  {
-    "id": "9c9cd5f7495c50fd5f64b8ae305fe2f9",
-    "title": "How the Rest of the World Sees America (Through the Eyes of Its Writers)",
-    "author": "Madeleine Schwartz",
-    "description": "I’ve spent much of my career reporting outside the United States, but in recent years, many of my interviews have ended the same way: with questions to me about what is happening at home. The world is watching the changing",
-    "summary_ai": "",
-    "categories": [
-      "Blue Light Hours",
-      "Bruna Dantas Lobato",
-      "Features",
-      "Javier Cercas",
-      "Jessica Mitford",
-      "Literary Criticism",
-      "Madeleine Schwartz",
-      "Maeve Brennan",
-      "Minima Moralia",
-      "New York My Village",
-      "News And Culture",
-      "Oscar Martinez And Juan Martinez",
-      "Politics",
-      "Reading Lists",
-      "Reviews",
-      "Tell Me How It Ends",
-      "The American Way Of Death",
-      "The Dial",
-      "The Long Winded Lady",
-      "The Speed Of Light",
-      "Thehollywood Kid: The Violent Life And Violent Death Of An Ms-13 Hitman",
-      "Theodor W. Adorno",
-      "Uwem Akpan",
-      "Valeria Luiselli"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-06-15",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/right-sidebar-banner-images-77-768x432.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/right-sidebar-banner-images-77-768x432.png",
-    "article_url": "https://lithub.com/how-the-rest-of-the-world-sees-america-through-the-eyes-of-its-writers/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Blue Light Hours",
-      "Bruna Dantas Lobato",
-      "Features",
-      "Javier Cercas",
-      "Jessica Mitford",
-      "Literary Criticism",
-      "Madeleine Schwartz",
-      "Maeve Brennan",
-      "Minima Moralia",
-      "New York My Village",
-      "News and Culture",
-      "Oscar Martinez and Juan Martinez",
-      "Politics",
-      "Reading Lists",
-      "Tell Me How it Ends",
-      "The American Way of Death",
-      "The Dial",
-      "The Long Winded Lady",
-      "The Speed of Light",
-      "TheHollywood Kid: The Violent Life and Violent Death of An MS-13 Hitman",
-      "Theodor W. Adorno",
-      "Uwem Akpan",
-      "Valeria Luiselli",
-      "reviews"
-    ],
-    "created_at": "2026-06-16T11:09:50+00:00",
-    "updated_at": "2026-06-16T11:09:50Z"
-  },
-  {
-    "id": "ac0788074f8f557e00a5792b5e87ec3a",
-    "title": "Crescendo",
-    "author": "Lit Hub Excerpts",
-    "description": "What happened in Santiago, the matter that began my great downfall, the rupture in my previously hallowed existence, was this: I played the concert of my lifetime. A statement that might sound foolish, grandiose, ridiculous, I know, but consider this.",
-    "summary_ai": "",
-    "categories": [
-      "Bloomsbury",
-      "Crescendo",
-      "Daily Fiction",
-      "Excerpts",
-      "Fiction And Poetry",
-      "From The Novel",
-      "Jane Healey",
-      "Novels",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Bloomsbury",
-    "published_date": "2026-06-15",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/05/9781639735556-768x1173.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/05/9781639735556-768x1173.jpg",
-    "article_url": "https://lithub.com/crescendo/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Bloomsbury",
-      "Crescendo",
-      "Daily Fiction",
-      "Excerpts",
-      "Fiction and Poetry",
-      "From the Novel",
-      "Jane Healey",
-      "Novels",
-      "reviews"
-    ],
-    "created_at": "2026-06-16T11:09:50+00:00",
-    "updated_at": "2026-06-16T11:09:50Z"
-  },
-  {
-    "id": "ea357fbfa1d7c64744cc16906d4dff7e",
-    "title": "Undiscovered Country: The 100th Anniversary of Virgina Woolf’s “On Being Ill”",
-    "author": "Darcey Steinke",
-    "description": "I was lying in my attic bedroom reading a book, when my husband came up to speak with me. I wriggled over to make room for him and heard a muffled sound like a wet branch snapping. As I stood",
-    "summary_ai": "",
-    "categories": [
-      "'On Illness'",
-      "Charleston Festival",
-      "Chronic Pain",
-      "Darcey Steinke",
-      "Features",
-      "Harpercollins",
-      "Harperone",
-      "Health",
-      "Literary Criticism",
-      "Memoir",
-      "News And Culture",
-      "Reviews",
-      "This Is The Door",
-      "Virginia Woolf"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "HarperCollins",
-    "published_date": "2026-06-15",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/right-sidebar-banner-images-74-768x432.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/right-sidebar-banner-images-74-768x432.png",
-    "article_url": "https://lithub.com/undiscovered-country-the-100th-anniversary-of-virgina-woolfs-on-being-ill/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "'On Illness'",
-      "Charleston Festival",
-      "Darcey Steinke",
-      "Features",
-      "HarperCollins",
-      "HarperOne",
-      "Health",
-      "Literary Criticism",
-      "Memoir",
-      "News and Culture",
-      "This Is the Door",
-      "Virginia Woolf",
-      "chronic pain",
-      "reviews"
-    ],
-    "created_at": "2026-06-16T11:09:50+00:00",
-    "updated_at": "2026-06-16T11:09:50Z"
-  },
-  {
-    "id": "960e7a6ef373d9114684b456c1b6261f",
-    "title": "The Ultimate Summer 2026 Reading List",
-    "author": "Emily Temple",
-    "description": "It’s been an uneasy start to summer. Ticks are legion. The weather is unpredictable. The Iran war drags ludicrously on. Inflation is rising faster than ever. SpaceX, Anthropic, and Open A.I. are about to go public, which will cause .",
-    "summary_ai": "",
-    "categories": [
-      "Fullwidth Slider",
-      "Literary Criticism",
-      "Reading Lists",
-      "Reviews",
-      "Summer Reading",
-      "Ultimate Reading List",
-      "Ultimate Summer Reading",
-      "Ultimate Summer Reading List"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-06-15",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/summer-reading-2026-copy-768x384.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/summer-reading-2026-copy-768x384.jpg",
-    "article_url": "https://lithub.com/the-ultimate-summer-2026-reading-list/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Fullwidth Slider",
-      "Literary Criticism",
-      "Reading Lists",
-      "reviews",
-      "summer reading",
-      "ultimate reading list",
-      "ultimate summer reading",
-      "ultimate summer reading list"
-    ],
-    "created_at": "2026-06-16T11:09:50+00:00",
-    "updated_at": "2026-06-16T11:09:50Z"
-  },
-  {
-    "id": "926dde09fa64826244c4e307fe350c0b",
-    "title": "The Buzziest Summer Reading Books of 2026",
-    "author": "Danika Ellis",
-    "description": "In today's literary headlines: the winners of the Lambda Literary Awards, the buzziest summer reading books, and an adaptation cancellation.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Today In Books"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-15",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2023/06/reading-on-the-beach.png",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2023/06/reading-on-the-beach.png",
-    "article_url": "https://bookriot.com/the-buzziest-summer-reading-books-of-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Today in Books",
-      "reviews"
-    ],
-    "created_at": "2026-06-16T11:09:51+00:00",
-    "updated_at": "2026-06-16T11:09:51Z"
-  },
-  {
-    "id": "6f8d05d6678fc2d6ea6892fdbfbcf96d",
-    "title": "Book Review: ‘Empire of Ink,’ by Alex Wright",
-    "author": "Alexandra Jacobs",
-    "description": "In “Empire of Ink,” Alex Wright describes how newfangled technologies and disruptive personalities have regularly unsettled the American media.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Empire Of Ink: The Printers, Rogues, And Radicals Who Invented The American Newspaper (Book)",
-      "Newspapers",
-      "Printing And Allied Trades",
-      "Twain, Mark",
-      "United States",
-      "Wright, Alex (1966- )",
-      "Writing And Writers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-14",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/14/multimedia/14tbr-wright-review-fbhq/14tbr-wright-review-fbhq-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/14/multimedia/14tbr-wright-review-fbhq/14tbr-wright-review-fbhq-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/14/books/review/empire-of-ink-newspapers-alex-wright.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Empire of Ink: The Printers, Rogues, and Radicals Who Invented the American Newspaper (Book)",
-      "Newspapers",
-      "Printing and Allied Trades",
-      "Twain, Mark",
-      "United States",
-      "Wright, Alex (1966- )",
-      "Writing and Writers",
-      "books"
-    ],
-    "created_at": "2026-06-16T11:09:51+00:00",
-    "updated_at": "2026-06-16T11:09:51Z"
+    "created_at": "2026-06-16T20:45:46+00:00",
+    "updated_at": "2026-06-16T20:45:46Z"
   },
   {
     "id": "870854e023e80f6ab51718cd542f1808",
@@ -580,8 +577,8 @@
       "Women and Girls",
       "books"
     ],
-    "created_at": "2026-06-16T11:09:51+00:00",
-    "updated_at": "2026-06-16T11:09:51Z"
+    "created_at": "2026-06-16T20:45:46+00:00",
+    "updated_at": "2026-06-16T20:45:46Z"
   },
   {
     "id": "0898bca843cb7bd5c22fc490b1f8f6de",
@@ -616,103 +613,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-16T11:09:51+00:00",
-    "updated_at": "2026-06-16T11:09:51Z"
-  },
-  {
-    "id": "4e0dff5edc3919245c0900048aad5807",
-    "title": "What to read this summer by Mark Haddon, Samantha Harvey, Zadie Smith and more",
-    "author": "Tahmima Anam, William Boyd, Jonathan Coe, William Dalrymple, Joe Dunthorne, Anne Enright, Virginia Evans, Bernardine Evaristo, Stephen Grosz, Mark Haddon, Luke Kennard, Marian Keyes, Olivia Laing, Sarah Moss,Gary Shteyngart, Zadie Smith, Nina Stibbe and Sarah Waters",
-    "description": "Leading authors including Sarah Waters, William Dalrymple, Bernardine Evaristo and Anne Enright reveal their perfect holiday reading • Read our selection of 70 brilliant books for the summer Zadie Smith Margaret Busby’s Part of the Story: Writings from Half a Century is the record of one woman’s lifelong passion for the literature and life of Africa and its diaspora, wherever she finds it. A beautiful collection. The funniest and smartest novel I’ve read in a while is Black Bag by Luke Kennard. Mark Haddon Can I recommend some metaphorical summer travel? Taiwan Travelogue by Yáng Shuāng-zǐ, translated by Lin King, won the International Booker prize so you’re legally obliged to read it. But there are three other books on the shortlist I would strongly urge you to get your hands on. The Director by Daniel Kehlmann, translated by Ross Benjamin, brilliantly fictionalises the story of the film director WG Pabst who fled Germany before the outbreak of the second world war, felt ignored in Hollywood and made the foolish decision to return home. On Earth As It Is Beneath by Ana Paula Maia, translated by Padma Viswanathan, is a short, sharp cleaver-blow of political horror set in a...",
-    "summary_ai": "",
-    "categories": [
-      "Autobiography And Memoir",
-      "Biography Books",
-      "Books",
-      "Culture",
-      "Fiction",
-      "History Books",
-      "Poetry",
-      "Summer Reading"
-    ],
-    "genre": [
-      "Fiction",
-      "Horror"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-13",
-    "thumbnail": "https://i.guim.co.uk/img/media/b05d588de79e37e936d4df6ab5f5072f6e6c4ad8/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=dd7223ffaaca27e57c61254200fd3d17",
-    "cover_large": "https://i.guim.co.uk/img/media/b05d588de79e37e936d4df6ab5f5072f6e6c4ad8/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=dd7223ffaaca27e57c61254200fd3d17",
-    "article_url": "https://www.theguardian.com/books/ng-interactive/2026/jun/13/70-brilliant-books-for-the-summer",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Autobiography and memoir",
-      "Biography books",
-      "Books",
-      "Culture",
-      "Fiction",
-      "History books",
-      "Poetry",
-      "Summer reading",
-      "books"
-    ],
-    "created_at": "2026-06-16T11:09:51+00:00",
-    "updated_at": "2026-06-16T11:09:51Z"
-  },
-  {
-    "id": "780d3026daec05ca9a53b3eb7ce82972",
-    "title": "70 brilliant books for the summer",
-    "author": "Justine Jordan, David Shariatmadari, Imogen Russell Williams and Guardian staff",
-    "description": "From dynamite debuts to must-read memoirs and magical children’s fiction, here’s our selection of this year’s hottest holiday reads • Leading authors Mark Haddon, Samantha Harvey, Zadie Smith select their favourites *** Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Autobiography And Memoir",
-      "Biography Books",
-      "Books",
-      "Children And Teenagers",
-      "Children'S Books: 7 And Under",
-      "Culture",
-      "Fiction",
-      "Health, Mind And Body Books",
-      "History Books",
-      "Paperbacks",
-      "Politics Books",
-      "Science And Nature Books",
-      "Summer Reading"
-    ],
-    "genre": [
-      "Children",
-      "Fiction",
-      "Memoir"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-13",
-    "thumbnail": "https://i.guim.co.uk/img/media/d093a7c23a4b6f478bbb2050dbe43de396f26278/0_2054_4284_3426/master/4284.jpg?width=700&quality=85&auto=format&fit=max&s=ebcc7087e3416e4020d470a6c99fe60e",
-    "cover_large": "https://i.guim.co.uk/img/media/d093a7c23a4b6f478bbb2050dbe43de396f26278/0_2054_4284_3426/master/4284.jpg?width=700&quality=85&auto=format&fit=max&s=ebcc7087e3416e4020d470a6c99fe60e",
-    "article_url": "https://www.theguardian.com/books/2026/jun/13/what-to-read-this-summer-by-mark-haddon-samantha-harvey-zadie-smith-and-more",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Autobiography and memoir",
-      "Biography books",
-      "Books",
-      "Children and teenagers",
-      "Children's books: 7 and under",
-      "Culture",
-      "Fiction",
-      "Health, mind and body books",
-      "History books",
-      "Paperbacks",
-      "Politics books",
-      "Science and nature books",
-      "Summer reading",
-      "books"
-    ],
-    "created_at": "2026-06-16T11:09:51+00:00",
-    "updated_at": "2026-06-16T11:09:51Z"
+    "created_at": "2026-06-16T20:45:46+00:00",
+    "updated_at": "2026-06-16T20:45:46Z"
   },
   {
     "id": "33b96b53811abff07d307ba2b80519d9",
@@ -741,8 +643,8 @@
       "Starritt, Alexander",
       "books"
     ],
-    "created_at": "2026-06-16T11:09:51+00:00",
-    "updated_at": "2026-06-16T11:09:51Z"
+    "created_at": "2026-06-16T20:45:46+00:00",
+    "updated_at": "2026-06-16T20:45:46Z"
   },
   {
     "id": "6eb2eddeb9d2a53f072efff1674fdf03",
@@ -772,7 +674,7 @@
       "Books and Literature",
       "books"
     ],
-    "created_at": "2026-06-16T11:09:51+00:00",
-    "updated_at": "2026-06-16T11:09:51Z"
+    "created_at": "2026-06-16T20:45:46+00:00",
+    "updated_at": "2026-06-16T20:45:46Z"
   }
 ]
