@@ -1,5 +1,86 @@
 [
   {
+    "id": "1a3c7721cf80b204f9be2a234510d010",
+    "title": "Carlo Ginzburg, Who Told the History of the Obscure, Dies at 87",
+    "author": "Jonathan Kandell",
+    "description": "In books like “The Cheese and the Worms,” he helped push beyond the story of great events and leaders, entering the minds and hearts of peasants.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Deaths (Obituaries)",
+      "Ginzburg, Carlo",
+      "History (Academic Subject)",
+      "Italy",
+      "Middle Ages (Historical Period)",
+      "Myths And Mythical Creatures",
+      "Renaissance (Historical Era)",
+      "Witchcraft"
+    ],
+    "genre": [
+      "History"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-17",
+    "thumbnail": "https://static01.nyt.com/images/2026/02/19/obituaries/00ginzburg-1996/00ginzburg-1996-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/02/19/obituaries/00ginzburg-1996/00ginzburg-1996-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/17/books/carlo-ginzburg-dead.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Deaths (Obituaries)",
+      "Ginzburg, Carlo",
+      "History (Academic Subject)",
+      "Italy",
+      "Middle Ages (Historical Period)",
+      "Myths and Mythical Creatures",
+      "Renaissance (Historical Era)",
+      "Witchcraft",
+      "books"
+    ],
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
+  },
+  {
+    "id": "0de47d5039ae63ef8405d47c6646d284",
+    "title": "The best books to read in June: new paperbacks from Ian McEwan, Arundhati Roy and Irvine Welsh",
+    "author": "Guardian Staff",
+    "description": "Looking for a new reading recommendation? Here are some great new paperbacks, from a much-awaited memoir to a climate crisis novel from a literary giant *** Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Arundhati Roy",
+      "Books",
+      "Culture",
+      "Ian Mcewan",
+      "Irvine Welsh",
+      "Paperbacks"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-17",
+    "thumbnail": "https://i.guim.co.uk/img/media/a30fa537c338f9e5422b177365d1b5a182edae7c/0_0_1600_1280/master/1600.jpg?width=700&quality=85&auto=format&fit=max&s=97d353cca98963df429f71fe930ca50a",
+    "cover_large": "https://i.guim.co.uk/img/media/a30fa537c338f9e5422b177365d1b5a182edae7c/0_0_1600_1280/master/1600.jpg?width=700&quality=85&auto=format&fit=max&s=97d353cca98963df429f71fe930ca50a",
+    "article_url": "https://www.theguardian.com/books/ng-interactive/2026/jun/17/the-best-books-to-read-in-june-new-paperbacks-from-ian-mcewan-arundhati-roy-and-irvine-welsh",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Arundhati Roy",
+      "Books",
+      "Culture",
+      "Ian McEwan",
+      "Irvine Welsh",
+      "Paperbacks",
+      "books"
+    ],
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
+  },
+  {
     "id": "77afa997b4159f3c9fefbb3934ed638a",
     "title": "Morbid by Saul Justin Newman review",
     "author": "Rachel Clarke",
@@ -27,8 +108,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "9e8320b4e990b89f6b78df7209161fd7",
@@ -61,8 +142,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "44d56a6f7c9849669ef85eb545772b66",
@@ -97,8 +178,8 @@
       "Williams, Gregory H",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "cb1efeb382d11a66987c412bb10abbf9",
@@ -139,8 +220,8 @@
       "Theater (Broadway)",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "3b6d3b4d5c414a2138c521f57cf82f5a",
@@ -169,8 +250,8 @@
       "Ghost-Eye (Book)",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "6f8d05d6678fc2d6ea6892fdbfbcf96d",
@@ -209,8 +290,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "562d31bd77c1a7c3cb5bc6017aec7615",
@@ -248,8 +329,8 @@
       "Wallace & Gromit",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "d762342d53e8ca9b0b829baa02623833",
@@ -283,39 +364,8 @@
       "Film adaptations",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
-  },
-  {
-    "id": "ad3784a74393d9a5cd689810f0c839d4",
-    "title": "Kazuo Ishiguro announces 1930s spy caper to be published next year",
-    "author": "Ella Creamer",
-    "description": "Miss Lambert Steps Aboard Danger is the first novel from the Nobel laureate since 2021’s Klara and the Sun and draws on the author’s love of music, art and Golden Age cinema A new novel by Nobel laureate Kazuo Ishiguro is set to be published in March next year. Miss Lambert Steps Aboard Danger, announced by his UK publisher Faber, is a spy caper. Set in 1938, the novel follows Richard Hadley as he encounters the enigmatic Miss Lambert, and follows her to a conference at a hotel in Devon, and then on to a Scotland-bound train, where he encounters a school friend and a former Tory minister, among others. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "Kazuo Ishiguro"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-16",
-    "thumbnail": "https://i.guim.co.uk/img/media/70fe9c27f8e1b8abb13513cfcab73753a3e88576/377_0_2726_2181/master/2726.jpg?width=700&quality=85&auto=format&fit=max&s=078c624f6f4f09e52e9d568cab9f6764",
-    "cover_large": "https://i.guim.co.uk/img/media/70fe9c27f8e1b8abb13513cfcab73753a3e88576/377_0_2726_2181/master/2726.jpg?width=700&quality=85&auto=format&fit=max&s=078c624f6f4f09e52e9d568cab9f6764",
-    "article_url": "https://www.theguardian.com/books/2026/jun/16/kazuo-ishiguro-new-1930s-spy-caper-novel",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "Kazuo Ishiguro",
-      "books"
-    ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "d77c0d787f44779748bda704b1568fa5",
@@ -345,8 +395,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "ac4d068528b29e0f4edc6b4ff85b63db",
@@ -376,8 +426,8 @@
       "Literary criticism",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "f917acbed54d01428d2240632bcaf4fe",
@@ -418,8 +468,8 @@
       "The Nord Stream Conspiracy: The Inside Story of the Explosions That Shook the World (Book)",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "eec42c32dd0a3a532e6eba08983e4e62",
@@ -459,8 +509,68 @@
       "Yolen, Jane",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
+  },
+  {
+    "id": "657f7750264d46294edd96cd66936fbf",
+    "title": "Togetherness by Rowan Hooper review",
+    "author": "Philip Ball",
+    "description": "This corrective to our habitual emphasis on competition had me writing ‘wow’ in the margins again and again When Charles Darwin published On the Origin of Species in 1859, the Industrial Revolution and British colonialism were in the ascendant. Charles Dickens had published Hard Times five years earlier; Queen Victoria nominally ruled a fifth of the world’s population. Darwin, writes science writer Rowan Hooper, crafted his evolutionary theory to deliver what he figured his audience wanted to hear: “an account of nature as a competitive struggle”. Natural selection was launched into a world that was “colonial, capitalist, patriarchal and ruled by the upper class” – and Darwin’s central message, crudely paraphrased by the philosopher Herbert Spencer as “survival of the fittest”, chimed with the times. Hooper adores Darwin – his account of visiting Darwin’s Kent residence Down House radiates reverence (“it’s a pseudo-religious experience”). But he feels that Darwinism and its union with genetics in the so-called “modern synthesis” has placed undue emphasis on competition in the natural world and underplayed the roles of cooperation and collaboration. In redressing that imbalance...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Science And Nature Books"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-15",
+    "thumbnail": "https://i.guim.co.uk/img/media/1068b410ec7b05ebf0952dda79580a49786a9c13/563_0_5630_4504/master/5630.jpg?width=700&quality=85&auto=format&fit=max&s=5f251e70ecf1ec64f86c13e464cb90f9",
+    "cover_large": "https://i.guim.co.uk/img/media/1068b410ec7b05ebf0952dda79580a49786a9c13/563_0_5630_4504/master/5630.jpg?width=700&quality=85&auto=format&fit=max&s=5f251e70ecf1ec64f86c13e464cb90f9",
+    "article_url": "https://www.theguardian.com/books/2026/jun/15/togetherness-by-rowan-hooper-review-a-stunning-portrait-of-cooperation-in-nature",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Science and nature books",
+      "books"
+    ],
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
+  },
+  {
+    "id": "c6c29f533fb77266b790740512875994",
+    "title": "Wash by Erica Wagner review",
+    "author": "Christopher Shrimpton",
+    "description": "The life of the Brooklyn Bridge’s chief engineer inspires this multifaceted novel Washington Augustus Roebling, or “Wash”, was the chief engineer on the Brooklyn Bridge, which, when opened to the public on 24 May 1883, was the longest suspension bridge in the world. It was quite an achievement, but he didn’t do it alone. On the one hand there was his father, the austere and tyrannical John Roebling, who had designed and begun the bridge before his untimely death in 1869. On the other there was his wife, the accomplished and capable Emily, who, as well as providing moral and secretarial support, took on ever more responsibility for the project after Washington’s own health began to fail mysteriously. Wash is something of a companion piece to Chief Engineer, Erica Wagner’s 2017 biography of Roebling. Spurning what she calls in her afterword “the clock’s time”, she has instead structured the narrative in accordance with “the soul’s time”; that is, by jumping backwards and forwards in time and place in a series of short chapters emphasising those individual moments, choices and encounters that together made this remarkable man who he was. It is a bold and engaging, if somewhat...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction"
+    ],
+    "genre": [
+      "Biography"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-15",
+    "thumbnail": "https://i.guim.co.uk/img/media/b8f90ca6270381a7c04165a12f8e40681259936d/550_83_4697_3757/master/4697.jpg?width=700&quality=85&auto=format&fit=max&s=6a09ab7045210ac7ac4fe041cbf2d2ac",
+    "cover_large": "https://i.guim.co.uk/img/media/b8f90ca6270381a7c04165a12f8e40681259936d/550_83_4697_3757/master/4697.jpg?width=700&quality=85&auto=format&fit=max&s=6a09ab7045210ac7ac4fe041cbf2d2ac",
+    "article_url": "https://www.theguardian.com/books/2017/jun/18/chief-engineer-the-man-who-built-the-brooklyn-bridge-erica-wagner-review",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "books"
+    ],
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "870854e023e80f6ab51718cd542f1808",
@@ -505,8 +615,8 @@
       "Women and Girls",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "0898bca843cb7bd5c22fc490b1f8f6de",
@@ -541,8 +651,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "33b96b53811abff07d307ba2b80519d9",
@@ -571,8 +681,8 @@
       "Starritt, Alexander",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "6eb2eddeb9d2a53f072efff1674fdf03",
@@ -602,56 +712,8 @@
       "Books and Literature",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
-  },
-  {
-    "id": "c34f2dbb59a0ea63c258ee675ddfaf55",
-    "title": "Book Review: ‘The American School of Spies,’ by Stephan Talty",
-    "author": "Edward Dolnick",
-    "description": "In “The American School of Spies,” Stephan Talty tells the story of the desperate struggle to preserve antiquities during World War II.",
-    "summary_ai": "",
-    "categories": [
-      "Archaeology And Anthropology",
-      "Arts And Antiquities Looting",
-      "Athens (Greece)",
-      "Books",
-      "Books And Literature",
-      "Espionage And Intelligence Services",
-      "Greece",
-      "Greek Civilization",
-      "Holocaust And The Nazi Era",
-      "Talty, Stephan",
-      "The American School Of Spies: The Archaeologists Who Fought The Nazis And Saved The Treasures Of Ancient Greece (Book)",
-      "United States International Relations",
-      "World War Ii (1939-45)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-12",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/26/multimedia/00TBRTalty-Review-tzgw/00TBRTalty-Review-tzgw-mediumSquareAt3X-v2.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/26/multimedia/00TBRTalty-Review-tzgw/00TBRTalty-Review-tzgw-mediumSquareAt3X-v2.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/11/books/review/the-american-school-of-spies-stephan-talty.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Archaeology and Anthropology",
-      "Arts and Antiquities Looting",
-      "Athens (Greece)",
-      "Books and Literature",
-      "Espionage and Intelligence Services",
-      "Greece",
-      "Greek Civilization",
-      "Holocaust and the Nazi Era",
-      "Talty, Stephan",
-      "The American School of Spies: The Archaeologists Who Fought the Nazis and Saved the Treasures of Ancient Greece (Book)",
-      "United States International Relations",
-      "World War II (1939-45)",
-      "books"
-    ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "da9552e3314c26d160dbb7239ab9a359",
@@ -681,8 +743,8 @@
       "Jonathan Swift",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "0af03eaf7b083faebd49b08b66333eac",
@@ -719,8 +781,8 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "792ec2c32be75d2c938165df3e4af29d",
@@ -754,8 +816,8 @@
       "Middle East and north Africa",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "1fae8b8cf672ed074b61bd6288ff4a30",
@@ -791,45 +853,8 @@
       "History books",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
-  },
-  {
-    "id": "fa3a9d21c7f18b0cf9710f320276a6b1",
-    "title": "A British Childhood by Frank Cottrell-Boyce review – are we raising a bookless generation?",
-    "author": "Joe Moran",
-    "description": "This clarion call about the impoverishment of children’s lives is also a reminder of the sheer magic of reading Every day, on my walk to work, I pass a primary school. A group of little people are being dropped off by parents. They are met at the gates by a teacher who greets them all by name before leading them up the steps to breakfast club. In the cold and dark of winter, with the school’s windows glowing invitingly, I sometimes envy these children their warm, welcoming cocoon. I thought of that daily scene often when reading this book, which is inspired by Frank Cottrell-Boyce’s time as Waterstones children’s laureate. During his laureateship he ran a campaign with the literary charity BookTrust called Reading Rights, addressing literacy inequality for children in poverty. It was prompted by the discovery that nearly half of children were arriving at school without having been read to. Many had no clue how books worked. They were trying to swipe rather than turn pages, or expand illustrations by pinching them with their fingers. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Children",
-      "Children'S Laureate",
-      "Culture",
-      "Frank Cottrell-Boyce",
-      "Society Books"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-08",
-    "thumbnail": "https://i.guim.co.uk/img/media/a0cfb32fba9cae4e669aacb6952839cc52ce90d8/0_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=ad7c169e402618d85c53445439719768",
-    "cover_large": "https://i.guim.co.uk/img/media/a0cfb32fba9cae4e669aacb6952839cc52ce90d8/0_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=ad7c169e402618d85c53445439719768",
-    "article_url": "https://www.theguardian.com/books/2026/jun/08/a-british-childhood-by-frank-cottrell-boyce-review-are-we-raising-a-bookless-generation",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Children",
-      "Children's laureate",
-      "Culture",
-      "Frank Cottrell-Boyce",
-      "Society books",
-      "books"
-    ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "cd29f8375e271820c02627200e68f1d2",
@@ -861,45 +886,8 @@
       "Michael Ondaatje",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
-  },
-  {
-    "id": "70cd24b8757464da7bbe573c0af45489",
-    "title": "The best books to read in May: new paperbacks from Ocean Vuong, RF Kuang and Nick Clegg",
-    "author": "Guardian Staff",
-    "description": "Looking for a new reading recommendation? Here are some must-read paperbacks, from a campus novel to a history of language *** Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Nick Clegg",
-      "Ocean Vuong",
-      "Paperbacks",
-      "Sarah Moss"
-    ],
-    "genre": [
-      "History"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-05-23",
-    "thumbnail": "https://i.guim.co.uk/img/media/b59d0cebdadaa3d1081abf4efc196c42fff7430c/0_0_4000_3198/master/4000.jpg?width=700&quality=85&auto=format&fit=max&s=bf2d323a7ced8acf4200186edff9fe3f",
-    "cover_large": "https://i.guim.co.uk/img/media/b59d0cebdadaa3d1081abf4efc196c42fff7430c/0_0_4000_3198/master/4000.jpg?width=700&quality=85&auto=format&fit=max&s=bf2d323a7ced8acf4200186edff9fe3f",
-    "article_url": "https://www.theguardian.com/books/ng-interactive/2026/may/23/the-best-books-to-read-in-may-new-paperbacks-from-ocean-vuong-rf-kuang-and-nick-clegg",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Nick Clegg",
-      "Ocean Vuong",
-      "Paperbacks",
-      "Sarah Moss",
-      "books"
-    ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -929,8 +917,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -969,8 +957,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "755ba738881478773c8491c271f5d902",
@@ -997,8 +985,8 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "f0a8987fb7322e3a0dc23bf36fa062e5",
@@ -1039,8 +1027,8 @@
       "audio-neutral-informative",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "5abd518a1f4e1d19007e36a68c716195",
@@ -1079,7 +1067,7 @@
       "Psychiatry and Psychiatrists",
       "books"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   }
 ]

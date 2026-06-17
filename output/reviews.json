@@ -1,5 +1,39 @@
 [
   {
+    "id": "dd9bc20b36326aad21b26f53114fd30d",
+    "title": "Here are the finalists for the 2026 Dayton Literary Peace Prize.",
+    "author": "Literary Hub",
+    "description": "Today, the Dayton Literary Peace Prize Foundation, which celebrates “writers whose work demonstrates the power of the written word to foster peace,” announced the finalists for its 2026 Dayton Literary Peace Prize (for books published in 2025). The winners will",
+    "summary_ai": "",
+    "categories": [
+      "Ann Patchett",
+      "Book News",
+      "Dayton Literary Peace Prize",
+      "News And Culture",
+      "Reviews",
+      "The Hub"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-06-17",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2021/08/daytonliterary-768x403.png",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2021/08/daytonliterary-768x403.png",
+    "article_url": "https://lithub.com/here-are-the-finalists-for-the-2026-dayton-literary-peace-prize/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Ann Patchett",
+      "Book News",
+      "Dayton Literary Peace Prize",
+      "News and Culture",
+      "The Hub",
+      "reviews"
+    ],
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
+  },
+  {
     "id": "25fb0d6668feba1607c936f122bfb942",
     "title": "Lit Hub Daily: June 17, 2026",
     "author": "Lit Hub Daily",
@@ -22,8 +56,8 @@
       "Lit Hub Daily",
       "reviews"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "dc1a4a8a9c64fc20033abb9abc5bea66",
@@ -74,8 +108,8 @@
       "military",
       "reviews"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "5cd0460b61a2e4836b3e2279dbdcccc9",
@@ -130,8 +164,8 @@
       "poetry",
       "reviews"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "f2e823706066b7197548da6c7be120e3",
@@ -177,8 +211,8 @@
       "racism",
       "reviews"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "b7f04525294c12091ece1884c79c58ae",
@@ -225,8 +259,8 @@
       "natural disasters",
       "reviews"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "a7cd225004fe1ab0ace87ec70c3c96e7",
@@ -273,8 +307,8 @@
       "ethnic studies",
       "reviews"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "9f1ad77f5549da6f305a0e164a155347",
@@ -321,8 +355,8 @@
       "reviews",
       "shibari"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "eb7edffc9140cb016f454f4d08c0e589",
@@ -370,8 +404,8 @@
       "psychology",
       "reviews"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "ee168752d7f74397f01417a3c1b886f4",
@@ -416,55 +450,36 @@
       "reviews",
       "sleep"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
-    "id": "2cbbe87c41c8e438352140db0e56277a",
-    "title": "On the Ethical Problems of Clinging to My Sighted Life",
-    "author": "Deni Elliott",
-    "description": "The letter that my eye doctor had sent to the state’s agency included diagnosis and prognosis, and it described my functional limitations: some trouble reading print and computer text, more trouble finding landmarks when walking and identifying obstacles in my",
+    "id": "b78f5c88202549aa4265a0e7065b498b",
+    "title": "Book Riot’s Deals of the Day for June 17, 2027",
+    "author": "Deals",
+    "description": "Indigenous horror, a cupcake baking football player, a summer in Greece gone terribly wrong, and more of today's best book deals.",
     "summary_ai": "",
     "categories": [
-      "Blindness",
-      "Catching Sight: How A Guide Dog Helped Me See Myself",
-      "Craft",
-      "Deni Elliott",
-      "Disability",
-      "Features",
-      "Graham Buck",
-      "Health",
-      "Low Vision",
-      "Memoir",
-      "News And Culture",
+      "Book Deals",
       "Reviews"
     ],
-    "genre": [],
+    "genre": [
+      "Horror"
+    ],
     "language": "English",
-    "publisher": "Literary Hub",
+    "publisher": "Book Riot",
     "published_date": "2026-06-17",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/longform-banner-51-768x384.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/longform-banner-51-768x384.png",
-    "article_url": "https://lithub.com/on-the-ethical-problems-of-clinging-to-my-sighted-life/",
-    "source": "Literary Hub",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/never-whistle-at-night.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/never-whistle-at-night.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-june-17-2027/",
+    "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Catching Sight: How a Guide Dog Helped Me See Myself",
-      "Deni Elliott",
-      "Features",
-      "Graham Buck",
-      "Health",
-      "Memoir",
-      "News and Culture",
-      "blindness",
-      "craft",
-      "disability",
-      "low vision",
-      "memoir",
+      "Book Deals",
       "reviews"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "fe0f55f4e97c6628385a3fb8e2d842ae",
@@ -493,8 +508,8 @@
       "Past Tense",
       "reviews"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "eed910e8f3abb42fc2e65ae3878eacc0",
@@ -524,8 +539,8 @@
       "Unusual Suspects",
       "reviews"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "35c548598328a5e2a391caa0e247defe",
@@ -558,8 +573,8 @@
       "True Story",
       "reviews"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "9d0a3a3dea256c410f83cfe3c592b78f",
@@ -605,8 +620,8 @@
       "reviews",
       "studio ghibli"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "a2569afcc1020df2414e5d266f5cf399",
@@ -635,8 +650,8 @@
       "Young Adult Literature",
       "reviews"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "3db1b57939dcfe1f3382e33d36924a63",
@@ -667,62 +682,8 @@
       "new horror retellings",
       "reviews"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
-  },
-  {
-    "id": "37d4bc66a163ee06ffc403a2a6d42942",
-    "title": "Book Riot’s Deals of the Day for June 16, 2026",
-    "author": "Deals",
-    "description": "A love letter to California, a Golden Girls cozy mystery, a novel inspired by a beloved Harlem jazz performer, and more of today's best book deals",
-    "summary_ai": "",
-    "categories": [
-      "Book Deals",
-      "Reviews"
-    ],
-    "genre": [
-      "Mystery"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-16",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/07/sorcery-and-small-magics-200x300.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/07/sorcery-and-small-magics-200x300.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-june-16-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Book Deals",
-      "reviews"
-    ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
-  },
-  {
-    "id": "36be095f393d606b0f0f64a3b93b505e",
-    "title": "The Buzziest Book Club Read of 2026 So Far",
-    "author": "S. Zainab Williams",
-    "description": "The buzziest book of 2026 has made just about every best books of the year so far list. Find out why it's KIN by Tayari Jones.",
-    "summary_ai": "",
-    "categories": [
-      "In Reading Color",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-16",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/11/Kin-Tayari-Jones-cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/11/Kin-Tayari-Jones-cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/buzziest-2026-book-kin/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "In Reading Color",
-      "reviews"
-    ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "df08ddb61df26290a0a5a61bcd6fb15b",
@@ -745,8 +706,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:46+00:00",
+    "updated_at": "2026-06-17T20:07:46Z"
   },
   {
     "id": "f808f7be2382a7caca4732192d9ef54c",
@@ -769,8 +730,60 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:46+00:00",
+    "updated_at": "2026-06-17T20:07:46Z"
+  },
+  {
+    "id": "ac636783ad16899f3a0313c710d65d55",
+    "title": "Do You Want an AI Chatbot in Your Book? Google is Betting On “Yes”",
+    "author": "Danika Ellis",
+    "description": "Google Play Books is offering a new AI chatbot feature embedded in select ebooks. But is that what readers wants?",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Today In Books"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-17",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2020/12/instagram-book-club-featured.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2020/12/instagram-book-club-featured.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/google-play-books-chatbot/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Today in Books",
+      "reviews"
+    ],
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
+  },
+  {
+    "id": "cfe21e79e95f5fef23b56c408a220fce",
+    "title": "Kazuo Ishiguro Wrote a WWII Spy Novel!",
+    "author": "Rebecca Joines Schinsky",
+    "description": "Miss Lambert Steps Aboard Danger is due out next March.",
+    "summary_ai": "",
+    "categories": [
+      "News",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-17",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/miss-lambert-steps-aboard-danger.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/miss-lambert-steps-aboard-danger.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/kazuo-ishiguro-spy-novel-miss-lambert-steps-aboard-danger/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "News",
+      "reviews"
+    ],
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "d6e2b8e72ea6a0ab1288b272fccf7769",
@@ -795,38 +808,8 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
-  },
-  {
-    "id": "1726d56fe418c1d976c272731064b0bd",
-    "title": "Step Right Up: The Fantasy Backlist Titles at the Top of My TBR",
-    "author": "Liberty Hardy",
-    "description": "Get ready to add these fun fantasies to your TBR!",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Science Fiction/Fantasy",
-      "Swords And Spaceships"
-    ],
-    "genre": [
-      "Fantasy"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-16",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2021/06/holding-stack-of-books.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2021/06/holding-stack-of-books.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/fantasy-backlist-titles-on-my-tbr/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Science Fiction/Fantasy",
-      "Swords and Spaceships",
-      "reviews"
-    ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:47+00:00",
+    "updated_at": "2026-06-17T20:07:47Z"
   },
   {
     "id": "ac4df7fd2924183cb1fd028cc9aac32e",
@@ -849,7 +832,7 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-06-17T10:55:03+00:00",
-    "updated_at": "2026-06-17T10:55:03Z"
+    "created_at": "2026-06-17T20:07:46+00:00",
+    "updated_at": "2026-06-17T20:07:46Z"
   }
 ]
