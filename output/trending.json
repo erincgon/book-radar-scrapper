@@ -1,5 +1,112 @@
 [
   {
+    "id": "f5e8ed3a1359becc0f14248213d96832",
+    "title": "David Thomson Loves the Movies but Not What They Have Done to America",
+    "author": "A.O. Scott",
+    "description": "How the film writer David Thomson found himself in a lover’s quarrel with cinema — and America.",
+    "summary_ai": "",
+    "categories": [
+      "A Sudden Flicker Of Light: A Revisionist History Of Movies (Book)",
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Movies",
+      "The New Biographical Dictionary Of Film (Book)",
+      "Thomson, David (1941- )",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-19",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/15/multimedia/00TBR-THOMSON-MOVIES-bcqf/00TBR-THOMSON-MOVIES-bcqf-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/15/multimedia/00TBR-THOMSON-MOVIES-bcqf/00TBR-THOMSON-MOVIES-bcqf-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/19/books/review/david-thomson-movies.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "A Sudden Flicker of Light: A Revisionist History of Movies (Book)",
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Movies",
+      "The New Biographical Dictionary of Film (Book)",
+      "Thomson, David (1941- )",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
+  },
+  {
+    "id": "b5ae43016d62109a8d7c1b5dab02b2ec",
+    "title": "Jean Houston, ‘Midwife of Souls’ Who Advised Hillary Clinton, Dies at 89",
+    "author": "Michael S. Rosenwald",
+    "description": "The author of books like “The Possible Human,” she held workshops that drew on mythology, psychology and the experiential ethos of Esalen. But she refused to be called a guru.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Clinton, Hillary Rodham",
+      "Deaths (Obituaries)",
+      "Houston, Jean",
+      "Keller, Helen",
+      "Psychology And Psychologists",
+      "Religion And Belief"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-19",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/18/multimedia/18houston-jean-fcjt/18houston-jean-fcjt-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/18/multimedia/18houston-jean-fcjt/18houston-jean-fcjt-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/18/science/jean-houston-dead.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Clinton, Hillary Rodham",
+      "Deaths (Obituaries)",
+      "Houston, Jean",
+      "Keller, Helen",
+      "Psychology and Psychologists",
+      "Religion and Belief",
+      "books"
+    ],
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
+  },
+  {
+    "id": "867734b7487c124448e68db2b6f3aebb",
+    "title": "Disability by David Turner review",
+    "author": "Lucy Webster",
+    "description": "This study of the struggle for rights includes incredible personal stories that we should all be more familiar with You could take two outwardly contradictory lessons from the historian David Turner’s new book on disability in the UK. First, that alarmingly little has changed for disabled people since the beginning of the modern age (the book’s first few stories, of 17th-century men and women having to prove they were disabled enough to receive parish support to avoid starvation, will be familiar to anyone who has tried to claim the personal independence payment). And second, that absolutely everything has changed - from the closing of asylums to the advent of prosthetics to the eventual, belated enshrining of disability rights in law. But the central argument of Disability helps to reconcile these two narratives into a coherent whole. Turner, a professor at Swansea University, shows that while public and political attitudes to disability have remained poor, disabled people have challenged them at every stage, wresting progress out of even the most unpromising circumstances. This is not a story of rights and dignity bestowed from on high, but of the people and communities clawing...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Disability",
+      "Society Books"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-19",
+    "thumbnail": "https://i.guim.co.uk/img/media/58cd4ae841d54702d64046682345d004e7973a60/399_87_1317_1054/master/1317.jpg?width=700&quality=85&auto=format&fit=max&s=2ffc087081fb121a964843f3ec7a3024",
+    "cover_large": "https://i.guim.co.uk/img/media/58cd4ae841d54702d64046682345d004e7973a60/399_87_1317_1054/master/1317.jpg?width=700&quality=85&auto=format&fit=max&s=2ffc087081fb121a964843f3ec7a3024",
+    "article_url": "https://www.theguardian.com/books/2026/jun/19/disability-by-david-turner-review-a-revelatory-new-history",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Disability",
+      "Society books",
+      "books"
+    ],
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
+  },
+  {
     "id": "8a22feba1b54dea1f56cd1623bc0e52a",
     "title": "Danny Simmons, Painter and Activist From a Creative Family, Dies at 72",
     "author": "Clay Risen",
@@ -46,8 +153,8 @@
       "Simmons, Russell",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "7c7e1e31c67c3914eb74411497f7b9f3",
@@ -59,12 +166,12 @@
       "Books",
       "Books And Literature",
       "Haberman, Maggie",
-      "International Relations",
       "Presidential Power (Us)",
       "Regime Change: Inside The Imperial Presidency Of Donald Trump (Book)",
       "Swan, Jonathan (1985- )",
       "Trump, Donald J",
-      "United States",
+      "United States Defense And Military Forces",
+      "United States International Relations",
       "United States Politics And Government"
     ],
     "genre": [
@@ -81,17 +188,17 @@
     "tags": [
       "Books and Literature",
       "Haberman, Maggie",
-      "International Relations",
       "Presidential Power (US)",
       "Regime Change: Inside the Imperial Presidency of Donald Trump (Book)",
       "Swan, Jonathan (1985- )",
       "Trump, Donald J",
-      "United States",
+      "United States Defense and Military Forces",
+      "United States International Relations",
       "United States Politics and Government",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "ea1b21b8e6a420dbfc2ae60459922ac7",
@@ -142,8 +249,8 @@
       "University of Virginia",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "6d1c68323558ebdfd27a3b84c6c9df27",
@@ -178,8 +285,8 @@
       "books",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "1a3c7721cf80b204f9be2a234510d010",
@@ -222,8 +329,8 @@
       "Witchcraft",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "085c2a95f89e12c93f32ca15d31828e6",
@@ -255,14 +362,14 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "5cab0e64eb81576942b1c60900c86485",
     "title": "The Lonely City by Olivia Laing audiobook review",
     "author": "Fiona Sturges",
-    "description": "Tilda Swinton makes her audiobook debut with this landmark study of how New York artists from Edward Hopper to Andy Warhol have lived with loneliness It is a decade since Olivia Laing published The Lonely City , a blend of memoir and cultural analysis on the isolation of urban living. Laing – who is non-binary – had moved to Manhattan following a love affair that ended abruptly. Once there, they were taken aback at their feelings of isolation. Laing discovered “you can be lonely anywhere, but there is a particular flavour to the loneliness that comes from living in a city, surrounded by millions of people”. The author’s attempts to navigate these difficult feelings are threaded through a series of artist portraits examining the connection between loneliness and creativity. There is Edward Hopper, famed for his paintings featuring lone figures seated in cafes and diners, and Henry Darger, the janitor and hospital worker who lived alone and achieved posthumous fame through his disturbing and hallucinatory paintings of misfits. Laing also ponders the work of Andy Warhol, who surrounded himself with people while still keeping them at arm’s length, and David Wojnarowicz, the American...",
+    "description": "Tilda Swinton narrates this landmark study of how New York artists from Edward Hopper to Andy Warhol have lived with loneliness It is a decade since Olivia Laing published The Lonely City , a blend of memoir and cultural analysis on the isolation of urban living. Laing – who is non-binary – had moved to Manhattan following a love affair that ended abruptly. Once there, they were taken aback at their feelings of isolation. Laing discovered “you can be lonely anywhere, but there is a particular flavour to the loneliness that comes from living in a city, surrounded by millions of people”. The author’s attempts to navigate these difficult feelings are threaded through a series of artist portraits examining the connection between loneliness and creativity. There is Edward Hopper, famed for his paintings featuring lone figures seated in cafes and diners, and Henry Darger, the janitor and hospital worker who lived alone and achieved posthumous fame through his disturbing and hallucinatory paintings of misfits. Laing also ponders the work of Andy Warhol, who surrounded himself with people while still keeping them at arm’s length, and David Wojnarowicz, the American artist and...",
     "summary_ai": "",
     "categories": [
       "Art And Design",
@@ -293,34 +400,98 @@
       "Tilda Swinton",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
-    "id": "4736e89237277642a9fb5c2e69809e5b",
-    "title": "📚 Every good nerd",
-    "author": "Community",
-    "description": "Here's a group project we're actually thrilled to participate in.",
+    "id": "030a3bf343376a935660d7eeb4b85399",
+    "title": "Book Riot’s Deals of the Day for June 18, 2026",
+    "author": "Deals",
+    "description": "A reformed assassin finds himself a target, students at an elite academy take on an anonymous bully, a sweet and spicy romance at a destination wedding, and more of today's best book deals",
     "summary_ai": "",
     "categories": [
-      "Book Riot Newsletter",
+      "Book Deals",
       "Reviews"
     ],
-    "genre": [],
+    "genre": [
+      "Romance"
+    ],
     "language": "English",
     "publisher": "Book Riot",
     "published_date": "2026-06-18",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/miss-lambert-steps-aboard-danger.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/miss-lambert-steps-aboard-danger.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/every-good-nerd/",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2023/12/81rB3kTlCsL._SL1500_.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2023/12/81rB3kTlCsL._SL1500_.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-june-18-2026/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Book Riot Newsletter",
+      "Book Deals",
       "reviews"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
+  },
+  {
+    "id": "032e339936f72b7201385b88cb2fee6e",
+    "title": "The Books That Almost Made The “Best of the Century: YA” Cut",
+    "author": "Kelly Jensen",
+    "description": "We limited our young adult picks for \"Best of the Century So Far\" to 45...but there were so many more we could add. Here are 10 runners up.",
+    "summary_ai": "",
+    "categories": [
+      "All Access",
+      "Reviews",
+      "What'S Up In Ya",
+      "Young Adult Literature"
+    ],
+    "genre": [
+      "Young Adult"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-18",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/allgedly-1-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/allgedly-1-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/the-books-that-almost-made-the-best-of-the-century-ya-cut/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "All Access",
+      "What's Up in YA",
+      "Young Adult Literature",
+      "reviews"
+    ],
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
+  },
+  {
+    "id": "f7099cd1ebbc687b34aa07774c7620f2",
+    "title": "Fall in Love with the Baes of Juneteenth",
+    "author": "Jessica Pryde",
+    "description": "Baes of Juneteenth is an interconnected series of books by an array of Black romance authors, set in various locations across the country.",
+    "summary_ai": "",
+    "categories": [
+      "Kissing Books",
+      "Reviews",
+      "Romance/Erotica"
+    ],
+    "genre": [
+      "Romance"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-18",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/Mr-Alpha-Undone-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/Mr-Alpha-Undone-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/baes-of-juneteenth/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Kissing Books",
+      "Romance/Erotica",
+      "reviews"
+    ],
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "1ade5bee1c054f982937c42b9673c1b9",
@@ -345,8 +516,8 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "2fc155702d211a48c0050a464e835891",
@@ -373,34 +544,8 @@
       "Zero to Well-Read",
       "reviews"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
-  },
-  {
-    "id": "6efbcb9cd2d2746a305bb108947cdbbe",
-    "title": "What’s Trending in LGBTQ+ Content On Wattpad",
-    "author": "Guest",
-    "description": "Alessandra Ferreri is the Head of Content for Wattpad. Below, she discusses what is trending in LGBTQ+ content on the webnovel platform.",
-    "summary_ai": "",
-    "categories": [
-      "Lgbtq",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-18",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/wattpad-pride-graphic.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/wattpad-pride-graphic.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/lgbtq-content-on-wattpad-trends/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "LGBTQ",
-      "reviews"
-    ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "0de47d5039ae63ef8405d47c6646d284",
@@ -436,8 +581,8 @@
       "Paperbacks",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "77afa997b4159f3c9fefbb3934ed638a",
@@ -467,8 +612,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "9e8320b4e990b89f6b78df7209161fd7",
@@ -501,8 +646,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "44d56a6f7c9849669ef85eb545772b66",
@@ -537,8 +682,8 @@
       "Williams, Gregory H",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "cb1efeb382d11a66987c412bb10abbf9",
@@ -579,151 +724,7 @@
       "Theater (Broadway)",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
-  },
-  {
-    "id": "3b6d3b4d5c414a2138c521f57cf82f5a",
-    "title": "Book Review: ‘Ghost-Eye,’ by Amitav Ghosh",
-    "author": "Junot Díaz",
-    "description": "Fascinating if overstuffed, Amitav Ghosh’s “Ghost-Eye” connects the mystifying case of a girl in Calcutta to the global climate crisis.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Ghosh, Amitav",
-      "Ghost-Eye (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-16",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/16/books/16TBR-Ghosh-review/16TBR-Ghosh-review-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/16/books/16TBR-Ghosh-review/16TBR-Ghosh-review-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/16/books/review/amitav-ghosh-ghost-eye.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Ghosh, Amitav",
-      "Ghost-Eye (Book)",
-      "books"
-    ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
-  },
-  {
-    "id": "6f8d05d6678fc2d6ea6892fdbfbcf96d",
-    "title": "Book Review: ‘Empire of Ink,’ by Alex Wright",
-    "author": "Alexandra Jacobs",
-    "description": "In “Empire of Ink,” Alex Wright describes how newfangled technologies and disruptive personalities have regularly unsettled the American media.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Empire Of Ink: The Printers, Rogues, And Radicals Who Invented The American Newspaper (Book)",
-      "Newspapers",
-      "Printing And Allied Trades",
-      "Twain, Mark",
-      "United States",
-      "Wright, Alex (1966- )",
-      "Writing And Writers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-16",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/14/multimedia/14tbr-wright-review-fbhq/14tbr-wright-review-fbhq-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/14/multimedia/14tbr-wright-review-fbhq/14tbr-wright-review-fbhq-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/14/books/review/empire-of-ink-newspapers-alex-wright.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Empire of Ink: The Printers, Rogues, and Radicals Who Invented the American Newspaper (Book)",
-      "Newspapers",
-      "Printing and Allied Trades",
-      "Twain, Mark",
-      "United States",
-      "Wright, Alex (1966- )",
-      "Writing and Writers",
-      "books"
-    ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
-  },
-  {
-    "id": "562d31bd77c1a7c3cb5bc6017aec7615",
-    "title": "Cracking stories, Gromit: Wallace’s long",
-    "author": "Ella Creamer",
-    "description": "After ‘bottling everything up for a long time’ the faithful pet, who has remained silent for many years, will spill the beans on the pair’s ‘pet hates and fur-vent passions’ Gromit, the canine star of the Wallace and Gromit animations, is “breaking his silence” and writing a memoir. After “bottling everything up for a long time”, the moment has come for him to “spill the beans”, according to publisher Ebury. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Aardman",
-      "Animation On Tv",
-      "Books",
-      "Culture",
-      "Film",
-      "Television",
-      "Wallace & Gromit"
-    ],
-    "genre": [
-      "Memoir"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-16",
-    "thumbnail": "https://i.guim.co.uk/img/media/56d2927c73f5896ec25936242c3c7f85ee2661fd/352_0_2472_1978/master/2472.jpg?width=700&quality=85&auto=format&fit=max&s=1f57570056bb4c6bf592f331803cf281",
-    "cover_large": "https://i.guim.co.uk/img/media/56d2927c73f5896ec25936242c3c7f85ee2661fd/352_0_2472_1978/master/2472.jpg?width=700&quality=85&auto=format&fit=max&s=1f57570056bb4c6bf592f331803cf281",
-    "article_url": "https://www.theguardian.com/books/2026/jun/17/wallace-gromit-long-suffering-pooch-candid-autobiography",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Aardman",
-      "Animation on TV",
-      "Books",
-      "Culture",
-      "Film",
-      "Television",
-      "Wallace & Gromit",
-      "books"
-    ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
-  },
-  {
-    "id": "d762342d53e8ca9b0b829baa02623833",
-    "title": "‘Don DeLillo gave me his blessing’: film director Ben Rivers on how fan mail from the Underworld author led to his latest work",
-    "author": "Steve Rose",
-    "description": "When Rivers received a surprise letter from DeLillo, it encouraged him to set the author’s one-act play in an adult-free, postapocalyptic world Nine-year-old girls reciting the gnomic prose of Don DeLillo – it sounds like an extreme English detention, but for film-maker Ben Rivers this was the foundation of his new movie, and the culmination of an unlikely friendship with the literary titan. DeLillo is an almost mythical figure of contemporary literature. His prose is precisely hewn, his narratives sophisticated and his preoccupations uncannily prophetic: conspiracy, terrorism, nuclear power, hypercapitalism – the 89-year-old New Yorker has been ahead of the curve for much of the late 20th and early 21st century. Rivers, a 53-year-old independent film-maker based in London, has been a lifelong fan, he says. So he was stunned to receive a letter from DeLillo himself one day in 2017. A mutual friend had sent DeLillo a DVD of Rivers’ 2015 film The Sky Trembles and the Earth is Afraid and the Two Eyes Are Not Brothers , a hallucinatory parable set in a semi-abstract Morocco, and the writer responded with a hand-typed letter. “He thought that the film was really powerful and he was...",
-    "summary_ai": "",
-    "categories": [
-      "Ben Rivers",
-      "Books",
-      "Culture",
-      "Don Delillo",
-      "Film",
-      "Film Adaptations"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-16",
-    "thumbnail": "https://i.guim.co.uk/img/media/dd41fc0bf43b4fd519d9204a2191e9b2ccf5d076/0_0_1363_1090/master/1363.jpg?width=700&quality=85&auto=format&fit=max&s=41344edb06d365a177e4ce753eb590d7",
-    "cover_large": "https://i.guim.co.uk/img/media/dd41fc0bf43b4fd519d9204a2191e9b2ccf5d076/0_0_1363_1090/master/1363.jpg?width=700&quality=85&auto=format&fit=max&s=41344edb06d365a177e4ce753eb590d7",
-    "article_url": "https://www.theguardian.com/film/2016/may/05/the-sky-trembles-and-the-earth-is-afraid-and-the-two-eyes-are-not-brothers-review-brutal-essay-on-orientalism",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Ben Rivers",
-      "Books",
-      "Culture",
-      "Don DeLillo",
-      "Film",
-      "Film adaptations",
-      "books"
-    ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   }
 ]

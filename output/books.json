@@ -1,5 +1,112 @@
 [
   {
+    "id": "f5e8ed3a1359becc0f14248213d96832",
+    "title": "David Thomson Loves the Movies but Not What They Have Done to America",
+    "author": "A.O. Scott",
+    "description": "How the film writer David Thomson found himself in a lover’s quarrel with cinema — and America.",
+    "summary_ai": "",
+    "categories": [
+      "A Sudden Flicker Of Light: A Revisionist History Of Movies (Book)",
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Movies",
+      "The New Biographical Dictionary Of Film (Book)",
+      "Thomson, David (1941- )",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-19",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/15/multimedia/00TBR-THOMSON-MOVIES-bcqf/00TBR-THOMSON-MOVIES-bcqf-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/15/multimedia/00TBR-THOMSON-MOVIES-bcqf/00TBR-THOMSON-MOVIES-bcqf-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/19/books/review/david-thomson-movies.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "A Sudden Flicker of Light: A Revisionist History of Movies (Book)",
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Movies",
+      "The New Biographical Dictionary of Film (Book)",
+      "Thomson, David (1941- )",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
+  },
+  {
+    "id": "b5ae43016d62109a8d7c1b5dab02b2ec",
+    "title": "Jean Houston, ‘Midwife of Souls’ Who Advised Hillary Clinton, Dies at 89",
+    "author": "Michael S. Rosenwald",
+    "description": "The author of books like “The Possible Human,” she held workshops that drew on mythology, psychology and the experiential ethos of Esalen. But she refused to be called a guru.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Clinton, Hillary Rodham",
+      "Deaths (Obituaries)",
+      "Houston, Jean",
+      "Keller, Helen",
+      "Psychology And Psychologists",
+      "Religion And Belief"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-19",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/18/multimedia/18houston-jean-fcjt/18houston-jean-fcjt-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/18/multimedia/18houston-jean-fcjt/18houston-jean-fcjt-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/18/science/jean-houston-dead.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Clinton, Hillary Rodham",
+      "Deaths (Obituaries)",
+      "Houston, Jean",
+      "Keller, Helen",
+      "Psychology and Psychologists",
+      "Religion and Belief",
+      "books"
+    ],
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
+  },
+  {
+    "id": "867734b7487c124448e68db2b6f3aebb",
+    "title": "Disability by David Turner review",
+    "author": "Lucy Webster",
+    "description": "This study of the struggle for rights includes incredible personal stories that we should all be more familiar with You could take two outwardly contradictory lessons from the historian David Turner’s new book on disability in the UK. First, that alarmingly little has changed for disabled people since the beginning of the modern age (the book’s first few stories, of 17th-century men and women having to prove they were disabled enough to receive parish support to avoid starvation, will be familiar to anyone who has tried to claim the personal independence payment). And second, that absolutely everything has changed - from the closing of asylums to the advent of prosthetics to the eventual, belated enshrining of disability rights in law. But the central argument of Disability helps to reconcile these two narratives into a coherent whole. Turner, a professor at Swansea University, shows that while public and political attitudes to disability have remained poor, disabled people have challenged them at every stage, wresting progress out of even the most unpromising circumstances. This is not a story of rights and dignity bestowed from on high, but of the people and communities clawing...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Disability",
+      "Society Books"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-19",
+    "thumbnail": "https://i.guim.co.uk/img/media/58cd4ae841d54702d64046682345d004e7973a60/399_87_1317_1054/master/1317.jpg?width=700&quality=85&auto=format&fit=max&s=2ffc087081fb121a964843f3ec7a3024",
+    "cover_large": "https://i.guim.co.uk/img/media/58cd4ae841d54702d64046682345d004e7973a60/399_87_1317_1054/master/1317.jpg?width=700&quality=85&auto=format&fit=max&s=2ffc087081fb121a964843f3ec7a3024",
+    "article_url": "https://www.theguardian.com/books/2026/jun/19/disability-by-david-turner-review-a-revelatory-new-history",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Disability",
+      "Society books",
+      "books"
+    ],
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
+  },
+  {
     "id": "8a22feba1b54dea1f56cd1623bc0e52a",
     "title": "Danny Simmons, Painter and Activist From a Creative Family, Dies at 72",
     "author": "Clay Risen",
@@ -46,8 +153,8 @@
       "Simmons, Russell",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "7c7e1e31c67c3914eb74411497f7b9f3",
@@ -59,12 +166,12 @@
       "Books",
       "Books And Literature",
       "Haberman, Maggie",
-      "International Relations",
       "Presidential Power (Us)",
       "Regime Change: Inside The Imperial Presidency Of Donald Trump (Book)",
       "Swan, Jonathan (1985- )",
       "Trump, Donald J",
-      "United States",
+      "United States Defense And Military Forces",
+      "United States International Relations",
       "United States Politics And Government"
     ],
     "genre": [
@@ -81,17 +188,17 @@
     "tags": [
       "Books and Literature",
       "Haberman, Maggie",
-      "International Relations",
       "Presidential Power (US)",
       "Regime Change: Inside the Imperial Presidency of Donald Trump (Book)",
       "Swan, Jonathan (1985- )",
       "Trump, Donald J",
-      "United States",
+      "United States Defense and Military Forces",
+      "United States International Relations",
       "United States Politics and Government",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "ea1b21b8e6a420dbfc2ae60459922ac7",
@@ -142,8 +249,8 @@
       "University of Virginia",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "6d1c68323558ebdfd27a3b84c6c9df27",
@@ -178,8 +285,8 @@
       "books",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "1a3c7721cf80b204f9be2a234510d010",
@@ -222,8 +329,8 @@
       "Witchcraft",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "085c2a95f89e12c93f32ca15d31828e6",
@@ -255,14 +362,14 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "5cab0e64eb81576942b1c60900c86485",
     "title": "The Lonely City by Olivia Laing audiobook review",
     "author": "Fiona Sturges",
-    "description": "Tilda Swinton makes her audiobook debut with this landmark study of how New York artists from Edward Hopper to Andy Warhol have lived with loneliness It is a decade since Olivia Laing published The Lonely City , a blend of memoir and cultural analysis on the isolation of urban living. Laing – who is non-binary – had moved to Manhattan following a love affair that ended abruptly. Once there, they were taken aback at their feelings of isolation. Laing discovered “you can be lonely anywhere, but there is a particular flavour to the loneliness that comes from living in a city, surrounded by millions of people”. The author’s attempts to navigate these difficult feelings are threaded through a series of artist portraits examining the connection between loneliness and creativity. There is Edward Hopper, famed for his paintings featuring lone figures seated in cafes and diners, and Henry Darger, the janitor and hospital worker who lived alone and achieved posthumous fame through his disturbing and hallucinatory paintings of misfits. Laing also ponders the work of Andy Warhol, who surrounded himself with people while still keeping them at arm’s length, and David Wojnarowicz, the American...",
+    "description": "Tilda Swinton narrates this landmark study of how New York artists from Edward Hopper to Andy Warhol have lived with loneliness It is a decade since Olivia Laing published The Lonely City , a blend of memoir and cultural analysis on the isolation of urban living. Laing – who is non-binary – had moved to Manhattan following a love affair that ended abruptly. Once there, they were taken aback at their feelings of isolation. Laing discovered “you can be lonely anywhere, but there is a particular flavour to the loneliness that comes from living in a city, surrounded by millions of people”. The author’s attempts to navigate these difficult feelings are threaded through a series of artist portraits examining the connection between loneliness and creativity. There is Edward Hopper, famed for his paintings featuring lone figures seated in cafes and diners, and Henry Darger, the janitor and hospital worker who lived alone and achieved posthumous fame through his disturbing and hallucinatory paintings of misfits. Laing also ponders the work of Andy Warhol, who surrounded himself with people while still keeping them at arm’s length, and David Wojnarowicz, the American artist and...",
     "summary_ai": "",
     "categories": [
       "Art And Design",
@@ -293,8 +400,8 @@
       "Tilda Swinton",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "0de47d5039ae63ef8405d47c6646d284",
@@ -330,8 +437,8 @@
       "Paperbacks",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "77afa997b4159f3c9fefbb3934ed638a",
@@ -361,8 +468,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "9e8320b4e990b89f6b78df7209161fd7",
@@ -395,8 +502,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "44d56a6f7c9849669ef85eb545772b66",
@@ -431,8 +538,8 @@
       "Williams, Gregory H",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "cb1efeb382d11a66987c412bb10abbf9",
@@ -473,8 +580,8 @@
       "Theater (Broadway)",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "3b6d3b4d5c414a2138c521f57cf82f5a",
@@ -503,8 +610,8 @@
       "Ghost-Eye (Book)",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "6f8d05d6678fc2d6ea6892fdbfbcf96d",
@@ -543,8 +650,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "562d31bd77c1a7c3cb5bc6017aec7615",
@@ -582,43 +689,8 @@
       "Wallace & Gromit",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
-  },
-  {
-    "id": "d762342d53e8ca9b0b829baa02623833",
-    "title": "‘Don DeLillo gave me his blessing’: film director Ben Rivers on how fan mail from the Underworld author led to his latest work",
-    "author": "Steve Rose",
-    "description": "When Rivers received a surprise letter from DeLillo, it encouraged him to set the author’s one-act play in an adult-free, postapocalyptic world Nine-year-old girls reciting the gnomic prose of Don DeLillo – it sounds like an extreme English detention, but for film-maker Ben Rivers this was the foundation of his new movie, and the culmination of an unlikely friendship with the literary titan. DeLillo is an almost mythical figure of contemporary literature. His prose is precisely hewn, his narratives sophisticated and his preoccupations uncannily prophetic: conspiracy, terrorism, nuclear power, hypercapitalism – the 89-year-old New Yorker has been ahead of the curve for much of the late 20th and early 21st century. Rivers, a 53-year-old independent film-maker based in London, has been a lifelong fan, he says. So he was stunned to receive a letter from DeLillo himself one day in 2017. A mutual friend had sent DeLillo a DVD of Rivers’ 2015 film The Sky Trembles and the Earth is Afraid and the Two Eyes Are Not Brothers , a hallucinatory parable set in a semi-abstract Morocco, and the writer responded with a hand-typed letter. “He thought that the film was really powerful and he was...",
-    "summary_ai": "",
-    "categories": [
-      "Ben Rivers",
-      "Books",
-      "Culture",
-      "Don Delillo",
-      "Film",
-      "Film Adaptations"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-16",
-    "thumbnail": "https://i.guim.co.uk/img/media/dd41fc0bf43b4fd519d9204a2191e9b2ccf5d076/0_0_1363_1090/master/1363.jpg?width=700&quality=85&auto=format&fit=max&s=41344edb06d365a177e4ce753eb590d7",
-    "cover_large": "https://i.guim.co.uk/img/media/dd41fc0bf43b4fd519d9204a2191e9b2ccf5d076/0_0_1363_1090/master/1363.jpg?width=700&quality=85&auto=format&fit=max&s=41344edb06d365a177e4ce753eb590d7",
-    "article_url": "https://www.theguardian.com/film/2016/may/05/the-sky-trembles-and-the-earth-is-afraid-and-the-two-eyes-are-not-brothers-review-brutal-essay-on-orientalism",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Ben Rivers",
-      "Books",
-      "Culture",
-      "Don DeLillo",
-      "Film",
-      "Film adaptations",
-      "books"
-    ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "ac4d068528b29e0f4edc6b4ff85b63db",
@@ -648,8 +720,8 @@
       "Literary criticism",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "f917acbed54d01428d2240632bcaf4fe",
@@ -690,8 +762,8 @@
       "The Nord Stream Conspiracy: The Inside Story of the Explosions That Shook the World (Book)",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "eec42c32dd0a3a532e6eba08983e4e62",
@@ -731,8 +803,8 @@
       "Yolen, Jane",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "657f7750264d46294edd96cd66936fbf",
@@ -760,8 +832,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "c6c29f533fb77266b790740512875994",
@@ -791,8 +863,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "870854e023e80f6ab51718cd542f1808",
@@ -837,44 +909,8 @@
       "Women and Girls",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
-  },
-  {
-    "id": "0898bca843cb7bd5c22fc490b1f8f6de",
-    "title": "Madeline Cash Isn’t Playing Around. Or Is She?",
-    "author": "Mikkel Rosengaard",
-    "description": "Her debut novel taps into a microgeneration’s blurring of performance and reality.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Cash, Madeline",
-      "Content Type: Personal Profile",
-      "Levy, Anika Jade",
-      "Lost Lambs (Book)",
-      "Writing And Writers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-13",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/14/multimedia/ST-CASH-01-qcwv/ST-CASH-01-qcwv-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/14/multimedia/ST-CASH-01-qcwv/ST-CASH-01-qcwv-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/13/style/madeline-cash-profile-lost-lambs.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Cash, Madeline",
-      "Content Type: Personal Profile",
-      "Levy, Anika Jade",
-      "Lost Lambs (Book)",
-      "Writing and Writers",
-      "books"
-    ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "da9552e3314c26d160dbb7239ab9a359",
@@ -904,8 +940,8 @@
       "Jonathan Swift",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "0af03eaf7b083faebd49b08b66333eac",
@@ -942,8 +978,8 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "792ec2c32be75d2c938165df3e4af29d",
@@ -977,8 +1013,8 @@
       "Middle East and north Africa",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "cd29f8375e271820c02627200e68f1d2",
@@ -1010,8 +1046,8 @@
       "Michael Ondaatje",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -1041,8 +1077,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1081,35 +1117,7 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
-  },
-  {
-    "id": "755ba738881478773c8491c271f5d902",
-    "title": "What Book Should You Read Next?",
-    "author": "The New York Times Books Staff",
-    "description": "Finding a book you’ll love can be daunting. Let us help.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Content Type: Service"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2024-09-04",
-    "thumbnail": "https://static01.nyt.com/images/2024/09/05/books/review/00WhatToReadNow-092024/00WhatToReadNow-092024-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2024/09/05/books/review/00WhatToReadNow-092024/00WhatToReadNow-092024-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/article/best-books.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Content Type: Service",
-      "books"
-    ],
-    "created_at": "2026-06-18T20:20:35+00:00",
-    "updated_at": "2026-06-18T20:20:35Z"
+    "created_at": "2026-06-19T10:25:25+00:00",
+    "updated_at": "2026-06-19T10:25:25Z"
   }
 ]
