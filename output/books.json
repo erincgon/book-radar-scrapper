@@ -1,5 +1,53 @@
 [
   {
+    "id": "677e85054cc18091e57a102270060e7c",
+    "title": "Danny McBride Thinks Men Learned All the Wrong Lessons From Movies",
+    "author": "David Marchese",
+    "description": "The writer and actor, known for his profane comedic antiheroes, likes to find universal truths in human flaws.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Eastbound & Down (Tv Program)",
+      "Halloween (Movie)",
+      "Mcbride, Danny",
+      "Men And Boys",
+      "Ministers (Protestant)",
+      "Movies",
+      "Puppets",
+      "Religion And Belief",
+      "Television",
+      "The Righteous Gemstones (Tv Program)",
+      "Vice Principals (Tv Program)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-20",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/28/magazine/28mag-interview-mcbride-05/28mag-interview-mcbride-05-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/28/magazine/28mag-interview-mcbride-05/28mag-interview-mcbride-05-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/20/magazine/danny-mcbride-interview.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Eastbound & Down (TV Program)",
+      "Halloween (Movie)",
+      "McBride, Danny",
+      "Men and Boys",
+      "Ministers (Protestant)",
+      "Movies",
+      "Puppets",
+      "Religion and Belief",
+      "Television",
+      "The Righteous Gemstones (TV Program)",
+      "Vice Principals (TV Program)",
+      "books"
+    ],
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
+  },
+  {
     "id": "7659ca14e310f26c450fad92948de894",
     "title": "James Bradley, Co-Author of ‘Flags of Our Fathers,’ Dies at 72",
     "author": "Richard Sandomir",
@@ -8,8 +56,9 @@
     "categories": [
       "Books",
       "Books And Literature",
+      "Bradley, James (1954-2026)",
       "Deaths (Obituaries)",
-      "James Bradley (1954-2026)",
+      "Flags Of Our Fathers (Movie)",
       "Movies",
       "Powers, Ron",
       "Rosenthal, Joe",
@@ -27,8 +76,9 @@
     "source_type": "rss",
     "tags": [
       "Books and Literature",
+      "Bradley, James (1954-2026)",
       "Deaths (Obituaries)",
-      "James Bradley (1954-2026)",
+      "Flags of Our Fathers (Movie)",
       "Movies",
       "Powers, Ron",
       "Rosenthal, Joe",
@@ -36,8 +86,46 @@
       "World War II (1939-45)",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
+  },
+  {
+    "id": "f5e8ed3a1359becc0f14248213d96832",
+    "title": "David Thomson Loves the Movies but Not What They Have Done to America",
+    "author": "A.O. Scott",
+    "description": "How the film writer David Thomson found himself in a lover’s quarrel with cinema — and America.",
+    "summary_ai": "",
+    "categories": [
+      "A Sudden Flicker Of Light: A Revisionist History Of Movies (Book)",
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Movies",
+      "The New Biographical Dictionary Of Film (Book)",
+      "Thomson, David (1941- )",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-20",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/15/multimedia/00TBR-THOMSON-MOVIES-bcqf/00TBR-THOMSON-MOVIES-bcqf-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/15/multimedia/00TBR-THOMSON-MOVIES-bcqf/00TBR-THOMSON-MOVIES-bcqf-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/19/books/review/david-thomson-movies.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "A Sudden Flicker of Light: A Revisionist History of Movies (Book)",
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Movies",
+      "The New Biographical Dictionary of Film (Book)",
+      "Thomson, David (1941- )",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "9f4bf302b2eaf6649c9f9ec8cb122273",
@@ -69,46 +157,49 @@
       "Television",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
-    "id": "f5e8ed3a1359becc0f14248213d96832",
-    "title": "David Thomson Loves the Movies but Not What They Have Done to America",
-    "author": "A.O. Scott",
-    "description": "How the film writer David Thomson found himself in a lover’s quarrel with cinema — and America.",
+    "id": "2bdff859b03eb4836249bc9aa635d9f7",
+    "title": "Granta stops publishing short story award winners over AI controversy",
+    "author": "Ella Creamer",
+    "description": "Literary magazine will no longer engage in ‘external publishing partnerships’ after Commonwealth prize furore The prominent literary magazine Granta will no longer publish the winning entries of the annual Commonwealth short story prize after one of this year’s winners drew widespread accusations of AI use. The magazine said it would no longer be involved in “external publishing partnerships” in which it had no editorial control. Continue reading...",
     "summary_ai": "",
     "categories": [
-      "A Sudden Flicker Of Light: A Revisionist History Of Movies (Book)",
+      "Ai (Artificial Intelligence)",
+      "Awards And Prizes",
       "Books",
-      "Books And Literature",
-      "Content Type: Personal Profile",
-      "Movies",
-      "The New Biographical Dictionary Of Film (Book)",
-      "Thomson, David (1941- )",
-      "Writing And Writers"
+      "Culture",
+      "Fiction",
+      "Granta",
+      "Magazines",
+      "Short Stories",
+      "Technology"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-19",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/15/multimedia/00TBR-THOMSON-MOVIES-bcqf/00TBR-THOMSON-MOVIES-bcqf-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/15/multimedia/00TBR-THOMSON-MOVIES-bcqf/00TBR-THOMSON-MOVIES-bcqf-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/19/books/review/david-thomson-movies.html",
-    "source": "The New York Times",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-20",
+    "thumbnail": "https://i.guim.co.uk/img/media/d6ddf787a88adcbf56f334c690a91ffc8eef637d/352_0_4014_3210/master/4014.jpg?width=700&quality=85&auto=format&fit=max&s=60a45fcca509ebf29cffe29c2ce247c8",
+    "cover_large": "https://i.guim.co.uk/img/media/d6ddf787a88adcbf56f334c690a91ffc8eef637d/352_0_4014_3210/master/4014.jpg?width=700&quality=85&auto=format&fit=max&s=60a45fcca509ebf29cffe29c2ce247c8",
+    "article_url": "https://www.theguardian.com/books/2026/jun/20/granta-magazine-commonwealth-short-story-prize-ai",
+    "source": "The Guardian",
     "source_type": "rss",
     "tags": [
-      "A Sudden Flicker of Light: A Revisionist History of Movies (Book)",
-      "Books and Literature",
-      "Content Type: Personal Profile",
-      "Movies",
-      "The New Biographical Dictionary of Film (Book)",
-      "Thomson, David (1941- )",
-      "Writing and Writers",
+      "AI (artificial intelligence)",
+      "Awards and prizes",
+      "Books",
+      "Culture",
+      "Fiction",
+      "Granta",
+      "Magazines",
+      "Short stories",
+      "Technology",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "b5ae43016d62109a8d7c1b5dab02b2ec",
@@ -145,8 +236,8 @@
       "Religion and Belief",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "ea1b21b8e6a420dbfc2ae60459922ac7",
@@ -193,8 +284,8 @@
       "United States Semiquincentennial (2026)",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "6d1c68323558ebdfd27a3b84c6c9df27",
@@ -229,8 +320,8 @@
       "books",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "867734b7487c124448e68db2b6f3aebb",
@@ -260,8 +351,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "5eaa4ae7956c1dc3bc914b1ae6da828a",
@@ -294,8 +385,8 @@
       "Thrillers",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "8a22feba1b54dea1f56cd1623bc0e52a",
@@ -340,8 +431,8 @@
       "Simmons, Russell",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "7c7e1e31c67c3914eb74411497f7b9f3",
@@ -386,8 +477,8 @@
       "United States Politics and Government",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "1a3c7721cf80b204f9be2a234510d010",
@@ -430,8 +521,8 @@
       "Witchcraft",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "085c2a95f89e12c93f32ca15d31828e6",
@@ -463,8 +554,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "5cab0e64eb81576942b1c60900c86485",
@@ -501,8 +592,8 @@
       "Tilda Swinton",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "0de47d5039ae63ef8405d47c6646d284",
@@ -538,39 +629,8 @@
       "Paperbacks",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
-  },
-  {
-    "id": "77afa997b4159f3c9fefbb3934ed638a",
-    "title": "Morbid by Saul Justin Newman review",
-    "author": "Rachel Clarke",
-    "description": "Is Japan really full of centenarians? And what about ‘blue zones’? A brilliant skewering of ageing secrets and lies There is a special place in hell reserved for doctors who trade on their authority, status and medical training to monetise public fear and gullibility. Every time I scroll past a qualified physician touting elixirs that promise youthful vigour, cellulite-free thighs or gut microbiome makeovers, I want to poke their fraudulent eyes out. At best, these charlatans have chosen lining their pockets over helping others. At worst, as in the case of the Covid deniers and anti-vaxxers, they are actively dangerous – something I witnessed first-hand on hospital wards in 2021 as unvaccinated patients succumbed to the disease. Nowhere is human hope monetised more ruthlessly by medical grifters than in the anti-ageing industry. Our inescapable fate – decrepitude and death – makes us ripe for exploitation. Who doesn’t want to pop a pill or hook themselves up to an IV infusion that, for only £99.99 a month, will magically stave off the moment you turn into your grandparents? In Morbid, debut author Saul Justin Newman, a research fellow at the University of Oxford’s Institute of...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Health, Mind And Body Books",
-      "Science And Nature Books"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-17",
-    "thumbnail": "https://i.guim.co.uk/img/media/870dba90b33b3c0b5582bde9f580c857baf779e4/1100_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=1b2a048a8d8466ddd3e7aea84e18a23e",
-    "cover_large": "https://i.guim.co.uk/img/media/870dba90b33b3c0b5582bde9f580c857baf779e4/1100_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=1b2a048a8d8466ddd3e7aea84e18a23e",
-    "article_url": "https://www.theguardian.com/books/2026/jun/17/morbid-by-saul-justin-newman-review-why-everything-you-think-you-know-about-longevity-is-wrong",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Health, mind and body books",
-      "Science and nature books",
-      "books"
-    ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "44d56a6f7c9849669ef85eb545772b66",
@@ -605,8 +665,8 @@
       "Williams, Gregory H",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "cb1efeb382d11a66987c412bb10abbf9",
@@ -647,8 +707,8 @@
       "Theater (Broadway)",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "3b6d3b4d5c414a2138c521f57cf82f5a",
@@ -677,48 +737,8 @@
       "Ghost-Eye (Book)",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
-  },
-  {
-    "id": "6f8d05d6678fc2d6ea6892fdbfbcf96d",
-    "title": "Book Review: ‘Empire of Ink,’ by Alex Wright",
-    "author": "Alexandra Jacobs",
-    "description": "In “Empire of Ink,” Alex Wright describes how newfangled technologies and disruptive personalities have regularly unsettled the American media.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Empire Of Ink: The Printers, Rogues, And Radicals Who Invented The American Newspaper (Book)",
-      "Newspapers",
-      "Printing And Allied Trades",
-      "Twain, Mark",
-      "United States",
-      "Wright, Alex (1966- )",
-      "Writing And Writers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-16",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/12/multimedia/14tbr-wright-review-fbhq/14tbr-wright-review-fbhq-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/12/multimedia/14tbr-wright-review-fbhq/14tbr-wright-review-fbhq-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/14/books/review/empire-of-ink-newspapers-alex-wright.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Empire of Ink: The Printers, Rogues, and Radicals Who Invented the American Newspaper (Book)",
-      "Newspapers",
-      "Printing and Allied Trades",
-      "Twain, Mark",
-      "United States",
-      "Wright, Alex (1966- )",
-      "Writing and Writers",
-      "books"
-    ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "ac4d068528b29e0f4edc6b4ff85b63db",
@@ -748,8 +768,8 @@
       "Literary criticism",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "f917acbed54d01428d2240632bcaf4fe",
@@ -790,8 +810,8 @@
       "The Nord Stream Conspiracy: The Inside Story of the Explosions That Shook the World (Book)",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "eec42c32dd0a3a532e6eba08983e4e62",
@@ -831,8 +851,8 @@
       "Yolen, Jane",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "657f7750264d46294edd96cd66936fbf",
@@ -860,8 +880,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "c6c29f533fb77266b790740512875994",
@@ -891,54 +911,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
-  },
-  {
-    "id": "870854e023e80f6ab51718cd542f1808",
-    "title": "A Graphic Novelist Captures the Lives of Vermont Lesbians Ahead of Their Time",
-    "author": "Robert Ito",
-    "description": "Leaning on a rich written record, the graphic novelist Tillie Walden used nearby resources to visualize the true story of seamstresses who shared a home for decades.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Cartoons And Cartoonists",
-      "Charity & Sylvia (Book)",
-      "Charity & Sylvia: A Same-Sex Marriage In Early America (Book)",
-      "Content Type: Personal Profile",
-      "Graphic Novels",
-      "Homosexuality And Bisexuality",
-      "Spinning (Book)",
-      "Vermont",
-      "Walden, Tillie",
-      "Women And Girls"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-14",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/20/multimedia/14tbr-tillie-walden-01-tjlf/14tbr-tillie-walden-01-tjlf-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/20/multimedia/14tbr-tillie-walden-01-tjlf/14tbr-tillie-walden-01-tjlf-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/14/books/review/tillie-walden-vermont-charity-sylvia.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Cartoons and Cartoonists",
-      "Charity & Sylvia (Book)",
-      "Charity & Sylvia: A Same-Sex Marriage in Early America (Book)",
-      "Content Type: Personal Profile",
-      "Graphic Novels",
-      "Homosexuality and Bisexuality",
-      "Spinning (Book)",
-      "Vermont",
-      "Walden, Tillie",
-      "Women and Girls",
-      "books"
-    ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "da9552e3314c26d160dbb7239ab9a359",
@@ -968,8 +942,8 @@
       "Jonathan Swift",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "0af03eaf7b083faebd49b08b66333eac",
@@ -1006,8 +980,8 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "792ec2c32be75d2c938165df3e4af29d",
@@ -1041,8 +1015,8 @@
       "Middle East and north Africa",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "cd29f8375e271820c02627200e68f1d2",
@@ -1074,8 +1048,8 @@
       "Michael Ondaatje",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -1105,7 +1079,47 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
+  },
+  {
+    "id": "65d8c8ca1a174f11e32ec64ace3460db",
+    "title": "The Best Romance Novels of 2024 (So Far)",
+    "author": "Olivia Waite",
+    "description": "Looking for an escapist love story? Here are 2024’s sexiest, swooniest reads.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Chu, Lily (Author)",
+      "Genre-Books-Romance",
+      "Grossman, Felicia (Author)",
+      "Sebastian, Cat",
+      "Williams, Tia",
+      "You Should Be So Lucky (Book)"
+    ],
+    "genre": [
+      "Romance"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2024-10-01",
+    "thumbnail": "https://static01.nyt.com/images/2024/05/03/books/review/03Romance-WhatToReadNow/03Romance-WhatToReadNow-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2024/05/03/books/review/03Romance-WhatToReadNow/03Romance-WhatToReadNow-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/article/best-romance-books.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Chu, Lily (Author)",
+      "Grossman, Felicia (Author)",
+      "Sebastian, Cat",
+      "Williams, Tia",
+      "You Should Be So Lucky (Book)",
+      "books",
+      "genre-books-romance"
+    ],
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   }
 ]

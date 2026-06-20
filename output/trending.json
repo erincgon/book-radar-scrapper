@@ -1,5 +1,53 @@
 [
   {
+    "id": "677e85054cc18091e57a102270060e7c",
+    "title": "Danny McBride Thinks Men Learned All the Wrong Lessons From Movies",
+    "author": "David Marchese",
+    "description": "The writer and actor, known for his profane comedic antiheroes, likes to find universal truths in human flaws.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Eastbound & Down (Tv Program)",
+      "Halloween (Movie)",
+      "Mcbride, Danny",
+      "Men And Boys",
+      "Ministers (Protestant)",
+      "Movies",
+      "Puppets",
+      "Religion And Belief",
+      "Television",
+      "The Righteous Gemstones (Tv Program)",
+      "Vice Principals (Tv Program)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-20",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/28/magazine/28mag-interview-mcbride-05/28mag-interview-mcbride-05-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/28/magazine/28mag-interview-mcbride-05/28mag-interview-mcbride-05-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/20/magazine/danny-mcbride-interview.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Eastbound & Down (TV Program)",
+      "Halloween (Movie)",
+      "McBride, Danny",
+      "Men and Boys",
+      "Ministers (Protestant)",
+      "Movies",
+      "Puppets",
+      "Religion and Belief",
+      "Television",
+      "The Righteous Gemstones (TV Program)",
+      "Vice Principals (TV Program)",
+      "books"
+    ],
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
+  },
+  {
     "id": "7659ca14e310f26c450fad92948de894",
     "title": "James Bradley, Co-Author of ‘Flags of Our Fathers,’ Dies at 72",
     "author": "Richard Sandomir",
@@ -8,8 +56,9 @@
     "categories": [
       "Books",
       "Books And Literature",
+      "Bradley, James (1954-2026)",
       "Deaths (Obituaries)",
-      "James Bradley (1954-2026)",
+      "Flags Of Our Fathers (Movie)",
       "Movies",
       "Powers, Ron",
       "Rosenthal, Joe",
@@ -27,8 +76,9 @@
     "source_type": "rss",
     "tags": [
       "Books and Literature",
+      "Bradley, James (1954-2026)",
       "Deaths (Obituaries)",
-      "James Bradley (1954-2026)",
+      "Flags of Our Fathers (Movie)",
       "Movies",
       "Powers, Ron",
       "Rosenthal, Joe",
@@ -36,8 +86,46 @@
       "World War II (1939-45)",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
+  },
+  {
+    "id": "f5e8ed3a1359becc0f14248213d96832",
+    "title": "David Thomson Loves the Movies but Not What They Have Done to America",
+    "author": "A.O. Scott",
+    "description": "How the film writer David Thomson found himself in a lover’s quarrel with cinema — and America.",
+    "summary_ai": "",
+    "categories": [
+      "A Sudden Flicker Of Light: A Revisionist History Of Movies (Book)",
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Movies",
+      "The New Biographical Dictionary Of Film (Book)",
+      "Thomson, David (1941- )",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-20",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/15/multimedia/00TBR-THOMSON-MOVIES-bcqf/00TBR-THOMSON-MOVIES-bcqf-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/15/multimedia/00TBR-THOMSON-MOVIES-bcqf/00TBR-THOMSON-MOVIES-bcqf-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/19/books/review/david-thomson-movies.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "A Sudden Flicker of Light: A Revisionist History of Movies (Book)",
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Movies",
+      "The New Biographical Dictionary of Film (Book)",
+      "Thomson, David (1941- )",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "9f4bf302b2eaf6649c9f9ec8cb122273",
@@ -69,46 +157,49 @@
       "Television",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
-    "id": "f5e8ed3a1359becc0f14248213d96832",
-    "title": "David Thomson Loves the Movies but Not What They Have Done to America",
-    "author": "A.O. Scott",
-    "description": "How the film writer David Thomson found himself in a lover’s quarrel with cinema — and America.",
+    "id": "2bdff859b03eb4836249bc9aa635d9f7",
+    "title": "Granta stops publishing short story award winners over AI controversy",
+    "author": "Ella Creamer",
+    "description": "Literary magazine will no longer engage in ‘external publishing partnerships’ after Commonwealth prize furore The prominent literary magazine Granta will no longer publish the winning entries of the annual Commonwealth short story prize after one of this year’s winners drew widespread accusations of AI use. The magazine said it would no longer be involved in “external publishing partnerships” in which it had no editorial control. Continue reading...",
     "summary_ai": "",
     "categories": [
-      "A Sudden Flicker Of Light: A Revisionist History Of Movies (Book)",
+      "Ai (Artificial Intelligence)",
+      "Awards And Prizes",
       "Books",
-      "Books And Literature",
-      "Content Type: Personal Profile",
-      "Movies",
-      "The New Biographical Dictionary Of Film (Book)",
-      "Thomson, David (1941- )",
-      "Writing And Writers"
+      "Culture",
+      "Fiction",
+      "Granta",
+      "Magazines",
+      "Short Stories",
+      "Technology"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-19",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/15/multimedia/00TBR-THOMSON-MOVIES-bcqf/00TBR-THOMSON-MOVIES-bcqf-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/15/multimedia/00TBR-THOMSON-MOVIES-bcqf/00TBR-THOMSON-MOVIES-bcqf-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/19/books/review/david-thomson-movies.html",
-    "source": "The New York Times",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-20",
+    "thumbnail": "https://i.guim.co.uk/img/media/d6ddf787a88adcbf56f334c690a91ffc8eef637d/352_0_4014_3210/master/4014.jpg?width=700&quality=85&auto=format&fit=max&s=60a45fcca509ebf29cffe29c2ce247c8",
+    "cover_large": "https://i.guim.co.uk/img/media/d6ddf787a88adcbf56f334c690a91ffc8eef637d/352_0_4014_3210/master/4014.jpg?width=700&quality=85&auto=format&fit=max&s=60a45fcca509ebf29cffe29c2ce247c8",
+    "article_url": "https://www.theguardian.com/books/2026/jun/20/granta-magazine-commonwealth-short-story-prize-ai",
+    "source": "The Guardian",
     "source_type": "rss",
     "tags": [
-      "A Sudden Flicker of Light: A Revisionist History of Movies (Book)",
-      "Books and Literature",
-      "Content Type: Personal Profile",
-      "Movies",
-      "The New Biographical Dictionary of Film (Book)",
-      "Thomson, David (1941- )",
-      "Writing and Writers",
+      "AI (artificial intelligence)",
+      "Awards and prizes",
+      "Books",
+      "Culture",
+      "Fiction",
+      "Granta",
+      "Magazines",
+      "Short stories",
+      "Technology",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "b5ae43016d62109a8d7c1b5dab02b2ec",
@@ -145,8 +236,8 @@
       "Religion and Belief",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "ea1b21b8e6a420dbfc2ae60459922ac7",
@@ -193,8 +284,8 @@
       "United States Semiquincentennial (2026)",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "6d1c68323558ebdfd27a3b84c6c9df27",
@@ -229,8 +320,8 @@
       "books",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "867734b7487c124448e68db2b6f3aebb",
@@ -260,8 +351,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "5eaa4ae7956c1dc3bc914b1ae6da828a",
@@ -294,8 +385,8 @@
       "Thrillers",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "8a22feba1b54dea1f56cd1623bc0e52a",
@@ -340,8 +431,8 @@
       "Simmons, Russell",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "7c7e1e31c67c3914eb74411497f7b9f3",
@@ -386,8 +477,8 @@
       "United States Politics and Government",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "1a3c7721cf80b204f9be2a234510d010",
@@ -430,8 +521,8 @@
       "Witchcraft",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "085c2a95f89e12c93f32ca15d31828e6",
@@ -463,8 +554,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "5cab0e64eb81576942b1c60900c86485",
@@ -501,8 +592,180 @@
       "Tilda Swinton",
       "books"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
+  },
+  {
+    "id": "115f9d13d471b78220d561c8604e785f",
+    "title": "What Should You Read Next? Here Are the Best Reviewed Books of the Week",
+    "author": "Book Marks",
+    "description": "Isabel Waidner’s As If, Danielle Allen’s Radical Duke, and Amitav Ghosh’s Ghost-Eye all feature among the best reviewed books of the week. Brought to you by Book Marks, Lit Hub’s home for book reviews. * Fiction 1. As If by Isabel Waidner (FSG)",
+    "summary_ai": "",
+    "categories": [
+      "Book Marks",
+      "Book Reviews",
+      "Craft And Criticism",
+      "Features",
+      "Literary Criticism",
+      "Reading Lists",
+      "Reviews",
+      "The Best Reviewed Books Of The Week"
+    ],
+    "genre": [
+      "Fiction"
+    ],
+    "language": "English",
+    "publisher": "FSG",
+    "published_date": "2026-06-18",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/sites/2/2026/06/2c53feec200cdb54b2d5116757dc14fc-200x300.gif",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/sites/2/2026/06/2c53feec200cdb54b2d5116757dc14fc-200x300.gif",
+    "article_url": "https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-6-18-2026/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Book Marks",
+      "Craft and Criticism",
+      "Features",
+      "Literary Criticism",
+      "Reading Lists",
+      "The Best Reviewed Books of the Week",
+      "book reviews",
+      "reviews"
+    ],
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
+  },
+  {
+    "id": "0264999fd55fd207d5cc4dbef3d9248b",
+    "title": "My Newly Successful Friend Won’t Stop Namedropping: Is She the Literary Asshole?",
+    "author": "Kristen Arnett",
+    "description": "Well, hello there! Fancy meeting you here. Welcome back to the Internet’s favorite drunken advice column, Am I The Literary Asshole? It’s the place where we ponder all of life’s hardest-hitting questions, such as “Why does my dog walk out",
+    "summary_ai": "",
+    "categories": [
+      "Advice",
+      "Am I The Literary Asshole?",
+      "Careers",
+      "Celebrity",
+      "Craft And Advice",
+      "Craft And Criticism",
+      "Day Jobs",
+      "Features",
+      "Friendship",
+      "Horror",
+      "Kristen Arnett",
+      "Literary Criticism",
+      "Pantsing",
+      "Plotting",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-06-18",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/papparazzi-768x432.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/papparazzi-768x432.jpg",
+    "article_url": "https://lithub.com/my-newly-successful-friend-wont-stop-namedropping-is-she-the-literary-asshole/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Am I the Literary Asshole?",
+      "Craft and Advice",
+      "Craft and Criticism",
+      "Features",
+      "Kristen Arnett",
+      "Literary Criticism",
+      "advice",
+      "careers",
+      "celebrity",
+      "day jobs",
+      "friendship",
+      "horror",
+      "pantsing",
+      "plotting",
+      "reviews"
+    ],
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
+  },
+  {
+    "id": "446e92411a7733be1a6bd30d4408d1dc",
+    "title": "The Feverent Whites",
+    "author": "Lit Hub Excerpts",
+    "description": "June 1982 The triplet of knocks came from the front door just as Sylvia Upshaw and her two children were putting on their shoes, about to walk over to Mrs. Talbot’s house. Syl’s daughter, GiGi, her first-born, peered through the",
+    "summary_ai": "",
+    "categories": [
+      "Daily Fiction",
+      "De'Shawn Charles Winslow",
+      "Excerpts",
+      "Fiction And Poetry",
+      "From The Novel",
+      "Novels",
+      "One World",
+      "Reviews",
+      "The Feverent Whites"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "One World",
+    "published_date": "2026-06-18",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/05/the-feverent-whites-768x1168.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/05/the-feverent-whites-768x1168.jpg",
+    "article_url": "https://lithub.com/the-feverent-whites/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Daily Fiction",
+      "De'Shawn Charles Winslow",
+      "Excerpts",
+      "Fiction and Poetry",
+      "From the Novel",
+      "Novels",
+      "One World",
+      "The Feverent Whites",
+      "reviews"
+    ],
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
+  },
+  {
+    "id": "7458fa4825fdf59f2272c0b4e47e3b64",
+    "title": "5 Book Reviews You Need to Read This Week",
+    "author": "Book Marks",
+    "description": "Our quintet of quality reviews this week includes Hannah Gold on Missouri Williams’s The Vivisectors, Rand Richards Cooper on Joyce Carol Oates’s The Frenzy, Jenessa Abrams on Emily LaBarge’s Dog Days, Lauretta Charlton on Elizabeth Stordeur Pryor’s Something We Said,",
+    "summary_ai": "",
+    "categories": [
+      "5 Book Reviews You Need To Read This Week",
+      "Book Marks",
+      "Book Reviews",
+      "Craft And Criticism",
+      "Features",
+      "Literary Criticism",
+      "Reading Lists",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-06-18",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/sites/2/2026/05/4155bca1e09402251a687ceedc7190e3-195x300.gif",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/sites/2/2026/05/4155bca1e09402251a687ceedc7190e3-195x300.gif",
+    "article_url": "https://lithub.com/5-book-reviews-you-need-to-read-this-week-6-18-2026/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "5 Book Reviews You Need to Read This Week",
+      "Book Marks",
+      "Craft and Criticism",
+      "Features",
+      "Literary Criticism",
+      "Reading Lists",
+      "book reviews",
+      "reviews"
+    ],
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   },
   {
     "id": "75f0556c214afea4ce47692192126fe7",
@@ -527,213 +790,7 @@
       "Lit Hub Daily",
       "reviews"
     ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
-  },
-  {
-    "id": "4b741f84635c178e9b70c67828bbdeec",
-    "title": "The Losses that Carry Us: A Tribute to Marjane Satrapi",
-    "author": "Fatemeh Shams",
-    "description": "On Thursday morning, June 4, I woke to the tragic and shocking news of Marjane Satrapi’s death. It was not the first time I had learned of a loved one’s loss in exile in the most mundane, alienating way: half-awake",
-    "summary_ai": "",
-    "categories": [
-      "Biography",
-      "Book News",
-      "Craft And Criticism",
-      "Exile",
-      "Fatemeh Shams",
-      "Fullwidth Slider",
-      "In Memorium",
-      "Iran",
-      "Literary Criticism",
-      "Mahmoud Darwish",
-      "Marjane Satrapi",
-      "Reviews",
-      "The Green Movement"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-06-18",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/satrapi-768x384.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/satrapi-768x384.jpg",
-    "article_url": "https://lithub.com/the-losses-that-carry-us-a-tribute-to-marjane-satrapi/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Biography",
-      "Book News",
-      "Craft and Criticism",
-      "Fatemeh Shams",
-      "Fullwidth Slider",
-      "Iran",
-      "Literary Criticism",
-      "Mahmoud Darwish",
-      "Marjane Satrapi",
-      "exile",
-      "in memorium",
-      "reviews",
-      "the Green Movement"
-    ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
-  },
-  {
-    "id": "1ade5bee1c054f982937c42b9673c1b9",
-    "title": "Here’s the Trailer for SPIDER",
-    "author": "Danika Ellis",
-    "description": "Today's literary headlines include a trailer for the new Spider-Man movie, an experiment with mass-market paperbacks, and more.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Today In Books"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-18",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/spider-man-brand-new-day-trailer.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/spider-man-brand-new-day-trailer.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/spider-man-brand-new-day-trailer/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Today in Books",
-      "reviews"
-    ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
-  },
-  {
-    "id": "2fc155702d211a48c0050a464e835891",
-    "title": "The Best Book of the 21st Century So Far?",
-    "author": "Vanessa Diaz",
-    "description": "Let's talk about the global phenomenon that ignited \"Ferrante Fever\" and the lore around its author.",
-    "summary_ai": "",
-    "categories": [
-      "Past Tense",
-      "Reviews",
-      "Zero To Well-Read"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-18",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/my-brilliant-friend-flagship.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/my-brilliant-friend-flagship.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/zero-to-well-read-my-brilliant-friend/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Past Tense",
-      "Zero to Well-Read",
-      "reviews"
-    ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
-  },
-  {
-    "id": "0de47d5039ae63ef8405d47c6646d284",
-    "title": "The best books to read in June: new paperbacks from Ian McEwan, Arundhati Roy and Irvine Welsh",
-    "author": "Guardian Staff",
-    "description": "Looking for a new reading recommendation? Here are some great new paperbacks, from a much-awaited memoir to a climate crisis novel from a literary giant *** Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Arundhati Roy",
-      "Books",
-      "Culture",
-      "Ian Mcewan",
-      "Irvine Welsh",
-      "Paperbacks"
-    ],
-    "genre": [
-      "Memoir"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-17",
-    "thumbnail": "https://i.guim.co.uk/img/media/a30fa537c338f9e5422b177365d1b5a182edae7c/0_0_1600_1280/master/1600.jpg?width=700&quality=85&auto=format&fit=max&s=97d353cca98963df429f71fe930ca50a",
-    "cover_large": "https://i.guim.co.uk/img/media/a30fa537c338f9e5422b177365d1b5a182edae7c/0_0_1600_1280/master/1600.jpg?width=700&quality=85&auto=format&fit=max&s=97d353cca98963df429f71fe930ca50a",
-    "article_url": "https://www.theguardian.com/books/ng-interactive/2026/jun/17/the-best-books-to-read-in-june-new-paperbacks-from-ian-mcewan-arundhati-roy-and-irvine-welsh",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Arundhati Roy",
-      "Books",
-      "Culture",
-      "Ian McEwan",
-      "Irvine Welsh",
-      "Paperbacks",
-      "books"
-    ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
-  },
-  {
-    "id": "77afa997b4159f3c9fefbb3934ed638a",
-    "title": "Morbid by Saul Justin Newman review",
-    "author": "Rachel Clarke",
-    "description": "Is Japan really full of centenarians? And what about ‘blue zones’? A brilliant skewering of ageing secrets and lies There is a special place in hell reserved for doctors who trade on their authority, status and medical training to monetise public fear and gullibility. Every time I scroll past a qualified physician touting elixirs that promise youthful vigour, cellulite-free thighs or gut microbiome makeovers, I want to poke their fraudulent eyes out. At best, these charlatans have chosen lining their pockets over helping others. At worst, as in the case of the Covid deniers and anti-vaxxers, they are actively dangerous – something I witnessed first-hand on hospital wards in 2021 as unvaccinated patients succumbed to the disease. Nowhere is human hope monetised more ruthlessly by medical grifters than in the anti-ageing industry. Our inescapable fate – decrepitude and death – makes us ripe for exploitation. Who doesn’t want to pop a pill or hook themselves up to an IV infusion that, for only £99.99 a month, will magically stave off the moment you turn into your grandparents? In Morbid, debut author Saul Justin Newman, a research fellow at the University of Oxford’s Institute of...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Health, Mind And Body Books",
-      "Science And Nature Books"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-17",
-    "thumbnail": "https://i.guim.co.uk/img/media/870dba90b33b3c0b5582bde9f580c857baf779e4/1100_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=1b2a048a8d8466ddd3e7aea84e18a23e",
-    "cover_large": "https://i.guim.co.uk/img/media/870dba90b33b3c0b5582bde9f580c857baf779e4/1100_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=1b2a048a8d8466ddd3e7aea84e18a23e",
-    "article_url": "https://www.theguardian.com/books/2026/jun/17/morbid-by-saul-justin-newman-review-why-everything-you-think-you-know-about-longevity-is-wrong",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Health, mind and body books",
-      "Science and nature books",
-      "books"
-    ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
-  },
-  {
-    "id": "44d56a6f7c9849669ef85eb545772b66",
-    "title": "Gregory Williams, Academic With an Uncommon Perspective on Race, Dies at 81",
-    "author": "Richard Sandomir",
-    "description": "As a child, he discovered that his father — and therefore he and his siblings — had been passing for white. For the rest of his life, he identified as Black.",
-    "summary_ai": "",
-    "categories": [
-      "Black People",
-      "Books",
-      "Civil Rights And Liberties",
-      "Deaths (Obituaries)",
-      "Muncie (Ind)",
-      "Race And Ethnicity",
-      "Williams, Gregory H"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-16",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/16/multimedia/16williams-obit-lptq/16williams-obit-lptq-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/16/multimedia/16williams-obit-lptq/16williams-obit-lptq-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/16/books/gregory-williams-dead.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Black People",
-      "Civil Rights and Liberties",
-      "Deaths (Obituaries)",
-      "Muncie (Ind)",
-      "Race and Ethnicity",
-      "Williams, Gregory H",
-      "books"
-    ],
-    "created_at": "2026-06-20T08:55:05+00:00",
-    "updated_at": "2026-06-20T08:55:05Z"
+    "created_at": "2026-06-20T19:18:42+00:00",
+    "updated_at": "2026-06-20T19:18:42Z"
   }
 ]
