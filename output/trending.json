@@ -1,5 +1,79 @@
 [
   {
+    "id": "6172d732e78888628506de6587df16b7",
+    "title": "With ‘Girls Like Girls,’ Hayley Kiyoko Turns Her Teenage Pain Into Art",
+    "author": "Ashley Spencer",
+    "description": "The once-closeted star has reinvented her song “Girls Like Girls” as a best-selling Y.A. novel and a new theatrical film. It wasn’t easy.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Girls Like Girls (Movie)",
+      "Kiyoko, Hayley",
+      "Movies",
+      "Music"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-21",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/21/multimedia/21cul-hayley-kiyoko-01-zbgk/21cul-hayley-kiyoko-01-zbgk-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/21/multimedia/21cul-hayley-kiyoko-01-zbgk/21cul-hayley-kiyoko-01-zbgk-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/21/movies/hayley-kiyoko-interview-girls-like-girls.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Girls Like Girls (Movie)",
+      "Kiyoko, Hayley",
+      "Movies",
+      "Music",
+      "books"
+    ],
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
+  },
+  {
+    "id": "08d69ba76404444ba95f33944af39e5b",
+    "title": "A Tenacious Lifeguard Still Swims Against the Tide",
+    "author": "Elisabeth Egan",
+    "description": "Janet Fash was always outspoken when it came to keeping beachgoers safe. She lays it all out in her feisty new memoir.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Fash, Janet",
+      "Lifeguard: A Love Story (Book)",
+      "Lifeguards",
+      "Parks And Recreation Department (Nyc)",
+      "Rockaway Beach (Queens, Ny)"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-21",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/21/multimedia/21tbr-janet-fash-cmwk/21tbr-janet-fash-cmwk-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/21/multimedia/21tbr-janet-fash-cmwk/21tbr-janet-fash-cmwk-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/21/books/review/lifeguard-janet-fash-memoir.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Fash, Janet",
+      "Lifeguard: A Love Story (Book)",
+      "Lifeguards",
+      "Parks and Recreation Department (NYC)",
+      "Rockaway Beach (Queens, NY)",
+      "books"
+    ],
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
+  },
+  {
     "id": "677e85054cc18091e57a102270060e7c",
     "title": "Danny McBride Thinks Men Learned All the Wrong Lessons From Movies",
     "author": "David Marchese",
@@ -44,8 +118,8 @@
       "Vice Principals (TV Program)",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "7659ca14e310f26c450fad92948de894",
@@ -86,8 +160,8 @@
       "World War II (1939-45)",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "f5e8ed3a1359becc0f14248213d96832",
@@ -124,8 +198,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "9f4bf302b2eaf6649c9f9ec8cb122273",
@@ -157,8 +231,8 @@
       "Television",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "2bdff859b03eb4836249bc9aa635d9f7",
@@ -198,8 +272,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "b5ae43016d62109a8d7c1b5dab02b2ec",
@@ -236,8 +310,8 @@
       "Religion and Belief",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "ea1b21b8e6a420dbfc2ae60459922ac7",
@@ -284,8 +358,8 @@
       "United States Semiquincentennial (2026)",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "6d1c68323558ebdfd27a3b84c6c9df27",
@@ -320,8 +394,8 @@
       "books",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "867734b7487c124448e68db2b6f3aebb",
@@ -351,8 +425,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "5eaa4ae7956c1dc3bc914b1ae6da828a",
@@ -385,8 +459,8 @@
       "Thrillers",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "8a22feba1b54dea1f56cd1623bc0e52a",
@@ -412,8 +486,8 @@
     "language": "English",
     "publisher": "The New York Times",
     "published_date": "2026-06-18",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/16/multimedia/00Simmons-top-hkzf/00Simmons-top-hkzf-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/16/multimedia/00Simmons-top-hkzf/00Simmons-top-hkzf-mediumSquareAt3X.jpg",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/21/multimedia/00Simmons-top-hkzf-print3/00Simmons-top-hkzf-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/21/multimedia/00Simmons-top-hkzf-print3/00Simmons-top-hkzf-mediumSquareAt3X.jpg",
     "article_url": "https://www.nytimes.com/2026/06/18/arts/danny-simmons-dead.html",
     "source": "The New York Times",
     "source_type": "rss",
@@ -431,8 +505,8 @@
       "Simmons, Russell",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "7c7e1e31c67c3914eb74411497f7b9f3",
@@ -477,8 +551,8 @@
       "United States Politics and Government",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "1a3c7721cf80b204f9be2a234510d010",
@@ -504,8 +578,8 @@
     "language": "English",
     "publisher": "The New York Times",
     "published_date": "2026-06-18",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/19/obituaries/00ginzburg-1996/00ginzburg-1996-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/02/19/obituaries/00ginzburg-1996/00ginzburg-1996-mediumSquareAt3X.jpg",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/21/obituaries/00ginzburg-1996-print1/00ginzburg-1996-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/21/obituaries/00ginzburg-1996-print1/00ginzburg-1996-mediumSquareAt3X.jpg",
     "article_url": "https://www.nytimes.com/2026/06/17/books/carlo-ginzburg-dead.html",
     "source": "The New York Times",
     "source_type": "rss",
@@ -521,8 +595,8 @@
       "Witchcraft",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "085c2a95f89e12c93f32ca15d31828e6",
@@ -554,8 +628,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "5cab0e64eb81576942b1c60900c86485",
@@ -592,8 +666,8 @@
       "Tilda Swinton",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "115f9d13d471b78220d561c8604e785f",
@@ -632,8 +706,8 @@
       "book reviews",
       "reviews"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "0264999fd55fd207d5cc4dbef3d9248b",
@@ -684,8 +758,8 @@
       "plotting",
       "reviews"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "446e92411a7733be1a6bd30d4408d1dc",
@@ -726,71 +800,7 @@
       "The Feverent Whites",
       "reviews"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
-  },
-  {
-    "id": "7458fa4825fdf59f2272c0b4e47e3b64",
-    "title": "5 Book Reviews You Need to Read This Week",
-    "author": "Book Marks",
-    "description": "Our quintet of quality reviews this week includes Hannah Gold on Missouri Williams’s The Vivisectors, Rand Richards Cooper on Joyce Carol Oates’s The Frenzy, Jenessa Abrams on Emily LaBarge’s Dog Days, Lauretta Charlton on Elizabeth Stordeur Pryor’s Something We Said,",
-    "summary_ai": "",
-    "categories": [
-      "5 Book Reviews You Need To Read This Week",
-      "Book Marks",
-      "Book Reviews",
-      "Craft And Criticism",
-      "Features",
-      "Literary Criticism",
-      "Reading Lists",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-06-18",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/sites/2/2026/05/4155bca1e09402251a687ceedc7190e3-195x300.gif",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/sites/2/2026/05/4155bca1e09402251a687ceedc7190e3-195x300.gif",
-    "article_url": "https://lithub.com/5-book-reviews-you-need-to-read-this-week-6-18-2026/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "5 Book Reviews You Need to Read This Week",
-      "Book Marks",
-      "Craft and Criticism",
-      "Features",
-      "Literary Criticism",
-      "Reading Lists",
-      "book reviews",
-      "reviews"
-    ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
-  },
-  {
-    "id": "75f0556c214afea4ce47692192126fe7",
-    "title": "Lit Hub Daily: June 18, 2026",
-    "author": "Lit Hub Daily",
-    "description": "Through layers of loss and sorrow, Fatemeh Shams remembers Marjane Satrapi: “Marjane reminded me, as her work often does, that in the bleakest times, art, writing, and human connection are radical acts of repair.”| Lit Hub Deb Olin Unferth explores the necessity",
-    "summary_ai": "",
-    "categories": [
-      "Lit Hub Daily",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-06-18",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/unnamed-1-768x256.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/unnamed-1-768x256.jpg",
-    "article_url": "https://lithub.com/lit-hub-daily-june-18-2026/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Lit Hub Daily",
-      "reviews"
-    ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   }
 ]

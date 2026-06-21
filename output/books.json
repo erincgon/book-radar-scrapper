@@ -1,5 +1,79 @@
 [
   {
+    "id": "6172d732e78888628506de6587df16b7",
+    "title": "With ‘Girls Like Girls,’ Hayley Kiyoko Turns Her Teenage Pain Into Art",
+    "author": "Ashley Spencer",
+    "description": "The once-closeted star has reinvented her song “Girls Like Girls” as a best-selling Y.A. novel and a new theatrical film. It wasn’t easy.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Girls Like Girls (Movie)",
+      "Kiyoko, Hayley",
+      "Movies",
+      "Music"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-21",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/21/multimedia/21cul-hayley-kiyoko-01-zbgk/21cul-hayley-kiyoko-01-zbgk-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/21/multimedia/21cul-hayley-kiyoko-01-zbgk/21cul-hayley-kiyoko-01-zbgk-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/21/movies/hayley-kiyoko-interview-girls-like-girls.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Girls Like Girls (Movie)",
+      "Kiyoko, Hayley",
+      "Movies",
+      "Music",
+      "books"
+    ],
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
+  },
+  {
+    "id": "08d69ba76404444ba95f33944af39e5b",
+    "title": "A Tenacious Lifeguard Still Swims Against the Tide",
+    "author": "Elisabeth Egan",
+    "description": "Janet Fash was always outspoken when it came to keeping beachgoers safe. She lays it all out in her feisty new memoir.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Fash, Janet",
+      "Lifeguard: A Love Story (Book)",
+      "Lifeguards",
+      "Parks And Recreation Department (Nyc)",
+      "Rockaway Beach (Queens, Ny)"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-21",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/21/multimedia/21tbr-janet-fash-cmwk/21tbr-janet-fash-cmwk-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/21/multimedia/21tbr-janet-fash-cmwk/21tbr-janet-fash-cmwk-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/21/books/review/lifeguard-janet-fash-memoir.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Fash, Janet",
+      "Lifeguard: A Love Story (Book)",
+      "Lifeguards",
+      "Parks and Recreation Department (NYC)",
+      "Rockaway Beach (Queens, NY)",
+      "books"
+    ],
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
+  },
+  {
     "id": "677e85054cc18091e57a102270060e7c",
     "title": "Danny McBride Thinks Men Learned All the Wrong Lessons From Movies",
     "author": "David Marchese",
@@ -44,8 +118,8 @@
       "Vice Principals (TV Program)",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "7659ca14e310f26c450fad92948de894",
@@ -86,8 +160,8 @@
       "World War II (1939-45)",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "f5e8ed3a1359becc0f14248213d96832",
@@ -124,8 +198,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "9f4bf302b2eaf6649c9f9ec8cb122273",
@@ -157,8 +231,8 @@
       "Television",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "2bdff859b03eb4836249bc9aa635d9f7",
@@ -198,8 +272,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "b5ae43016d62109a8d7c1b5dab02b2ec",
@@ -236,8 +310,8 @@
       "Religion and Belief",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "ea1b21b8e6a420dbfc2ae60459922ac7",
@@ -284,8 +358,8 @@
       "United States Semiquincentennial (2026)",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "6d1c68323558ebdfd27a3b84c6c9df27",
@@ -320,8 +394,8 @@
       "books",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "867734b7487c124448e68db2b6f3aebb",
@@ -351,8 +425,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "5eaa4ae7956c1dc3bc914b1ae6da828a",
@@ -385,8 +459,8 @@
       "Thrillers",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "8a22feba1b54dea1f56cd1623bc0e52a",
@@ -412,8 +486,8 @@
     "language": "English",
     "publisher": "The New York Times",
     "published_date": "2026-06-18",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/16/multimedia/00Simmons-top-hkzf/00Simmons-top-hkzf-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/16/multimedia/00Simmons-top-hkzf/00Simmons-top-hkzf-mediumSquareAt3X.jpg",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/21/multimedia/00Simmons-top-hkzf-print3/00Simmons-top-hkzf-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/21/multimedia/00Simmons-top-hkzf-print3/00Simmons-top-hkzf-mediumSquareAt3X.jpg",
     "article_url": "https://www.nytimes.com/2026/06/18/arts/danny-simmons-dead.html",
     "source": "The New York Times",
     "source_type": "rss",
@@ -431,8 +505,8 @@
       "Simmons, Russell",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "7c7e1e31c67c3914eb74411497f7b9f3",
@@ -477,8 +551,8 @@
       "United States Politics and Government",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "1a3c7721cf80b204f9be2a234510d010",
@@ -504,8 +578,8 @@
     "language": "English",
     "publisher": "The New York Times",
     "published_date": "2026-06-18",
-    "thumbnail": "https://static01.nyt.com/images/2026/02/19/obituaries/00ginzburg-1996/00ginzburg-1996-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/02/19/obituaries/00ginzburg-1996/00ginzburg-1996-mediumSquareAt3X.jpg",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/21/obituaries/00ginzburg-1996-print1/00ginzburg-1996-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/21/obituaries/00ginzburg-1996-print1/00ginzburg-1996-mediumSquareAt3X.jpg",
     "article_url": "https://www.nytimes.com/2026/06/17/books/carlo-ginzburg-dead.html",
     "source": "The New York Times",
     "source_type": "rss",
@@ -521,8 +595,8 @@
       "Witchcraft",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "085c2a95f89e12c93f32ca15d31828e6",
@@ -554,8 +628,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "5cab0e64eb81576942b1c60900c86485",
@@ -592,8 +666,8 @@
       "Tilda Swinton",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "0de47d5039ae63ef8405d47c6646d284",
@@ -629,8 +703,8 @@
       "Paperbacks",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "44d56a6f7c9849669ef85eb545772b66",
@@ -665,8 +739,8 @@
       "Williams, Gregory H",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "cb1efeb382d11a66987c412bb10abbf9",
@@ -707,8 +781,8 @@
       "Theater (Broadway)",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "3b6d3b4d5c414a2138c521f57cf82f5a",
@@ -737,8 +811,8 @@
       "Ghost-Eye (Book)",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "ac4d068528b29e0f4edc6b4ff85b63db",
@@ -768,91 +842,8 @@
       "Literary criticism",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
-  },
-  {
-    "id": "f917acbed54d01428d2240632bcaf4fe",
-    "title": "Book Review: ‘The Nord Stream Conspiracy,’ by Bojan Pancevski",
-    "author": "Robert F. Worth",
-    "description": "In “The Nord Stream Conspiracy,” the investigative journalist Bojan Pancevski tells a high-stakes international war story in blockbuster prose.",
-    "summary_ai": "",
-    "categories": [
-      "Baltic Sea",
-      "Books",
-      "Books And Literature",
-      "Espionage And Intelligence Services",
-      "Nord Stream Ag",
-      "Pancevski, Bojan",
-      "Pipelines",
-      "Russian Invasion Of Ukraine (2022)",
-      "Sabotage (Crime)",
-      "The Nord Stream Conspiracy: The Inside Story Of The Explosions That Shook The World (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-15",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/16/multimedia/16TBR-Pancevski-Review-hqzl/16TBR-Pancevski-Review-hqzl-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/16/multimedia/16TBR-Pancevski-Review-hqzl/16TBR-Pancevski-Review-hqzl-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/15/books/review/the-nord-stream-conspiracy-bojan-pancevski.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Baltic Sea",
-      "Books and Literature",
-      "Espionage and Intelligence Services",
-      "Nord Stream AG",
-      "Pancevski, Bojan",
-      "Pipelines",
-      "Russian Invasion of Ukraine (2022)",
-      "Sabotage (Crime)",
-      "The Nord Stream Conspiracy: The Inside Story of the Explosions That Shook the World (Book)",
-      "books"
-    ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
-  },
-  {
-    "id": "eec42c32dd0a3a532e6eba08983e4e62",
-    "title": "Jane Yolen, Whose Books for Children Drew on Everyday Life, Dies at 87",
-    "author": "Clay Risen",
-    "description": "She wrote some 450 books, including novels, poetry and nonfiction in many genres. One critic called her “a modern equivalent to Aesop.”",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Children And Childhood",
-      "Deaths (Obituaries)",
-      "Poetry And Poets",
-      "Writing And Writers",
-      "Yolen, Jane"
-    ],
-    "genre": [
-      "Children",
-      "Fiction",
-      "Nonfiction",
-      "Poetry"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-15",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/20/obituaries/13yolen-02-print2/13yolen-02-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/20/obituaries/13yolen-02-print2/13yolen-02-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/14/books/jane-yolen-dead.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Children and Childhood",
-      "Deaths (Obituaries)",
-      "Poetry and Poets",
-      "Writing and Writers",
-      "Yolen, Jane",
-      "books"
-    ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "657f7750264d46294edd96cd66936fbf",
@@ -880,8 +871,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "c6c29f533fb77266b790740512875994",
@@ -911,8 +902,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "da9552e3314c26d160dbb7239ab9a359",
@@ -942,8 +933,8 @@
       "Jonathan Swift",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "0af03eaf7b083faebd49b08b66333eac",
@@ -980,8 +971,8 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "792ec2c32be75d2c938165df3e4af29d",
@@ -1015,8 +1006,8 @@
       "Middle East and north Africa",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "cd29f8375e271820c02627200e68f1d2",
@@ -1048,8 +1039,8 @@
       "Michael Ondaatje",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -1079,8 +1070,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1119,7 +1110,7 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-20T19:18:42+00:00",
-    "updated_at": "2026-06-20T19:18:42Z"
+    "created_at": "2026-06-21T09:49:32+00:00",
+    "updated_at": "2026-06-21T09:49:32Z"
   }
 ]
