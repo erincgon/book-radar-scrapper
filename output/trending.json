@@ -30,8 +30,8 @@
       "Music",
       "books"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:30+00:00",
+    "updated_at": "2026-06-21T19:24:30Z"
   },
   {
     "id": "08d69ba76404444ba95f33944af39e5b",
@@ -70,8 +70,104 @@
       "Rockaway Beach (Queens, NY)",
       "books"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:30+00:00",
+    "updated_at": "2026-06-21T19:24:30Z"
+  },
+  {
+    "id": "6d1c68323558ebdfd27a3b84c6c9df27",
+    "title": "Robert Thurman, Leading Expert on Tibetan Buddhism and Uma Thurman’s Father, Dies at 84",
+    "author": "Clay Risen",
+    "description": "A former monk who was also Uma Thurman’s father, he made sure Buddhism retained its intellectual and spiritual rigor as it spread through the West.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Buddhism",
+      "Deaths (Obituaries)",
+      "Internal-Open-Access-From-Nl",
+      "Thurman, Robert A F",
+      "Thurman, Uma",
+      "Tibet House"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-21",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/20/obituaries/17thurman-obit-1-print1/17thurman-obit-1-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/20/obituaries/17thurman-obit-1-print1/17thurman-obit-1-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/17/us/robert-thurman-dead.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Buddhism",
+      "Deaths (Obituaries)",
+      "Thurman, Robert A F",
+      "Thurman, Uma",
+      "Tibet House",
+      "books",
+      "internal-open-access-from-nl"
+    ],
+    "created_at": "2026-06-21T19:24:30+00:00",
+    "updated_at": "2026-06-21T19:24:30Z"
+  },
+  {
+    "id": "5d1ea3fcf571fea82292343ebdb57f41",
+    "title": "M John Harrison: ‘If we met a real alien we’d have no clue what they thought’",
+    "author": "Chris Power",
+    "description": "At 80, SF author M John Harrison is producing some of his best work. He talks about finding his voice, alien intelligence and the advice from Iain Banks that still spurs him on Three years ago, in a greasy spoon on the fringes of the City of London, M John Harrison – Mike to his friends – told me about the novel he was working on. Rather than describing its plot or characters, he spoke purely about the challenge the book presented to him as a writer. With this one, he said, he wanted to push things as far as they could go. Now that book, The End of Everything – his 13th novel – is about to be published. It describes a disintegrating Britain in which the iGhetti – monstrously sized, extremely powerful and strange lifeforms that look like powdery, slow-motion explosions – rule the country and possibly the world. Or do they? In its unwillingness to divulge any more than its characters know, which isn’t much, the novel is more alien evasion than invasion. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "Science Fiction Books"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-21",
+    "thumbnail": "https://i.guim.co.uk/img/media/de8b9919f66f24f86f677d3362ea4e08a0e08105/0_7_10227_8178/master/10227.jpg?width=700&quality=85&auto=format&fit=max&s=35eab1010ba43a8350ceb534fb286e92",
+    "cover_large": "https://i.guim.co.uk/img/media/de8b9919f66f24f86f677d3362ea4e08a0e08105/0_7_10227_8178/master/10227.jpg?width=700&quality=85&auto=format&fit=max&s=35eab1010ba43a8350ceb534fb286e92",
+    "article_url": "https://www.theguardian.com/books/2026/jun/21/m-john-harrison-if-we-met-a-real-alien-wed-have-no-clue-what-they-thought",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "Science fiction books",
+      "books"
+    ],
+    "created_at": "2026-06-21T19:24:30+00:00",
+    "updated_at": "2026-06-21T19:24:30Z"
+  },
+  {
+    "id": "1e8aef1bc720a98f1d3ce1f95d2d0f62",
+    "title": "Tom Gauld on Christopher Nolan’s The Odyssey",
+    "author": "Tom Gauld",
+    "description": "Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Illustration"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-21",
+    "thumbnail": "https://i.guim.co.uk/img/media/1abaaa6efe62bb8892b8d91e7e4c1b30eac02546/244_1169_1303_1042/master/1303.png?width=700&quality=85&auto=format&fit=max&s=4f61ca774ee85d4214eb1301d6a4bd04",
+    "cover_large": "https://i.guim.co.uk/img/media/1abaaa6efe62bb8892b8d91e7e4c1b30eac02546/244_1169_1303_1042/master/1303.png?width=700&quality=85&auto=format&fit=max&s=4f61ca774ee85d4214eb1301d6a4bd04",
+    "article_url": "https://www.theguardian.com/books/picture/2026/jun/21/tom-gauld-on-christopher-nolans-the-odyssey-cartoon",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Illustration",
+      "books"
+    ],
+    "created_at": "2026-06-21T19:24:30+00:00",
+    "updated_at": "2026-06-21T19:24:30Z"
   },
   {
     "id": "677e85054cc18091e57a102270060e7c",
@@ -80,18 +176,18 @@
     "description": "The writer and actor, known for his profane comedic antiheroes, likes to find universal truths in human flaws.",
     "summary_ai": "",
     "categories": [
+      "Actors And Actresses",
       "Books",
       "Books And Literature",
+      "Content Type: Personal Profile",
       "Eastbound & Down (Tv Program)",
       "Halloween (Movie)",
       "Mcbride, Danny",
       "Men And Boys",
-      "Ministers (Protestant)",
       "Movies",
-      "Puppets",
-      "Religion And Belief",
       "Television",
       "The Righteous Gemstones (Tv Program)",
+      "Thrilling Tales Of Modern Men (Book)",
       "Vice Principals (Tv Program)"
     ],
     "genre": [],
@@ -104,22 +200,22 @@
     "source": "The New York Times",
     "source_type": "rss",
     "tags": [
+      "Actors and Actresses",
       "Books and Literature",
+      "Content Type: Personal Profile",
       "Eastbound & Down (TV Program)",
       "Halloween (Movie)",
       "McBride, Danny",
       "Men and Boys",
-      "Ministers (Protestant)",
       "Movies",
-      "Puppets",
-      "Religion and Belief",
       "Television",
       "The Righteous Gemstones (TV Program)",
+      "Thrilling Tales of Modern Men (Book)",
       "Vice Principals (TV Program)",
       "books"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:30+00:00",
+    "updated_at": "2026-06-21T19:24:30Z"
   },
   {
     "id": "7659ca14e310f26c450fad92948de894",
@@ -160,8 +256,8 @@
       "World War II (1939-45)",
       "books"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:30+00:00",
+    "updated_at": "2026-06-21T19:24:30Z"
   },
   {
     "id": "f5e8ed3a1359becc0f14248213d96832",
@@ -198,8 +294,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:30+00:00",
+    "updated_at": "2026-06-21T19:24:30Z"
   },
   {
     "id": "9f4bf302b2eaf6649c9f9ec8cb122273",
@@ -231,8 +327,8 @@
       "Television",
       "books"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:30+00:00",
+    "updated_at": "2026-06-21T19:24:30Z"
   },
   {
     "id": "2bdff859b03eb4836249bc9aa635d9f7",
@@ -272,8 +368,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:30+00:00",
+    "updated_at": "2026-06-21T19:24:30Z"
   },
   {
     "id": "b5ae43016d62109a8d7c1b5dab02b2ec",
@@ -310,8 +406,8 @@
       "Religion and Belief",
       "books"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:30+00:00",
+    "updated_at": "2026-06-21T19:24:30Z"
   },
   {
     "id": "ea1b21b8e6a420dbfc2ae60459922ac7",
@@ -358,44 +454,8 @@
       "United States Semiquincentennial (2026)",
       "books"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
-  },
-  {
-    "id": "6d1c68323558ebdfd27a3b84c6c9df27",
-    "title": "Robert Thurman, Leading Expert on Tibetan Buddhism and Uma Thurman’s Father, Dies at 84",
-    "author": "Clay Risen",
-    "description": "A former monk who was also Uma Thurman’s father, he made sure Buddhism retained its intellectual and spiritual rigor as it spread through the West.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Buddhism",
-      "Deaths (Obituaries)",
-      "Internal-Open-Access-From-Nl",
-      "Thurman, Robert A F",
-      "Thurman, Uma",
-      "Tibet House"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-19",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/20/obituaries/17thurman-obit-1-print1/17thurman-obit-1-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/20/obituaries/17thurman-obit-1-print1/17thurman-obit-1-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/17/us/robert-thurman-dead.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Buddhism",
-      "Deaths (Obituaries)",
-      "Thurman, Robert A F",
-      "Thurman, Uma",
-      "Tibet House",
-      "books",
-      "internal-open-access-from-nl"
-    ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:30+00:00",
+    "updated_at": "2026-06-21T19:24:30Z"
   },
   {
     "id": "867734b7487c124448e68db2b6f3aebb",
@@ -425,8 +485,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:30+00:00",
+    "updated_at": "2026-06-21T19:24:30Z"
   },
   {
     "id": "5eaa4ae7956c1dc3bc914b1ae6da828a",
@@ -459,8 +519,8 @@
       "Thrillers",
       "books"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:30+00:00",
+    "updated_at": "2026-06-21T19:24:30Z"
   },
   {
     "id": "8a22feba1b54dea1f56cd1623bc0e52a",
@@ -505,8 +565,8 @@
       "Simmons, Russell",
       "books"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:30+00:00",
+    "updated_at": "2026-06-21T19:24:30Z"
   },
   {
     "id": "7c7e1e31c67c3914eb74411497f7b9f3",
@@ -551,8 +611,8 @@
       "United States Politics and Government",
       "books"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:30+00:00",
+    "updated_at": "2026-06-21T19:24:30Z"
   },
   {
     "id": "1a3c7721cf80b204f9be2a234510d010",
@@ -595,8 +655,8 @@
       "Witchcraft",
       "books"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:30+00:00",
+    "updated_at": "2026-06-21T19:24:30Z"
   },
   {
     "id": "085c2a95f89e12c93f32ca15d31828e6",
@@ -628,86 +688,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
-  },
-  {
-    "id": "5cab0e64eb81576942b1c60900c86485",
-    "title": "The Lonely City by Olivia Laing audiobook review",
-    "author": "Fiona Sturges",
-    "description": "Tilda Swinton narrates this landmark study of how New York artists from Edward Hopper to Andy Warhol have lived with loneliness It is a decade since Olivia Laing published The Lonely City , a blend of memoir and cultural analysis on the isolation of urban living. Laing – who is non-binary – had moved to Manhattan following a love affair that ended abruptly. Once there, they were taken aback at their feelings of isolation. Laing discovered “you can be lonely anywhere, but there is a particular flavour to the loneliness that comes from living in a city, surrounded by millions of people”. The author’s attempts to navigate these difficult feelings are threaded through a series of artist portraits examining the connection between loneliness and creativity. There is Edward Hopper, famed for his paintings featuring lone figures seated in cafes and diners, and Henry Darger, the janitor and hospital worker who lived alone and achieved posthumous fame through his disturbing and hallucinatory paintings of misfits. Laing also ponders the work of Andy Warhol, who surrounded himself with people while still keeping them at arm’s length, and David Wojnarowicz, the American artist and...",
-    "summary_ai": "",
-    "categories": [
-      "Art And Design",
-      "Autobiography And Memoir",
-      "Books",
-      "Edward Hopper",
-      "Mental Health",
-      "Olivia Laing",
-      "Tilda Swinton"
-    ],
-    "genre": [
-      "Memoir"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-18",
-    "thumbnail": "https://i.guim.co.uk/img/media/1365ed34144c992544330c9c8207d64bca24402a/82_399_4774_3817/master/4774.jpg?width=700&quality=85&auto=format&fit=max&s=51784c76f96262b4146bece3911dc88f",
-    "cover_large": "https://i.guim.co.uk/img/media/1365ed34144c992544330c9c8207d64bca24402a/82_399_4774_3817/master/4774.jpg?width=700&quality=85&auto=format&fit=max&s=51784c76f96262b4146bece3911dc88f",
-    "article_url": "https://www.theguardian.com/books/2016/mar/19/the-lonely-city-the-art-of-being-alone-olivia-laing-review",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Art and design",
-      "Autobiography and memoir",
-      "Edward Hopper",
-      "Mental health",
-      "Olivia Laing",
-      "Tilda Swinton",
-      "books"
-    ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
-  },
-  {
-    "id": "115f9d13d471b78220d561c8604e785f",
-    "title": "What Should You Read Next? Here Are the Best Reviewed Books of the Week",
-    "author": "Book Marks",
-    "description": "Isabel Waidner’s As If, Danielle Allen’s Radical Duke, and Amitav Ghosh’s Ghost-Eye all feature among the best reviewed books of the week. Brought to you by Book Marks, Lit Hub’s home for book reviews. * Fiction 1. As If by Isabel Waidner (FSG)",
-    "summary_ai": "",
-    "categories": [
-      "Book Marks",
-      "Book Reviews",
-      "Craft And Criticism",
-      "Features",
-      "Literary Criticism",
-      "Reading Lists",
-      "Reviews",
-      "The Best Reviewed Books Of The Week"
-    ],
-    "genre": [
-      "Fiction"
-    ],
-    "language": "English",
-    "publisher": "FSG",
-    "published_date": "2026-06-18",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/sites/2/2026/06/2c53feec200cdb54b2d5116757dc14fc-200x300.gif",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/sites/2/2026/06/2c53feec200cdb54b2d5116757dc14fc-200x300.gif",
-    "article_url": "https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-6-18-2026/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Book Marks",
-      "Craft and Criticism",
-      "Features",
-      "Literary Criticism",
-      "Reading Lists",
-      "The Best Reviewed Books of the Week",
-      "book reviews",
-      "reviews"
-    ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:30+00:00",
+    "updated_at": "2026-06-21T19:24:30Z"
   },
   {
     "id": "0264999fd55fd207d5cc4dbef3d9248b",
@@ -758,8 +740,8 @@
       "plotting",
       "reviews"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:29+00:00",
+    "updated_at": "2026-06-21T19:24:29Z"
   },
   {
     "id": "446e92411a7733be1a6bd30d4408d1dc",
@@ -800,7 +782,7 @@
       "The Feverent Whites",
       "reviews"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:29+00:00",
+    "updated_at": "2026-06-21T19:24:29Z"
   }
 ]

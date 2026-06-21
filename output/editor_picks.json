@@ -1,5 +1,59 @@
 [
   {
+    "id": "a3b39cf346674bfa44013a137a5ca503",
+    "title": "Book Riot’s Deals of the Day for June 21, 2026",
+    "author": "Deals",
+    "description": "A Valentine's Day slasher rom-com, orphans on a pirate adventure, treacherous court politics in medieval Britain, and more of today's best book deals",
+    "summary_ai": "",
+    "categories": [
+      "Book Deals",
+      "Reviews"
+    ],
+    "genre": [
+      "Politics"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-21",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/01/The-Night-We-Met-by-Abby-Jimenez.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/01/The-Night-We-Met-by-Abby-Jimenez.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-june-21-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Book Deals",
+      "reviews"
+    ],
+    "created_at": "2026-06-21T19:24:29+00:00",
+    "updated_at": "2026-06-21T19:24:29Z"
+  },
+  {
+    "id": "6ad5db6e4e4e73905b75b96a1a0809b9",
+    "title": "The Book News We Covered This Week",
+    "author": "Community",
+    "description": "A new Ishiguro novel, lots of adaptation news, the new landscape of public library censorship, and more",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Today In Books"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-21",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/04/eyeglasses-coffee-newspapers-white-table-news.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/04/eyeglasses-coffee-newspapers-white-table-news.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/today-in-books-june-21-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Today in Books",
+      "reviews"
+    ],
+    "created_at": "2026-06-21T19:24:29+00:00",
+    "updated_at": "2026-06-21T19:24:29Z"
+  },
+  {
     "id": "49e9dd4bf7d970c80af552982a41dfbc",
     "title": "Lit Hub Weekly: June 15 – 19, 2026",
     "author": "Lit Hub Daily",
@@ -22,34 +76,8 @@
       "Lit Hub Daily",
       "reviews"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
-  },
-  {
-    "id": "60d9844089cb894b165e2fa0b75cb005",
-    "title": "Book Riot’s Deals of the Day for June 20, 2026",
-    "author": "Deals",
-    "description": "A rom-com set in a hot Greek summer, an ancient prophecy predicting the end of days, a copycat killer in a small-town setting, and more of today's best book deals",
-    "summary_ai": "",
-    "categories": [
-      "Book Deals",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-20",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/12/Where-the-Wildflowers-Grow-by-Terah-Shelton-Harris-201x300.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/12/Where-the-Wildflowers-Grow-by-Terah-Shelton-Harris-201x300.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-june-20-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Book Deals",
-      "reviews"
-    ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:29+00:00",
+    "updated_at": "2026-06-21T19:24:29Z"
   },
   {
     "id": "51fd7c1dcc424bc6369e0f157dc4df9e",
@@ -78,8 +106,8 @@
       "Read Harder",
       "reviews"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:29+00:00",
+    "updated_at": "2026-06-21T19:24:29Z"
   },
   {
     "id": "3c4a6b170cea5fd746b80509eb1d50a3",
@@ -102,8 +130,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:29+00:00",
+    "updated_at": "2026-06-21T19:24:29Z"
   },
   {
     "id": "2d9ebce211bbd97b2b13938f60cd6c8e",
@@ -128,8 +156,8 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:29+00:00",
+    "updated_at": "2026-06-21T19:24:29Z"
   },
   {
     "id": "a860d9703667938c441f2b6e0289ca2a",
@@ -172,8 +200,8 @@
       "reviews",
       "translation"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:29+00:00",
+    "updated_at": "2026-06-21T19:24:29Z"
   },
   {
     "id": "acad4324c1c386658038a78953173254",
@@ -203,40 +231,8 @@
       "breaking in books",
       "reviews"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
-  },
-  {
-    "id": "6da83ace3f9948b4c4072c8e1f1ca0f9",
-    "title": "What Is Femgore? An Introduction to the Feminist Horror Subgenre",
-    "author": "K.W. Colyard",
-    "description": "Get to know the feminist horror subgenre of femgore, including some of the best titles to pick up.",
-    "summary_ai": "",
-    "categories": [
-      "Featured",
-      "Horror",
-      "Reviews",
-      "The Fright Stuff"
-    ],
-    "genre": [
-      "Horror"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-19",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/bat-eater-and-other-names-for-cora-zeng-by-kylie-lee-baker-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/bat-eater-and-other-names-for-cora-zeng-by-kylie-lee-baker-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/what-is-femgore/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Featured",
-      "Horror",
-      "The Fright Stuff",
-      "reviews"
-    ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:29+00:00",
+    "updated_at": "2026-06-21T19:24:29Z"
   },
   {
     "id": "79eab72a60f6cd736c1aa20e54f722d2",
@@ -259,8 +255,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:29+00:00",
+    "updated_at": "2026-06-21T19:24:29Z"
   },
   {
     "id": "66e8f1e971b5aa446903f9a11b0313c5",
@@ -285,8 +281,8 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:29+00:00",
+    "updated_at": "2026-06-21T19:24:29Z"
   },
   {
     "id": "c8cd3502ee86b488f33185d6ccfe4d5f",
@@ -317,8 +313,8 @@
       "News",
       "reviews"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:29+00:00",
+    "updated_at": "2026-06-21T19:24:29Z"
   },
   {
     "id": "e1c07f2b484719987a7350baab6bd368",
@@ -345,36 +341,8 @@
       "The Stack",
       "reviews"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
-  },
-  {
-    "id": "3c34c3bf5b67ceba05b038ab0ba4d52b",
-    "title": "Summer Reading Challenges for Adults Who Still Miss Getting Personal Pan Pizza Prizes",
-    "author": "Emily Martin",
-    "description": "Miss the fun of a good reading challenge? These summer reading challenges for adults will get you excited to stretch your reading.",
-    "summary_ai": "",
-    "categories": [
-      "Check Your Shelf",
-      "In The Club",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-19",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/image-of-an-adult-reading-on-staircase.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/image-of-an-adult-reading-on-staircase.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/adult-summer-reading-challenges-2/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Check Your Shelf",
-      "In the Club",
-      "reviews"
-    ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:29+00:00",
+    "updated_at": "2026-06-21T19:24:29Z"
   },
   {
     "id": "929300a09898f1eb24e21a144eeb9cbd",
@@ -430,8 +398,8 @@
       "reviews",
       "sports"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:29+00:00",
+    "updated_at": "2026-06-21T19:24:29Z"
   },
   {
     "id": "6be4c98a023c65529d18ae3671c5e640",
@@ -464,7 +432,47 @@
       "Reading Lists",
       "reviews"
     ],
-    "created_at": "2026-06-21T09:49:32+00:00",
-    "updated_at": "2026-06-21T09:49:32Z"
+    "created_at": "2026-06-21T19:24:29+00:00",
+    "updated_at": "2026-06-21T19:24:29Z"
+  },
+  {
+    "id": "115f9d13d471b78220d561c8604e785f",
+    "title": "What Should You Read Next? Here Are the Best Reviewed Books of the Week",
+    "author": "Book Marks",
+    "description": "Isabel Waidner’s As If, Danielle Allen’s Radical Duke, and Amitav Ghosh’s Ghost-Eye all feature among the best reviewed books of the week. Brought to you by Book Marks, Lit Hub’s home for book reviews. * Fiction 1. As If by Isabel Waidner (FSG)",
+    "summary_ai": "",
+    "categories": [
+      "Book Marks",
+      "Book Reviews",
+      "Craft And Criticism",
+      "Features",
+      "Literary Criticism",
+      "Reading Lists",
+      "Reviews",
+      "The Best Reviewed Books Of The Week"
+    ],
+    "genre": [
+      "Fiction"
+    ],
+    "language": "English",
+    "publisher": "FSG",
+    "published_date": "2026-06-18",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/sites/2/2026/06/2c53feec200cdb54b2d5116757dc14fc-200x300.gif",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/sites/2/2026/06/2c53feec200cdb54b2d5116757dc14fc-200x300.gif",
+    "article_url": "https://lithub.com/what-should-you-read-next-here-are-the-best-reviewed-books-of-the-week-6-18-2026/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Book Marks",
+      "Craft and Criticism",
+      "Features",
+      "Literary Criticism",
+      "Reading Lists",
+      "The Best Reviewed Books of the Week",
+      "book reviews",
+      "reviews"
+    ],
+    "created_at": "2026-06-21T19:24:29+00:00",
+    "updated_at": "2026-06-21T19:24:29Z"
   }
 ]
