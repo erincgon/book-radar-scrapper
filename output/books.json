@@ -30,8 +30,48 @@
       "The Emergency Playbook: A Bunker-Free Guide to Disaster Preparation (Book)",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
+  },
+  {
+    "id": "08d69ba76404444ba95f33944af39e5b",
+    "title": "A Tenacious Lifeguard Still Swims Against the Tide",
+    "author": "Elisabeth Egan",
+    "description": "Janet Fash was always outspoken when it came to keeping beachgoers safe. She lays it all out in her feisty new memoir.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Fash, Janet",
+      "Lifeguard: A Love Story (Book)",
+      "Lifeguards",
+      "Parks And Recreation Department (Nyc)",
+      "Rockaway Beach (Queens, Ny)"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-22",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/21/multimedia/21tbr-janet-fash-cmwk/21tbr-janet-fash-cmwk-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/21/multimedia/21tbr-janet-fash-cmwk/21tbr-janet-fash-cmwk-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/21/books/review/lifeguard-janet-fash-memoir.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Fash, Janet",
+      "Lifeguard: A Love Story (Book)",
+      "Lifeguards",
+      "Parks and Recreation Department (NYC)",
+      "Rockaway Beach (Queens, NY)",
+      "books"
+    ],
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "f80373017fc1cb9ad20c802c066b7a52",
@@ -63,8 +103,8 @@
       "George Orwell",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "6c0384d1ca7571d392bfdb539e0a6150",
@@ -98,8 +138,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "f16d673632dd7d0b84ae466664d4112f",
@@ -135,8 +175,8 @@
       "Women",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "cc018f9c672d5b1a871be9619c14341c",
@@ -164,8 +204,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "77e4eea59383d117d0faa9c9521680dd",
@@ -177,12 +217,9 @@
       "Books",
       "Books And Literature",
       "Deaths (Obituaries)",
-      "Jay, Ricky",
       "Magazines",
-      "Mitchell, Joseph",
       "New Yorker",
-      "Singer, Mark (1950-2026)",
-      "Trump, Donald J",
+      "Singer, Mark (1950- )",
       "Writing And Writers"
     ],
     "genre": [
@@ -199,17 +236,14 @@
     "tags": [
       "Books and Literature",
       "Deaths (Obituaries)",
-      "Jay, Ricky",
       "Magazines",
-      "Mitchell, Joseph",
       "New Yorker",
-      "Singer, Mark (1950-2026)",
-      "Trump, Donald J",
+      "Singer, Mark (1950- )",
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "6172d732e78888628506de6587df16b7",
@@ -220,10 +254,13 @@
     "categories": [
       "Books",
       "Books And Literature",
+      "Content Type: Personal Profile",
+      "Girls Like Girls (Book)",
       "Girls Like Girls (Movie)",
+      "Homosexuality And Bisexuality",
       "Kiyoko, Hayley",
       "Movies",
-      "Music"
+      "Pop And Rock Music"
     ],
     "genre": [],
     "language": "English",
@@ -236,54 +273,17 @@
     "source_type": "rss",
     "tags": [
       "Books and Literature",
+      "Content Type: Personal Profile",
+      "Girls Like Girls (Book)",
       "Girls Like Girls (Movie)",
+      "Homosexuality and Bisexuality",
       "Kiyoko, Hayley",
       "Movies",
-      "Music",
+      "Pop and Rock Music",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
-  },
-  {
-    "id": "08d69ba76404444ba95f33944af39e5b",
-    "title": "A Tenacious Lifeguard Still Swims Against the Tide",
-    "author": "Elisabeth Egan",
-    "description": "Janet Fash was always outspoken when it came to keeping beachgoers safe. She lays it all out in her feisty new memoir.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Content Type: Personal Profile",
-      "Fash, Janet",
-      "Lifeguard: A Love Story (Book)",
-      "Lifeguards",
-      "Parks And Recreation Department (Nyc)",
-      "Rockaway Beach (Queens, Ny)"
-    ],
-    "genre": [
-      "Memoir"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-21",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/21/multimedia/21tbr-janet-fash-cmwk/21tbr-janet-fash-cmwk-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/21/multimedia/21tbr-janet-fash-cmwk/21tbr-janet-fash-cmwk-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/21/books/review/lifeguard-janet-fash-memoir.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Content Type: Personal Profile",
-      "Fash, Janet",
-      "Lifeguard: A Love Story (Book)",
-      "Lifeguards",
-      "Parks and Recreation Department (NYC)",
-      "Rockaway Beach (Queens, NY)",
-      "books"
-    ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "6d1c68323558ebdfd27a3b84c6c9df27",
@@ -318,8 +318,8 @@
       "books",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "64a8a2214597fd6a56de20d4a2f8e22b",
@@ -360,8 +360,8 @@
       "Publishing",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "5d1ea3fcf571fea82292343ebdb57f41",
@@ -391,8 +391,8 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "677e85054cc18091e57a102270060e7c",
@@ -441,8 +441,8 @@
       "books",
       "internal-open-access-audio"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "7659ca14e310f26c450fad92948de894",
@@ -483,8 +483,8 @@
       "World War II (1939-45)",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "f5e8ed3a1359becc0f14248213d96832",
@@ -521,8 +521,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "17ccc4361e3faa54fae80c9042924d8b",
@@ -548,8 +548,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "b5ae43016d62109a8d7c1b5dab02b2ec",
@@ -586,8 +586,8 @@
       "Religion and Belief",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "ea1b21b8e6a420dbfc2ae60459922ac7",
@@ -634,8 +634,8 @@
       "United States Semiquincentennial (2026)",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "867734b7487c124448e68db2b6f3aebb",
@@ -665,8 +665,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "5eaa4ae7956c1dc3bc914b1ae6da828a",
@@ -699,8 +699,8 @@
       "Thrillers",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "8a22feba1b54dea1f56cd1623bc0e52a",
@@ -745,8 +745,8 @@
       "Simmons, Russell",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "7c7e1e31c67c3914eb74411497f7b9f3",
@@ -791,8 +791,8 @@
       "United States Politics and Government",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "1a3c7721cf80b204f9be2a234510d010",
@@ -835,8 +835,8 @@
       "Witchcraft",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "0de47d5039ae63ef8405d47c6646d284",
@@ -872,8 +872,8 @@
       "Paperbacks",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "77afa997b4159f3c9fefbb3934ed638a",
@@ -903,8 +903,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "44d56a6f7c9849669ef85eb545772b66",
@@ -939,8 +939,8 @@
       "Williams, Gregory H",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "cb1efeb382d11a66987c412bb10abbf9",
@@ -981,8 +981,8 @@
       "Theater (Broadway)",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "ac4d068528b29e0f4edc6b4ff85b63db",
@@ -1012,8 +1012,8 @@
       "Literary criticism",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "657f7750264d46294edd96cd66936fbf",
@@ -1041,8 +1041,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "cd29f8375e271820c02627200e68f1d2",
@@ -1074,8 +1074,8 @@
       "Michael Ondaatje",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -1105,7 +1105,7 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   }
 ]

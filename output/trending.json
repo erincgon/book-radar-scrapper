@@ -30,8 +30,48 @@
       "The Emergency Playbook: A Bunker-Free Guide to Disaster Preparation (Book)",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
+  },
+  {
+    "id": "08d69ba76404444ba95f33944af39e5b",
+    "title": "A Tenacious Lifeguard Still Swims Against the Tide",
+    "author": "Elisabeth Egan",
+    "description": "Janet Fash was always outspoken when it came to keeping beachgoers safe. She lays it all out in her feisty new memoir.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Fash, Janet",
+      "Lifeguard: A Love Story (Book)",
+      "Lifeguards",
+      "Parks And Recreation Department (Nyc)",
+      "Rockaway Beach (Queens, Ny)"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-22",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/21/multimedia/21tbr-janet-fash-cmwk/21tbr-janet-fash-cmwk-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/21/multimedia/21tbr-janet-fash-cmwk/21tbr-janet-fash-cmwk-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/21/books/review/lifeguard-janet-fash-memoir.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Fash, Janet",
+      "Lifeguard: A Love Story (Book)",
+      "Lifeguards",
+      "Parks and Recreation Department (NYC)",
+      "Rockaway Beach (Queens, NY)",
+      "books"
+    ],
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "f80373017fc1cb9ad20c802c066b7a52",
@@ -63,8 +103,8 @@
       "George Orwell",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "6c0384d1ca7571d392bfdb539e0a6150",
@@ -98,8 +138,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "f16d673632dd7d0b84ae466664d4112f",
@@ -135,8 +175,8 @@
       "Women",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "cc018f9c672d5b1a871be9619c14341c",
@@ -164,8 +204,97 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
+  },
+  {
+    "id": "8fafb8d69ffc3629005160e5175709d2",
+    "title": "Picture Books Set at the Beach",
+    "author": "Alison Doherty",
+    "description": "These picture books set at the beach will get kids excited to play in the waves, build sand castles, and smell the salt air.",
+    "summary_ai": "",
+    "categories": [
+      "Beach Books",
+      "Children'S",
+      "Picture Books",
+      "Reviews",
+      "The Kids Are All Right"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-22",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/big-family-beach-day-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/big-family-beach-day-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/picture-books-set-at-the-beach/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Beach Books",
+      "Children's",
+      "The Kids Are All Right",
+      "picture books",
+      "reviews"
+    ],
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
+  },
+  {
+    "id": "e75c08619e9d0e6e3247c8dd417cdb9b",
+    "title": "Fully Paneled: Compelling and Engaging Nonfiction Comics",
+    "author": "Kelly Jensen",
+    "description": "Some of the most compelling, interesting, and engaging stories are being told in nonfiction comics. Here are some of the best.",
+    "summary_ai": "",
+    "categories": [
+      "Comics/Graphic Novels",
+      "Read Harder",
+      "Reviews"
+    ],
+    "genre": [
+      "Fiction",
+      "Nonfiction"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-22",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/ducks-book-cover-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/ducks-book-cover-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/must-read-nonfiction-comics/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Comics/Graphic Novels",
+      "Read Harder",
+      "reviews"
+    ],
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
+  },
+  {
+    "id": "af92673232f8331019e88f74bc2fb655",
+    "title": "The Biggest Books of Fall, According to Barnes & Noble",
+    "author": "S. Zainab Williams",
+    "description": "Barnes & Noble announces its most anticipated books of the fall, an IMAX release for Greta Gerwig's NARNIA, and more.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Today In Books"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-22",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/05/colorful-stack-of-books-1.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/05/colorful-stack-of-books-1.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/the-biggest-books-of-fall-according-to-barnes-noble/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Today in Books",
+      "reviews"
+    ],
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "77e4eea59383d117d0faa9c9521680dd",
@@ -177,12 +306,9 @@
       "Books",
       "Books And Literature",
       "Deaths (Obituaries)",
-      "Jay, Ricky",
       "Magazines",
-      "Mitchell, Joseph",
       "New Yorker",
-      "Singer, Mark (1950-2026)",
-      "Trump, Donald J",
+      "Singer, Mark (1950- )",
       "Writing And Writers"
     ],
     "genre": [
@@ -199,17 +325,14 @@
     "tags": [
       "Books and Literature",
       "Deaths (Obituaries)",
-      "Jay, Ricky",
       "Magazines",
-      "Mitchell, Joseph",
       "New Yorker",
-      "Singer, Mark (1950-2026)",
-      "Trump, Donald J",
+      "Singer, Mark (1950- )",
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "6172d732e78888628506de6587df16b7",
@@ -220,10 +343,13 @@
     "categories": [
       "Books",
       "Books And Literature",
+      "Content Type: Personal Profile",
+      "Girls Like Girls (Book)",
       "Girls Like Girls (Movie)",
+      "Homosexuality And Bisexuality",
       "Kiyoko, Hayley",
       "Movies",
-      "Music"
+      "Pop And Rock Music"
     ],
     "genre": [],
     "language": "English",
@@ -236,54 +362,17 @@
     "source_type": "rss",
     "tags": [
       "Books and Literature",
+      "Content Type: Personal Profile",
+      "Girls Like Girls (Book)",
       "Girls Like Girls (Movie)",
+      "Homosexuality and Bisexuality",
       "Kiyoko, Hayley",
       "Movies",
-      "Music",
+      "Pop and Rock Music",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
-  },
-  {
-    "id": "08d69ba76404444ba95f33944af39e5b",
-    "title": "A Tenacious Lifeguard Still Swims Against the Tide",
-    "author": "Elisabeth Egan",
-    "description": "Janet Fash was always outspoken when it came to keeping beachgoers safe. She lays it all out in her feisty new memoir.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Content Type: Personal Profile",
-      "Fash, Janet",
-      "Lifeguard: A Love Story (Book)",
-      "Lifeguards",
-      "Parks And Recreation Department (Nyc)",
-      "Rockaway Beach (Queens, Ny)"
-    ],
-    "genre": [
-      "Memoir"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-21",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/21/multimedia/21tbr-janet-fash-cmwk/21tbr-janet-fash-cmwk-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/21/multimedia/21tbr-janet-fash-cmwk/21tbr-janet-fash-cmwk-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/21/books/review/lifeguard-janet-fash-memoir.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Content Type: Personal Profile",
-      "Fash, Janet",
-      "Lifeguard: A Love Story (Book)",
-      "Lifeguards",
-      "Parks and Recreation Department (NYC)",
-      "Rockaway Beach (Queens, NY)",
-      "books"
-    ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "6d1c68323558ebdfd27a3b84c6c9df27",
@@ -318,8 +407,8 @@
       "books",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "64a8a2214597fd6a56de20d4a2f8e22b",
@@ -360,8 +449,8 @@
       "Publishing",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "5d1ea3fcf571fea82292343ebdb57f41",
@@ -391,8 +480,8 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "6ad5db6e4e4e73905b75b96a1a0809b9",
@@ -417,8 +506,8 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "677e85054cc18091e57a102270060e7c",
@@ -467,8 +556,8 @@
       "books",
       "internal-open-access-audio"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "7659ca14e310f26c450fad92948de894",
@@ -509,8 +598,8 @@
       "World War II (1939-45)",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "f5e8ed3a1359becc0f14248213d96832",
@@ -547,8 +636,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "17ccc4361e3faa54fae80c9042924d8b",
@@ -574,38 +663,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
-  },
-  {
-    "id": "51fd7c1dcc424bc6369e0f157dc4df9e",
-    "title": "A Sneak Peek at the Buzziest Upcoming New Book Releases",
-    "author": "Community",
-    "description": "Here's the best way to keep track of new book releases, including options to filter by genre, format, and age categories.",
-    "summary_ai": "",
-    "categories": [
-      "Book Radar",
-      "New Books",
-      "Read Harder",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-20",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/Screenshot-2026-06-19-at-11.59.54&",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/Screenshot-2026-06-19-at-11.59.54&",
-    "article_url": "https://bookriot.com/the-best-way-to-keep-track-of-new-books/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Book Radar",
-      "New Books",
-      "Read Harder",
-      "reviews"
-    ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   },
   {
     "id": "3c4a6b170cea5fd746b80509eb1d50a3",
@@ -628,71 +687,7 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
-  },
-  {
-    "id": "2d9ebce211bbd97b2b13938f60cd6c8e",
-    "title": "This Summer’s Buzziest Books",
-    "author": "Community",
-    "description": "The buzziest summer reads, an AI chatbot in Google Play Books, the winners of the 2025 Lambda Literary Awards, and more.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Today In Books"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-20",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/01/person-looking-at-their-phone-with-laptop-open.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/01/person-looking-at-their-phone-with-laptop-open.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/today-in-books-june-20-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Today in Books",
-      "reviews"
-    ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
-  },
-  {
-    "id": "b5ae43016d62109a8d7c1b5dab02b2ec",
-    "title": "Jean Houston, ‘Midwife of Souls’ Who Advised Hillary Clinton, Dies at 89",
-    "author": "Michael S. Rosenwald",
-    "description": "The author of books like “The Possible Human,” she held workshops that drew on mythology, psychology and the experiential ethos of Esalen. But she refused to be called a guru.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Clinton, Hillary Rodham",
-      "Deaths (Obituaries)",
-      "Houston, Jean",
-      "Keller, Helen",
-      "Psychology And Psychologists",
-      "Religion And Belief"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-19",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/18/multimedia/18houston-jean-fcjt/18houston-jean-fcjt-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/18/multimedia/18houston-jean-fcjt/18houston-jean-fcjt-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/18/science/jean-houston-dead.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Clinton, Hillary Rodham",
-      "Deaths (Obituaries)",
-      "Houston, Jean",
-      "Keller, Helen",
-      "Psychology and Psychologists",
-      "Religion and Belief",
-      "books"
-    ],
-    "created_at": "2026-06-22T11:53:32+00:00",
-    "updated_at": "2026-06-22T11:53:32Z"
+    "created_at": "2026-06-22T20:39:35+00:00",
+    "updated_at": "2026-06-22T20:39:35Z"
   }
 ]
