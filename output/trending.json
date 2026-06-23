@@ -1,5 +1,91 @@
 [
   {
+    "id": "8241960d3e3db79bf6d9b81fd124c9f9",
+    "title": "A New ‘Odyssey’ Audiobook Puts the ‘A.I.’ in ‘Michael Caine’",
+    "author": "Alexandra Alter",
+    "description": "The longtime Christopher Nolan collaborator isn’t in the director’s forthcoming Homeric adaptation. But a new audiobook sets Caine’s voice off on its own adventure.",
+    "summary_ai": "",
+    "categories": [
+      "Actors And Actresses",
+      "Artificial Intelligence",
+      "Audiobooks",
+      "Books",
+      "Books And Literature",
+      "Caine, Michael",
+      "Elevenlabs Inc",
+      "Homer",
+      "Nolan, Christopher",
+      "Poetry And Poets",
+      "The Odyssey (Book)",
+      "Voice And Speech"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-23",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/23/multimedia/23TBR-caine-bljw/23TBR-caine-bljw-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/23/multimedia/23TBR-caine-bljw/23TBR-caine-bljw-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/23/books/michael-caine-odyssey-ai.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Actors and Actresses",
+      "Artificial Intelligence",
+      "Audiobooks",
+      "Books and Literature",
+      "Caine, Michael",
+      "ElevenLabs Inc",
+      "Homer",
+      "Nolan, Christopher",
+      "Poetry and Poets",
+      "The Odyssey (Book)",
+      "Voice and Speech",
+      "books"
+    ],
+    "created_at": "2026-06-23T19:55:22+00:00",
+    "updated_at": "2026-06-23T19:55:22Z"
+  },
+  {
+    "id": "4d0133681ee8dc791c6caa680031c967",
+    "title": "Rare Books on Sex Have Spiced Things Up at a Library Franklin Founded",
+    "author": "Ralph Blumenthal and Caroline Gutman",
+    "description": "The Library Company of Philadelphia, created in 1731 by Benjamin Franklin, has received a gift of 1,500 volumes about sexuality dating back to the 17th century.",
+    "summary_ai": "",
+    "categories": [
+      "Aristotle'S Masterpiece (Book)",
+      "Books",
+      "Books And Literature",
+      "Collectors And Collections",
+      "Franklin, Benjamin",
+      "Libraries And Librarians",
+      "Library Company Of Philadelphia",
+      "Philadelphia (Pa)",
+      "Sex"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-23",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/23/multimedia/23cul-LIBRARY-SEX-gvtc/23cul-LIBRARY-SEX-gvtc-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/23/multimedia/23cul-LIBRARY-SEX-gvtc/23cul-LIBRARY-SEX-gvtc-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/23/arts/rare-books-sex-library-benjamin-franklin.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Aristotle's Masterpiece (Book)",
+      "Books and Literature",
+      "Collectors and Collections",
+      "Franklin, Benjamin",
+      "Libraries and Librarians",
+      "Library Company of Philadelphia",
+      "Philadelphia (Pa)",
+      "Sex",
+      "books"
+    ],
+    "created_at": "2026-06-23T19:55:22+00:00",
+    "updated_at": "2026-06-23T19:55:22Z"
+  },
+  {
     "id": "583fe7dff53738150e9e082fa62c528c",
     "title": "Book Review: “Nebraska,” by Monica Datta",
     "author": "Joumana Khatib",
@@ -26,8 +112,8 @@
       "Nebraska (Book)",
       "books"
     ],
-    "created_at": "2026-06-23T09:38:00+00:00",
-    "updated_at": "2026-06-23T09:38:00Z"
+    "created_at": "2026-06-23T19:55:22+00:00",
+    "updated_at": "2026-06-23T19:55:22Z"
   },
   {
     "id": "12639b44ec9d2920735ddd7cf93f22ab",
@@ -59,8 +145,8 @@
       "Marriage",
       "books"
     ],
-    "created_at": "2026-06-23T09:38:00+00:00",
-    "updated_at": "2026-06-23T09:38:00Z"
+    "created_at": "2026-06-23T19:55:22+00:00",
+    "updated_at": "2026-06-23T19:55:22Z"
   },
   {
     "id": "ff2bcd5c4ac8a1dfad40f86b7af9699d",
@@ -91,8 +177,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-23T09:38:00+00:00",
-    "updated_at": "2026-06-23T09:38:00Z"
+    "created_at": "2026-06-23T19:55:22+00:00",
+    "updated_at": "2026-06-23T19:55:22Z"
   },
   {
     "id": "feb324ad590f7576779b3f5708068eae",
@@ -124,8 +210,116 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-06-23T09:38:00+00:00",
-    "updated_at": "2026-06-23T09:38:00Z"
+    "created_at": "2026-06-23T19:55:22+00:00",
+    "updated_at": "2026-06-23T19:55:22Z"
+  },
+  {
+    "id": "ff3686b2ce5a066d6c4abe5758e0dc68",
+    "title": "The Books Colleges Are Choosing for Common Reads in 2026",
+    "author": "Kelly Jensen",
+    "description": "Common Reads, sometimes called One Book, One College or All Campus Reads, have been a popular project for U.S. colleges and universities for the last decade. At some institutions, the books rotate every few years, allowing all levels of students to connect over the same book. At others, the books change annually. Many times, students [...]",
+    "summary_ai": "",
+    "categories": [
+      "News",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-23",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/campus-common-reads-flagship.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/campus-common-reads-flagship.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/college-common-reads-books-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "News",
+      "reviews"
+    ],
+    "created_at": "2026-06-23T19:55:22+00:00",
+    "updated_at": "2026-06-23T19:55:22Z"
+  },
+  {
+    "id": "d33af7c57cda074d37f25e69f18304eb",
+    "title": "Who Are Public Libraries For in Our Censorship Era?",
+    "author": "Kelly Jensen",
+    "description": "Are public libraries becoming children's libraries? That, plus insights into book slumps, a fun TikTok viral sensation, and more.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Today In Books"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-23",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/05/colorful-stack-of-books.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/05/colorful-stack-of-books.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/who-are-public-libraries-for-in-our-censorship-era/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Today in Books",
+      "reviews"
+    ],
+    "created_at": "2026-06-23T19:55:22+00:00",
+    "updated_at": "2026-06-23T19:55:22Z"
+  },
+  {
+    "id": "aca06192d2503ee705d84cc02a793674",
+    "title": "The Best BookTok, Bookstagram, and Bookish Newsletter Creators Across the Globe",
+    "author": "Arvyn Cerezo",
+    "description": "Want to keep up with the wide world of books? Check out these creators of bookish content around the world to stay in the know.",
+    "summary_ai": "",
+    "categories": [
+      "Book Radar",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-23",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/08/a-light-skinned-hand-pointing-at-news-article-displayed-on-laptop.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/08/a-light-skinned-hand-pointing-at-news-article-displayed-on-laptop.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/bookish-content-around-the-world/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Book Radar",
+      "reviews"
+    ],
+    "created_at": "2026-06-23T19:55:22+00:00",
+    "updated_at": "2026-06-23T19:55:22Z"
+  },
+  {
+    "id": "3de03d36a46181b1a241d848a1bb3d41",
+    "title": "Manga Brings the Cool Kids to the Library and More Library Updates",
+    "author": "Katie McLain Horner",
+    "description": "Catch up with the latest news in adaptations, book awards, comics, and more, all of which you can use in your library life.",
+    "summary_ai": "",
+    "categories": [
+      "Check Your Shelf",
+      "Libraries",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-23",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2024/12/library-image.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2024/12/library-image.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/news-for-libraries-june-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Check Your Shelf",
+      "Libraries",
+      "reviews"
+    ],
+    "created_at": "2026-06-23T19:55:22+00:00",
+    "updated_at": "2026-06-23T19:55:22Z"
   },
   {
     "id": "e5c40ef2bc9d6b4a4ba2887fc4a3448b",
@@ -158,8 +352,8 @@
       "The Emergency Playbook: A Bunker-Free Guide to Disaster Preparation (Book)",
       "books"
     ],
-    "created_at": "2026-06-23T09:38:00+00:00",
-    "updated_at": "2026-06-23T09:38:00Z"
+    "created_at": "2026-06-23T19:55:22+00:00",
+    "updated_at": "2026-06-23T19:55:22Z"
   },
   {
     "id": "08d69ba76404444ba95f33944af39e5b",
@@ -198,8 +392,8 @@
       "Rockaway Beach (Queens, NY)",
       "books"
     ],
-    "created_at": "2026-06-23T09:38:00+00:00",
-    "updated_at": "2026-06-23T09:38:00Z"
+    "created_at": "2026-06-23T19:55:22+00:00",
+    "updated_at": "2026-06-23T19:55:22Z"
   },
   {
     "id": "f80373017fc1cb9ad20c802c066b7a52",
@@ -231,8 +425,8 @@
       "George Orwell",
       "books"
     ],
-    "created_at": "2026-06-23T09:38:00+00:00",
-    "updated_at": "2026-06-23T09:38:00Z"
+    "created_at": "2026-06-23T19:55:22+00:00",
+    "updated_at": "2026-06-23T19:55:22Z"
   },
   {
     "id": "6c0384d1ca7571d392bfdb539e0a6150",
@@ -266,8 +460,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-06-23T09:38:00+00:00",
-    "updated_at": "2026-06-23T09:38:00Z"
+    "created_at": "2026-06-23T19:55:22+00:00",
+    "updated_at": "2026-06-23T19:55:22Z"
   },
   {
     "id": "f16d673632dd7d0b84ae466664d4112f",
@@ -303,8 +497,8 @@
       "Women",
       "books"
     ],
-    "created_at": "2026-06-23T09:38:00+00:00",
-    "updated_at": "2026-06-23T09:38:00Z"
+    "created_at": "2026-06-23T19:55:22+00:00",
+    "updated_at": "2026-06-23T19:55:22Z"
   },
   {
     "id": "cc018f9c672d5b1a871be9619c14341c",
@@ -332,162 +526,84 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-23T09:38:00+00:00",
-    "updated_at": "2026-06-23T09:38:00Z"
+    "created_at": "2026-06-23T19:55:22+00:00",
+    "updated_at": "2026-06-23T19:55:22Z"
   },
   {
-    "id": "a05d54ce330a580fc46cdb6eade27042",
-    "title": "Scooby-Doo as a Puppy!",
-    "author": "Jamie Canaves",
-    "description": "We have a LUPIN Part 4 premiere date, a puppy Scooby-Doo, the latest Alyssa Cole thriller, and more mystery news",
+    "id": "9fe5ad974a2f447c4f299d60c0f6e622",
+    "title": "Clive Davis, music executive and champion of legendary pop artists, has died at 94",
+    "author": "Andrew Flanagan",
+    "description": "The record executive was instrumental in shepherding the successful careers of a number of monumental music stars, including Aretha Franklin, Bruce Springsteen, Janis Joplin, Billy Joel and Whitney Houston.",
     "summary_ai": "",
     "categories": [
-      "Mystery/Thriller",
-      "Reviews",
-      "Unusual Suspects"
-    ],
-    "genre": [
-      "Mystery",
-      "Thriller"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-22",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/A-Forgotten-Kill-by-Isabella-Maldonado.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/A-Forgotten-Kill-by-Isabella-Maldonado.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/scooby-doo-origins-first-look/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Mystery/Thriller",
-      "Unusual Suspects",
-      "reviews"
-    ],
-    "created_at": "2026-06-23T09:38:00+00:00",
-    "updated_at": "2026-06-23T09:38:00Z"
-  },
-  {
-    "id": "4e0efe88779e2ba800f2021d48916c32",
-    "title": "Never Too Late: Queer Romance Novels with Later",
-    "author": "Susie Dumond",
-    "description": "Celebrate Pride with these heartfelt romances starring characters with later-in-life coming out journeys.",
-    "summary_ai": "",
-    "categories": [
-      "Coming Out",
-      "Featured",
-      "Kissing Books",
-      "Reviews",
-      "Romance/Erotica"
-    ],
-    "genre": [
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-22",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/07/Every-Step-She-Takes-A-Novel-cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/07/Every-Step-She-Takes-A-Novel-cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/later-in-life-coming-out-romances/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Featured",
-      "Kissing Books",
-      "Romance/Erotica",
-      "coming out",
-      "reviews"
-    ],
-    "created_at": "2026-06-23T09:38:00+00:00",
-    "updated_at": "2026-06-23T09:38:00Z"
-  },
-  {
-    "id": "8fafb8d69ffc3629005160e5175709d2",
-    "title": "Picture Books Set at the Beach",
-    "author": "Alison Doherty",
-    "description": "These picture books set at the beach will get kids excited to play in the waves, build sand castles, and smell the salt air.",
-    "summary_ai": "",
-    "categories": [
-      "Beach Books",
-      "Children'S",
-      "Picture Books",
-      "Reviews",
-      "The Kids Are All Right"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-22",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/big-family-beach-day-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/big-family-beach-day-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/picture-books-set-at-the-beach/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Beach Books",
-      "Children's",
-      "The Kids Are All Right",
-      "picture books",
-      "reviews"
-    ],
-    "created_at": "2026-06-23T09:38:00+00:00",
-    "updated_at": "2026-06-23T09:38:00Z"
-  },
-  {
-    "id": "e75c08619e9d0e6e3247c8dd417cdb9b",
-    "title": "Fully Paneled: Compelling and Engaging Nonfiction Comics",
-    "author": "Kelly Jensen",
-    "description": "Some of the most compelling, interesting, and engaging stories are being told in nonfiction comics. Here are some of the best.",
-    "summary_ai": "",
-    "categories": [
-      "Comics/Graphic Novels",
-      "Read Harder",
       "Reviews"
     ],
-    "genre": [
-      "Fiction",
-      "Nonfiction"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-22",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/ducks-book-cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/ducks-book-cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/must-read-nonfiction-comics/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Comics/Graphic Novels",
-      "Read Harder",
-      "reviews"
-    ],
-    "created_at": "2026-06-23T09:38:00+00:00",
-    "updated_at": "2026-06-23T09:38:00Z"
-  },
-  {
-    "id": "af92673232f8331019e88f74bc2fb655",
-    "title": "The Biggest Books of Fall, According to Barnes & Noble",
-    "author": "S. Zainab Williams",
-    "description": "Barnes & Noble announces its most anticipated books of the fall, an IMAX release for Greta Gerwig's NARNIA, and more.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Today In Books"
-    ],
     "genre": [],
     "language": "English",
-    "publisher": "Book Riot",
+    "publisher": "NPR Books",
     "published_date": "2026-06-22",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/05/colorful-stack-of-books-1.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/05/colorful-stack-of-books-1.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/the-biggest-books-of-fall-according-to-barnes-noble/",
-    "source": "Book Riot",
+    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3707+0+0/resize/5000x3707!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fe6%2F527ff5a643589f6ae0305fef4e84%2Fgettyimages-2259333106.jpg",
+    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3707+0+0/resize/5000x3707!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fe6%2F527ff5a643589f6ae0305fef4e84%2Fgettyimages-2259333106.jpg",
+    "article_url": "https://www.npr.org/2026/06/22/nx-s1-3214743/clive-davis-obituary",
+    "source": "NPR Books",
     "source_type": "rss",
     "tags": [
-      "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-23T09:38:00+00:00",
-    "updated_at": "2026-06-23T09:38:00Z"
+    "created_at": "2026-06-23T19:55:22+00:00",
+    "updated_at": "2026-06-23T19:55:22Z"
+  },
+  {
+    "id": "07d546eb78a6bc310e61c77dc6e948c3",
+    "title": "The Black List and Zando are hunting for the next great horror novel.",
+    "author": "Brittany Allen",
+    "description": "Attention, thrill-seekers. The Black List and Zando are teaming up on a mission to identify the next great horror novelist. Could it be you? The inaugural Evil Twin Manuscript Initiative will select an unpublished or self-published horror novel for a",
+    "summary_ai": "",
+    "categories": [
+      "Announcement",
+      "Book News",
+      "Contest",
+      "Events",
+      "Evil Twin Publishing Initiative",
+      "Horror",
+      "Morsels",
+      "News And Culture",
+      "Publishing",
+      "Reviews",
+      "Sjp Lit",
+      "The Black List",
+      "The Hub",
+      "Zando"
+    ],
+    "genre": [
+      "Horror"
+    ],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-06-22",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/Untitled-design-9-768x384.png",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/Untitled-design-9-768x384.png",
+    "article_url": "https://lithub.com/the-black-list-and-zando-are-hunting-for-the-next-great-horror-novel/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Book News",
+      "Events",
+      "Evil Twin Publishing Initiative",
+      "Morsels",
+      "News and Culture",
+      "SJP Lit",
+      "The Black List",
+      "The Hub",
+      "Zando",
+      "announcement",
+      "contest",
+      "horror",
+      "publishing",
+      "reviews"
+    ],
+    "created_at": "2026-06-23T19:55:22+00:00",
+    "updated_at": "2026-06-23T19:55:22Z"
   },
   {
     "id": "77e4eea59383d117d0faa9c9521680dd",
@@ -524,8 +640,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-23T09:38:00+00:00",
-    "updated_at": "2026-06-23T09:38:00Z"
+    "created_at": "2026-06-23T19:55:22+00:00",
+    "updated_at": "2026-06-23T19:55:22Z"
   },
   {
     "id": "6172d732e78888628506de6587df16b7",
@@ -564,135 +680,7 @@
       "Pop and Rock Music",
       "books"
     ],
-    "created_at": "2026-06-23T09:38:00+00:00",
-    "updated_at": "2026-06-23T09:38:00Z"
-  },
-  {
-    "id": "6d1c68323558ebdfd27a3b84c6c9df27",
-    "title": "Robert Thurman, Leading Expert on Tibetan Buddhism and Uma Thurman’s Father, Dies at 84",
-    "author": "Clay Risen",
-    "description": "A former monk who was also Uma Thurman’s father, he made sure Buddhism retained its intellectual and spiritual rigor as it spread through the West.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Buddhism",
-      "Deaths (Obituaries)",
-      "Internal-Open-Access-From-Nl",
-      "Thurman, Robert A F",
-      "Thurman, Uma",
-      "Tibet House"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-21",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/20/obituaries/17thurman-obit-1-print1/17thurman-obit-1-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/20/obituaries/17thurman-obit-1-print1/17thurman-obit-1-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/17/us/robert-thurman-dead.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Buddhism",
-      "Deaths (Obituaries)",
-      "Thurman, Robert A F",
-      "Thurman, Uma",
-      "Tibet House",
-      "books",
-      "internal-open-access-from-nl"
-    ],
-    "created_at": "2026-06-23T09:38:00+00:00",
-    "updated_at": "2026-06-23T09:38:00Z"
-  },
-  {
-    "id": "677e85054cc18091e57a102270060e7c",
-    "title": "Danny McBride Thinks Men Learned All the Wrong Lessons From Movies",
-    "author": "David Marchese",
-    "description": "The writer and actor, known for his profane comedic antiheroes, likes to find universal truths in human flaws.",
-    "summary_ai": "",
-    "categories": [
-      "Actors And Actresses",
-      "Books",
-      "Books And Literature",
-      "Content Type: Personal Profile",
-      "Eastbound & Down (Tv Program)",
-      "Halloween (Movie)",
-      "Internal-Open-Access-Audio",
-      "Mcbride, Danny",
-      "Men And Boys",
-      "Movies",
-      "Television",
-      "The Righteous Gemstones (Tv Program)",
-      "Thrilling Tales Of Modern Men (Book)",
-      "Vice Principals (Tv Program)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-20",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/28/magazine/28mag-interview-mcbride-05/28mag-interview-mcbride-05-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/28/magazine/28mag-interview-mcbride-05/28mag-interview-mcbride-05-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/20/magazine/danny-mcbride-interview.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Actors and Actresses",
-      "Books and Literature",
-      "Content Type: Personal Profile",
-      "Eastbound & Down (TV Program)",
-      "Halloween (Movie)",
-      "McBride, Danny",
-      "Men and Boys",
-      "Movies",
-      "Television",
-      "The Righteous Gemstones (TV Program)",
-      "Thrilling Tales of Modern Men (Book)",
-      "Vice Principals (TV Program)",
-      "books",
-      "internal-open-access-audio"
-    ],
-    "created_at": "2026-06-23T09:38:00+00:00",
-    "updated_at": "2026-06-23T09:38:00Z"
-  },
-  {
-    "id": "7659ca14e310f26c450fad92948de894",
-    "title": "James Bradley, Co-Author of ‘Flags of Our Fathers,’ Dies at 72",
-    "author": "Richard Sandomir",
-    "description": "His best-selling book celebrated the servicemen in the stirring photograph of the U.S. flag-raising on Iwo Jima. One, it was long believed, was his father.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Bradley, James (1954-2026)",
-      "Deaths (Obituaries)",
-      "Flags Of Our Fathers (Movie)",
-      "Movies",
-      "Powers, Ron",
-      "Rosenthal, Joe",
-      "United States Marine Corps",
-      "World War Ii (1939-45)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-20",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/21/multimedia/17bradley-james-gqwl-print1/17bradley-james-gqwl-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/21/multimedia/17bradley-james-gqwl-print1/17bradley-james-gqwl-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/19/us/james-bradley-dead.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Bradley, James (1954-2026)",
-      "Deaths (Obituaries)",
-      "Flags of Our Fathers (Movie)",
-      "Movies",
-      "Powers, Ron",
-      "Rosenthal, Joe",
-      "United States Marine Corps",
-      "World War II (1939-45)",
-      "books"
-    ],
-    "created_at": "2026-06-23T09:38:00+00:00",
-    "updated_at": "2026-06-23T09:38:00Z"
+    "created_at": "2026-06-23T19:55:22+00:00",
+    "updated_at": "2026-06-23T19:55:22Z"
   }
 ]
