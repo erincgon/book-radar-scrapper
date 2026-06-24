@@ -32,8 +32,8 @@
       "publishers",
       "trailers"
     ],
-    "created_at": "2026-06-23T19:55:23+00:00",
-    "updated_at": "2026-06-23T19:55:23Z"
+    "created_at": "2026-06-24T09:28:27+00:00",
+    "updated_at": "2026-06-24T09:28:27Z"
   },
   {
     "id": "378cd56317070974a64b1d05ed97d4ed",
@@ -72,8 +72,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-06-23T19:55:23+00:00",
-    "updated_at": "2026-06-23T19:55:23Z"
+    "created_at": "2026-06-24T09:28:27+00:00",
+    "updated_at": "2026-06-24T09:28:27Z"
   },
   {
     "id": "ec33c04ca0a626d098f19edfd03d8b84",
@@ -112,8 +112,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-06-23T19:55:23+00:00",
-    "updated_at": "2026-06-23T19:55:23Z"
+    "created_at": "2026-06-24T09:28:27+00:00",
+    "updated_at": "2026-06-24T09:28:27Z"
   },
   {
     "id": "36f626c9dd4163ae9eb7c9a06a9b4fd2",
@@ -154,8 +154,8 @@
       "genre definitions",
       "publishers"
     ],
-    "created_at": "2026-06-23T19:55:23+00:00",
-    "updated_at": "2026-06-23T19:55:23Z"
+    "created_at": "2026-06-24T09:28:27+00:00",
+    "updated_at": "2026-06-24T09:28:27Z"
   },
   {
     "id": "9377d2d0d9fc20e897fd562874d0fda0",
@@ -194,8 +194,8 @@
       "Volatile Memory",
       "publishers"
     ],
-    "created_at": "2026-06-23T19:55:23+00:00",
-    "updated_at": "2026-06-23T19:55:23Z"
+    "created_at": "2026-06-24T09:28:27+00:00",
+    "updated_at": "2026-06-24T09:28:27Z"
   },
   {
     "id": "3c83d8875b7840304527c80e5e8e2716",
@@ -238,8 +238,208 @@
       "fantasy",
       "publishers"
     ],
-    "created_at": "2026-06-23T19:55:23+00:00",
-    "updated_at": "2026-06-23T19:55:23Z"
+    "created_at": "2026-06-24T09:28:27+00:00",
+    "updated_at": "2026-06-24T09:28:27Z"
+  },
+  {
+    "id": "4dc1e34c14ac531de969d10ce36c5130",
+    "title": "Rights Report: Week of June 22, 2026",
+    "author": "",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-23",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129933-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129933-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100699-rights-report-week-of-june-22-2026.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-24T09:28:27+00:00",
+    "updated_at": "2026-06-24T09:28:27Z"
+  },
+  {
+    "id": "01ce1721ca1c5feeac1f6ac368778a5e",
+    "title": "The Best Basketball Comics to Keep the Knicks Hype Going",
+    "author": "Christian Holub",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-23",
+    "thumbnail": "https://www.publishersweekly.com/images/data/IMG/img/000/000/1-3.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/IMG/img/000/000/1-3.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/100697-the-best-basketball-comics-to-keep-the-knicks-hype-going.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-24T09:28:27+00:00",
+    "updated_at": "2026-06-24T09:28:27Z"
+  },
+  {
+    "id": "877a4ddc7e9f96ba82edf62db2ba655c",
+    "title": "‘This Love’: New YA Romance Anthology Is for the Swifties",
+    "author": "Shannon Maughan",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [
+      "Romance"
+    ],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-23",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129932-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129932-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100698-this-love-new-ya-romance-anthology-is-for-the-swifties.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-24T09:28:27+00:00",
+    "updated_at": "2026-06-24T09:28:27Z"
+  },
+  {
+    "id": "3bc7210cc7e713425e5f45dae8b85d26",
+    "title": "Navigating—and Portraying—Postpartum Depression Through Children’s Books",
+    "author": "Pooja Makhijani",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-23",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129928-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129928-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100695-navigating-and-portraying-postpartum-depression-through-children-s-books.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-24T09:28:27+00:00",
+    "updated_at": "2026-06-24T09:28:27Z"
+  },
+  {
+    "id": "7d0039e8505e18282bf8542fcee5493a",
+    "title": "Licensing Hotline: June 2026",
+    "author": "Karen Raugust",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-23",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129922-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129922-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100693-licensing-hotline-june-2026.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-24T09:28:27+00:00",
+    "updated_at": "2026-06-24T09:28:27Z"
+  },
+  {
+    "id": "f38e9061b03733aaf691868b271e7d1e",
+    "title": "Rebel Goose’s Debut Title Inspires Grassroots Campaign for LGBTQ+ Support",
+    "author": "Pamela Brill",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-23",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129919-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129919-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100692-rebel-goose-s-debut-title-inspires-grassroots-campaign-for-lgbtq-support.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-24T09:28:27+00:00",
+    "updated_at": "2026-06-24T09:28:27Z"
+  },
+  {
+    "id": "71dd1cb483f1492340ed0f8a4fcbbb6b",
+    "title": "Beijing Book Fair 2026: Going Beyond Print Books and Looking Within for New Children’s Content",
+    "author": "Teri Tan",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-23",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129915-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129915-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100691-beijing-book-fair-2026-going-beyond-print-books-and-looking-within-for-new-children-s-content.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-24T09:28:27+00:00",
+    "updated_at": "2026-06-24T09:28:27Z"
+  },
+  {
+    "id": "17bc1c7d8c9a198750b6d2452f6af848",
+    "title": "Children's Institute 2026: Dark and Thorny: PW Talks with Sid Sharp",
+    "author": "Nathalie op de Beeck",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-23",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129931-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129931-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100592-children-s-institute-2026-dark-and-thorny-pw-talks-with-sid-sharp.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-24T09:28:27+00:00",
+    "updated_at": "2026-06-24T09:28:27Z"
   },
   {
     "id": "bbc31209b6bc13edef1cff5a8f851944",
@@ -262,8 +462,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-23T19:55:23+00:00",
-    "updated_at": "2026-06-23T19:55:23Z"
+    "created_at": "2026-06-24T09:28:27+00:00",
+    "updated_at": "2026-06-24T09:28:27Z"
   },
   {
     "id": "1cf927b0c7cf693e37a0672d183a33e1",
@@ -286,8 +486,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-23T19:55:23+00:00",
-    "updated_at": "2026-06-23T19:55:23Z"
+    "created_at": "2026-06-24T09:28:27+00:00",
+    "updated_at": "2026-06-24T09:28:27Z"
   },
   {
     "id": "24e2a2356f95d28f85fe425388ee79c2",
@@ -310,8 +510,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-23T19:55:23+00:00",
-    "updated_at": "2026-06-23T19:55:23Z"
+    "created_at": "2026-06-24T09:28:27+00:00",
+    "updated_at": "2026-06-24T09:28:27Z"
   },
   {
     "id": "0b0ef9972807855e9004b4a9cb72a11f",
@@ -346,8 +546,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-06-23T19:55:23+00:00",
-    "updated_at": "2026-06-23T19:55:23Z"
+    "created_at": "2026-06-24T09:28:27+00:00",
+    "updated_at": "2026-06-24T09:28:27Z"
   },
   {
     "id": "036e4ae893270d5f63d7d80465f9b3db",
@@ -382,8 +582,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-06-23T19:55:23+00:00",
-    "updated_at": "2026-06-23T19:55:23Z"
+    "created_at": "2026-06-24T09:28:27+00:00",
+    "updated_at": "2026-06-24T09:28:27Z"
   },
   {
     "id": "3c23d68e4b3bbdb6662bba2e15eaa5f2",
@@ -426,251 +626,7 @@
       "movies",
       "publishers"
     ],
-    "created_at": "2026-06-23T19:55:23+00:00",
-    "updated_at": "2026-06-23T19:55:23Z"
-  },
-  {
-    "id": "94700a5ead0966282ba4ce32d1842b8c",
-    "title": "Keanu Reeves in Talks to Star in Lego Live",
-    "author": "Vanessa Armstrong",
-    "description": "But will Reeves be a minifig? The post Keanu Reeves in Talks to Star in Lego Live-Action Hybrid Movie appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Keanu Reeves",
-      "Lego",
-      "Movies",
-      "News",
-      "Publishers",
-      "Universal Pictures"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-06-22",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2025/05/keanu-reeves-good-fortune-740x493.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2025/05/keanu-reeves-good-fortune-740x493.jpg",
-    "article_url": "https://reactormag.com/keanu-reeves-lego-live-action-hybrid-movie/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Keanu Reeves",
-      "Lego",
-      "Universal Pictures",
-      "movies",
-      "news",
-      "publishers"
-    ],
-    "created_at": "2026-06-23T19:55:23+00:00",
-    "updated_at": "2026-06-23T19:55:23Z"
-  },
-  {
-    "id": "8fc2b77e8ed4ff2921cdc048f507bb6b",
-    "title": "Jenna Ortega Wants to Be Your Artificial Friend in Klara and the Sun Trailer",
-    "author": "Vanessa Armstrong",
-    "description": "The movie from Taika Waititi is an adaptation of Kazuo Ishiguro’s book of the same name The post Jenna Ortega Wants to Be Your Artificial Friend in Klara and the Sun Trailer appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Klara And The Sun",
-      "Movies",
-      "News",
-      "Publishers",
-      "Sony Pictures",
-      "Trailers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-06-22",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/06/klara-and-the-sun-740x495.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/06/klara-and-the-sun-740x495.jpg",
-    "article_url": "https://reactormag.com/jenna-ortega-klara-and-the-sun-trailer/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Klara and the Sun",
-      "Sony Pictures",
-      "movies",
-      "news",
-      "publishers",
-      "trailers"
-    ],
-    "created_at": "2026-06-23T19:55:23+00:00",
-    "updated_at": "2026-06-23T19:55:23Z"
-  },
-  {
-    "id": "8d4b8938327471d716a4b13ca22df978",
-    "title": "Dat Wascally Wabbit: Bugs Bunny and His Dearest Frenemies",
-    "author": "Sarah",
-    "description": "Like all great comic characters, Bugs is more than a set of gags or a laugh line... The post Dat Wascally Wabbit: Bugs Bunny and His Dearest Frenemies appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Bugs Bunny",
-      "Cartoons",
-      "Looney Tunes",
-      "Publishers",
-      "Sff Bestiary",
-      "Talking Animals"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-06-22",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/06/Bugs-Bunny-Rabbit-Rampage-740x423.png",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/06/Bugs-Bunny-Rabbit-Rampage-740x423.png",
-    "article_url": "https://reactormag.com/dat-wascally-wabbit-bugs-bunny-and-his-dearest-frenemies/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Bugs Bunny",
-      "Looney Tunes",
-      "SFF Bestiary",
-      "cartoons",
-      "publishers",
-      "talking animals"
-    ],
-    "created_at": "2026-06-23T19:55:23+00:00",
-    "updated_at": "2026-06-23T19:55:23Z"
-  },
-  {
-    "id": "71e69542076b6af88e46b1bf249e2c93",
-    "title": "The Vampire Lestat Breaks Out the Power Ballads in “Toronto”",
-    "author": "Molly Templeton",
-    "description": "“Mmm, performative journalism.” The post The Vampire Lestat Breaks Out the Power Ballads in “Toronto” appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Jacob Anderson",
-      "Publishers",
-      "Sam Reid",
-      "Television",
-      "Television Recaps",
-      "Television Reviews",
-      "The Vampire Lestat",
-      "The Vampire Lestat Recaps"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-06-22",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/06/vampire-lestat-ep3-3-1100x733.jpeg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/06/vampire-lestat-ep3-3-1100x733.jpeg",
-    "article_url": "https://reactormag.com/tv-review-the-vampire-lestat-toronto/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Jacob Anderson",
-      "Sam Reid",
-      "The Vampire Lestat",
-      "The Vampire Lestat recaps",
-      "publishers",
-      "television",
-      "television recaps",
-      "television reviews"
-    ],
-    "created_at": "2026-06-23T19:55:23+00:00",
-    "updated_at": "2026-06-23T19:55:23Z"
-  },
-  {
-    "id": "f5721b887a1ad19bd650e8959a1f87c0",
-    "title": "Beijing International Book Fair Highlights Digital Publishing, Cross",
-    "author": "Teri Tan",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-06-22",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129873-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129873-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/international/trade-shows/article/100677-beijing-2026-focuses-on-publishing-transformation-ai-and-reading.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-06-23T19:55:23+00:00",
-    "updated_at": "2026-06-23T19:55:23Z"
-  },
-  {
-    "id": "0cc85d70145a480df6e834bcbf9d9cdd",
-    "title": "Stck Wants to Be the World’s Bookstore",
-    "author": "Ed Nawotka",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-06-22",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129869-2.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129869-2.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/100676-stck-wants-to-be-the-world-s-bookstore-for-fans.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-06-23T19:55:23+00:00",
-    "updated_at": "2026-06-23T19:55:23Z"
-  },
-  {
-    "id": "8078fcc967eb93641903f61dd5ca5606",
-    "title": "Four Questions for Marley Dias",
-    "author": "Patricia J. Murphy",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-06-22",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129867-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129867-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100675-four-questions-for-marley-dias.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-06-23T19:55:23+00:00",
-    "updated_at": "2026-06-23T19:55:23Z"
-  },
-  {
-    "id": "c4a6464080374b9da78e7871afe58964",
-    "title": "Beyond the Book: John Cusack's 'Momo'",
-    "author": "",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-06-22",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129875-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129875-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/authors/interviews/article/100680-pw-studio-beyond-the-book-john-cusack-s-momo.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-06-23T19:55:23+00:00",
-    "updated_at": "2026-06-23T19:55:23Z"
+    "created_at": "2026-06-24T09:28:27+00:00",
+    "updated_at": "2026-06-24T09:28:27Z"
   }
 ]
