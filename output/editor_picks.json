@@ -1,5 +1,72 @@
 [
   {
+    "id": "38b06681c032845f7097ca2476ee32ca",
+    "title": "My Mother’s Voice: Messages From Tehran",
+    "author": "Shohreh Laici",
+    "description": "The walls were cracked, the ceiling collapsing. Ruins underfoot. My manuscript spread haphazardly across the areas untouched by rubble. Pages lifting and settling on top of one another in the early morning or evening I could not tell. I only",
+    "summary_ai": "",
+    "categories": [
+      "Features",
+      "Iran",
+      "Memoir",
+      "Mothers And Daughters",
+      "Politics",
+      "Reviews",
+      "Shohreh Laici",
+      "War"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-06-24",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/tehran-768x384.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/tehran-768x384.jpg",
+    "article_url": "https://lithub.com/my-mothers-voice-messages-from-tehran/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Features",
+      "Iran",
+      "Memoir",
+      "Politics",
+      "Shohreh Laici",
+      "memoir",
+      "mothers and daughters",
+      "reviews",
+      "war"
+    ],
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
+  },
+  {
+    "id": "abd21ed2779d3c907b8adae1f95d77c2",
+    "title": "Lit Hub Daily: June 24, 2026",
+    "author": "Lit Hub Daily",
+    "description": "Andrew McKenzie-McHarg explores iconic conspiracy theorist Carl Oglesby’s idea of a Yankees versus Cowboys war. | Lit Hub History Maggie McKinley considers Joan Didion’s “future-oriented” nostalgia. | Lit Hub Criticism “I would never blame them. But being around Americans while",
+    "summary_ai": "",
+    "categories": [
+      "Lit Hub Daily",
+      "Reviews"
+    ],
+    "genre": [
+      "History"
+    ],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-06-24",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/SarahOrneJewett--768x344.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/SarahOrneJewett--768x344.jpg",
+    "article_url": "https://lithub.com/lit-hub-daily-june-24-2026/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Lit Hub Daily",
+      "reviews"
+    ],
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
+  },
+  {
     "id": "6297b61249cbde019670b9cba0928d46",
     "title": "On Joan Didion and the Art of Looking Back",
     "author": "Maggie McKinley",
@@ -9,7 +76,7 @@
       "American Nostalgia",
       "Biography",
       "Craft And Criticism",
-      "Features",
+      "Fullwidth Slider",
       "Home",
       "Idealism",
       "Joan Didion",
@@ -34,7 +101,7 @@
       "American nostalgia",
       "Biography",
       "Craft and Criticism",
-      "Features",
+      "Fullwidth Slider",
       "Home",
       "Joan Didion",
       "LSU Press",
@@ -46,8 +113,8 @@
       "nostalgia",
       "reviews"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "f3728803cebcad385d81abbde83c0fc5",
@@ -96,8 +163,8 @@
       "conspiracy theories",
       "reviews"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "893d608a4792e884e4826e5ee5c43083",
@@ -146,8 +213,8 @@
       "objects",
       "reviews"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "21272f2be28b7da11538575765341a1d",
@@ -198,8 +265,8 @@
       "cotton",
       "reviews"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "fbd5cb3bad64c5a21c0eb5a2dcdbe622",
@@ -244,8 +311,8 @@
       "reviews",
       "time travel"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "b5e60111081bb27010528de02cd52833",
@@ -284,320 +351,204 @@
       "T Clark",
       "reviews"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
-    "id": "2412f8c59a4a2f0e76b6d53b028b52d3",
-    "title": "Lit Hub Daily: June 23, 2026",
-    "author": "Lit Hub Daily",
-    "description": "Why the elder Millennial experience of American life is a cycle of getting your hopes up and being let down. | Lit Hub Memoir Justin Ellis explores the labor history and racial solidarity of mid-century Minneapolis. | Lit Hub History",
-    "summary_ai": "",
-    "categories": [
-      "Lit Hub Daily",
-      "Reviews"
-    ],
-    "genre": [
-      "History",
-      "Memoir"
-    ],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-06-23",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/plaguedoctor-768x344.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/plaguedoctor-768x344.jpg",
-    "article_url": "https://lithub.com/lit-hub-daily-june-23-2026/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Lit Hub Daily",
-      "reviews"
-    ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
-  },
-  {
-    "id": "e45359d13d75d8e580d64d6e952cd518",
-    "title": "How F. Scott Fitzgerald’s Overlooked Story Collection Helped Me Write My LA Novel",
-    "author": "Krista Diamond",
-    "description": "A Princeton University dropout who spent much of his life in New York, F. Scott Fitzgerald is often associated with the East Coast, but the themes that come up in his work again and again—old money versus new money, the",
-    "summary_ai": "",
-    "categories": [
-      "California",
-      "Close Relationships With Strangers",
-      "Craft And Advice",
-      "Craft And Criticism",
-      "F. Scott Fitzgerald",
-      "Features",
-      "Hollywood",
-      "Krista Diamond",
-      "Literary Criticism",
-      "Los Angeles",
-      "Reviews",
-      "Simon And Schuster"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-06-23",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/f-scott-fitzgerald-768x384.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/f-scott-fitzgerald-768x384.jpg",
-    "article_url": "https://lithub.com/how-f-scott-fitzgeralds-overlooked-story-collection-helped-me-write-my-la-novel/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "California",
-      "Close Relationships with Strangers",
-      "Craft and Advice",
-      "Craft and Criticism",
-      "F. Scott Fitzgerald",
-      "Features",
-      "Hollywood",
-      "Krista Diamond",
-      "Literary Criticism",
-      "Los Angeles",
-      "Simon and Schuster",
-      "reviews"
-    ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
-  },
-  {
-    "id": "f9543320ad0728bec3ae35db00a481a9",
-    "title": "Are Elder Millennial Women in America Ok? A Historical Accounting",
-    "author": "Sarah Flocken",
-    "description": "To be human is to go through multiple cycles of belief and cynicism throughout your lifetime. To quote the canonic meme guy sitting at a table, debate me. But I think that people my age have grown up against a",
-    "summary_ai": "",
-    "categories": [
-      "Be Well",
-      "Cynicism",
-      "Doomerism",
-      "Fullwidth Slider",
-      "Health",
-      "Heliotrope",
-      "Memoir",
-      "News And Culture",
-      "Politics",
-      "Reviews",
-      "Sarah Flocken",
-      "Wellness"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-06-23",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/myspace-dollz-millennials-768x352.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/myspace-dollz-millennials-768x352.jpg",
-    "article_url": "https://lithub.com/are-elder-millennial-women-in-america-ok-a-historical-accounting/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Be Well",
-      "Fullwidth Slider",
-      "Health",
-      "Heliotrope",
-      "Memoir",
-      "News and Culture",
-      "Politics",
-      "Sarah Flocken",
-      "Wellness",
-      "cynicism",
-      "doomerism",
-      "politics",
-      "reviews"
-    ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
-  },
-  {
-    "id": "e15331f9881cc3bb93b01bf5e9ca6470",
-    "title": "On Integrating Unions and Finding “Good White People” in Midcentury Minnesota",
-    "author": "Justin Ellis",
-    "description": "The black-and-white booklet is meant to fit easily in a pocket or slip into the palm of a polite stranger, anyone whose willingness to make eye contact left them open to learning about race relations in America. On the cover",
-    "summary_ai": "",
-    "categories": [
-      "Features",
-      "Harper",
-      "Harpercollins Publishers",
-      "History",
-      "Justin Ellis",
-      "Labor",
-      "Minneapolis",
-      "Minnesota",
-      "News And Culture",
-      "Politics",
-      "Racism",
-      "Reviews",
-      "The Cruelty Of Nice Folks: Why Minneapolis Is The Story Of America",
-      "Unions"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "HarperCollins",
-    "published_date": "2026-06-23",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/minneapolis-1-768x436.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/minneapolis-1-768x436.png",
-    "article_url": "https://lithub.com/on-integrating-unions-and-finding-good-white-people-in-midcentury-minnesota/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Features",
-      "Harper",
-      "HarperCollins Publishers",
-      "History",
-      "Justin Ellis",
-      "Minneapolis",
-      "Minnesota",
-      "News and Culture",
-      "Politics",
-      "The Cruelty of Nice Folks: Why Minneapolis is the Story of America",
-      "labor",
-      "racism",
-      "reviews",
-      "unions"
-    ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
-  },
-  {
-    "id": "4d3558eab3ca1e22c167036a6b2468bb",
-    "title": "Book Riot’s Deals of the Day for June 23, 2026",
+    "id": "f02c7c88efb562fa5c4351fbf1b57a37",
+    "title": "Book Riot’s Deals of the Day for June 24, 2026",
     "author": "Deals",
-    "description": "It's a big week for book deals - this double batch of discounted books includes a foodie memoir, Critical Role fantasy, a Wuthering Heights remix, and more",
+    "description": "A quirky sci-fi romp, a grouchy but charming magician (plus cats!), a pop star and a cowboy strike a deal, and more of today's book deals.",
     "summary_ai": "",
     "categories": [
       "Book Deals",
       "Reviews"
     ],
-    "genre": [
-      "Fantasy",
-      "Memoir"
-    ],
+    "genre": [],
     "language": "English",
     "publisher": "Book Riot",
-    "published_date": "2026-06-23",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/01/Disappoint-Me.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/01/Disappoint-Me.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-june-23-2026/",
+    "published_date": "2026-06-24",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/pachinko.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/pachinko.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-june-24-2026/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
       "Book Deals",
       "reviews"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
-    "id": "ea16929c5d384089fcb98d49a5418bf1",
-    "title": "Gimme, Gimme: My 5 Most Anticipated Fantasy Books of the Summer",
-    "author": "Liberty Hardy",
-    "description": "These most anticipated fantasy books of the summer will take you to a magical library, on cases with an unusual detective duo, to a dungeon, and more.",
+    "id": "6b85ed3e70f227539bdaf81741c9b165",
+    "title": "Historical Fiction Set in the Middle East",
+    "author": "Katie Moench",
+    "description": "In these historical fiction novels set in the Middle East, you'll find stories that span from ancient Egypt to the early 2010s.",
     "summary_ai": "",
     "categories": [
-      "Reviews",
-      "Science Fiction/Fantasy",
-      "Swords And Spaceships"
+      "Past Tense",
+      "Reviews"
     ],
     "genre": [
-      "Fantasy"
+      "Fiction"
     ],
     "language": "English",
     "publisher": "Book Riot",
-    "published_date": "2026-06-23",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/The-Magic-Library-of-Waterfall-Way-by-Julie-Abe-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/The-Magic-Library-of-Waterfall-Way-by-Julie-Abe-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/most-anticipated-fantasy-books-of-the-summer/",
+    "published_date": "2026-06-24",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/Mother-of-Strangers-by-Suad-Amiry-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/Mother-of-Strangers-by-Suad-Amiry-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/historical-fiction-set-in-the-middle-east/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Science Fiction/Fantasy",
-      "Swords and Spaceships",
+      "Past Tense",
       "reviews"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
-    "id": "dfc3deb85847e66d99ada5ef305a80cc",
-    "title": "New and Delightful Regency Romance Books",
-    "author": "R. Nassor",
-    "description": "If you like your romances historical, add these nine delightful new Regency romances to your reading lists.",
+    "id": "9b54fc215cc7d93f170ddc63eda17961",
+    "title": "Pride and Protest: 6 Books About Queer Liberation and Activists",
+    "author": "Jeffrey Davies",
+    "description": "These books by and about queer activists demonstrates how long the fight for equality has been—read them this Pride and beyond.",
     "summary_ai": "",
     "categories": [
-      "Kissing Books",
+      "Nonfiction",
       "Reviews",
-      "Romance/Erotica"
+      "True Story"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-24",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2020/12/Sister-Outsider-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2020/12/Sister-Outsider-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/books-about-queer-liberation-and-activists/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Nonfiction",
+      "True Story",
+      "reviews"
+    ],
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
+  },
+  {
+    "id": "1a25e8d1fa415ff15a2a8c309ead2fe4",
+    "title": "Summer Thrillers For A Reading Escape",
+    "author": "Jamie Canaves",
+    "description": "Escape into universities with serial killer programs, dangerous obsessions, and disappeared wives who reappear in these thrillers this summer.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Unusual Suspects"
     ],
     "genre": [
+      "Thriller"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-24",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2022/05/never-saw-me-coming-book-cover-300x0.jpeg.optimal.jpeg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2022/05/never-saw-me-coming-book-cover-300x0.jpeg.optimal.jpeg",
+    "article_url": "https://bookriot.com/summer-thrillers-for-a-reading-escape/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Unusual Suspects",
+      "reviews"
+    ],
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
+  },
+  {
+    "id": "15647dada04d7f1f46dfa0996bafa7ad",
+    "title": "High Stakes Competitions, A Terrifying Deer, and More New YA Books for June 24, 2026",
+    "author": "Kelly Jensen",
+    "description": "This week's new YA releases include a horror title with a terrifying deer, a Sapphic twist on the Wizard of Oz, and a bookish romance.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "What'S Up In Ya",
+      "Young Adult Literature"
+    ],
+    "genre": [
+      "Horror",
       "Romance"
     ],
     "language": "English",
     "publisher": "Book Riot",
-    "published_date": "2026-06-23",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/Game-of-Rogues-by-Julie-Anne-Long-Book-Cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/Game-of-Rogues-by-Julie-Anne-Long-Book-Cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/new-regency-romances/",
+    "published_date": "2026-06-24",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/A-Great-and-Powerful-Tyranny-by-Victoria-Carbol-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/A-Great-and-Powerful-Tyranny-by-Victoria-Carbol-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/new-ya-books-june-24-2026/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Kissing Books",
-      "Romance/Erotica",
+      "What's Up in YA",
+      "Young Adult Literature",
       "reviews"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
-    "id": "694191e94217dbe2e62c7fb3ecda9e70",
-    "title": "🍿 The exception to the slowdown",
-    "author": "Community",
-    "description": "Fan favorites get the greenlight from Hollywood",
+    "id": "9d65b5f2d59b1722e814175d7e1edced",
+    "title": "LeVar Burton, Mychal Threets, and Obama Walk Into a Library",
+    "author": "S. Zainab Williams",
+    "description": "Two READING RAINBOW icons show up for storytime, authors choose the best queer books in America, this year's Common Reads, and more.",
     "summary_ai": "",
     "categories": [
-      "Book Riot Newsletter",
-      "Reviews"
+      "Reviews",
+      "Today In Books"
     ],
     "genre": [],
     "language": "English",
     "publisher": "Book Riot",
-    "published_date": "2026-06-23",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/adaptation-news-june-23-1.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/adaptation-news-june-23-1.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/the-exception-to-the-slowdown/",
+    "published_date": "2026-06-24",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/02/school-library.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/02/school-library.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/levar-burton-mychal-threets-and-obama-walk-into-a-library/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Book Riot Newsletter",
+      "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
-    "id": "265ff3c1094a1796bfcf115fa4e0a12a",
-    "title": "Books That Will Have You Asking, “Where are the Parents?”",
-    "author": "Guest",
-    "description": "T. Clark recommends three books with missing parental figures.",
+    "id": "8aef93863a63c12d59f52f03c4a2af96",
+    "title": "Comics to Keep Your Brain From Melting Over the Summer",
+    "author": "Eileen Gonzalez",
+    "description": "These science, history, philosophy, and literature-focused graphic novels will get you well-read and learning this summer!",
     "summary_ai": "",
     "categories": [
-      "Lists",
-      "Reviews"
+      "Comics/Graphic Novels",
+      "Reviews",
+      "The Stack"
     ],
-    "genre": [],
+    "genre": [
+      "History"
+    ],
     "language": "English",
     "publisher": "Book Riot",
-    "published_date": "2026-06-23",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/T.-Clark.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/T.-Clark.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/books-that-will-have-you-asking-where-are-the-parents/",
+    "published_date": "2026-06-24",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/01/image-of-a-person-on-a-couch-reading-a-comic.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/01/image-of-a-person-on-a-couch-reading-a-comic.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/comics-to-keep-you-learning-this-summer/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Lists",
+      "Comics/Graphic Novels",
+      "The Stack",
       "reviews"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   }
 ]

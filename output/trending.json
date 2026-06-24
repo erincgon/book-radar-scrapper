@@ -38,8 +38,80 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
+  },
+  {
+    "id": "583fe7dff53738150e9e082fa62c528c",
+    "title": "Book Review: “Nebraska,” by Monica Datta",
+    "author": "Joumana Khatib",
+    "description": "Monica Datta’s “Nebraska” is a maximalist, continent-spanning story of a mother killing her youngest child, as relayed by a highly idiosyncratic psychoanalyst.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Datta, Monica",
+      "Internal-Open-Access-From-Nl",
+      "Nebraska (Book)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-24",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/23/books/23TBR-Datta-Review/23TBR-Datta-Review-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/23/books/23TBR-Datta-Review/23TBR-Datta-Review-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/23/books/review/nebraska-monica-datta.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Datta, Monica",
+      "Nebraska (Book)",
+      "books",
+      "internal-open-access-from-nl"
+    ],
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
+  },
+  {
+    "id": "08d69ba76404444ba95f33944af39e5b",
+    "title": "A Tenacious Lifeguard Still Swims Against the Tide",
+    "author": "Elisabeth Egan",
+    "description": "Janet Fash was always outspoken when it came to keeping beachgoers safe. She lays it all out in her feisty new memoir.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Fash, Janet",
+      "Lifeguard: A Love Story (Book)",
+      "Lifeguards",
+      "Parks And Recreation Department (Nyc)",
+      "Rockaway Beach (Queens, Ny)"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-24",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/21/multimedia/21tbr-janet-fash-cmwk/21tbr-janet-fash-cmwk-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/21/multimedia/21tbr-janet-fash-cmwk/21tbr-janet-fash-cmwk-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/21/books/review/lifeguard-janet-fash-memoir.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Fash, Janet",
+      "Lifeguard: A Love Story (Book)",
+      "Lifeguards",
+      "Parks and Recreation Department (NYC)",
+      "Rockaway Beach (Queens, NY)",
+      "books"
+    ],
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "a5da7a5431352db994e7ab18761aa4f4",
@@ -69,8 +141,69 @@
       "True crime books",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
+  },
+  {
+    "id": "09b03f399c79b9e7a1e10e7e8cb7af13",
+    "title": "‘Beautiful and terrifying’: the best American LGBTQ+ books, chosen by Samuel R Delany, Kaveh Akbar, Eileen Myles and more",
+    "author": "Owen Myers",
+    "description": "From 20th-century classics to little-known treasures, queer authors share their favorite books about LGBTQ+ life ‘Sheer outrageousness’: writers on their favourite LGBTQ+ movie characters You could debate what the best American LGBTQ+ book is until the cows come home, but experts at least tend to agree on the first one: 1870’s catchily titled Joseph and His Friend: A Story of Pennsylvania by Bayard Taylor. Compared with the well-worn classics of the British LGBTQ+ literary canon – from Oscar Wilde to Jeanette Winterson and beyond – its US counterpart feels invitingly hazy: greener and ever-evolving to reflect the spectrum of queer American life. To celebrate pride month and the upcoming 250th anniversary of America, the Guardian asked nearly two dozen leading queer writers for their favorite LGBTQ+ book from the country they call home. Read on for their choices. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Alice Walker",
+      "Autobiography And Memoir",
+      "Biography Books",
+      "Books",
+      "Bret Easton Ellis",
+      "Carson Mccullers",
+      "Culture",
+      "Ernest Hemingway",
+      "Fiction",
+      "James Baldwin",
+      "Lgbtq+ Rights",
+      "Michael Cunningham",
+      "Poetry",
+      "Pride",
+      "Sylvia Plath",
+      "Tony Kushner",
+      "Us News",
+      "Us Theater",
+      "World News"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-24",
+    "thumbnail": "https://i.guim.co.uk/img/media/a2597b2f62ca143eb715b28c1613b519ab9b4ba1/135_0_2865_2292/master/2865.jpg?width=700&quality=85&auto=format&fit=max&s=9ed4982e90630abef904f53baa87b049",
+    "cover_large": "https://i.guim.co.uk/img/media/a2597b2f62ca143eb715b28c1613b519ab9b4ba1/135_0_2865_2292/master/2865.jpg?width=700&quality=85&auto=format&fit=max&s=9ed4982e90630abef904f53baa87b049",
+    "article_url": "https://www.theguardian.com/film/2026/jun/22/writers-on-their-favourite-lgbtq-movie-characters",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Alice Walker",
+      "Autobiography and memoir",
+      "Biography books",
+      "Books",
+      "Bret Easton Ellis",
+      "Carson McCullers",
+      "Culture",
+      "Ernest Hemingway",
+      "Fiction",
+      "James Baldwin",
+      "LGBTQ+ rights",
+      "Michael Cunningham",
+      "Poetry",
+      "Pride",
+      "Sylvia Plath",
+      "Tony Kushner",
+      "US news",
+      "US theater",
+      "World news",
+      "books"
+    ],
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "46685c55e6a2375749c52ca387716ce7",
@@ -98,8 +231,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "8241960d3e3db79bf6d9b81fd124c9f9",
@@ -144,8 +277,8 @@
       "Voice and Speech",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "4d0133681ee8dc791c6caa680031c967",
@@ -184,38 +317,8 @@
       "Sex",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
-  },
-  {
-    "id": "583fe7dff53738150e9e082fa62c528c",
-    "title": "Book Review: “Nebraska,” by Monica Datta",
-    "author": "Joumana Khatib",
-    "description": "Monica Datta’s “Nebraska” is a maximalist, continent-spanning story of a mother killing her youngest child, as relayed by a highly idiosyncratic psychoanalyst.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Datta, Monica",
-      "Nebraska (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-23",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/23/books/23TBR-Datta-Review/23TBR-Datta-Review-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/23/books/23TBR-Datta-Review/23TBR-Datta-Review-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/23/books/review/nebraska-monica-datta.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Datta, Monica",
-      "Nebraska (Book)",
-      "books"
-    ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "12639b44ec9d2920735ddd7cf93f22ab",
@@ -247,8 +350,8 @@
       "Marriage",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "ff2bcd5c4ac8a1dfad40f86b7af9699d",
@@ -279,8 +382,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "feb324ad590f7576779b3f5708068eae",
@@ -312,34 +415,54 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
-    "id": "b47bad77403e927ee3bf2119454781b3",
-    "title": "6 of the Best New Books Out June 23, 2026",
-    "author": "Danika Ellis",
-    "description": "A summer slasher novel, sci-fi from a Pulitzer Prize-winning author, a fake hating romantasy, and more new books out this week.",
+    "id": "e45359d13d75d8e580d64d6e952cd518",
+    "title": "How F. Scott Fitzgerald’s Overlooked Story Collection Helped Me Write My LA Novel",
+    "author": "Krista Diamond",
+    "description": "A Princeton University dropout who spent much of his life in New York, F. Scott Fitzgerald is often associated with the East Coast, but the themes that come up in his work again and again—old money versus new money, the",
     "summary_ai": "",
     "categories": [
-      "New Books",
-      "Reviews"
+      "California",
+      "Close Relationships With Strangers",
+      "Craft And Advice",
+      "Craft And Criticism",
+      "F. Scott Fitzgerald",
+      "Features",
+      "Hollywood",
+      "Krista Diamond",
+      "Literary Criticism",
+      "Los Angeles",
+      "Reviews",
+      "Simon And Schuster"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "Book Riot",
+    "publisher": "Literary Hub",
     "published_date": "2026-06-23",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/little-wild-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/little-wild-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/best-new-books-out-june-23-2026/",
-    "source": "Book Riot",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/f-scott-fitzgerald-768x384.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/f-scott-fitzgerald-768x384.jpg",
+    "article_url": "https://lithub.com/how-f-scott-fitzgeralds-overlooked-story-collection-helped-me-write-my-la-novel/",
+    "source": "Literary Hub",
     "source_type": "rss",
     "tags": [
-      "New Books",
+      "California",
+      "Close Relationships with Strangers",
+      "Craft and Advice",
+      "Craft and Criticism",
+      "F. Scott Fitzgerald",
+      "Features",
+      "Hollywood",
+      "Krista Diamond",
+      "Literary Criticism",
+      "Los Angeles",
+      "Simon and Schuster",
       "reviews"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "ff3686b2ce5a066d6c4abe5758e0dc68",
@@ -364,8 +487,8 @@
       "News",
       "reviews"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "d33af7c57cda074d37f25e69f18304eb",
@@ -392,62 +515,8 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
-  },
-  {
-    "id": "aca06192d2503ee705d84cc02a793674",
-    "title": "The Best BookTok, Bookstagram, and Bookish Newsletter Creators Across the Globe",
-    "author": "Arvyn Cerezo",
-    "description": "Want to keep up with the wide world of books? Check out these creators of bookish content around the world to stay in the know.",
-    "summary_ai": "",
-    "categories": [
-      "Book Radar",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-23",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/08/a-light-skinned-hand-pointing-at-news-article-displayed-on-laptop.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/08/a-light-skinned-hand-pointing-at-news-article-displayed-on-laptop.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/bookish-content-around-the-world/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Book Radar",
-      "reviews"
-    ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
-  },
-  {
-    "id": "3de03d36a46181b1a241d848a1bb3d41",
-    "title": "Manga Brings the Cool Kids to the Library and More Library Updates",
-    "author": "Katie McLain Horner",
-    "description": "Catch up with the latest news in adaptations, book awards, comics, and more, all of which you can use in your library life.",
-    "summary_ai": "",
-    "categories": [
-      "Check Your Shelf",
-      "Libraries",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-23",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2024/12/library-image.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2024/12/library-image.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/news-for-libraries-june-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Check Your Shelf",
-      "Libraries",
-      "reviews"
-    ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "e5c40ef2bc9d6b4a4ba2887fc4a3448b",
@@ -480,48 +549,8 @@
       "The Emergency Playbook: A Bunker-Free Guide to Disaster Preparation (Book)",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
-  },
-  {
-    "id": "08d69ba76404444ba95f33944af39e5b",
-    "title": "A Tenacious Lifeguard Still Swims Against the Tide",
-    "author": "Elisabeth Egan",
-    "description": "Janet Fash was always outspoken when it came to keeping beachgoers safe. She lays it all out in her feisty new memoir.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Content Type: Personal Profile",
-      "Fash, Janet",
-      "Lifeguard: A Love Story (Book)",
-      "Lifeguards",
-      "Parks And Recreation Department (Nyc)",
-      "Rockaway Beach (Queens, Ny)"
-    ],
-    "genre": [
-      "Memoir"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-22",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/21/multimedia/21tbr-janet-fash-cmwk/21tbr-janet-fash-cmwk-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/21/multimedia/21tbr-janet-fash-cmwk/21tbr-janet-fash-cmwk-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/21/books/review/lifeguard-janet-fash-memoir.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Content Type: Personal Profile",
-      "Fash, Janet",
-      "Lifeguard: A Love Story (Book)",
-      "Lifeguards",
-      "Parks and Recreation Department (NYC)",
-      "Rockaway Beach (Queens, NY)",
-      "books"
-    ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "f80373017fc1cb9ad20c802c066b7a52",
@@ -553,8 +582,8 @@
       "George Orwell",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "6c0384d1ca7571d392bfdb539e0a6150",
@@ -588,8 +617,37 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
+  },
+  {
+    "id": "cc018f9c672d5b1a871be9619c14341c",
+    "title": "The Leveret By Anna Goldreich review",
+    "author": "Lara Feigel",
+    "description": "This bold debut about a woman finding healing after a late miscarriage is written with utter conviction Birth. “A detaching, a loosening of something, then the pain of it.” A small, curled and crinkled creature is wrested from that pain. But then, instead of the long-awaited cry of a newborn: silence. This is the background of Anna Goldreich’s highly accomplished, calmly devastating first novel The Leveret, a book that asks us to see late miscarriage as the death it feels like for many mothers. Since this miscarriage, six months ago, Clare has felt everyone, including her partner Phoebe, impatiently expecting her to get on with her life. But she remains floored by loss, stuck waiting for that first cry. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-22",
+    "thumbnail": "https://i.guim.co.uk/img/media/08c57d2fdd0896142c992cb28d7272f92a7cc21b/1629_651_2236_1788/master/2236.jpg?width=700&quality=85&auto=format&fit=max&s=8bd391f6541d60d3866a4aa2a9bf6bbd",
+    "cover_large": "https://i.guim.co.uk/img/media/08c57d2fdd0896142c992cb28d7272f92a7cc21b/1629_651_2236_1788/master/2236.jpg?width=700&quality=85&auto=format&fit=max&s=8bd391f6541d60d3866a4aa2a9bf6bbd",
+    "article_url": "https://www.theguardian.com/books/2026/jun/22/the-leveret-by-anna-goldreich-review-a-hare-mends-the-pain-of-baby-loss",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "books"
+    ],
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "9fe5ad974a2f447c4f299d60c0f6e622",
@@ -612,8 +670,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "77e4eea59383d117d0faa9c9521680dd",
@@ -650,7 +708,7 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   }
 ]

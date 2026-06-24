@@ -38,8 +38,80 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
+  },
+  {
+    "id": "583fe7dff53738150e9e082fa62c528c",
+    "title": "Book Review: “Nebraska,” by Monica Datta",
+    "author": "Joumana Khatib",
+    "description": "Monica Datta’s “Nebraska” is a maximalist, continent-spanning story of a mother killing her youngest child, as relayed by a highly idiosyncratic psychoanalyst.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Datta, Monica",
+      "Internal-Open-Access-From-Nl",
+      "Nebraska (Book)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-24",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/23/books/23TBR-Datta-Review/23TBR-Datta-Review-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/23/books/23TBR-Datta-Review/23TBR-Datta-Review-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/23/books/review/nebraska-monica-datta.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Datta, Monica",
+      "Nebraska (Book)",
+      "books",
+      "internal-open-access-from-nl"
+    ],
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
+  },
+  {
+    "id": "08d69ba76404444ba95f33944af39e5b",
+    "title": "A Tenacious Lifeguard Still Swims Against the Tide",
+    "author": "Elisabeth Egan",
+    "description": "Janet Fash was always outspoken when it came to keeping beachgoers safe. She lays it all out in her feisty new memoir.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Fash, Janet",
+      "Lifeguard: A Love Story (Book)",
+      "Lifeguards",
+      "Parks And Recreation Department (Nyc)",
+      "Rockaway Beach (Queens, Ny)"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-24",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/21/multimedia/21tbr-janet-fash-cmwk/21tbr-janet-fash-cmwk-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/21/multimedia/21tbr-janet-fash-cmwk/21tbr-janet-fash-cmwk-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/21/books/review/lifeguard-janet-fash-memoir.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Fash, Janet",
+      "Lifeguard: A Love Story (Book)",
+      "Lifeguards",
+      "Parks and Recreation Department (NYC)",
+      "Rockaway Beach (Queens, NY)",
+      "books"
+    ],
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "a5da7a5431352db994e7ab18761aa4f4",
@@ -69,8 +141,69 @@
       "True crime books",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
+  },
+  {
+    "id": "09b03f399c79b9e7a1e10e7e8cb7af13",
+    "title": "‘Beautiful and terrifying’: the best American LGBTQ+ books, chosen by Samuel R Delany, Kaveh Akbar, Eileen Myles and more",
+    "author": "Owen Myers",
+    "description": "From 20th-century classics to little-known treasures, queer authors share their favorite books about LGBTQ+ life ‘Sheer outrageousness’: writers on their favourite LGBTQ+ movie characters You could debate what the best American LGBTQ+ book is until the cows come home, but experts at least tend to agree on the first one: 1870’s catchily titled Joseph and His Friend: A Story of Pennsylvania by Bayard Taylor. Compared with the well-worn classics of the British LGBTQ+ literary canon – from Oscar Wilde to Jeanette Winterson and beyond – its US counterpart feels invitingly hazy: greener and ever-evolving to reflect the spectrum of queer American life. To celebrate pride month and the upcoming 250th anniversary of America, the Guardian asked nearly two dozen leading queer writers for their favorite LGBTQ+ book from the country they call home. Read on for their choices. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Alice Walker",
+      "Autobiography And Memoir",
+      "Biography Books",
+      "Books",
+      "Bret Easton Ellis",
+      "Carson Mccullers",
+      "Culture",
+      "Ernest Hemingway",
+      "Fiction",
+      "James Baldwin",
+      "Lgbtq+ Rights",
+      "Michael Cunningham",
+      "Poetry",
+      "Pride",
+      "Sylvia Plath",
+      "Tony Kushner",
+      "Us News",
+      "Us Theater",
+      "World News"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-24",
+    "thumbnail": "https://i.guim.co.uk/img/media/a2597b2f62ca143eb715b28c1613b519ab9b4ba1/135_0_2865_2292/master/2865.jpg?width=700&quality=85&auto=format&fit=max&s=9ed4982e90630abef904f53baa87b049",
+    "cover_large": "https://i.guim.co.uk/img/media/a2597b2f62ca143eb715b28c1613b519ab9b4ba1/135_0_2865_2292/master/2865.jpg?width=700&quality=85&auto=format&fit=max&s=9ed4982e90630abef904f53baa87b049",
+    "article_url": "https://www.theguardian.com/film/2026/jun/22/writers-on-their-favourite-lgbtq-movie-characters",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Alice Walker",
+      "Autobiography and memoir",
+      "Biography books",
+      "Books",
+      "Bret Easton Ellis",
+      "Carson McCullers",
+      "Culture",
+      "Ernest Hemingway",
+      "Fiction",
+      "James Baldwin",
+      "LGBTQ+ rights",
+      "Michael Cunningham",
+      "Poetry",
+      "Pride",
+      "Sylvia Plath",
+      "Tony Kushner",
+      "US news",
+      "US theater",
+      "World news",
+      "books"
+    ],
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "46685c55e6a2375749c52ca387716ce7",
@@ -98,8 +231,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "8241960d3e3db79bf6d9b81fd124c9f9",
@@ -144,8 +277,8 @@
       "Voice and Speech",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "4d0133681ee8dc791c6caa680031c967",
@@ -184,38 +317,8 @@
       "Sex",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
-  },
-  {
-    "id": "583fe7dff53738150e9e082fa62c528c",
-    "title": "Book Review: “Nebraska,” by Monica Datta",
-    "author": "Joumana Khatib",
-    "description": "Monica Datta’s “Nebraska” is a maximalist, continent-spanning story of a mother killing her youngest child, as relayed by a highly idiosyncratic psychoanalyst.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Datta, Monica",
-      "Nebraska (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-23",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/23/books/23TBR-Datta-Review/23TBR-Datta-Review-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/23/books/23TBR-Datta-Review/23TBR-Datta-Review-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/23/books/review/nebraska-monica-datta.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Datta, Monica",
-      "Nebraska (Book)",
-      "books"
-    ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "12639b44ec9d2920735ddd7cf93f22ab",
@@ -247,8 +350,8 @@
       "Marriage",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "ff2bcd5c4ac8a1dfad40f86b7af9699d",
@@ -279,8 +382,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "feb324ad590f7576779b3f5708068eae",
@@ -312,8 +415,8 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "e5c40ef2bc9d6b4a4ba2887fc4a3448b",
@@ -346,48 +449,8 @@
       "The Emergency Playbook: A Bunker-Free Guide to Disaster Preparation (Book)",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
-  },
-  {
-    "id": "08d69ba76404444ba95f33944af39e5b",
-    "title": "A Tenacious Lifeguard Still Swims Against the Tide",
-    "author": "Elisabeth Egan",
-    "description": "Janet Fash was always outspoken when it came to keeping beachgoers safe. She lays it all out in her feisty new memoir.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Content Type: Personal Profile",
-      "Fash, Janet",
-      "Lifeguard: A Love Story (Book)",
-      "Lifeguards",
-      "Parks And Recreation Department (Nyc)",
-      "Rockaway Beach (Queens, Ny)"
-    ],
-    "genre": [
-      "Memoir"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-22",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/21/multimedia/21tbr-janet-fash-cmwk/21tbr-janet-fash-cmwk-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/21/multimedia/21tbr-janet-fash-cmwk/21tbr-janet-fash-cmwk-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/21/books/review/lifeguard-janet-fash-memoir.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Content Type: Personal Profile",
-      "Fash, Janet",
-      "Lifeguard: A Love Story (Book)",
-      "Lifeguards",
-      "Parks and Recreation Department (NYC)",
-      "Rockaway Beach (Queens, NY)",
-      "books"
-    ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "f80373017fc1cb9ad20c802c066b7a52",
@@ -419,8 +482,8 @@
       "George Orwell",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "6c0384d1ca7571d392bfdb539e0a6150",
@@ -454,8 +517,37 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
+  },
+  {
+    "id": "cc018f9c672d5b1a871be9619c14341c",
+    "title": "The Leveret By Anna Goldreich review",
+    "author": "Lara Feigel",
+    "description": "This bold debut about a woman finding healing after a late miscarriage is written with utter conviction Birth. “A detaching, a loosening of something, then the pain of it.” A small, curled and crinkled creature is wrested from that pain. But then, instead of the long-awaited cry of a newborn: silence. This is the background of Anna Goldreich’s highly accomplished, calmly devastating first novel The Leveret, a book that asks us to see late miscarriage as the death it feels like for many mothers. Since this miscarriage, six months ago, Clare has felt everyone, including her partner Phoebe, impatiently expecting her to get on with her life. But she remains floored by loss, stuck waiting for that first cry. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-22",
+    "thumbnail": "https://i.guim.co.uk/img/media/08c57d2fdd0896142c992cb28d7272f92a7cc21b/1629_651_2236_1788/master/2236.jpg?width=700&quality=85&auto=format&fit=max&s=8bd391f6541d60d3866a4aa2a9bf6bbd",
+    "cover_large": "https://i.guim.co.uk/img/media/08c57d2fdd0896142c992cb28d7272f92a7cc21b/1629_651_2236_1788/master/2236.jpg?width=700&quality=85&auto=format&fit=max&s=8bd391f6541d60d3866a4aa2a9bf6bbd",
+    "article_url": "https://www.theguardian.com/books/2026/jun/22/the-leveret-by-anna-goldreich-review-a-hare-mends-the-pain-of-baby-loss",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "books"
+    ],
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "77e4eea59383d117d0faa9c9521680dd",
@@ -492,8 +584,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "6172d732e78888628506de6587df16b7",
@@ -532,8 +624,8 @@
       "Pop and Rock Music",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "677e85054cc18091e57a102270060e7c",
@@ -582,8 +674,8 @@
       "books",
       "internal-open-access-audio"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "7659ca14e310f26c450fad92948de894",
@@ -624,8 +716,8 @@
       "World War II (1939-45)",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "f5e8ed3a1359becc0f14248213d96832",
@@ -662,8 +754,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "b5ae43016d62109a8d7c1b5dab02b2ec",
@@ -700,8 +792,8 @@
       "Religion and Belief",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "867734b7487c124448e68db2b6f3aebb",
@@ -731,42 +823,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
-  },
-  {
-    "id": "5eaa4ae7956c1dc3bc914b1ae6da828a",
-    "title": "The best recent crime and thrillers",
-    "author": "Laura Wilson",
-    "description": "The Pinnacle by Abir Mukherjee; A Violent Masterpiece by Jordan Harper; Murder on the Red River by Marcie R Rendon; The Devoted by Catherine Cho; The Repentants by Kate Foster The Pinnacle by Abir Mukherjee (Harvill, £16.99) In the eponymous Mumbai apartment block, the immensely rich and those who serve them exist side by side but worlds apart. Fading American actor George Abercrombie, married to superstar Sweety Sahota, finds himself advertising Indian whiskey while his younger wife’s acting career continues its stellar trajectory. Waking on the sofa with a hangover and only hazy memories of the night before, George discovers Sweety stabbed to death in the marital bed and one of his shirts, blood-stained, in the laundry basket. He knows he will be the prime suspect, but not only have Sweety’s phone and laptop disappeared, so has his assistant, Amit ... Told from the points of view of George, Amit and Sweety’s put-upon PA Gemma – with Amit and Gemma both having secrets of their own – and laced with dry humour and social commentary, this is a tense, fast-paced tale of class, power and corruption. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Crime Fiction",
-      "Culture",
-      "Thrillers"
-    ],
-    "genre": [
-      "Crime",
-      "Thriller"
-    ],
-    "language": "English",
-    "publisher": "Guardianbookshop",
-    "published_date": "2026-06-19",
-    "thumbnail": "https://i.guim.co.uk/img/media/fb1ee7d789155012ee0832bf45776e56f5e17d21/912_0_4422_3538/master/4422.jpg?width=700&quality=85&auto=format&fit=max&s=43b957c4af156c8ae95114e31b934bec",
-    "cover_large": "https://i.guim.co.uk/img/media/fb1ee7d789155012ee0832bf45776e56f5e17d21/912_0_4422_3538/master/4422.jpg?width=700&quality=85&auto=format&fit=max&s=43b957c4af156c8ae95114e31b934bec",
-    "article_url": "https://guardianbookshop.com/the-pinnacle-9781787302747/?amp%3Butm_medium=merch&amp%3Butm_campaign=article",
-    "source": "Guardianbookshop",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Crime fiction",
-      "Culture",
-      "Thrillers",
-      "books"
-    ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "8a22feba1b54dea1f56cd1623bc0e52a",
@@ -811,8 +869,8 @@
       "Simmons, Russell",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "7c7e1e31c67c3914eb74411497f7b9f3",
@@ -857,8 +915,8 @@
       "United States Politics and Government",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "0de47d5039ae63ef8405d47c6646d284",
@@ -894,8 +952,8 @@
       "Paperbacks",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "77afa997b4159f3c9fefbb3934ed638a",
@@ -925,8 +983,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "ac4d068528b29e0f4edc6b4ff85b63db",
@@ -956,37 +1014,8 @@
       "Literary criticism",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
-  },
-  {
-    "id": "657f7750264d46294edd96cd66936fbf",
-    "title": "Togetherness by Rowan Hooper review",
-    "author": "Philip Ball",
-    "description": "This corrective to our habitual emphasis on competition had me writing ‘wow’ in the margins again and again When Charles Darwin published On the Origin of Species in 1859, the Industrial Revolution and British colonialism were in the ascendant. Charles Dickens had published Hard Times five years earlier; Queen Victoria nominally ruled a fifth of the world’s population. Darwin, writes science writer Rowan Hooper, crafted his evolutionary theory to deliver what he figured his audience wanted to hear: “an account of nature as a competitive struggle”. Natural selection was launched into a world that was “colonial, capitalist, patriarchal and ruled by the upper class” – and Darwin’s central message, crudely paraphrased by the philosopher Herbert Spencer as “survival of the fittest”, chimed with the times. Hooper adores Darwin – his account of visiting Darwin’s Kent residence Down House radiates reverence (“it’s a pseudo-religious experience”). But he feels that Darwinism and its union with genetics in the so-called “modern synthesis” has placed undue emphasis on competition in the natural world and underplayed the roles of cooperation and collaboration. In redressing that imbalance...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Science And Nature Books"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-15",
-    "thumbnail": "https://i.guim.co.uk/img/media/1068b410ec7b05ebf0952dda79580a49786a9c13/563_0_5630_4504/master/5630.jpg?width=700&quality=85&auto=format&fit=max&s=5f251e70ecf1ec64f86c13e464cb90f9",
-    "cover_large": "https://i.guim.co.uk/img/media/1068b410ec7b05ebf0952dda79580a49786a9c13/563_0_5630_4504/master/5630.jpg?width=700&quality=85&auto=format&fit=max&s=5f251e70ecf1ec64f86c13e464cb90f9",
-    "article_url": "https://www.theguardian.com/books/2026/jun/15/togetherness-by-rowan-hooper-review-a-stunning-portrait-of-cooperation-in-nature",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Science and nature books",
-      "books"
-    ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "cd29f8375e271820c02627200e68f1d2",
@@ -1018,8 +1047,8 @@
       "Michael Ondaatje",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -1049,8 +1078,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1089,7 +1118,7 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-24T09:28:26+00:00",
-    "updated_at": "2026-06-24T09:28:26Z"
+    "created_at": "2026-06-24T19:40:30+00:00",
+    "updated_at": "2026-06-24T19:40:30Z"
   }
 ]
