@@ -28,8 +28,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "560effbc7450df3b740c66cbd70f04ad",
@@ -66,8 +66,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "83c6db5191a715036ed4c9a903666dbd",
@@ -100,8 +100,44 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
+  },
+  {
+    "id": "14c2da2ae3e8d4ddbb1ac9c95eac02c4",
+    "title": "Whistleblower Sarah Wynn-Williams sues Meta over attempts to ‘silence’ her",
+    "author": "Ella Creamer and Michael Savage",
+    "description": "Former employee files complaint accusing company of ‘coercive surveillance’ and first amendment violation The Meta whistleblower Sarah Wynn-Williams is suing the tech company over its efforts to “silence” her. A 57-page complaint filed to a US district court in California on Thursday argues that an interim arbitration ruling sought by Meta preventing Wynn-Williams from publicising her memoir, Careless People, was “improper and unlawful” and a “blatant violation of the first amendment”. It also accuses the company of “coercive surveillance”. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Facebook",
+      "Meta",
+      "Technology",
+      "Us News",
+      "World News"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "Katzbanks",
+    "published_date": "2026-06-25",
+    "thumbnail": "https://i.guim.co.uk/img/media/b6ef597f5bd546ee5734935e21bd071c8b6a4701/1387_0_6933_5547/master/6933.jpg?width=700&quality=85&auto=format&fit=max&s=2c7a0cc989aa74d2d84d48e9504717d2",
+    "cover_large": "https://i.guim.co.uk/img/media/b6ef597f5bd546ee5734935e21bd071c8b6a4701/1387_0_6933_5547/master/6933.jpg?width=700&quality=85&auto=format&fit=max&s=2c7a0cc989aa74d2d84d48e9504717d2",
+    "article_url": "https://katzbanks.com/wp-content/uploads/SWW-Complaint.pdf",
+    "source": "Katzbanks",
+    "source_type": "rss",
+    "tags": [
+      "Facebook",
+      "Meta",
+      "Technology",
+      "US news",
+      "World news",
+      "books"
+    ],
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "257c55906953209269bdbb2ae71d6c50",
@@ -129,8 +165,74 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
+  },
+  {
+    "id": "f8618fc6fa215337ff59948d2268ab9c",
+    "title": "Jesus Christ Kinski by Benjamin Myers review",
+    "author": "Fiona Sturges",
+    "description": "Narrator Rory Kinnear fully inhabits Klaus Kinski’s fury in this depiction of the irascible actor’s ill-fated performance in Berlin In 1971, the German actor Klaus Kinski performed a theatrical monologue called Jesus Christ Saviour at the Deutschlandhalle arena in Berlin, but things didn’t quite go to plan. A controversial figure in his lifetime, Kinski was irascible, egomaniacal and prone to violent temper tantrums. The film director Werner Herzog famously worked with Kinski on movies including Aguirre, the Wrath of God and Fitzcarraldo and later filmed a documentary about the actor’s unhinged antics called My Best Fiend. The antipathy went both ways: in his memoir, Kinski fantasised about Herzog dying of the plague or being eaten alive by ants. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Werner Herzog"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-25",
+    "thumbnail": "https://i.guim.co.uk/img/media/18bf686029aad958a6c6dbba3930d308585b7501/253_164_2641_2112/master/2641.jpg?width=700&quality=85&auto=format&fit=max&s=cadf23f7a3957c8dbb02248f88169820",
+    "cover_large": "https://i.guim.co.uk/img/media/18bf686029aad958a6c6dbba3930d308585b7501/253_164_2641_2112/master/2641.jpg?width=700&quality=85&auto=format&fit=max&s=cadf23f7a3957c8dbb02248f88169820",
+    "article_url": "https://www.theguardian.com/books/2026/jun/25/jesus-christ-kinski-by-benjamin-myers-review-inside-the-mind-of-an-actor-in-meltdown",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Werner Herzog",
+      "books"
+    ],
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
+  },
+  {
+    "id": "e33583e615123b07b8969b1852128fbd",
+    "title": "Pope Leo XIV to publish collection of early writings",
+    "author": "Ella Creamer",
+    "description": "Freedom Under Grace will feature previously unpublished homilies and addresses from 2001 to 2013, letting readers ‘observe the development of Prevost’s thinking’ Robert Prevost – now Pope Leo XIV – is set to publish a collection of his writings from the 2000s in English later this year. Freedom Under Grace: Reflections on the Spiritual Tradition That Formed Me will be released in September, featuring unpublished homilies and addresses from Prevost’s time as prior general of the Order of Saint Augustine between 2001 and 2013. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Catholicism",
+      "Culture",
+      "Pope Leo Xiv",
+      "Publishing",
+      "Religion"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-25",
+    "thumbnail": "https://i.guim.co.uk/img/media/66f6919c0d750d9364bc4a5113a37d9774d258ed/545_0_3267_2614/master/3267.jpg?width=700&quality=85&auto=format&fit=max&s=53340aca9cff9822c7e551b3327896f5",
+    "cover_large": "https://i.guim.co.uk/img/media/66f6919c0d750d9364bc4a5113a37d9774d258ed/545_0_3267_2614/master/3267.jpg?width=700&quality=85&auto=format&fit=max&s=53340aca9cff9822c7e551b3327896f5",
+    "article_url": "https://www.theguardian.com/books/2026/jun/25/pope-leo-iv-to-publish-book-freedom-under-grace",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Catholicism",
+      "Culture",
+      "Pope Leo XIV",
+      "Publishing",
+      "Religion",
+      "books"
+    ],
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "83c9ceb73b7b9fe91ad3e1144766bc50",
@@ -171,8 +273,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "583fe7dff53738150e9e082fa62c528c",
@@ -203,8 +305,8 @@
       "books",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "08d69ba76404444ba95f33944af39e5b",
@@ -243,8 +345,8 @@
       "Rockaway Beach (Queens, NY)",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "a5da7a5431352db994e7ab18761aa4f4",
@@ -274,8 +376,8 @@
       "True crime books",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "09b03f399c79b9e7a1e10e7e8cb7af13",
@@ -335,8 +437,8 @@
       "World news",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "46685c55e6a2375749c52ca387716ce7",
@@ -364,8 +466,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "8241960d3e3db79bf6d9b81fd124c9f9",
@@ -410,8 +512,8 @@
       "Voice and Speech",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "4d0133681ee8dc791c6caa680031c967",
@@ -450,73 +552,8 @@
       "Sex",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
-  },
-  {
-    "id": "12639b44ec9d2920735ddd7cf93f22ab",
-    "title": "Reader, I married him: couples tell us how books brought them together",
-    "author": "Sarah Phillips",
-    "description": "From book club meet-cutes to shared English Literature lectures, romance has blossomed beyond the page for these bibliophiles Dua Lipa and Callum Turner have been honeymooning in Italy, after throwing a star-studded wedding in Palermo earlier this month. But their relationship began with a book: running into each other at an LA restaurant, the pair realised that they were not only reading the same novel – Trust by Hernán Díaz – but had both just finished the first chapter. “So, we’re on the same page,” Turner said to Lipa. Here, four other couples share the literary sparks of their love stories. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Life And Style",
-      "Marriage"
-    ],
-    "genre": [
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-23",
-    "thumbnail": "https://i.guim.co.uk/img/media/bfcd3b0966526ad5fcd5a0244fde6251cc1f161e/0_716_2316_1853/master/2316.jpg?width=700&quality=85&auto=format&fit=max&s=d29d4ca9a8dd883069f5088d17d152c2",
-    "cover_large": "https://i.guim.co.uk/img/media/bfcd3b0966526ad5fcd5a0244fde6251cc1f161e/0_716_2316_1853/master/2316.jpg?width=700&quality=85&auto=format&fit=max&s=d29d4ca9a8dd883069f5088d17d152c2",
-    "article_url": "https://www.theguardian.com/music/2026/jun/05/dua-lipa-callum-turner-wedding-divides-palermo",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Life and style",
-      "Marriage",
-      "books"
-    ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
-  },
-  {
-    "id": "ff2bcd5c4ac8a1dfad40f86b7af9699d",
-    "title": "Awake Awake by Fiona Mozley review",
-    "author": "M John Harrison",
-    "description": "From the Booker-shortlisted author, a tantalisingly unreliable account of childhood, history and mental uncertainty The historian and novelist Fiona Mozley acknowledged in a 2018 piece for the Guardian that the city of York had a major influence on both her careers. Childhood and adolescence in a place such as York, full of time and times, can generate conflict between “the desire to live in the past and the need to extract oneself from it”. Awake Awake, a follow-up to her previous novels, 2017’s Booker-shortlisted Elmet and 2021’s Hot Stew , engages with two types of memory: the personal and the historical. They’re not exactly at odds, but as far as living in the past is concerned they feed on one another in a complex, entangled relationship. Narrator Mary Mooney – also a novelist, also from York, and whose first book is also shortlisted for a major prize – tells the story of her mental illness. Or she seems to. She begins in childhood. We’re introduced to her parents and her parents’ friends, religious academics in York; to her home in Cathedral Close; to school and her school friends, with whom she will stay in contact as she grows up. Life is a round of family occasions...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [
-      "History",
-      "Politics"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-23",
-    "thumbnail": "https://i.guim.co.uk/img/media/02ea73c706b63595b9a617eddbf0b00fdff21d47/6_182_1452_1162/master/1452.jpg?width=700&quality=85&auto=format&fit=max&s=1865139a945ee677494e619bb4caf2ea",
-    "cover_large": "https://i.guim.co.uk/img/media/02ea73c706b63595b9a617eddbf0b00fdff21d47/6_182_1452_1162/master/1452.jpg?width=700&quality=85&auto=format&fit=max&s=1865139a945ee677494e619bb4caf2ea",
-    "article_url": "https://www.theguardian.com/books/2018/jan/27/fiona-mozley-made-in-york",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "feb324ad590f7576779b3f5708068eae",
@@ -548,8 +585,40 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
+  },
+  {
+    "id": "ff2bcd5c4ac8a1dfad40f86b7af9699d",
+    "title": "Awake Awake by Fiona Mozley review",
+    "author": "M John Harrison",
+    "description": "From the Booker-shortlisted author, a tantalisingly unreliable account of childhood, history and mental uncertainty The historian and novelist Fiona Mozley acknowledged in a 2018 piece for the Guardian that the city of York had a major influence on both her careers. Childhood and adolescence in a place such as York, full of time and times, can generate conflict between “the desire to live in the past and the need to extract oneself from it”. Awake Awake, a follow-up to her previous novels, 2017’s Booker-shortlisted Elmet and 2021’s Hot Stew , engages with two types of memory: the personal and the historical. They’re not exactly at odds, but as far as living in the past is concerned they feed on one another in a complex, entangled relationship. Narrator Mary Mooney – also a novelist, also from York, and whose first book is also shortlisted for a major prize – tells the story of her mental illness. Or she seems to. She begins in childhood. We’re introduced to her parents and her parents’ friends, religious academics in York; to her home in Cathedral Close; to school and her school friends, with whom she will stay in contact as she grows up. Life is a round of family occasions...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction"
+    ],
+    "genre": [
+      "History",
+      "Politics"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-23",
+    "thumbnail": "https://i.guim.co.uk/img/media/02ea73c706b63595b9a617eddbf0b00fdff21d47/6_182_1452_1162/master/1452.jpg?width=700&quality=85&auto=format&fit=max&s=1865139a945ee677494e619bb4caf2ea",
+    "cover_large": "https://i.guim.co.uk/img/media/02ea73c706b63595b9a617eddbf0b00fdff21d47/6_182_1452_1162/master/1452.jpg?width=700&quality=85&auto=format&fit=max&s=1865139a945ee677494e619bb4caf2ea",
+    "article_url": "https://www.theguardian.com/books/2018/jan/27/fiona-mozley-made-in-york",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "books"
+    ],
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "e5c40ef2bc9d6b4a4ba2887fc4a3448b",
@@ -582,8 +651,8 @@
       "The Emergency Playbook: A Bunker-Free Guide to Disaster Preparation (Book)",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "6c0384d1ca7571d392bfdb539e0a6150",
@@ -617,37 +686,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
-  },
-  {
-    "id": "cc018f9c672d5b1a871be9619c14341c",
-    "title": "The Leveret By Anna Goldreich review",
-    "author": "Lara Feigel",
-    "description": "This bold debut about a woman finding healing after a late miscarriage is written with utter conviction Birth. “A detaching, a loosening of something, then the pain of it.” A small, curled and crinkled creature is wrested from that pain. But then, instead of the long-awaited cry of a newborn: silence. This is the background of Anna Goldreich’s highly accomplished, calmly devastating first novel The Leveret, a book that asks us to see late miscarriage as the death it feels like for many mothers. Since this miscarriage, six months ago, Clare has felt everyone, including her partner Phoebe, impatiently expecting her to get on with her life. But she remains floored by loss, stuck waiting for that first cry. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-22",
-    "thumbnail": "https://i.guim.co.uk/img/media/08c57d2fdd0896142c992cb28d7272f92a7cc21b/1629_651_2236_1788/master/2236.jpg?width=700&quality=85&auto=format&fit=max&s=8bd391f6541d60d3866a4aa2a9bf6bbd",
-    "cover_large": "https://i.guim.co.uk/img/media/08c57d2fdd0896142c992cb28d7272f92a7cc21b/1629_651_2236_1788/master/2236.jpg?width=700&quality=85&auto=format&fit=max&s=8bd391f6541d60d3866a4aa2a9bf6bbd",
-    "article_url": "https://www.theguardian.com/books/2026/jun/22/the-leveret-by-anna-goldreich-review-a-hare-mends-the-pain-of-baby-loss",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "77e4eea59383d117d0faa9c9521680dd",
@@ -684,8 +724,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "6172d732e78888628506de6587df16b7",
@@ -724,8 +764,8 @@
       "Pop and Rock Music",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "677e85054cc18091e57a102270060e7c",
@@ -774,8 +814,8 @@
       "books",
       "internal-open-access-audio"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "7659ca14e310f26c450fad92948de894",
@@ -816,8 +856,8 @@
       "World War II (1939-45)",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "f5e8ed3a1359becc0f14248213d96832",
@@ -854,46 +894,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
-  },
-  {
-    "id": "b5ae43016d62109a8d7c1b5dab02b2ec",
-    "title": "Jean Houston, ‘Midwife of Souls’ Who Advised Hillary Clinton, Dies at 89",
-    "author": "Michael S. Rosenwald",
-    "description": "The author of books like “The Possible Human,” she held workshops that drew on mythology, psychology and the experiential ethos of Esalen. But she refused to be called a guru.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Clinton, Hillary Rodham",
-      "Deaths (Obituaries)",
-      "Houston, Jean",
-      "Keller, Helen",
-      "Psychology And Psychologists",
-      "Religion And Belief"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-19",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/18/multimedia/18houston-jean-fcjt/18houston-jean-fcjt-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/18/multimedia/18houston-jean-fcjt/18houston-jean-fcjt-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/18/science/jean-houston-dead.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Clinton, Hillary Rodham",
-      "Deaths (Obituaries)",
-      "Houston, Jean",
-      "Keller, Helen",
-      "Psychology and Psychologists",
-      "Religion and Belief",
-      "books"
-    ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "867734b7487c124448e68db2b6f3aebb",
@@ -923,8 +925,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "0de47d5039ae63ef8405d47c6646d284",
@@ -960,8 +962,8 @@
       "Paperbacks",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "77afa997b4159f3c9fefbb3934ed638a",
@@ -991,39 +993,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
-  },
-  {
-    "id": "ac4d068528b29e0f4edc6b4ff85b63db",
-    "title": "The Uses of Utopia by Joad Raymond Wren review – can the ideal society ever exist?",
-    "author": "Steven Poole",
-    "description": "This fascinating intellectual history of imagined paradises takes us from Thomas More to Ursula K Le Guin By definition, utopia cannot exist. In 1516, educated readers of Thomas More’s Utopia would have appreciated a tension between two possible derivations of this novel word: the Greek “eu-topos”, meaning good place, and “ou-topos”, meaning not a place at all. It might have been a compact warning that one should never attempt to turn utopias into reality. Those who have tried usually witnessed the model societies they founded devolving into grungily dysfunctional communes, weird sex cults, or both. In this richly diverting intellectual history of the idea, we begin, as we must, with Plato, and the zany prescriptions of his Republic (“we should neutralise the poets’ influence on mothers”). Passing in silence over the potentially utopian aspects of Jesus’s thinking, we arrive at More’s utopia, where “nothing is private”, and so “the common affairs be earnestly looked upon”. The great Renaissance scientist Francis Bacon’s New Atlantis portrays a utopia of rational scientific experimentation – which, Wren suggests ingeniously, might have inspired Wakanda in the Marvel Black Panther...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Literary Criticism"
-    ],
-    "genre": [
-      "History"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-16",
-    "thumbnail": "https://i.guim.co.uk/img/media/e38053c496a7d6da9c9b2f68070a313e374f192f/647_0_1349_1080/master/1349.jpg?width=700&quality=85&auto=format&fit=max&s=f959555b4565e0689c454f41e10c8d43",
-    "cover_large": "https://i.guim.co.uk/img/media/e38053c496a7d6da9c9b2f68070a313e374f192f/647_0_1349_1080/master/1349.jpg?width=700&quality=85&auto=format&fit=max&s=f959555b4565e0689c454f41e10c8d43",
-    "article_url": "https://www.theguardian.com/books/2026/jun/16/the-uses-of-utopia-by-joad-raymond-wren-review-can-the-ideal-society-ever-exist",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Literary criticism",
-      "books"
-    ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "cd29f8375e271820c02627200e68f1d2",
@@ -1055,8 +1026,8 @@
       "Michael Ondaatje",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -1086,7 +1057,47 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
+  },
+  {
+    "id": "65d8c8ca1a174f11e32ec64ace3460db",
+    "title": "The Best Romance Novels of 2024 (So Far)",
+    "author": "Olivia Waite",
+    "description": "Looking for an escapist love story? Here are 2024’s sexiest, swooniest reads.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Chu, Lily (Author)",
+      "Genre-Books-Romance",
+      "Grossman, Felicia (Author)",
+      "Sebastian, Cat",
+      "Williams, Tia",
+      "You Should Be So Lucky (Book)"
+    ],
+    "genre": [
+      "Romance"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2024-10-01",
+    "thumbnail": "https://static01.nyt.com/images/2024/05/03/books/review/03Romance-WhatToReadNow/03Romance-WhatToReadNow-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2024/05/03/books/review/03Romance-WhatToReadNow/03Romance-WhatToReadNow-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/article/best-romance-books.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Chu, Lily (Author)",
+      "Grossman, Felicia (Author)",
+      "Sebastian, Cat",
+      "Williams, Tia",
+      "You Should Be So Lucky (Book)",
+      "books",
+      "genre-books-romance"
+    ],
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   }
 ]

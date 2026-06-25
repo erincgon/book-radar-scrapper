@@ -28,8 +28,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "560effbc7450df3b740c66cbd70f04ad",
@@ -66,8 +66,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "83c6db5191a715036ed4c9a903666dbd",
@@ -100,8 +100,44 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
+  },
+  {
+    "id": "14c2da2ae3e8d4ddbb1ac9c95eac02c4",
+    "title": "Whistleblower Sarah Wynn-Williams sues Meta over attempts to ‘silence’ her",
+    "author": "Ella Creamer and Michael Savage",
+    "description": "Former employee files complaint accusing company of ‘coercive surveillance’ and first amendment violation The Meta whistleblower Sarah Wynn-Williams is suing the tech company over its efforts to “silence” her. A 57-page complaint filed to a US district court in California on Thursday argues that an interim arbitration ruling sought by Meta preventing Wynn-Williams from publicising her memoir, Careless People, was “improper and unlawful” and a “blatant violation of the first amendment”. It also accuses the company of “coercive surveillance”. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Facebook",
+      "Meta",
+      "Technology",
+      "Us News",
+      "World News"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "Katzbanks",
+    "published_date": "2026-06-25",
+    "thumbnail": "https://i.guim.co.uk/img/media/b6ef597f5bd546ee5734935e21bd071c8b6a4701/1387_0_6933_5547/master/6933.jpg?width=700&quality=85&auto=format&fit=max&s=2c7a0cc989aa74d2d84d48e9504717d2",
+    "cover_large": "https://i.guim.co.uk/img/media/b6ef597f5bd546ee5734935e21bd071c8b6a4701/1387_0_6933_5547/master/6933.jpg?width=700&quality=85&auto=format&fit=max&s=2c7a0cc989aa74d2d84d48e9504717d2",
+    "article_url": "https://katzbanks.com/wp-content/uploads/SWW-Complaint.pdf",
+    "source": "Katzbanks",
+    "source_type": "rss",
+    "tags": [
+      "Facebook",
+      "Meta",
+      "Technology",
+      "US news",
+      "World news",
+      "books"
+    ],
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "257c55906953209269bdbb2ae71d6c50",
@@ -129,8 +165,212 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
+  },
+  {
+    "id": "f8618fc6fa215337ff59948d2268ab9c",
+    "title": "Jesus Christ Kinski by Benjamin Myers review",
+    "author": "Fiona Sturges",
+    "description": "Narrator Rory Kinnear fully inhabits Klaus Kinski’s fury in this depiction of the irascible actor’s ill-fated performance in Berlin In 1971, the German actor Klaus Kinski performed a theatrical monologue called Jesus Christ Saviour at the Deutschlandhalle arena in Berlin, but things didn’t quite go to plan. A controversial figure in his lifetime, Kinski was irascible, egomaniacal and prone to violent temper tantrums. The film director Werner Herzog famously worked with Kinski on movies including Aguirre, the Wrath of God and Fitzcarraldo and later filmed a documentary about the actor’s unhinged antics called My Best Fiend. The antipathy went both ways: in his memoir, Kinski fantasised about Herzog dying of the plague or being eaten alive by ants. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Werner Herzog"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-25",
+    "thumbnail": "https://i.guim.co.uk/img/media/18bf686029aad958a6c6dbba3930d308585b7501/253_164_2641_2112/master/2641.jpg?width=700&quality=85&auto=format&fit=max&s=cadf23f7a3957c8dbb02248f88169820",
+    "cover_large": "https://i.guim.co.uk/img/media/18bf686029aad958a6c6dbba3930d308585b7501/253_164_2641_2112/master/2641.jpg?width=700&quality=85&auto=format&fit=max&s=cadf23f7a3957c8dbb02248f88169820",
+    "article_url": "https://www.theguardian.com/books/2026/jun/25/jesus-christ-kinski-by-benjamin-myers-review-inside-the-mind-of-an-actor-in-meltdown",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Werner Herzog",
+      "books"
+    ],
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
+  },
+  {
+    "id": "e33583e615123b07b8969b1852128fbd",
+    "title": "Pope Leo XIV to publish collection of early writings",
+    "author": "Ella Creamer",
+    "description": "Freedom Under Grace will feature previously unpublished homilies and addresses from 2001 to 2013, letting readers ‘observe the development of Prevost’s thinking’ Robert Prevost – now Pope Leo XIV – is set to publish a collection of his writings from the 2000s in English later this year. Freedom Under Grace: Reflections on the Spiritual Tradition That Formed Me will be released in September, featuring unpublished homilies and addresses from Prevost’s time as prior general of the Order of Saint Augustine between 2001 and 2013. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Catholicism",
+      "Culture",
+      "Pope Leo Xiv",
+      "Publishing",
+      "Religion"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-25",
+    "thumbnail": "https://i.guim.co.uk/img/media/66f6919c0d750d9364bc4a5113a37d9774d258ed/545_0_3267_2614/master/3267.jpg?width=700&quality=85&auto=format&fit=max&s=53340aca9cff9822c7e551b3327896f5",
+    "cover_large": "https://i.guim.co.uk/img/media/66f6919c0d750d9364bc4a5113a37d9774d258ed/545_0_3267_2614/master/3267.jpg?width=700&quality=85&auto=format&fit=max&s=53340aca9cff9822c7e551b3327896f5",
+    "article_url": "https://www.theguardian.com/books/2026/jun/25/pope-leo-iv-to-publish-book-freedom-under-grace",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Catholicism",
+      "Culture",
+      "Pope Leo XIV",
+      "Publishing",
+      "Religion",
+      "books"
+    ],
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
+  },
+  {
+    "id": "4947cbf17b57752ea6c92c8cda88339c",
+    "title": "Smells Like Queer Literary Spirit",
+    "author": "Kelly Jensen",
+    "description": "Perfume may not appear to have anything to do with queer literature, for Aesop, it does.",
+    "summary_ai": "",
+    "categories": [
+      "Lgbtq",
+      "News",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-25",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Aesop-Popup.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Aesop-Popup.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/aesop-queer-library/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "LGBTQ",
+      "News",
+      "reviews"
+    ],
+    "created_at": "2026-06-25T19:52:51+00:00",
+    "updated_at": "2026-06-25T19:52:51Z"
+  },
+  {
+    "id": "1f0de0e8cda93ac7da894fad1d4b92f5",
+    "title": "The Must",
+    "author": "S. Zainab Williams",
+    "description": "Watch the full trailer for the newest adaptation of Jane Austen's SENSE AND SENSIBILITY, check out the BookTok summer reading list, and more.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Today In Books"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-25",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/sense-and-sensibility-teaser-poster-feature-image.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/sense-and-sensibility-teaser-poster-feature-image.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/sense-and-sensibility-trailer/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Today in Books",
+      "reviews"
+    ],
+    "created_at": "2026-06-25T19:52:51+00:00",
+    "updated_at": "2026-06-25T19:52:51Z"
+  },
+  {
+    "id": "e267db7adf0b2f9abc0c4bfc8e1833e3",
+    "title": "Watch the New Trailer for SENSE AND SENSIBILITY",
+    "author": "Community",
+    "description": "Watch the trailer for the upcoming Sense and Sensibility adaptation starring Daisy Edgar-Jones, out in theaters October 16.",
+    "summary_ai": "",
+    "categories": [
+      "Breaking In Books",
+      "News",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-25",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Sense-and-Sensibility-poster.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Sense-and-Sensibility-poster.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/sense-and-sensibility-2026-trailer/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "News",
+      "breaking in books",
+      "reviews"
+    ],
+    "created_at": "2026-06-25T19:52:51+00:00",
+    "updated_at": "2026-06-25T19:52:51Z"
+  },
+  {
+    "id": "298229aeb9fc8ff056489ca9dc2ccf23",
+    "title": "Commonwealth Foundation Clears Writers Accused of Using AI",
+    "author": "Rebecca Joines Schinsky",
+    "description": "A thorough investigation found no AI use in the Short Story Prize-winning works.",
+    "summary_ai": "",
+    "categories": [
+      "News",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-25",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/02/robot-reading-book-1.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/02/robot-reading-book-1.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/commonwealth-foundation-short-story-prize-ai-allegations-cleared/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "News",
+      "reviews"
+    ],
+    "created_at": "2026-06-25T19:52:51+00:00",
+    "updated_at": "2026-06-25T19:52:51Z"
+  },
+  {
+    "id": "37ac44f634343accf084214ffc1d656b",
+    "title": "650+ New Queer Books Out in 2026 (So Far)",
+    "author": "Danika Ellis",
+    "description": "Here is a spreadsheet of more than 650 LGBTQ books that have come out in the first half of 2026, sortable by genre and representation!",
+    "summary_ai": "",
+    "categories": [
+      "All Access",
+      "Lgbtq",
+      "Our Queerest Shelves",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-25",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/01/rainbow-bookstore.png",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/01/rainbow-bookstore.png",
+    "article_url": "https://bookriot.com/new-queer-books-out-in-2026-so-far/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "All Access",
+      "LGBTQ",
+      "Our Queerest Shelves",
+      "reviews"
+    ],
+    "created_at": "2026-06-25T19:52:51+00:00",
+    "updated_at": "2026-06-25T19:52:51Z"
   },
   {
     "id": "83c9ceb73b7b9fe91ad3e1144766bc50",
@@ -171,8 +411,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "583fe7dff53738150e9e082fa62c528c",
@@ -203,8 +443,8 @@
       "books",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "08d69ba76404444ba95f33944af39e5b",
@@ -243,8 +483,8 @@
       "Rockaway Beach (Queens, NY)",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "a5da7a5431352db994e7ab18761aa4f4",
@@ -274,8 +514,8 @@
       "True crime books",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "09b03f399c79b9e7a1e10e7e8cb7af13",
@@ -335,8 +575,8 @@
       "World news",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "46685c55e6a2375749c52ca387716ce7",
@@ -364,38 +604,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
-  },
-  {
-    "id": "8aef93863a63c12d59f52f03c4a2af96",
-    "title": "Comics to Keep Your Brain From Melting Over the Summer",
-    "author": "Eileen Gonzalez",
-    "description": "These science, history, philosophy, and literature-focused graphic novels will get you well-read and learning this summer!",
-    "summary_ai": "",
-    "categories": [
-      "Comics/Graphic Novels",
-      "Reviews",
-      "The Stack"
-    ],
-    "genre": [
-      "History"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-24",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/01/image-of-a-person-on-a-couch-reading-a-comic.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/01/image-of-a-person-on-a-couch-reading-a-comic.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/comics-to-keep-you-learning-this-summer/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Comics/Graphic Novels",
-      "The Stack",
-      "reviews"
-    ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "8241960d3e3db79bf6d9b81fd124c9f9",
@@ -440,8 +650,8 @@
       "Voice and Speech",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   },
   {
     "id": "4d0133681ee8dc791c6caa680031c967",
@@ -480,228 +690,7 @@
       "Sex",
       "books"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
-  },
-  {
-    "id": "12639b44ec9d2920735ddd7cf93f22ab",
-    "title": "Reader, I married him: couples tell us how books brought them together",
-    "author": "Sarah Phillips",
-    "description": "From book club meet-cutes to shared English Literature lectures, romance has blossomed beyond the page for these bibliophiles Dua Lipa and Callum Turner have been honeymooning in Italy, after throwing a star-studded wedding in Palermo earlier this month. But their relationship began with a book: running into each other at an LA restaurant, the pair realised that they were not only reading the same novel – Trust by Hernán Díaz – but had both just finished the first chapter. “So, we’re on the same page,” Turner said to Lipa. Here, four other couples share the literary sparks of their love stories. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Life And Style",
-      "Marriage"
-    ],
-    "genre": [
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-23",
-    "thumbnail": "https://i.guim.co.uk/img/media/bfcd3b0966526ad5fcd5a0244fde6251cc1f161e/0_716_2316_1853/master/2316.jpg?width=700&quality=85&auto=format&fit=max&s=d29d4ca9a8dd883069f5088d17d152c2",
-    "cover_large": "https://i.guim.co.uk/img/media/bfcd3b0966526ad5fcd5a0244fde6251cc1f161e/0_716_2316_1853/master/2316.jpg?width=700&quality=85&auto=format&fit=max&s=d29d4ca9a8dd883069f5088d17d152c2",
-    "article_url": "https://www.theguardian.com/music/2026/jun/05/dua-lipa-callum-turner-wedding-divides-palermo",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Life and style",
-      "Marriage",
-      "books"
-    ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
-  },
-  {
-    "id": "ff2bcd5c4ac8a1dfad40f86b7af9699d",
-    "title": "Awake Awake by Fiona Mozley review",
-    "author": "M John Harrison",
-    "description": "From the Booker-shortlisted author, a tantalisingly unreliable account of childhood, history and mental uncertainty The historian and novelist Fiona Mozley acknowledged in a 2018 piece for the Guardian that the city of York had a major influence on both her careers. Childhood and adolescence in a place such as York, full of time and times, can generate conflict between “the desire to live in the past and the need to extract oneself from it”. Awake Awake, a follow-up to her previous novels, 2017’s Booker-shortlisted Elmet and 2021’s Hot Stew , engages with two types of memory: the personal and the historical. They’re not exactly at odds, but as far as living in the past is concerned they feed on one another in a complex, entangled relationship. Narrator Mary Mooney – also a novelist, also from York, and whose first book is also shortlisted for a major prize – tells the story of her mental illness. Or she seems to. She begins in childhood. We’re introduced to her parents and her parents’ friends, religious academics in York; to her home in Cathedral Close; to school and her school friends, with whom she will stay in contact as she grows up. Life is a round of family occasions...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [
-      "History",
-      "Politics"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-23",
-    "thumbnail": "https://i.guim.co.uk/img/media/02ea73c706b63595b9a617eddbf0b00fdff21d47/6_182_1452_1162/master/1452.jpg?width=700&quality=85&auto=format&fit=max&s=1865139a945ee677494e619bb4caf2ea",
-    "cover_large": "https://i.guim.co.uk/img/media/02ea73c706b63595b9a617eddbf0b00fdff21d47/6_182_1452_1162/master/1452.jpg?width=700&quality=85&auto=format&fit=max&s=1865139a945ee677494e619bb4caf2ea",
-    "article_url": "https://www.theguardian.com/books/2018/jan/27/fiona-mozley-made-in-york",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
-  },
-  {
-    "id": "feb324ad590f7576779b3f5708068eae",
-    "title": "Fantastic Kingdom by Helene von Bismarck review – an outsider’s guide to British politics",
-    "author": "Pratinav Anil",
-    "description": "This stranger’s-eye-view of an eccentric nation promises insight but delivers only conventional wisdom ‘Continental people have sex lives; the English have hot-water bottles.” So observed Hungarian journalist George Mikes in How to Be an Alien (1946), one of the finest examples of a tradition in which foreigners explain Britain to itself. From Voltaire to VS Naipaul, outsiders have often illuminated national peculiarities, revealing contradictions so embedded in British life that they pass unnoticed. Helene von Bismarck’s Fantastic Kingdom is the latest contribution to this genre. Von Bismarck, a distant relative by marriage of the Iron Chancellor, seems ideally placed for the task. The name alone gives her project a certain piquancy; there is something almost Pynchonesque about a German historian with that name attempting to decipher Britain for the British. Raised across Europe as the daughter of a diplomat, educated at the same Brussels school attended by Boris Johnson and Ursula von der Leyen, and a frequent visitor to the UK for two decades, she possesses the combination of distance and familiarity that can produce genuine insight. Her grand theme is that Britain is a...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "History Books",
-      "Politics Books"
-    ],
-    "genre": [
-      "Politics"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-23",
-    "thumbnail": "https://i.guim.co.uk/img/media/d1e25862331c58a296354b9305efa45bb0d934c5/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=0fdf85c17307dfc85d6ee2bb97cddd38",
-    "cover_large": "https://i.guim.co.uk/img/media/d1e25862331c58a296354b9305efa45bb0d934c5/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=0fdf85c17307dfc85d6ee2bb97cddd38",
-    "article_url": "https://www.theguardian.com/books/2026/jun/23/fantastic-kingdom-by-helene-von-bismarck-review-an-outsiders-guide-to-british-politics",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "History books",
-      "Politics books",
-      "books"
-    ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
-  },
-  {
-    "id": "ff3686b2ce5a066d6c4abe5758e0dc68",
-    "title": "The Books Colleges Are Choosing for Common Reads in 2026",
-    "author": "Kelly Jensen",
-    "description": "Common Reads, sometimes called One Book, One College or All Campus Reads, have been a popular project for U.S. colleges and universities for the last decade. At some institutions, the books rotate every few years, allowing all levels of students to connect over the same book. At others, the books change annually. Many times, students [...]",
-    "summary_ai": "",
-    "categories": [
-      "News",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-23",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/campus-common-reads-flagship.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/campus-common-reads-flagship.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/college-common-reads-books-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "News",
-      "reviews"
-    ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
-  },
-  {
-    "id": "d33af7c57cda074d37f25e69f18304eb",
-    "title": "Who Are Public Libraries For in Our Censorship Era?",
-    "author": "Kelly Jensen",
-    "description": "Are public libraries becoming children's libraries? That, plus insights into book slumps, a fun TikTok viral sensation, and more.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Today In Books"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-23",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/05/colorful-stack-of-books.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/05/colorful-stack-of-books.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/who-are-public-libraries-for-in-our-censorship-era/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Today in Books",
-      "reviews"
-    ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
-  },
-  {
-    "id": "e5c40ef2bc9d6b4a4ba2887fc4a3448b",
-    "title": "Book Review: ‘The Emergency Playbook,’ by Amy Edelman and Chris Begley",
-    "author": "Dwight Garner",
-    "description": "“The Emergency Playbook” is a disaster preparation guide that emphasizes community rather than lone-hero fantasies.",
-    "summary_ai": "",
-    "categories": [
-      "Begley, Chris",
-      "Books",
-      "Books And Literature",
-      "Disasters And Emergencies",
-      "Edelman, Amy",
-      "The Emergency Playbook: A Bunker-Free Guide To Disaster Preparation (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-22",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/22/multimedia/22TBR-Edelman-Begley-review-ckqf/22TBR-Edelman-Begley-review-ckqf-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/22/multimedia/22TBR-Edelman-Begley-review-ckqf/22TBR-Edelman-Begley-review-ckqf-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/22/books/review/emergency-playbook-amy-edelman-chris-begley.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Begley, Chris",
-      "Books and Literature",
-      "Disasters and Emergencies",
-      "Edelman, Amy",
-      "The Emergency Playbook: A Bunker-Free Guide to Disaster Preparation (Book)",
-      "books"
-    ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
-  },
-  {
-    "id": "6c0384d1ca7571d392bfdb539e0a6150",
-    "title": "The Reverse Centaur’s Guide to Life After AI by Cory Doctorow review",
-    "author": "Dorian Lynskey",
-    "description": "A vivid and entertaining polemic on the economics of the tech revolution, filled with righteous ire As former Google CEO Eric Schmidt could tell you, AI is a hard sell these days. Last month, he tried talking up the AI revolution during a commencement address at the University of Arizona and was loudly booed by students about to enter an AI-ravaged job market. His discombobulation was telling. Schmidt is not the only AI booster to crash out with students recently as the popular backlash grows. Every week brings a new story about some writer, publisher or academic who has torched their reputation by using an unreliable chatbot. Most US voters are opposed to the construction of vast, resource-guzzling new datacentres. A majority believe AI will negatively impact not just jobs but creativity and human relationships. In some quarters, saying that AI has any benefits at all is akin to saying that biological warfare gets a bad rap. As a New York Times column put it : “AI populism is here. And no one is ready.” Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Ai (Artificial Intelligence)",
-      "Books",
-      "Computing",
-      "Culture",
-      "Science And Nature Books",
-      "Technology"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-22",
-    "thumbnail": "https://i.guim.co.uk/img/media/c950225c1217464767e369fc79a152c2704e4cb4/982_662_5740_4591/master/5740.jpg?width=700&quality=85&auto=format&fit=max&s=99e86d1e2c3b75db6311b6945133877a",
-    "cover_large": "https://i.guim.co.uk/img/media/c950225c1217464767e369fc79a152c2704e4cb4/982_662_5740_4591/master/5740.jpg?width=700&quality=85&auto=format&fit=max&s=99e86d1e2c3b75db6311b6945133877a",
-    "article_url": "https://www.theguardian.com/us-news/2026/may/18/eric-schmidt-ai-university-commencement-speech-booed",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "AI (artificial intelligence)",
-      "Books",
-      "Computing",
-      "Culture",
-      "Science and nature books",
-      "Technology",
-      "books"
-    ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:56+00:00",
+    "updated_at": "2026-06-25T19:52:56Z"
   }
 ]

@@ -1,5 +1,157 @@
 [
   {
+    "id": "b383e3981c5f3ca0af16be5e51aa566b",
+    "title": "The American Library Association is auctioning off some primo vintage READ posters.",
+    "author": "Brittany Allen",
+    "description": "This summer, the American Library Association is auctioning off a rare cache of its iconic READ posters to commemorate the org’s 150th year of doing business. Thanks to a partnership with Heritage Auctions, the largest collections auctioneer in the world,",
+    "summary_ai": "",
+    "categories": [
+      "Ala",
+      "Art And Photography",
+      "Auction",
+      "Bookstores And Libraries",
+      "Buffy",
+      "Campaign",
+      "Coolio",
+      "Events",
+      "Film And Tv",
+      "History",
+      "Humor",
+      "Library",
+      "Narnia",
+      "News And Culture",
+      "Patrick Stewart",
+      "Posters",
+      "Read",
+      "Reviews",
+      "Siddhartha",
+      "Spike Lee",
+      "Style",
+      "The Hub",
+      "Vintage",
+      "Walter Rodney"
+    ],
+    "genre": [
+      "Business"
+    ],
+    "language": "English",
+    "publisher": "Vintage",
+    "published_date": "2026-06-25",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/Untitled-design-11-768x384.png",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/Untitled-design-11-768x384.png",
+    "article_url": "https://lithub.com/the-american-library-association-is-auctioning-off-some-primo-vintage-read-posters/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "ALA",
+      "Art and Photography",
+      "Bookstores and Libraries",
+      "Buffy",
+      "Coolio",
+      "Events",
+      "Film and TV",
+      "History",
+      "Humor",
+      "Library",
+      "Narnia",
+      "News and Culture",
+      "READ",
+      "Siddhartha",
+      "Spike Lee",
+      "Style",
+      "The Hub",
+      "Vintage",
+      "Walter Rodney",
+      "auction",
+      "campaign",
+      "patrick stewart",
+      "posters",
+      "reviews"
+    ],
+    "created_at": "2026-06-25T19:52:51+00:00",
+    "updated_at": "2026-06-25T19:52:51Z"
+  },
+  {
+    "id": "d7f17359ff8f2f129060930d66c7818b",
+    "title": "Three key takeaways from the new Sense and Sensibility trailer.",
+    "author": "Brittany Allen",
+    "description": "Attention, Austen hive! We have an official release timeline for Georgia Oakley’s buzzy new Sense and Sensibility. This October, we’re riding again for the Dashwood sisters. Gather up ye petticoats and horses accordingly. The first major adaptation of the novel",
+    "summary_ai": "",
+    "categories": [
+      "Ang Lee",
+      "Book News",
+      "Daisy Edgar-Jones",
+      "Elinor Dashwood",
+      "Events",
+      "Film And Tv",
+      "Jane Austen",
+      "Joe Wright",
+      "Literary Adaptation",
+      "News And Culture",
+      "Pride And Prejudice",
+      "Reviews",
+      "Sense And Sensibility",
+      "The Hub",
+      "Trailer"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-06-25",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/Untitled-design-10-768x384.png",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/Untitled-design-10-768x384.png",
+    "article_url": "https://lithub.com/three-key-takeaways-from-the-new-sense-and-sensibility-trailer/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Ang Lee",
+      "Book News",
+      "Daisy Edgar-Jones",
+      "Elinor Dashwood",
+      "Events",
+      "Film and TV",
+      "Jane Austen",
+      "Joe Wright",
+      "News and Culture",
+      "Pride and Prejudice",
+      "Sense and Sensibility",
+      "The Hub",
+      "literary adaptation",
+      "reviews",
+      "trailer"
+    ],
+    "created_at": "2026-06-25T19:52:51+00:00",
+    "updated_at": "2026-06-25T19:52:51Z"
+  },
+  {
+    "id": "7473117fd520f5faed8706c05655d7e5",
+    "title": "Lit Hub Daily: June 25, 2026",
+    "author": "Lit Hub Daily",
+    "description": "Anthony Aycock looks back at Island Trees v. Pico, the first (and only) book ban case ever heard by the Supreme Court. | Lit Hub Politics Maris Kreizman recommends 40 great books you might have missed (that you should read",
+    "summary_ai": "",
+    "categories": [
+      "Lit Hub Daily",
+      "Reviews"
+    ],
+    "genre": [
+      "Politics"
+    ],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-06-25",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/georgeorwell-768x344.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/georgeorwell-768x344.jpg",
+    "article_url": "https://lithub.com/lit-hub-daily-june-25-2026/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Lit Hub Daily",
+      "reviews"
+    ],
+    "created_at": "2026-06-25T19:52:51+00:00",
+    "updated_at": "2026-06-25T19:52:51Z"
+  },
+  {
     "id": "911a9ff717d11f841e4dbe6627f793fc",
     "title": "40 Great New Books You May Have Missed",
     "author": "Maris Kreizman",
@@ -9,7 +161,7 @@
       "Best Books",
       "Book Recommendations",
       "Craft And Criticism",
-      "Fullwidth Slider",
+      "Features",
       "Jd Vance",
       "Literary Criticism",
       "Maris Kreizman",
@@ -28,7 +180,7 @@
     "source_type": "rss",
     "tags": [
       "Craft and Criticism",
-      "Fullwidth Slider",
+      "Features",
       "JD Vance",
       "Literary Criticism",
       "Maris Kreizman",
@@ -38,13 +190,13 @@
       "memoir",
       "reviews"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:51+00:00",
+    "updated_at": "2026-06-25T19:52:51Z"
   },
   {
     "id": "3f981ea154c4da4b85531d4fab43cb5a",
     "title": "Save It for Your Novel: The Difference in Writing for the Screen Versus the Page",
-    "author": "Spiro Skentos",
+    "author": "Spiro Skentzos",
     "description": "To examine the increasing similarities between television storytelling and literary fiction—particularly their shared emphasis on complex characters and challenging themes—I recently spoke with Rasheed Newson, television writer (Narcos, The Chi), showrunner (Bel-Air), and novelist (There’s Only One Sin in Hollywood and My Government Means to Kill",
     "summary_ai": "",
     "categories": [
@@ -90,8 +242,8 @@
       "reviews",
       "writing"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:51+00:00",
+    "updated_at": "2026-06-25T19:52:51Z"
   },
   {
     "id": "be0beb2d5559d519d444da0e007c1cc7",
@@ -134,8 +286,8 @@
       "podcasts",
       "reviews"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:51+00:00",
+    "updated_at": "2026-06-25T19:52:51Z"
   },
   {
     "id": "1ad3c379a789019100819ebfa921a9e7",
@@ -172,8 +324,8 @@
       "book reviews",
       "reviews"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:51+00:00",
+    "updated_at": "2026-06-25T19:52:51Z"
   },
   {
     "id": "883f412bfb234ab2530bbd9c36f3592e",
@@ -219,8 +371,8 @@
       "reviews",
       "w"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:51+00:00",
+    "updated_at": "2026-06-25T19:52:51Z"
   },
   {
     "id": "6e20f66bfe9df8be08b22dc8cf392729",
@@ -235,7 +387,7 @@
       "Book Bans",
       "Censorship",
       "Education",
-      "Features",
+      "Fullwidth Slider",
       "History",
       "Just Plain Filthy: The Story Behind Book Banning'S Trial Of The Century",
       "News And Culture",
@@ -255,7 +407,7 @@
     "tags": [
       "Anthony Aycock",
       "Bloomsbury Publishing",
-      "Features",
+      "Fullwidth Slider",
       "History",
       "Just Plain Filthy: The Story Behind Book Banning's Trial of the Century",
       "News and Culture",
@@ -267,8 +419,8 @@
       "education",
       "reviews"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:51+00:00",
+    "updated_at": "2026-06-25T19:52:51Z"
   },
   {
     "id": "e57caf59df06037da6ece0bf475fe837",
@@ -317,92 +469,14 @@
       "men's fashion",
       "reviews"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:51+00:00",
+    "updated_at": "2026-06-25T19:52:51Z"
   },
   {
-    "id": "b22085fb10505a873aa93b47aa0bb1bb",
-    "title": "The Independent Press Top 40 Bestsellers: Fiction",
-    "author": "Literary Hub",
-    "description": "Here are this week’s Independent Press Top 40 Bestsellers for fiction, based on sales in hundreds of independent bookstores nationwide, generously provided by the American Booksellers Association. Compiled, designed, and distributed by The Independent Publishers Caucus. * 1. The Calamity",
-    "summary_ai": "",
-    "categories": [
-      "Bestsellers",
-      "Craft And Criticism",
-      "Features",
-      "Literary Criticism",
-      "Reading Lists",
-      "Reviews",
-      "The Independent Press Top 40 Bestsellers: Fiction"
-    ],
-    "genre": [
-      "Fiction"
-    ],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-06-25",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/04/fiction-768x384.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/04/fiction-768x384.jpg",
-    "article_url": "https://lithub.com/the-independent-press-top-40-bestsellers-fiction-23/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Craft and Criticism",
-      "Features",
-      "Literary Criticism",
-      "Reading Lists",
-      "The Independent Press Top 40 Bestsellers: Fiction",
-      "bestsellers",
-      "reviews"
-    ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
-  },
-  {
-    "id": "8dc8eafee7ba5d60f14172473a69bfae",
-    "title": "The Future Perfect",
-    "author": "Lit Hub Excerpts",
-    "description": "Before you are anything, you are a daughter. You are there in the water when it rises above her ankles, haunches, stomach that’s grown to shocking proportions. The master bathroom is dark, only half‐lit by the moon, and with her",
-    "summary_ai": "",
-    "categories": [
-      "Cay Kim",
-      "Daily Fiction",
-      "Excerpts",
-      "Fiction And Poetry",
-      "From The Novel",
-      "Novels",
-      "Reviews",
-      "Riverhead",
-      "The Future Perfect"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Riverhead",
-    "published_date": "2026-06-25",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/05/THE-FUTURE-PERFECT-768x1161.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/05/THE-FUTURE-PERFECT-768x1161.jpg",
-    "article_url": "https://lithub.com/the-future-perfect/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Cay Kim",
-      "Daily Fiction",
-      "Excerpts",
-      "Fiction and Poetry",
-      "From the Novel",
-      "Novels",
-      "Riverhead",
-      "The Future Perfect",
-      "reviews"
-    ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
-  },
-  {
-    "id": "f02c7c88efb562fa5c4351fbf1b57a37",
-    "title": "Book Riot’s Deals of the Day for June 24, 2026",
+    "id": "986bf8d21a499467b803e8973dfed900",
+    "title": "Book Riot’s Deals of the Day for June 25, 2026",
     "author": "Deals",
-    "description": "A quirky sci-fi romp, a grouchy but charming magician (plus cats!), a pop star and a cowboy strike a deal, and more of today's book deals.",
+    "description": "Another double batch of book deals, including epic romantasy about a knight and her mage, a supernatural twist on the Ku Klux Klan, and a bookseller's escape from a haunted library.",
     "summary_ai": "",
     "categories": [
       "Book Deals",
@@ -411,158 +485,123 @@
     "genre": [],
     "language": "English",
     "publisher": "Book Riot",
-    "published_date": "2026-06-24",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/pachinko.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/pachinko.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-june-24-2026/",
+    "published_date": "2026-06-25",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/02/Curvy-Girl-Summer.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2025/02/Curvy-Girl-Summer.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-june-25-2026/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
       "Book Deals",
       "reviews"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:51+00:00",
+    "updated_at": "2026-06-25T19:52:51Z"
   },
   {
-    "id": "6b85ed3e70f227539bdaf81741c9b165",
-    "title": "Historical Fiction Set in the Middle East",
-    "author": "Katie Moench",
-    "description": "In these historical fiction novels set in the Middle East, you'll find stories that span from ancient Egypt to the early 2010s.",
+    "id": "22038898e7a251882ef1e90c561a8d2d",
+    "title": "📚 The damage is done",
+    "author": "Community",
+    "description": "Commonwealth Foundation clears writers accused of AI use",
     "summary_ai": "",
     "categories": [
-      "Past Tense",
+      "Book Riot Newsletter",
       "Reviews"
     ],
-    "genre": [
-      "Fiction"
-    ],
+    "genre": [],
     "language": "English",
     "publisher": "Book Riot",
-    "published_date": "2026-06-24",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/Mother-of-Strangers-by-Suad-Amiry-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/Mother-of-Strangers-by-Suad-Amiry-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/historical-fiction-set-in-the-middle-east/",
+    "published_date": "2026-06-25",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/campus-common-reads-flagship.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/campus-common-reads-flagship.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/the-damage-is-done/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Past Tense",
+      "Book Riot Newsletter",
       "reviews"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:51+00:00",
+    "updated_at": "2026-06-25T19:52:51Z"
   },
   {
-    "id": "9b54fc215cc7d93f170ddc63eda17961",
-    "title": "Pride and Protest: 6 Books About Queer Liberation and Activists",
-    "author": "Jeffrey Davies",
-    "description": "These books by and about queer activists demonstrates how long the fight for equality has been—read them this Pride and beyond.",
+    "id": "1844cb09eb30b8ecc2c4158de8cab2c0",
+    "title": "The Bestselling Books of the Week, According to All the Lists",
+    "author": "Community",
+    "description": "USA Today, Publishers Weekly, NYT, Amazon, and Indie Booksellers all have their own bestseller lists. Here are the combined results.",
     "summary_ai": "",
     "categories": [
-      "Nonfiction",
-      "Reviews",
-      "True Story"
+      "New Books",
+      "Reviews"
     ],
     "genre": [],
     "language": "English",
     "publisher": "Book Riot",
-    "published_date": "2026-06-24",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2020/12/Sister-Outsider-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2020/12/Sister-Outsider-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/books-about-queer-liberation-and-activists/",
+    "published_date": "2026-06-25",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/Braiding-Sweetgrass-Indigenous-Wisdom-Scientific-Knowledge-and-the-Teachings-of-Plants-cover-194x300.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/Braiding-Sweetgrass-Indigenous-Wisdom-Scientific-Knowledge-and-the-Teachings-of-Plants-cover-194x300.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/bestselling-books-june-25-2026/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Nonfiction",
-      "True Story",
+      "New Books",
       "reviews"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:51+00:00",
+    "updated_at": "2026-06-25T19:52:51Z"
   },
   {
-    "id": "1a25e8d1fa415ff15a2a8c309ead2fe4",
-    "title": "Summer Thrillers For A Reading Escape",
-    "author": "Jamie Canaves",
-    "description": "Escape into universities with serial killer programs, dangerous obsessions, and disappeared wives who reappear in these thrillers this summer.",
+    "id": "4a0c642bdb7e022eae14a57947f71b1a",
+    "title": "It’s Later Than You Think: 5 Excellent Near",
+    "author": "Liberty Hardy",
+    "description": "The future is now: enjoy five near-future sci-fi books before they're reality!",
     "summary_ai": "",
     "categories": [
       "Reviews",
-      "Unusual Suspects"
-    ],
-    "genre": [
-      "Thriller"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-24",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2022/05/never-saw-me-coming-book-cover-300x0.jpeg.optimal.jpeg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2022/05/never-saw-me-coming-book-cover-300x0.jpeg.optimal.jpeg",
-    "article_url": "https://bookriot.com/summer-thrillers-for-a-reading-escape/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Unusual Suspects",
-      "reviews"
-    ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
-  },
-  {
-    "id": "15647dada04d7f1f46dfa0996bafa7ad",
-    "title": "High Stakes Competitions, A Terrifying Deer, and More New YA Books for June 24, 2026",
-    "author": "Kelly Jensen",
-    "description": "This week's new YA releases include a horror title with a terrifying deer, a Sapphic twist on the Wizard of Oz, and a bookish romance.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "What'S Up In Ya",
-      "Young Adult Literature"
-    ],
-    "genre": [
-      "Horror",
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-24",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/A-Great-and-Powerful-Tyranny-by-Victoria-Carbol-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/A-Great-and-Powerful-Tyranny-by-Victoria-Carbol-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/new-ya-books-june-24-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "What's Up in YA",
-      "Young Adult Literature",
-      "reviews"
-    ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
-  },
-  {
-    "id": "9d65b5f2d59b1722e814175d7e1edced",
-    "title": "LeVar Burton, Mychal Threets, and Obama Walk Into a Library",
-    "author": "S. Zainab Williams",
-    "description": "Two READING RAINBOW icons show up for storytime, authors choose the best queer books in America, this year's Common Reads, and more.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Today In Books"
+      "Science Fiction/Fantasy",
+      "Swords And Spaceships"
     ],
     "genre": [],
     "language": "English",
     "publisher": "Book Riot",
-    "published_date": "2026-06-24",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/02/school-library.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/02/school-library.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/levar-burton-mychal-threets-and-obama-walk-into-a-library/",
+    "published_date": "2026-06-25",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2023/02/The-Last-Beekeeper-by-Julie-Carrick-Dalton-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2023/02/The-Last-Beekeeper-by-Julie-Carrick-Dalton-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/near-future-sci-fi-novels/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Today in Books",
+      "Science Fiction/Fantasy",
+      "Swords and Spaceships",
       "reviews"
     ],
-    "created_at": "2026-06-25T09:23:39+00:00",
-    "updated_at": "2026-06-25T09:23:39Z"
+    "created_at": "2026-06-25T19:52:51+00:00",
+    "updated_at": "2026-06-25T19:52:51Z"
+  },
+  {
+    "id": "da501a5301358d1a72c96cbdcccc47f2",
+    "title": "Books by Latine Authors to Preorder Now (and Other Ways to Support Books and Authors)",
+    "author": "Vanessa Diaz",
+    "description": "Preorder these summer and early fall releases by Latine authors now",
+    "summary_ai": "",
+    "categories": [
+      "Latine Lit",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-25",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/The-Summer-of-the-Serpent-Cecilia-Eudave-cover-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/The-Summer-of-the-Serpent-Cecilia-Eudave-cover-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/books-by-latine-authors-to-preorder-summer-fall-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Latine Lit",
+      "reviews"
+    ],
+    "created_at": "2026-06-25T19:52:51+00:00",
+    "updated_at": "2026-06-25T19:52:51Z"
   }
 ]
