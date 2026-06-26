@@ -1,5 +1,81 @@
 [
   {
+    "id": "2b5cf1c885d4f1ac8eaecee45f993305",
+    "title": "At Nina Simone's childhood home, in search of 'How It Would Feel to Be Free'",
+    "author": "Lara Downes",
+    "description": "Pianist Lara Downes and Pulitzer-winning author Salamishah Tillet discuss Nina Simone and one of her best-known songs at her lovingly restored birthplace in Tryon, N.C.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "NPR Books",
+    "published_date": "2026-06-26",
+    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4280x3210+0+0/resize/4280x3210!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa7%2Fd7%2F0e2fe6c14815954884aec22f3d26%2Flara-salamishah-jpg-cropfix.jpg",
+    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4280x3210+0+0/resize/4280x3210!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa7%2Fd7%2F0e2fe6c14815954884aec22f3d26%2Flara-salamishah-jpg-cropfix.jpg",
+    "article_url": "https://www.npr.org/2026/06/26/nx-s1-5686746/salamishah-tillet-lara-downes-interview-nina-simone",
+    "source": "NPR Books",
+    "source_type": "rss",
+    "tags": [
+      "reviews"
+    ],
+    "created_at": "2026-06-26T19:41:48+00:00",
+    "updated_at": "2026-06-26T19:41:48Z"
+  },
+  {
+    "id": "9f47611b884544e3c389e9b6a1e70968",
+    "title": "Why Taylor Swift's rumored wedding has fans watching New York",
+    "author": "Leila Fadel",
+    "description": "Taylor Swift and Travis Kelce are rumored to celebrate at Madison Square Garden on July 3, with speculation ranging from a wedding reception to surprise musical performances.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "NPR Books",
+    "published_date": "2026-06-26",
+    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4521x3013+0+0/resize/4521x3013!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffa%2F8f%2F2b9edcd0406d85f2bb2866945224%2Fgettyimages-2170226233-1.jpg",
+    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4521x3013+0+0/resize/4521x3013!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffa%2F8f%2F2b9edcd0406d85f2bb2866945224%2Fgettyimages-2170226233-1.jpg",
+    "article_url": "https://www.npr.org/2026/06/26/nx-s1-5870970/taylor-swift-travis-kelce-wedding-rumors-madison-square-garden",
+    "source": "NPR Books",
+    "source_type": "rss",
+    "tags": [
+      "reviews"
+    ],
+    "created_at": "2026-06-26T19:41:48+00:00",
+    "updated_at": "2026-06-26T19:41:48Z"
+  },
+  {
+    "id": "c1026f9e13eacb8cd5e643c9bc7ac932",
+    "title": "Lit Hub Daily: June 26, 2026",
+    "author": "Lit Hub Daily",
+    "description": "How is queer history “admitted to the historical record?” Demetris Papadimitropoulos on Tennessee Williams, Daniel Ciba’s Blue Roses and the ambiguity of proof. | Lit Hub Criticism “I don’t remember the exact content of the poem, but it was the first",
+    "summary_ai": "",
+    "categories": [
+      "Lit Hub Daily",
+      "Reviews"
+    ],
+    "genre": [
+      "History"
+    ],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-06-26",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/bramwellbronte-768x344.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/bramwellbronte-768x344.jpg",
+    "article_url": "https://lithub.com/lit-hub-daily-june-26-2026/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Lit Hub Daily",
+      "reviews"
+    ],
+    "created_at": "2026-06-26T19:41:48+00:00",
+    "updated_at": "2026-06-26T19:41:48Z"
+  },
+  {
     "id": "0c0639c29e96cc9a73b494de85b91a36",
     "title": "Walter Mosley: “A Novel is Not a Machine”",
     "author": "Walter Mosley",
@@ -40,8 +116,8 @@
       "on writing",
       "reviews"
     ],
-    "created_at": "2026-06-26T09:25:06+00:00",
-    "updated_at": "2026-06-26T09:25:06Z"
+    "created_at": "2026-06-26T19:41:48+00:00",
+    "updated_at": "2026-06-26T19:41:48Z"
   },
   {
     "id": "2458e8666e27bde50999a00361059337",
@@ -92,8 +168,8 @@
       "queer writers",
       "reviews"
     ],
-    "created_at": "2026-06-26T09:25:06+00:00",
-    "updated_at": "2026-06-26T09:25:06Z"
+    "created_at": "2026-06-26T19:41:48+00:00",
+    "updated_at": "2026-06-26T19:41:48Z"
   },
   {
     "id": "038d195313de8f8923bb8c3763f00142",
@@ -134,8 +210,8 @@
       "reviews",
       "the best reviewed books of the month"
     ],
-    "created_at": "2026-06-26T09:25:06+00:00",
-    "updated_at": "2026-06-26T09:25:06Z"
+    "created_at": "2026-06-26T19:41:48+00:00",
+    "updated_at": "2026-06-26T19:41:48Z"
   },
   {
     "id": "9fdf10bce5bfd46f5611af5d7bf3bdd3",
@@ -185,8 +261,8 @@
       "poetry",
       "reviews"
     ],
-    "created_at": "2026-06-26T09:25:06+00:00",
-    "updated_at": "2026-06-26T09:25:06Z"
+    "created_at": "2026-06-26T19:41:48+00:00",
+    "updated_at": "2026-06-26T19:41:48Z"
   },
   {
     "id": "21b81115a435061deb1c1171a5bf3cc5",
@@ -261,8 +337,8 @@
       "reading list",
       "reviews"
     ],
-    "created_at": "2026-06-26T09:25:06+00:00",
-    "updated_at": "2026-06-26T09:25:06Z"
+    "created_at": "2026-06-26T19:41:48+00:00",
+    "updated_at": "2026-06-26T19:41:48Z"
   },
   {
     "id": "c71990cb0cf1fe6c76e9c3189e722397",
@@ -323,298 +399,131 @@
       "defacing the monument",
       "reviews"
     ],
-    "created_at": "2026-06-26T09:25:06+00:00",
-    "updated_at": "2026-06-26T09:25:06Z"
+    "created_at": "2026-06-26T19:41:48+00:00",
+    "updated_at": "2026-06-26T19:41:48Z"
   },
   {
-    "id": "b383e3981c5f3ca0af16be5e51aa566b",
-    "title": "The American Library Association is auctioning off some primo vintage READ posters.",
-    "author": "Brittany Allen",
-    "description": "This summer, the American Library Association is auctioning off a rare cache of its iconic READ posters to commemorate the org’s 150th year of doing business. Thanks to a partnership with Heritage Auctions, the largest collections auctioneer in the world,",
+    "id": "ec6a94a14974a4cb2e5d09b23815f3d8",
+    "title": "Book Riot’s Deals of the Day for June 26, 2026",
+    "author": "Deals",
+    "description": "A final mega batch of deals for the week, from historical fiction about the Harlem Renaissance to the OG of dark academia, and more",
     "summary_ai": "",
     "categories": [
-      "Ala",
-      "Art And Photography",
-      "Auction",
-      "Bookstores And Libraries",
-      "Buffy",
-      "Campaign",
-      "Coolio",
-      "Events",
-      "Film And Tv",
-      "History",
-      "Humor",
-      "Library",
-      "Narnia",
-      "News And Culture",
-      "Patrick Stewart",
-      "Posters",
-      "Read",
-      "Reviews",
-      "Siddhartha",
-      "Spike Lee",
-      "Style",
-      "The Hub",
-      "Vintage",
-      "Walter Rodney"
+      "Book Deals",
+      "Reviews"
     ],
     "genre": [
-      "Business"
+      "Fiction"
     ],
-    "language": "English",
-    "publisher": "Vintage",
-    "published_date": "2026-06-25",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/Untitled-design-11-768x384.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/Untitled-design-11-768x384.png",
-    "article_url": "https://lithub.com/the-american-library-association-is-auctioning-off-some-primo-vintage-read-posters/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "ALA",
-      "Art and Photography",
-      "Bookstores and Libraries",
-      "Buffy",
-      "Coolio",
-      "Events",
-      "Film and TV",
-      "History",
-      "Humor",
-      "Library",
-      "Narnia",
-      "News and Culture",
-      "READ",
-      "Siddhartha",
-      "Spike Lee",
-      "Style",
-      "The Hub",
-      "Vintage",
-      "Walter Rodney",
-      "auction",
-      "campaign",
-      "patrick stewart",
-      "posters",
-      "reviews"
-    ],
-    "created_at": "2026-06-26T09:25:06+00:00",
-    "updated_at": "2026-06-26T09:25:06Z"
-  },
-  {
-    "id": "d7f17359ff8f2f129060930d66c7818b",
-    "title": "Three key takeaways from the new Sense and Sensibility trailer.",
-    "author": "Brittany Allen",
-    "description": "Attention, Austen hive! We have an official release timeline for Georgia Oakley’s buzzy new Sense and Sensibility. This October, we’re riding again for the Dashwood sisters. Gather up ye petticoats and horses accordingly. The first major adaptation of the novel",
-    "summary_ai": "",
-    "categories": [
-      "Ang Lee",
-      "Book News",
-      "Daisy Edgar-Jones",
-      "Elinor Dashwood",
-      "Events",
-      "Film And Tv",
-      "Jane Austen",
-      "Joe Wright",
-      "Literary Adaptation",
-      "News And Culture",
-      "Pride And Prejudice",
-      "Reviews",
-      "Sense And Sensibility",
-      "The Hub",
-      "Trailer"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-06-25",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/Untitled-design-10-768x384.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/Untitled-design-10-768x384.png",
-    "article_url": "https://lithub.com/three-key-takeaways-from-the-new-sense-and-sensibility-trailer/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Ang Lee",
-      "Book News",
-      "Daisy Edgar-Jones",
-      "Elinor Dashwood",
-      "Events",
-      "Film and TV",
-      "Jane Austen",
-      "Joe Wright",
-      "News and Culture",
-      "Pride and Prejudice",
-      "Sense and Sensibility",
-      "The Hub",
-      "literary adaptation",
-      "reviews",
-      "trailer"
-    ],
-    "created_at": "2026-06-26T09:25:06+00:00",
-    "updated_at": "2026-06-26T09:25:06Z"
-  },
-  {
-    "id": "986bf8d21a499467b803e8973dfed900",
-    "title": "Book Riot’s Deals of the Day for June 25, 2026",
-    "author": "Deals",
-    "description": "Another double batch of book deals, including epic romantasy about a knight and her mage, a supernatural twist on the Ku Klux Klan, and a bookseller's escape from a haunted library.",
-    "summary_ai": "",
-    "categories": [
-      "Book Deals",
-      "Reviews"
-    ],
-    "genre": [],
     "language": "English",
     "publisher": "Book Riot",
-    "published_date": "2026-06-25",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/02/Curvy-Girl-Summer.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/02/Curvy-Girl-Summer.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-june-25-2026/",
+    "published_date": "2026-06-26",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2024/08/71eY4ouKL9L._SY466_.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2024/08/71eY4ouKL9L._SY466_.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-june-26-2026/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
       "Book Deals",
       "reviews"
     ],
-    "created_at": "2026-06-26T09:25:06+00:00",
-    "updated_at": "2026-06-26T09:25:06Z"
+    "created_at": "2026-06-26T19:41:48+00:00",
+    "updated_at": "2026-06-26T19:41:48Z"
   },
   {
-    "id": "22038898e7a251882ef1e90c561a8d2d",
-    "title": "📚 The damage is done",
+    "id": "9a4625774444f424d945c3eca1fe09dd",
+    "title": "The Most Read Books on Goodreads This Week",
     "author": "Community",
-    "description": "Commonwealth Foundation clears writers accused of AI use",
+    "description": "The most read books on Goodreads this week include hockey romances, a marriage thriller, a summer romance, and more",
     "summary_ai": "",
     "categories": [
-      "Book Riot Newsletter",
+      "Breaking In Books",
+      "News",
       "Reviews"
     ],
-    "genre": [],
+    "genre": [
+      "Romance",
+      "Thriller"
+    ],
     "language": "English",
     "publisher": "Book Riot",
-    "published_date": "2026-06-25",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/campus-common-reads-flagship.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/campus-common-reads-flagship.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/the-damage-is-done/",
+    "published_date": "2026-06-26",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-04-25-at-7.19.55%E2%80%AFPM-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/04/Screenshot-2026-04-25-at-7.19.55%E2%80%AFPM-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/most-read-books-on-goodreads-june-26-2026/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Book Riot Newsletter",
+      "News",
+      "breaking in books",
       "reviews"
     ],
-    "created_at": "2026-06-26T09:25:06+00:00",
-    "updated_at": "2026-06-26T09:25:06Z"
+    "created_at": "2026-06-26T19:41:48+00:00",
+    "updated_at": "2026-06-26T19:41:48Z"
   },
   {
-    "id": "1844cb09eb30b8ecc2c4158de8cab2c0",
-    "title": "The Bestselling Books of the Week, According to All the Lists",
-    "author": "Community",
-    "description": "USA Today, Publishers Weekly, NYT, Amazon, and Indie Booksellers all have their own bestseller lists. Here are the combined results.",
+    "id": "b5f27990c107688f54452c2883582126",
+    "title": "New Horror Books Creeping On To Your Shelves in July 2026",
+    "author": "Emily Martin",
+    "description": "Open up your TBR and prepare for it to get even longer. Here's a look at the horror books releasing in July 2026–and they're good.",
     "summary_ai": "",
     "categories": [
-      "New Books",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-25",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/Braiding-Sweetgrass-Indigenous-Wisdom-Scientific-Knowledge-and-the-Teachings-of-Plants-cover-194x300.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/Braiding-Sweetgrass-Indigenous-Wisdom-Scientific-Knowledge-and-the-Teachings-of-Plants-cover-194x300.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/bestselling-books-june-25-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "New Books",
-      "reviews"
-    ],
-    "created_at": "2026-06-26T09:25:06+00:00",
-    "updated_at": "2026-06-26T09:25:06Z"
-  },
-  {
-    "id": "4a0c642bdb7e022eae14a57947f71b1a",
-    "title": "It’s Later Than You Think: 5 Excellent Near",
-    "author": "Liberty Hardy",
-    "description": "The future is now: enjoy five near-future sci-fi books before they're reality!",
-    "summary_ai": "",
-    "categories": [
+      "Horror",
       "Reviews",
-      "Science Fiction/Fantasy",
-      "Swords And Spaceships"
+      "The Fright Stuff"
     ],
-    "genre": [],
+    "genre": [
+      "Horror"
+    ],
     "language": "English",
     "publisher": "Book Riot",
-    "published_date": "2026-06-25",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2023/02/The-Last-Beekeeper-by-Julie-Carrick-Dalton-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2023/02/The-Last-Beekeeper-by-Julie-Carrick-Dalton-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/near-future-sci-fi-novels/",
+    "published_date": "2026-06-26",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/The-Brides-Charlotte-Cross-cover-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/The-Brides-Charlotte-Cross-cover-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/new-horror-books-july-2026/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Science Fiction/Fantasy",
-      "Swords and Spaceships",
+      "Horror",
+      "The Fright Stuff",
       "reviews"
     ],
-    "created_at": "2026-06-26T09:25:06+00:00",
-    "updated_at": "2026-06-26T09:25:06Z"
+    "created_at": "2026-06-26T19:41:48+00:00",
+    "updated_at": "2026-06-26T19:41:48Z"
   },
   {
-    "id": "da501a5301358d1a72c96cbdcccc47f2",
-    "title": "Books by Latine Authors to Preorder Now (and Other Ways to Support Books and Authors)",
-    "author": "Vanessa Diaz",
-    "description": "Preorder these summer and early fall releases by Latine authors now",
+    "id": "6ea3df461b237e9b1f9771c257314eb7",
+    "title": "How Did Our Heroes Spend America’s Bicentennial?",
+    "author": "Eileen Gonzalez",
+    "description": "Hop into the time machine to see where and how our superheroes celebrated America's 200th anniversary in their 1976 comics.",
     "summary_ai": "",
     "categories": [
-      "Latine Lit",
-      "Reviews"
+      "Comics/Graphic Novels",
+      "Reviews",
+      "The Stack"
     ],
     "genre": [],
     "language": "English",
     "publisher": "Book Riot",
-    "published_date": "2026-06-25",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/The-Summer-of-the-Serpent-Cecilia-Eudave-cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/The-Summer-of-the-Serpent-Cecilia-Eudave-cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/books-by-latine-authors-to-preorder-summer-fall-2026/",
+    "published_date": "2026-06-26",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/Captain-America-200.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/Captain-America-200.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/how-did-our-heroes-spend-americas-bicentennial/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Latine Lit",
+      "Comics/Graphic Novels",
+      "The Stack",
       "reviews"
     ],
-    "created_at": "2026-06-26T09:25:06+00:00",
-    "updated_at": "2026-06-26T09:25:06Z"
+    "created_at": "2026-06-26T19:41:48+00:00",
+    "updated_at": "2026-06-26T19:41:48Z"
   },
   {
-    "id": "4947cbf17b57752ea6c92c8cda88339c",
-    "title": "Smells Like Queer Literary Spirit",
-    "author": "Kelly Jensen",
-    "description": "Perfume may not appear to have anything to do with queer literature, for Aesop, it does.",
-    "summary_ai": "",
-    "categories": [
-      "Lgbtq",
-      "News",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-25",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Aesop-Popup.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Aesop-Popup.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/aesop-queer-library/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "LGBTQ",
-      "News",
-      "reviews"
-    ],
-    "created_at": "2026-06-26T09:25:06+00:00",
-    "updated_at": "2026-06-26T09:25:06Z"
-  },
-  {
-    "id": "1f0de0e8cda93ac7da894fad1d4b92f5",
-    "title": "The Must",
+    "id": "17750c28cc0235f3945c72c564d7f23e",
+    "title": "Essential American Literature, According to PUBLISHERS WEEKLY",
     "author": "S. Zainab Williams",
-    "description": "Watch the full trailer for the newest adaptation of Jane Austen's SENSE AND SENSIBILITY, check out the BookTok summer reading list, and more.",
+    "description": "Publishers Weekly picks 15 essential works of American literature, Barnes & Noble announces this year's Discover Prize winner, and more.",
     "summary_ai": "",
     "categories": [
       "Reviews",
@@ -623,17 +532,43 @@
     "genre": [],
     "language": "English",
     "publisher": "Book Riot",
-    "published_date": "2026-06-25",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/sense-and-sensibility-teaser-poster-feature-image.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/sense-and-sensibility-teaser-poster-feature-image.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/sense-and-sensibility-trailer/",
+    "published_date": "2026-06-26",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2021/06/book-stacks.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2021/06/book-stacks.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/essential-american-literature/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-26T09:25:06+00:00",
-    "updated_at": "2026-06-26T09:25:06Z"
+    "created_at": "2026-06-26T19:41:48+00:00",
+    "updated_at": "2026-06-26T19:41:48Z"
+  },
+  {
+    "id": "c19dd0cca8913011623876d792126d9b",
+    "title": "The Best Debut Novel of 2026",
+    "author": "Rebecca Joines Schinsky",
+    "description": "The winner of Barnes & Noble's 2026 Discover Prize",
+    "summary_ai": "",
+    "categories": [
+      "News",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-26",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/seek-immediate-shelter.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/seek-immediate-shelter.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/barnes-and-noble-discover-prize-2026-seek-immediate-shelter/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "News",
+      "reviews"
+    ],
+    "created_at": "2026-06-26T19:41:48+00:00",
+    "updated_at": "2026-06-26T19:41:48Z"
   }
 ]
