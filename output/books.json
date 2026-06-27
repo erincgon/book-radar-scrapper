@@ -1,5 +1,46 @@
 [
   {
+    "id": "428e822296be2b9c6d6ef0bef2188eaa",
+    "title": "Dave Eggers: ‘Once you have a machine think and write for you, you’re cooked as a species’",
+    "author": "Sophie McBain",
+    "description": "As his new novel is published, the US author talks about nurturing the next generation of creatives, debating Sam Altman – and why he writes on a boat in San Francisco Bay At Dave Eggers’s suggestion, we’re starting the interview by life drawing together. The novelist dropped out of art school but has been drawing for decades, and his new book is set in the art world. Prudence, our model, stands before us with her palms open, nude but for a pair of black knee-high socks. This, unsurprisingly, is an interview first for me. Eggers shows me how to hold my pencil at arm’s length and use my thumb to measure Prudence’s proportions. Since the pandemic, he’s been organising regular life‐drawing sessions in the book-lined offices of McSweeney’s, the publishing house and literary journal he founded in San Francisco in 1998. He loves the element of chance in figure drawing – you never know which sketch will work out – and believes it helps cultivate empathy. How so, asks Prudence, helpfully interviewing him for me, because I’ve been thrown off my game. “I feel like in three hours of drawing a human, you learn so much about them and there is so much affection that comes from carefully trying...",
+    "summary_ai": "",
+    "categories": [
+      "Ai (Artificial Intelligence)",
+      "Books",
+      "Creative Writing",
+      "Culture",
+      "Dave Eggers",
+      "Education",
+      "Fiction",
+      "Illustration",
+      "Young Adult"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-27",
+    "thumbnail": "https://i.guim.co.uk/img/media/3b9fc4769138d73aa7b244f45bff9447dd9283fb/440_255_2387_1910/master/2387.jpg?width=700&quality=85&auto=format&fit=max&s=607b8b226124ff41b72ec11001438842",
+    "cover_large": "https://i.guim.co.uk/img/media/3b9fc4769138d73aa7b244f45bff9447dd9283fb/440_255_2387_1910/master/2387.jpg?width=700&quality=85&auto=format&fit=max&s=607b8b226124ff41b72ec11001438842",
+    "article_url": "https://www.theguardian.com/books/2026/jun/27/dave-eggers-once-you-have-a-machine-think-and-write-for-you-youre-cooked-as-a-species",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "AI (artificial intelligence)",
+      "Books",
+      "Creative writing",
+      "Culture",
+      "Dave Eggers",
+      "Education",
+      "Fiction",
+      "Illustration",
+      "Young adult",
+      "books"
+    ],
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
+  },
+  {
     "id": "aa6c098c06adf88c3d5b4301a8445e17",
     "title": "John Stockwell, Who Wrote a Tell-All Book About the C.I.A., Dies at 88",
     "author": "Trip Gabriel",
@@ -44,8 +85,8 @@
       "War and Armed Conflicts",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "300a5235944ac2f9950d3b35bb524e81",
@@ -71,8 +112,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "226e413f02cd64f6552c531aac17e287",
@@ -104,8 +145,8 @@
       "Young people",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "32ffa174a93f29d78ffd2c412f59289f",
@@ -135,8 +176,8 @@
       "Life and style",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "6595ebe77ddd141ad91ecb690b46e739",
@@ -168,8 +209,8 @@
       "Young adult",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "c43d1af95615dca6347c60690c639b02",
@@ -203,8 +244,8 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "56f8dce63596ff200f50bd4bf18f6211",
@@ -239,8 +280,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "560effbc7450df3b740c66cbd70f04ad",
@@ -277,8 +318,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "83c6db5191a715036ed4c9a903666dbd",
@@ -311,8 +352,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "f4cb1f15152fcee2fb4852d8daebeed3",
@@ -349,44 +390,8 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
-  },
-  {
-    "id": "14c2da2ae3e8d4ddbb1ac9c95eac02c4",
-    "title": "Whistleblower Sarah Wynn-Williams sues Meta over attempts to ‘silence’ her",
-    "author": "Ella Creamer and Michael Savage",
-    "description": "Former employee files complaint accusing company of ‘coercive surveillance’ and first amendment violation The Meta whistleblower Sarah Wynn-Williams is suing the tech company over its efforts to “silence” her. A 57-page complaint filed to a US district court in California on Thursday argues that an interim arbitration ruling sought by Meta preventing Wynn-Williams from publicising her memoir, Careless People, was “improper and unlawful” and a “blatant violation of the first amendment”. It also accuses the company of “coercive surveillance”. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Facebook",
-      "Meta",
-      "Technology",
-      "Us News",
-      "World News"
-    ],
-    "genre": [
-      "Memoir"
-    ],
-    "language": "English",
-    "publisher": "Katzbanks",
-    "published_date": "2026-06-25",
-    "thumbnail": "https://i.guim.co.uk/img/media/b6ef597f5bd546ee5734935e21bd071c8b6a4701/1387_0_6933_5547/master/6933.jpg?width=700&quality=85&auto=format&fit=max&s=2c7a0cc989aa74d2d84d48e9504717d2",
-    "cover_large": "https://i.guim.co.uk/img/media/b6ef597f5bd546ee5734935e21bd071c8b6a4701/1387_0_6933_5547/master/6933.jpg?width=700&quality=85&auto=format&fit=max&s=2c7a0cc989aa74d2d84d48e9504717d2",
-    "article_url": "https://katzbanks.com/wp-content/uploads/SWW-Complaint.pdf",
-    "source": "Katzbanks",
-    "source_type": "rss",
-    "tags": [
-      "Facebook",
-      "Meta",
-      "Technology",
-      "US news",
-      "World news",
-      "books"
-    ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "83c9ceb73b7b9fe91ad3e1144766bc50",
@@ -427,8 +432,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "583fe7dff53738150e9e082fa62c528c",
@@ -459,8 +464,8 @@
       "books",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "08d69ba76404444ba95f33944af39e5b",
@@ -499,8 +504,8 @@
       "Rockaway Beach (Queens, NY)",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "a5da7a5431352db994e7ab18761aa4f4",
@@ -530,8 +535,8 @@
       "True crime books",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "46685c55e6a2375749c52ca387716ce7",
@@ -559,8 +564,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "8241960d3e3db79bf6d9b81fd124c9f9",
@@ -605,8 +610,8 @@
       "Voice and Speech",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "4d0133681ee8dc791c6caa680031c967",
@@ -629,8 +634,8 @@
     "language": "English",
     "publisher": "The New York Times",
     "published_date": "2026-06-23",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/23/multimedia/23cul-LIBRARY-SEX-gvtc/23cul-LIBRARY-SEX-gvtc-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/23/multimedia/23cul-LIBRARY-SEX-gvtc/23cul-LIBRARY-SEX-gvtc-mediumSquareAt3X.jpg",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/23/multimedia/23cul-LIBRARY-SEX-hp/23cul-LIBRARY-SEX-gvtc-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/23/multimedia/23cul-LIBRARY-SEX-hp/23cul-LIBRARY-SEX-gvtc-mediumSquareAt3X.jpg",
     "article_url": "https://www.nytimes.com/2026/06/23/arts/rare-books-sex-library-benjamin-franklin.html",
     "source": "The New York Times",
     "source_type": "rss",
@@ -645,8 +650,8 @@
       "Sex",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "feb324ad590f7576779b3f5708068eae",
@@ -678,8 +683,8 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "e5c40ef2bc9d6b4a4ba2887fc4a3448b",
@@ -712,8 +717,8 @@
       "The Emergency Playbook: A Bunker-Free Guide to Disaster Preparation (Book)",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "6c0384d1ca7571d392bfdb539e0a6150",
@@ -747,8 +752,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "77e4eea59383d117d0faa9c9521680dd",
@@ -785,8 +790,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "6172d732e78888628506de6587df16b7",
@@ -825,8 +830,8 @@
       "Pop and Rock Music",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "677e85054cc18091e57a102270060e7c",
@@ -875,8 +880,8 @@
       "books",
       "internal-open-access-audio"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "867734b7487c124448e68db2b6f3aebb",
@@ -906,8 +911,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "0de47d5039ae63ef8405d47c6646d284",
@@ -943,8 +948,8 @@
       "Paperbacks",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "cd29f8375e271820c02627200e68f1d2",
@@ -976,8 +981,8 @@
       "Michael Ondaatje",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -1007,8 +1012,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1047,8 +1052,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   },
   {
     "id": "755ba738881478773c8491c271f5d902",
@@ -1075,7 +1080,7 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-06-26T19:41:48+00:00",
-    "updated_at": "2026-06-26T19:41:48Z"
+    "created_at": "2026-06-27T08:35:10+00:00",
+    "updated_at": "2026-06-27T08:35:10Z"
   }
 ]
