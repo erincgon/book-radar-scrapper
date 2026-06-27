@@ -1,5 +1,83 @@
 [
   {
+    "id": "63917ebcb362d4275a0a1fcbe9b83570",
+    "title": "Tony Brown, Host of Public Affairs Show Aimed at Black Audiences, Dies at 93",
+    "author": "Joseph Berger",
+    "description": "On “Tony Brown’s Journal,” he interviewed guests like Jesse Jackson and Lena Horne, and made programming decisions by asking himself, “Will it help Black people?”",
+    "summary_ai": "",
+    "categories": [
+      "Black Journal (Tv Program)",
+      "Black People",
+      "Books",
+      "Brown, Tony",
+      "Deaths (Obituaries)",
+      "Public Broadcasting",
+      "Television",
+      "Tony Browns Journal (Tv Program)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-27",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/27/multimedia/27brown_tony-bklj/27brown_tony-bklj-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/27/multimedia/27brown_tony-bklj/27brown_tony-bklj-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/27/arts/television/tony-brown-dead.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Black Journal (TV Program)",
+      "Black People",
+      "Brown, Tony",
+      "Deaths (Obituaries)",
+      "Public Broadcasting",
+      "Television",
+      "Tony Browns Journal (TV Program)",
+      "books"
+    ],
+    "created_at": "2026-06-27T19:14:13+00:00",
+    "updated_at": "2026-06-27T19:14:13Z"
+  },
+  {
+    "id": "61bf728bd0dc96ce3d20a929184b8224",
+    "title": "Book Review: ‘The Yahoo Boys,’ by Carlos Barragán",
+    "author": "Nicolas Niarchos",
+    "description": "A new book examines the desperate lives of Nigeria’s romance scam artists — and their victims.",
+    "summary_ai": "",
+    "categories": [
+      "Barragan, Carlos",
+      "Books",
+      "Books And Literature",
+      "Computers And The Internet",
+      "Frauds And Swindling",
+      "Human Trafficking",
+      "Lagos (Nigeria)",
+      "The Yahoo Boys"
+    ],
+    "genre": [
+      "Romance"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-27",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/12/books/12TBR-Barragan-review/15TBR-Barragan-review-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/12/books/12TBR-Barragan-review/15TBR-Barragan-review-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/27/books/review/the-yahoo-boys-carlos-barragan.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Barragan, Carlos",
+      "Books and Literature",
+      "Computers and the Internet",
+      "Frauds and Swindling",
+      "Human Trafficking",
+      "Lagos (Nigeria)",
+      "The Yahoo Boys",
+      "books"
+    ],
+    "created_at": "2026-06-27T19:14:13+00:00",
+    "updated_at": "2026-06-27T19:14:13Z"
+  },
+  {
     "id": "428e822296be2b9c6d6ef0bef2188eaa",
     "title": "Dave Eggers: ‘Once you have a machine think and write for you, you’re cooked as a species’",
     "author": "Sophie McBain",
@@ -37,8 +115,8 @@
       "Young adult",
       "books"
     ],
-    "created_at": "2026-06-27T08:35:10+00:00",
-    "updated_at": "2026-06-27T08:35:10Z"
+    "created_at": "2026-06-27T19:14:13+00:00",
+    "updated_at": "2026-06-27T19:14:13Z"
   },
   {
     "id": "aa6c098c06adf88c3d5b4301a8445e17",
@@ -85,8 +163,8 @@
       "War and Armed Conflicts",
       "books"
     ],
-    "created_at": "2026-06-27T08:35:10+00:00",
-    "updated_at": "2026-06-27T08:35:10Z"
+    "created_at": "2026-06-27T19:14:13+00:00",
+    "updated_at": "2026-06-27T19:14:13Z"
   },
   {
     "id": "300a5235944ac2f9950d3b35bb524e81",
@@ -112,8 +190,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-27T08:35:10+00:00",
-    "updated_at": "2026-06-27T08:35:10Z"
+    "created_at": "2026-06-27T19:14:13+00:00",
+    "updated_at": "2026-06-27T19:14:13Z"
   },
   {
     "id": "226e413f02cd64f6552c531aac17e287",
@@ -145,8 +223,8 @@
       "Young people",
       "books"
     ],
-    "created_at": "2026-06-27T08:35:10+00:00",
-    "updated_at": "2026-06-27T08:35:10Z"
+    "created_at": "2026-06-27T19:14:13+00:00",
+    "updated_at": "2026-06-27T19:14:13Z"
   },
   {
     "id": "32ffa174a93f29d78ffd2c412f59289f",
@@ -176,8 +254,8 @@
       "Life and style",
       "books"
     ],
-    "created_at": "2026-06-27T08:35:10+00:00",
-    "updated_at": "2026-06-27T08:35:10Z"
+    "created_at": "2026-06-27T19:14:13+00:00",
+    "updated_at": "2026-06-27T19:14:13Z"
   },
   {
     "id": "6595ebe77ddd141ad91ecb690b46e739",
@@ -209,8 +287,8 @@
       "Young adult",
       "books"
     ],
-    "created_at": "2026-06-27T08:35:10+00:00",
-    "updated_at": "2026-06-27T08:35:10Z"
+    "created_at": "2026-06-27T19:14:13+00:00",
+    "updated_at": "2026-06-27T19:14:13Z"
   },
   {
     "id": "c43d1af95615dca6347c60690c639b02",
@@ -244,8 +322,60 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-06-27T08:35:10+00:00",
-    "updated_at": "2026-06-27T08:35:10Z"
+    "created_at": "2026-06-27T19:14:13+00:00",
+    "updated_at": "2026-06-27T19:14:13Z"
+  },
+  {
+    "id": "17750c28cc0235f3945c72c564d7f23e",
+    "title": "Essential American Literature, According to PUBLISHERS WEEKLY",
+    "author": "S. Zainab Williams",
+    "description": "Publishers Weekly picks 15 essential works of American literature, Barnes & Noble announces this year's Discover Prize winner, and more.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Today In Books"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-26",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2021/06/book-stacks.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2021/06/book-stacks.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/essential-american-literature/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Today in Books",
+      "reviews"
+    ],
+    "created_at": "2026-06-27T19:14:13+00:00",
+    "updated_at": "2026-06-27T19:14:13Z"
+  },
+  {
+    "id": "c19dd0cca8913011623876d792126d9b",
+    "title": "The Best Debut Novel of 2026",
+    "author": "Rebecca Joines Schinsky",
+    "description": "The winner of Barnes & Noble's 2026 Discover Prize",
+    "summary_ai": "",
+    "categories": [
+      "News",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-26",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/seek-immediate-shelter.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/seek-immediate-shelter.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/barnes-and-noble-discover-prize-2026-seek-immediate-shelter/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "News",
+      "reviews"
+    ],
+    "created_at": "2026-06-27T19:14:13+00:00",
+    "updated_at": "2026-06-27T19:14:13Z"
   },
   {
     "id": "788b565003ac19298ea87742cccd7805",
@@ -278,8 +408,8 @@
       "News",
       "reviews"
     ],
-    "created_at": "2026-06-27T08:35:10+00:00",
-    "updated_at": "2026-06-27T08:35:10Z"
+    "created_at": "2026-06-27T19:14:13+00:00",
+    "updated_at": "2026-06-27T19:14:13Z"
   },
   {
     "id": "c2251914c760e50d2dc81f584eba7533",
@@ -306,8 +436,8 @@
       "Libraries",
       "reviews"
     ],
-    "created_at": "2026-06-27T08:35:10+00:00",
-    "updated_at": "2026-06-27T08:35:10Z"
+    "created_at": "2026-06-27T19:14:13+00:00",
+    "updated_at": "2026-06-27T19:14:13Z"
   },
   {
     "id": "56f8dce63596ff200f50bd4bf18f6211",
@@ -342,8 +472,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-27T08:35:10+00:00",
-    "updated_at": "2026-06-27T08:35:10Z"
+    "created_at": "2026-06-27T19:14:13+00:00",
+    "updated_at": "2026-06-27T19:14:13Z"
   },
   {
     "id": "560effbc7450df3b740c66cbd70f04ad",
@@ -380,8 +510,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-27T08:35:10+00:00",
-    "updated_at": "2026-06-27T08:35:10Z"
+    "created_at": "2026-06-27T19:14:13+00:00",
+    "updated_at": "2026-06-27T19:14:13Z"
   },
   {
     "id": "83c6db5191a715036ed4c9a903666dbd",
@@ -414,8 +544,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-27T08:35:10+00:00",
-    "updated_at": "2026-06-27T08:35:10Z"
+    "created_at": "2026-06-27T19:14:13+00:00",
+    "updated_at": "2026-06-27T19:14:13Z"
   },
   {
     "id": "f4cb1f15152fcee2fb4852d8daebeed3",
@@ -452,108 +582,8 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-06-27T08:35:10+00:00",
-    "updated_at": "2026-06-27T08:35:10Z"
-  },
-  {
-    "id": "b383e3981c5f3ca0af16be5e51aa566b",
-    "title": "The American Library Association is auctioning off some primo vintage READ posters.",
-    "author": "Brittany Allen",
-    "description": "This summer, the American Library Association is auctioning off a rare cache of its iconic READ posters to commemorate the org’s 150th year of doing business. Thanks to a partnership with Heritage Auctions, the largest collections auctioneer in the world,",
-    "summary_ai": "",
-    "categories": [
-      "Ala",
-      "Art And Photography",
-      "Auction",
-      "Bookstores And Libraries",
-      "Buffy",
-      "Campaign",
-      "Coolio",
-      "Events",
-      "Film And Tv",
-      "History",
-      "Humor",
-      "Library",
-      "Narnia",
-      "News And Culture",
-      "Patrick Stewart",
-      "Posters",
-      "Read",
-      "Reviews",
-      "Siddhartha",
-      "Spike Lee",
-      "Style",
-      "The Hub",
-      "Vintage",
-      "Walter Rodney"
-    ],
-    "genre": [
-      "Business"
-    ],
-    "language": "English",
-    "publisher": "Vintage",
-    "published_date": "2026-06-25",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/Untitled-design-11-768x384.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/Untitled-design-11-768x384.png",
-    "article_url": "https://lithub.com/the-american-library-association-is-auctioning-off-some-primo-vintage-read-posters/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "ALA",
-      "Art and Photography",
-      "Bookstores and Libraries",
-      "Buffy",
-      "Coolio",
-      "Events",
-      "Film and TV",
-      "History",
-      "Humor",
-      "Library",
-      "Narnia",
-      "News and Culture",
-      "READ",
-      "Siddhartha",
-      "Spike Lee",
-      "Style",
-      "The Hub",
-      "Vintage",
-      "Walter Rodney",
-      "auction",
-      "campaign",
-      "patrick stewart",
-      "posters",
-      "reviews"
-    ],
-    "created_at": "2026-06-27T08:35:10+00:00",
-    "updated_at": "2026-06-27T08:35:10Z"
-  },
-  {
-    "id": "4947cbf17b57752ea6c92c8cda88339c",
-    "title": "Smells Like Queer Literary Spirit",
-    "author": "Kelly Jensen",
-    "description": "Perfume may not appear to have anything to do with queer literature, for Aesop, it does.",
-    "summary_ai": "",
-    "categories": [
-      "Lgbtq",
-      "News",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-25",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Aesop-Popup.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Aesop-Popup.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/aesop-queer-library/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "LGBTQ",
-      "News",
-      "reviews"
-    ],
-    "created_at": "2026-06-27T08:35:10+00:00",
-    "updated_at": "2026-06-27T08:35:10Z"
+    "created_at": "2026-06-27T19:14:13+00:00",
+    "updated_at": "2026-06-27T19:14:13Z"
   },
   {
     "id": "83c9ceb73b7b9fe91ad3e1144766bc50",
@@ -594,8 +624,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-27T08:35:10+00:00",
-    "updated_at": "2026-06-27T08:35:10Z"
+    "created_at": "2026-06-27T19:14:13+00:00",
+    "updated_at": "2026-06-27T19:14:13Z"
   },
   {
     "id": "583fe7dff53738150e9e082fa62c528c",
@@ -626,48 +656,8 @@
       "books",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-06-27T08:35:10+00:00",
-    "updated_at": "2026-06-27T08:35:10Z"
-  },
-  {
-    "id": "08d69ba76404444ba95f33944af39e5b",
-    "title": "A Tenacious Lifeguard Still Swims Against the Tide",
-    "author": "Elisabeth Egan",
-    "description": "Janet Fash was always outspoken when it came to keeping beachgoers safe. She lays it all out in her feisty new memoir.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Content Type: Personal Profile",
-      "Fash, Janet",
-      "Lifeguard: A Love Story (Book)",
-      "Lifeguards",
-      "Parks And Recreation Department (Nyc)",
-      "Rockaway Beach (Queens, Ny)"
-    ],
-    "genre": [
-      "Memoir"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-24",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/21/multimedia/21tbr-janet-fash-cmwk/21tbr-janet-fash-cmwk-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/21/multimedia/21tbr-janet-fash-cmwk/21tbr-janet-fash-cmwk-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/21/books/review/lifeguard-janet-fash-memoir.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Content Type: Personal Profile",
-      "Fash, Janet",
-      "Lifeguard: A Love Story (Book)",
-      "Lifeguards",
-      "Parks and Recreation Department (NYC)",
-      "Rockaway Beach (Queens, NY)",
-      "books"
-    ],
-    "created_at": "2026-06-27T08:35:10+00:00",
-    "updated_at": "2026-06-27T08:35:10Z"
+    "created_at": "2026-06-27T19:14:13+00:00",
+    "updated_at": "2026-06-27T19:14:13Z"
   },
   {
     "id": "a5da7a5431352db994e7ab18761aa4f4",
@@ -697,36 +687,7 @@
       "True crime books",
       "books"
     ],
-    "created_at": "2026-06-27T08:35:10+00:00",
-    "updated_at": "2026-06-27T08:35:10Z"
-  },
-  {
-    "id": "46685c55e6a2375749c52ca387716ce7",
-    "title": "Kin by Tayari Jones review",
-    "author": "Sana Goyal",
-    "description": "Two friends, united by their missing mothers, come of age in segregation-era America, in a cautionary tale about the limits of love Annie and Vernice (or Niecy, as Annie calls her) are “cradle friends”, brought up in their home town of Honeysuckle, Louisiana, in 1950s America. The protagonists are defined by their motherlessness and their diverging drives to escape their individual tragedies and pre-written destinies. In this haunting novel of motherhood and sisterhood, Tayari Jones writes into unknowability – how far we can know another person, or indeed oneself. The pair, who speak in alternating chapters, are “not the same, but still the same”. Each is tended to by mother figures – grandmothers, aunts – and gives meaning to each other’s lonely, questioning existence: “When you don’t have your mother, you don’t really know who you are.” Annie’s mother has abandoned her but is apparently alive in Memphis, and she makes it her obsession to reconcile with her; Niecy’s, on the other hand, is lost for ever, murdered by Niecy’s father. Where the former is holding out hope, the latter has none; and herein lies the fork in their futures. While Niecy chooses the sensible, stable life...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-24",
-    "thumbnail": "https://i.guim.co.uk/img/media/f5b2b3bf2e1bb2b03e03c695f31afd8aad7bb206/560_21_3979_3185/master/3979.jpg?width=700&quality=85&auto=format&fit=max&s=b96b6a50b51fd9e768d1a8d0cfa78176",
-    "cover_large": "https://i.guim.co.uk/img/media/f5b2b3bf2e1bb2b03e03c695f31afd8aad7bb206/560_21_3979_3185/master/3979.jpg?width=700&quality=85&auto=format&fit=max&s=b96b6a50b51fd9e768d1a8d0cfa78176",
-    "article_url": "https://www.theguardian.com/books/2026/jun/24/kin-by-tayari-jones-review-a-haunting-tale-of-motherlessness",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-06-27T08:35:10+00:00",
-    "updated_at": "2026-06-27T08:35:10Z"
+    "created_at": "2026-06-27T19:14:13+00:00",
+    "updated_at": "2026-06-27T19:14:13Z"
   }
 ]
