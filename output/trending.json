@@ -1,5 +1,132 @@
 [
   {
+    "id": "f1fb870fa44b940ef024e5c3c54c44f1",
+    "title": "Terrific New Mystery Books",
+    "author": "Sarah Weinman",
+    "description": "Sarah Weinman on “Heather,” by Caitlin Mullen, and three more new books.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Genre-Books-Mystery",
+      "Mullen, Caitlin"
+    ],
+    "genre": [
+      "Mystery"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-28",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/24/books/24TBR-Mysteries-JUNE/24TBR-Mysteries-JUNE-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/24/books/24TBR-Mysteries-JUNE/24TBR-Mysteries-JUNE-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/28/books/review/new-mystery-books.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Mullen, Caitlin",
+      "books",
+      "genre-books-mystery"
+    ],
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
+  },
+  {
+    "id": "ce1750c8261b7abb11ac66a7f00e3f90",
+    "title": "What if doing more isn’t always the answer?",
+    "author": "Amanda Montell",
+    "description": "It’s tempting to treat overwhelm with clever fixes – but that might be part of the problem According to my Instagram feed, I am not doing enough. Not spending enough, not saying enough, not taking enough care. I feel more sure of this than anything. And it’s bringing out an irrationality I’m not proud of: one afternoon, in between screengrabs of masked men snatching civilians from their homes, videos of wellness influencers evangelising “anti-trauma” hip stretches, and carousels of political action items disguised as catchy memes, I am served a targeted ad for a “Don’t Talk to Me About AI or I’ll Kill Myself” crochet pattern; and even though I have never crocheted anything in my life, I find myself looking up the materials to get started ... on Etsy to avoid supporting any big, Maga-oriented corporations. It’s overwhelming, this general pressure, palpable not only on social media but throughout the larger culture: today’s most urgent issues, from technological end times to tight hips, can only be solved by squeezing as much into the day as humanly possible. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Health, Mind And Body Books",
+      "Psychology"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-28",
+    "thumbnail": "https://i.guim.co.uk/img/media/a08f7eb1acf322932d265c8cb5f778aa464b3095/0_352_1847_1477/master/1847.jpg?width=700&quality=85&auto=format&fit=max&s=08adee85623ce3fd19f40dd26ccdab86",
+    "cover_large": "https://i.guim.co.uk/img/media/a08f7eb1acf322932d265c8cb5f778aa464b3095/0_352_1847_1477/master/1847.jpg?width=700&quality=85&auto=format&fit=max&s=08adee85623ce3fd19f40dd26ccdab86",
+    "article_url": "https://www.theguardian.com/science/2026/jun/28/what-if-doing-more-isnt-always-the-answer",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Health, mind and body books",
+      "Psychology",
+      "books"
+    ],
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
+  },
+  {
+    "id": "3ccd6637757bc1a0e7ffea6b6a3cfa3b",
+    "title": "Home is where the art is: the rise of the epic domestic novel",
+    "author": "Lisa Owens",
+    "description": "Writing about home life doesn’t have to be humdrum argues the author of Natural Disaster – just look at world-spanning, taboo-shattering works such as Ducks, Newburyport and All Fours ‘There’s no place like home,” Dorothy declares at the end of The Wizard of Oz, as she departs the dazzling Emerald City for Aunt Em’s Kansas farmhouse. It’s a powerful metaphor for the way the domestic sphere is often portrayed in art: action, adventure and drama happen “out there” in glorious Technicolor, with the home rendered by contrast in sober sepia tones. Home may be the place we ultimately yearn for, but only once we have left it behind. While working on my second novel, Natural Disaster, I was periodically plagued by the potential pitfalls of putting domestic life front and centre. The story takes place over 24 hours, following a woman who plans to spend her final day of maternity leave having a nice time with her two small boys (spoiler: it doesn’t go to plan). Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Elizabeth Jane Howard",
+      "Fiction",
+      "Lucy Ellmann",
+      "Miranda July",
+      "Rachel Cusk"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-28",
+    "thumbnail": "https://i.guim.co.uk/img/media/c7e620b20dc61d712e21ff681a0d2f571510ceb6/13_91_3836_3069/master/3836.jpg?width=700&quality=85&auto=format&fit=max&s=5905e787b42026c0097909beb187eacf",
+    "cover_large": "https://i.guim.co.uk/img/media/c7e620b20dc61d712e21ff681a0d2f571510ceb6/13_91_3836_3069/master/3836.jpg?width=700&quality=85&auto=format&fit=max&s=5905e787b42026c0097909beb187eacf",
+    "article_url": "https://www.theguardian.com/books/2026/jun/28/home-is-where-the-art-is-the-rise-of-the-epic-domestic-novel",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Elizabeth Jane Howard",
+      "Fiction",
+      "Lucy Ellmann",
+      "Miranda July",
+      "Rachel Cusk",
+      "books"
+    ],
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
+  },
+  {
+    "id": "9fceec8217af54c2c0caff16745f3f28",
+    "title": "Tom Gauld on presenting cover designs for highbrow literary novels",
+    "author": "Guardian Staff",
+    "description": "Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-28",
+    "thumbnail": "https://i.guim.co.uk/img/media/a973adbdd9d333bec64716450f1cf90f7ba2837a/160_1451_772_618/master/772.png?width=700&quality=85&auto=format&fit=max&s=5dbed04aa06bd845c448ace66ff2e9ea",
+    "cover_large": "https://i.guim.co.uk/img/media/a973adbdd9d333bec64716450f1cf90f7ba2837a/160_1451_772_618/master/772.png?width=700&quality=85&auto=format&fit=max&s=5dbed04aa06bd845c448ace66ff2e9ea",
+    "article_url": "https://www.theguardian.com/books/picture/2026/jun/28/tom-gauld-on-presenting-cover-designs-for-highbrow-literary-novels-cartoon",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "books"
+    ],
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
+  },
+  {
     "id": "63917ebcb362d4275a0a1fcbe9b83570",
     "title": "Tony Brown, Host of Public Affairs Show Aimed at Black Audiences, Dies at 93",
     "author": "Joseph Berger",
@@ -9,7 +136,7 @@
       "Black Journal (Tv Program)",
       "Black People",
       "Books",
-      "Brown, Tony",
+      "Brown, Tony (1933-2026)",
       "Deaths (Obituaries)",
       "Public Broadcasting",
       "Television",
@@ -27,15 +154,15 @@
     "tags": [
       "Black Journal (TV Program)",
       "Black People",
-      "Brown, Tony",
+      "Brown, Tony (1933-2026)",
       "Deaths (Obituaries)",
       "Public Broadcasting",
       "Television",
       "Tony Browns Journal (TV Program)",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "61bf728bd0dc96ce3d20a929184b8224",
@@ -49,9 +176,9 @@
       "Books And Literature",
       "Computers And The Internet",
       "Frauds And Swindling",
-      "Human Trafficking",
       "Lagos (Nigeria)",
-      "The Yahoo Boys"
+      "Loneliness",
+      "The Yahoo Boys: Love, Deception, And The Real Lives Of Nigeria'S Romance Scammers (Book)"
     ],
     "genre": [
       "Romance"
@@ -69,13 +196,13 @@
       "Books and Literature",
       "Computers and the Internet",
       "Frauds and Swindling",
-      "Human Trafficking",
       "Lagos (Nigeria)",
-      "The Yahoo Boys",
+      "Loneliness",
+      "The Yahoo Boys: Love, Deception, and the Real Lives of Nigeria's Romance Scammers (Book)",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "428e822296be2b9c6d6ef0bef2188eaa",
@@ -115,8 +242,8 @@
       "Young adult",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "aa6c098c06adf88c3d5b4301a8445e17",
@@ -163,8 +290,8 @@
       "War and Armed Conflicts",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "300a5235944ac2f9950d3b35bb524e81",
@@ -190,8 +317,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "226e413f02cd64f6552c531aac17e287",
@@ -223,8 +350,8 @@
       "Young people",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "32ffa174a93f29d78ffd2c412f59289f",
@@ -254,76 +381,8 @@
       "Life and style",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
-  },
-  {
-    "id": "6595ebe77ddd141ad91ecb690b46e739",
-    "title": "Children and teens roundup",
-    "author": "Imogen Russell Williams",
-    "description": "A mouse detective; a fresh take on the Odyssey; a dangerous wish; and the world’s most watched reality TV show My Dad Can by Stephen Lightbown, illustrated by Claire Sahara Lemp, Quarto, £7.99 Iris’s dad can turn into dinosaurs, unicorns, anything she imagines – though some people see Dad’s wheelchair and believe he can’t do anything. This soft-smudged, colourful picture book celebrates the playfulness and creativity of parenthood. The Fluffy Futon by Yuichi Kasano, translated by Cathy Hirano, Gecko, £12.99 When Grandma spreads a futon on the sunny porch to air, it’s so fluffy that kittycat, Grandma, hen, chicks and the whole household join each other for a nap in this delightful picture book, perfect for enjoying at bedtime. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Children And Teenagers",
-      "Culture",
-      "Young Adult"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "Guardianbookshop",
-    "published_date": "2026-06-26",
-    "thumbnail": "https://i.guim.co.uk/img/media/fe13c09f81810e914f9c593e913867de5008e31f/6_177_757_606/master/757.jpg?width=700&quality=85&auto=format&fit=max&s=8d13d795062d9be9521485b96c0d0848",
-    "cover_large": "https://i.guim.co.uk/img/media/fe13c09f81810e914f9c593e913867de5008e31f/6_177_757_606/master/757.jpg?width=700&quality=85&auto=format&fit=max&s=8d13d795062d9be9521485b96c0d0848",
-    "article_url": "https://guardianbookshop.com/my-dad-can-9781836008835/?amp%3Butm_medium=merch&amp%3Butm_campaign=article",
-    "source": "Guardianbookshop",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Children and teenagers",
-      "Culture",
-      "Young adult",
-      "books"
-    ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
-  },
-  {
-    "id": "c43d1af95615dca6347c60690c639b02",
-    "title": "Dangerous, Dirty, Violent & Young by Zayd Ayers Dohrn review",
-    "author": "Peter Carty",
-    "description": "The son of fugitive leaders of the militant Weather Underground recounts his chaotic, peripatetic upbringing Every aspect of a family’s life will seem normal to the small children within it; only hindsight can bring what was abnormal into relief. Zayd Ayers Dohrn’s earliest years were spent on the run from the FBI; his parents were members of the revolutionary Weather Underground faction, a group dedicated to the overthrow of the US government. By the age of three he had been coached by his parents on how to recognise plainclothes officers on the street. “It was a bit like playing a game – a grownup version of dress-up or make-believe,” he recalls. He has fond memories of long night-time drives between safehouses. As well as fellow revolutionaries, his family encountered gangsters, IRA members and abortion activists, along with countless undocumented migrant workers. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Activism",
-      "Autobiography And Memoir",
-      "Books",
-      "Culture",
-      "Politics Books"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-26",
-    "thumbnail": "https://i.guim.co.uk/img/media/d6434a458a1fc4868778bf6552efc9c0890953ca/59_0_561_449/master/561.jpg?width=700&quality=85&auto=format&fit=max&s=f918b7d43b43885d75d2108cfbb6be2e",
-    "cover_large": "https://i.guim.co.uk/img/media/d6434a458a1fc4868778bf6552efc9c0890953ca/59_0_561_449/master/561.jpg?width=700&quality=85&auto=format&fit=max&s=f918b7d43b43885d75d2108cfbb6be2e",
-    "article_url": "https://www.theguardian.com/books/2026/jun/26/dangerous-dirty-violent-young-by-zayd-ayers-dohrn-review-child-of-the-revolution",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Activism",
-      "Autobiography and memoir",
-      "Books",
-      "Culture",
-      "Politics books",
-      "books"
-    ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "17750c28cc0235f3945c72c564d7f23e",
@@ -348,8 +407,8 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-28T08:50:31+00:00",
-    "updated_at": "2026-06-28T08:50:31Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "c19dd0cca8913011623876d792126d9b",
@@ -374,8 +433,8 @@
       "News",
       "reviews"
     ],
-    "created_at": "2026-06-28T08:50:31+00:00",
-    "updated_at": "2026-06-28T08:50:31Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "788b565003ac19298ea87742cccd7805",
@@ -408,36 +467,8 @@
       "News",
       "reviews"
     ],
-    "created_at": "2026-06-28T08:50:31+00:00",
-    "updated_at": "2026-06-28T08:50:31Z"
-  },
-  {
-    "id": "c2251914c760e50d2dc81f584eba7533",
-    "title": "Libraries Tackle Ebook Pricing, and More Updates",
-    "author": "Katie McLain Horner",
-    "description": "Catch up on the latest in library news, including ebook legislation across the country, the growth of social reading, and more.",
-    "summary_ai": "",
-    "categories": [
-      "Check Your Shelf",
-      "Libraries",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-26",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/01/people-and-things-2026-01-09T165749.352.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/01/people-and-things-2026-01-09T165749.352.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/libraries-tackle-ebook-pricing-and-more-updates/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Check Your Shelf",
-      "Libraries",
-      "reviews"
-    ],
-    "created_at": "2026-06-28T08:50:31+00:00",
-    "updated_at": "2026-06-28T08:50:31Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "56f8dce63596ff200f50bd4bf18f6211",
@@ -472,8 +503,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "560effbc7450df3b740c66cbd70f04ad",
@@ -510,8 +541,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "83c6db5191a715036ed4c9a903666dbd",
@@ -544,46 +575,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
-  },
-  {
-    "id": "f4cb1f15152fcee2fb4852d8daebeed3",
-    "title": "Transcription by Ben Lerner wins Orwell prize for political fiction",
-    "author": "Ella Creamer",
-    "description": "Judging chair calls Lerner’s novel a ‘funny, brainy and timely’ study of our appetite for technology, while Karen Bartlett wins the nonfiction prize for The Escape from Kabul American writer Ben Lerner has won this year’s Orwell prize for political fiction for Transcription, a novel exploring technology and memory. In nonfiction, the prize went to Karen Bartlett for The Escape from Kabul, which looks at Afghan women lawyers who came under threat after the fall of Kabul in 2021. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Awards And Prizes",
-      "Ben Lerner",
-      "Books",
-      "Culture",
-      "Orwell Prize",
-      "Politics Books"
-    ],
-    "genre": [
-      "Fiction",
-      "Nonfiction"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-25",
-    "thumbnail": "https://i.guim.co.uk/img/media/6c3704e709bfea4770c5c004f454f0210cf24934/0_775_4800_3840/master/4800.jpg?width=700&quality=85&auto=format&fit=max&s=40be3d14ee2549727d8de006934aac42",
-    "cover_large": "https://i.guim.co.uk/img/media/6c3704e709bfea4770c5c004f454f0210cf24934/0_775_4800_3840/master/4800.jpg?width=700&quality=85&auto=format&fit=max&s=40be3d14ee2549727d8de006934aac42",
-    "article_url": "https://www.theguardian.com/books/2026/jun/25/transcription-by-ben-lerner-wins-orwell-prize-for-political-fiction",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Awards and prizes",
-      "Ben Lerner",
-      "Books",
-      "Culture",
-      "Orwell prize",
-      "Politics books",
-      "books"
-    ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "83c9ceb73b7b9fe91ad3e1144766bc50",
@@ -624,40 +617,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
-  },
-  {
-    "id": "583fe7dff53738150e9e082fa62c528c",
-    "title": "Book Review: “Nebraska,” by Monica Datta",
-    "author": "Joumana Khatib",
-    "description": "Monica Datta’s “Nebraska” is a maximalist, continent-spanning story of a mother killing her youngest child, as relayed by a highly idiosyncratic psychoanalyst.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Datta, Monica",
-      "Internal-Open-Access-From-Nl",
-      "Nebraska (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-24",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/23/books/23TBR-Datta-Review/23TBR-Datta-Review-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/23/books/23TBR-Datta-Review/23TBR-Datta-Review-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/23/books/review/nebraska-monica-datta.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Datta, Monica",
-      "Nebraska (Book)",
-      "books",
-      "internal-open-access-from-nl"
-    ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "a5da7a5431352db994e7ab18761aa4f4",
@@ -687,7 +648,36 @@
       "True crime books",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
+  },
+  {
+    "id": "46685c55e6a2375749c52ca387716ce7",
+    "title": "Kin by Tayari Jones review",
+    "author": "Sana Goyal",
+    "description": "Two friends, united by their missing mothers, come of age in segregation-era America, in a cautionary tale about the limits of love Annie and Vernice (or Niecy, as Annie calls her) are “cradle friends”, brought up in their home town of Honeysuckle, Louisiana, in 1950s America. The protagonists are defined by their motherlessness and their diverging drives to escape their individual tragedies and pre-written destinies. In this haunting novel of motherhood and sisterhood, Tayari Jones writes into unknowability – how far we can know another person, or indeed oneself. The pair, who speak in alternating chapters, are “not the same, but still the same”. Each is tended to by mother figures – grandmothers, aunts – and gives meaning to each other’s lonely, questioning existence: “When you don’t have your mother, you don’t really know who you are.” Annie’s mother has abandoned her but is apparently alive in Memphis, and she makes it her obsession to reconcile with her; Niecy’s, on the other hand, is lost for ever, murdered by Niecy’s father. Where the former is holding out hope, the latter has none; and herein lies the fork in their futures. While Niecy chooses the sensible, stable life...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-24",
+    "thumbnail": "https://i.guim.co.uk/img/media/f5b2b3bf2e1bb2b03e03c695f31afd8aad7bb206/560_21_3979_3185/master/3979.jpg?width=700&quality=85&auto=format&fit=max&s=b96b6a50b51fd9e768d1a8d0cfa78176",
+    "cover_large": "https://i.guim.co.uk/img/media/f5b2b3bf2e1bb2b03e03c695f31afd8aad7bb206/560_21_3979_3185/master/3979.jpg?width=700&quality=85&auto=format&fit=max&s=b96b6a50b51fd9e768d1a8d0cfa78176",
+    "article_url": "https://www.theguardian.com/books/2026/jun/24/kin-by-tayari-jones-review-a-haunting-tale-of-motherlessness",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "books"
+    ],
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   }
 ]

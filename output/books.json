@@ -1,5 +1,132 @@
 [
   {
+    "id": "f1fb870fa44b940ef024e5c3c54c44f1",
+    "title": "Terrific New Mystery Books",
+    "author": "Sarah Weinman",
+    "description": "Sarah Weinman on “Heather,” by Caitlin Mullen, and three more new books.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Genre-Books-Mystery",
+      "Mullen, Caitlin"
+    ],
+    "genre": [
+      "Mystery"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-28",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/24/books/24TBR-Mysteries-JUNE/24TBR-Mysteries-JUNE-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/24/books/24TBR-Mysteries-JUNE/24TBR-Mysteries-JUNE-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/28/books/review/new-mystery-books.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Mullen, Caitlin",
+      "books",
+      "genre-books-mystery"
+    ],
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
+  },
+  {
+    "id": "ce1750c8261b7abb11ac66a7f00e3f90",
+    "title": "What if doing more isn’t always the answer?",
+    "author": "Amanda Montell",
+    "description": "It’s tempting to treat overwhelm with clever fixes – but that might be part of the problem According to my Instagram feed, I am not doing enough. Not spending enough, not saying enough, not taking enough care. I feel more sure of this than anything. And it’s bringing out an irrationality I’m not proud of: one afternoon, in between screengrabs of masked men snatching civilians from their homes, videos of wellness influencers evangelising “anti-trauma” hip stretches, and carousels of political action items disguised as catchy memes, I am served a targeted ad for a “Don’t Talk to Me About AI or I’ll Kill Myself” crochet pattern; and even though I have never crocheted anything in my life, I find myself looking up the materials to get started ... on Etsy to avoid supporting any big, Maga-oriented corporations. It’s overwhelming, this general pressure, palpable not only on social media but throughout the larger culture: today’s most urgent issues, from technological end times to tight hips, can only be solved by squeezing as much into the day as humanly possible. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Health, Mind And Body Books",
+      "Psychology"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-28",
+    "thumbnail": "https://i.guim.co.uk/img/media/a08f7eb1acf322932d265c8cb5f778aa464b3095/0_352_1847_1477/master/1847.jpg?width=700&quality=85&auto=format&fit=max&s=08adee85623ce3fd19f40dd26ccdab86",
+    "cover_large": "https://i.guim.co.uk/img/media/a08f7eb1acf322932d265c8cb5f778aa464b3095/0_352_1847_1477/master/1847.jpg?width=700&quality=85&auto=format&fit=max&s=08adee85623ce3fd19f40dd26ccdab86",
+    "article_url": "https://www.theguardian.com/science/2026/jun/28/what-if-doing-more-isnt-always-the-answer",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Health, mind and body books",
+      "Psychology",
+      "books"
+    ],
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
+  },
+  {
+    "id": "3ccd6637757bc1a0e7ffea6b6a3cfa3b",
+    "title": "Home is where the art is: the rise of the epic domestic novel",
+    "author": "Lisa Owens",
+    "description": "Writing about home life doesn’t have to be humdrum argues the author of Natural Disaster – just look at world-spanning, taboo-shattering works such as Ducks, Newburyport and All Fours ‘There’s no place like home,” Dorothy declares at the end of The Wizard of Oz, as she departs the dazzling Emerald City for Aunt Em’s Kansas farmhouse. It’s a powerful metaphor for the way the domestic sphere is often portrayed in art: action, adventure and drama happen “out there” in glorious Technicolor, with the home rendered by contrast in sober sepia tones. Home may be the place we ultimately yearn for, but only once we have left it behind. While working on my second novel, Natural Disaster, I was periodically plagued by the potential pitfalls of putting domestic life front and centre. The story takes place over 24 hours, following a woman who plans to spend her final day of maternity leave having a nice time with her two small boys (spoiler: it doesn’t go to plan). Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Elizabeth Jane Howard",
+      "Fiction",
+      "Lucy Ellmann",
+      "Miranda July",
+      "Rachel Cusk"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-28",
+    "thumbnail": "https://i.guim.co.uk/img/media/c7e620b20dc61d712e21ff681a0d2f571510ceb6/13_91_3836_3069/master/3836.jpg?width=700&quality=85&auto=format&fit=max&s=5905e787b42026c0097909beb187eacf",
+    "cover_large": "https://i.guim.co.uk/img/media/c7e620b20dc61d712e21ff681a0d2f571510ceb6/13_91_3836_3069/master/3836.jpg?width=700&quality=85&auto=format&fit=max&s=5905e787b42026c0097909beb187eacf",
+    "article_url": "https://www.theguardian.com/books/2026/jun/28/home-is-where-the-art-is-the-rise-of-the-epic-domestic-novel",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Elizabeth Jane Howard",
+      "Fiction",
+      "Lucy Ellmann",
+      "Miranda July",
+      "Rachel Cusk",
+      "books"
+    ],
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
+  },
+  {
+    "id": "9fceec8217af54c2c0caff16745f3f28",
+    "title": "Tom Gauld on presenting cover designs for highbrow literary novels",
+    "author": "Guardian Staff",
+    "description": "Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-28",
+    "thumbnail": "https://i.guim.co.uk/img/media/a973adbdd9d333bec64716450f1cf90f7ba2837a/160_1451_772_618/master/772.png?width=700&quality=85&auto=format&fit=max&s=5dbed04aa06bd845c448ace66ff2e9ea",
+    "cover_large": "https://i.guim.co.uk/img/media/a973adbdd9d333bec64716450f1cf90f7ba2837a/160_1451_772_618/master/772.png?width=700&quality=85&auto=format&fit=max&s=5dbed04aa06bd845c448ace66ff2e9ea",
+    "article_url": "https://www.theguardian.com/books/picture/2026/jun/28/tom-gauld-on-presenting-cover-designs-for-highbrow-literary-novels-cartoon",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "books"
+    ],
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
+  },
+  {
     "id": "63917ebcb362d4275a0a1fcbe9b83570",
     "title": "Tony Brown, Host of Public Affairs Show Aimed at Black Audiences, Dies at 93",
     "author": "Joseph Berger",
@@ -9,7 +136,7 @@
       "Black Journal (Tv Program)",
       "Black People",
       "Books",
-      "Brown, Tony",
+      "Brown, Tony (1933-2026)",
       "Deaths (Obituaries)",
       "Public Broadcasting",
       "Television",
@@ -27,15 +154,15 @@
     "tags": [
       "Black Journal (TV Program)",
       "Black People",
-      "Brown, Tony",
+      "Brown, Tony (1933-2026)",
       "Deaths (Obituaries)",
       "Public Broadcasting",
       "Television",
       "Tony Browns Journal (TV Program)",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "61bf728bd0dc96ce3d20a929184b8224",
@@ -49,9 +176,9 @@
       "Books And Literature",
       "Computers And The Internet",
       "Frauds And Swindling",
-      "Human Trafficking",
       "Lagos (Nigeria)",
-      "The Yahoo Boys"
+      "Loneliness",
+      "The Yahoo Boys: Love, Deception, And The Real Lives Of Nigeria'S Romance Scammers (Book)"
     ],
     "genre": [
       "Romance"
@@ -69,13 +196,13 @@
       "Books and Literature",
       "Computers and the Internet",
       "Frauds and Swindling",
-      "Human Trafficking",
       "Lagos (Nigeria)",
-      "The Yahoo Boys",
+      "Loneliness",
+      "The Yahoo Boys: Love, Deception, and the Real Lives of Nigeria's Romance Scammers (Book)",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "428e822296be2b9c6d6ef0bef2188eaa",
@@ -115,8 +242,8 @@
       "Young adult",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "aa6c098c06adf88c3d5b4301a8445e17",
@@ -163,8 +290,8 @@
       "War and Armed Conflicts",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "300a5235944ac2f9950d3b35bb524e81",
@@ -190,8 +317,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "226e413f02cd64f6552c531aac17e287",
@@ -223,8 +350,8 @@
       "Young people",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "32ffa174a93f29d78ffd2c412f59289f",
@@ -254,76 +381,8 @@
       "Life and style",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
-  },
-  {
-    "id": "6595ebe77ddd141ad91ecb690b46e739",
-    "title": "Children and teens roundup",
-    "author": "Imogen Russell Williams",
-    "description": "A mouse detective; a fresh take on the Odyssey; a dangerous wish; and the world’s most watched reality TV show My Dad Can by Stephen Lightbown, illustrated by Claire Sahara Lemp, Quarto, £7.99 Iris’s dad can turn into dinosaurs, unicorns, anything she imagines – though some people see Dad’s wheelchair and believe he can’t do anything. This soft-smudged, colourful picture book celebrates the playfulness and creativity of parenthood. The Fluffy Futon by Yuichi Kasano, translated by Cathy Hirano, Gecko, £12.99 When Grandma spreads a futon on the sunny porch to air, it’s so fluffy that kittycat, Grandma, hen, chicks and the whole household join each other for a nap in this delightful picture book, perfect for enjoying at bedtime. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Children And Teenagers",
-      "Culture",
-      "Young Adult"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "Guardianbookshop",
-    "published_date": "2026-06-26",
-    "thumbnail": "https://i.guim.co.uk/img/media/fe13c09f81810e914f9c593e913867de5008e31f/6_177_757_606/master/757.jpg?width=700&quality=85&auto=format&fit=max&s=8d13d795062d9be9521485b96c0d0848",
-    "cover_large": "https://i.guim.co.uk/img/media/fe13c09f81810e914f9c593e913867de5008e31f/6_177_757_606/master/757.jpg?width=700&quality=85&auto=format&fit=max&s=8d13d795062d9be9521485b96c0d0848",
-    "article_url": "https://guardianbookshop.com/my-dad-can-9781836008835/?amp%3Butm_medium=merch&amp%3Butm_campaign=article",
-    "source": "Guardianbookshop",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Children and teenagers",
-      "Culture",
-      "Young adult",
-      "books"
-    ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
-  },
-  {
-    "id": "c43d1af95615dca6347c60690c639b02",
-    "title": "Dangerous, Dirty, Violent & Young by Zayd Ayers Dohrn review",
-    "author": "Peter Carty",
-    "description": "The son of fugitive leaders of the militant Weather Underground recounts his chaotic, peripatetic upbringing Every aspect of a family’s life will seem normal to the small children within it; only hindsight can bring what was abnormal into relief. Zayd Ayers Dohrn’s earliest years were spent on the run from the FBI; his parents were members of the revolutionary Weather Underground faction, a group dedicated to the overthrow of the US government. By the age of three he had been coached by his parents on how to recognise plainclothes officers on the street. “It was a bit like playing a game – a grownup version of dress-up or make-believe,” he recalls. He has fond memories of long night-time drives between safehouses. As well as fellow revolutionaries, his family encountered gangsters, IRA members and abortion activists, along with countless undocumented migrant workers. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Activism",
-      "Autobiography And Memoir",
-      "Books",
-      "Culture",
-      "Politics Books"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-26",
-    "thumbnail": "https://i.guim.co.uk/img/media/d6434a458a1fc4868778bf6552efc9c0890953ca/59_0_561_449/master/561.jpg?width=700&quality=85&auto=format&fit=max&s=f918b7d43b43885d75d2108cfbb6be2e",
-    "cover_large": "https://i.guim.co.uk/img/media/d6434a458a1fc4868778bf6552efc9c0890953ca/59_0_561_449/master/561.jpg?width=700&quality=85&auto=format&fit=max&s=f918b7d43b43885d75d2108cfbb6be2e",
-    "article_url": "https://www.theguardian.com/books/2026/jun/26/dangerous-dirty-violent-young-by-zayd-ayers-dohrn-review-child-of-the-revolution",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Activism",
-      "Autobiography and memoir",
-      "Books",
-      "Culture",
-      "Politics books",
-      "books"
-    ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "56f8dce63596ff200f50bd4bf18f6211",
@@ -358,8 +417,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "560effbc7450df3b740c66cbd70f04ad",
@@ -396,8 +455,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "83c6db5191a715036ed4c9a903666dbd",
@@ -430,46 +489,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
-  },
-  {
-    "id": "f4cb1f15152fcee2fb4852d8daebeed3",
-    "title": "Transcription by Ben Lerner wins Orwell prize for political fiction",
-    "author": "Ella Creamer",
-    "description": "Judging chair calls Lerner’s novel a ‘funny, brainy and timely’ study of our appetite for technology, while Karen Bartlett wins the nonfiction prize for The Escape from Kabul American writer Ben Lerner has won this year’s Orwell prize for political fiction for Transcription, a novel exploring technology and memory. In nonfiction, the prize went to Karen Bartlett for The Escape from Kabul, which looks at Afghan women lawyers who came under threat after the fall of Kabul in 2021. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Awards And Prizes",
-      "Ben Lerner",
-      "Books",
-      "Culture",
-      "Orwell Prize",
-      "Politics Books"
-    ],
-    "genre": [
-      "Fiction",
-      "Nonfiction"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-25",
-    "thumbnail": "https://i.guim.co.uk/img/media/6c3704e709bfea4770c5c004f454f0210cf24934/0_775_4800_3840/master/4800.jpg?width=700&quality=85&auto=format&fit=max&s=40be3d14ee2549727d8de006934aac42",
-    "cover_large": "https://i.guim.co.uk/img/media/6c3704e709bfea4770c5c004f454f0210cf24934/0_775_4800_3840/master/4800.jpg?width=700&quality=85&auto=format&fit=max&s=40be3d14ee2549727d8de006934aac42",
-    "article_url": "https://www.theguardian.com/books/2026/jun/25/transcription-by-ben-lerner-wins-orwell-prize-for-political-fiction",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Awards and prizes",
-      "Ben Lerner",
-      "Books",
-      "Culture",
-      "Orwell prize",
-      "Politics books",
-      "books"
-    ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "83c9ceb73b7b9fe91ad3e1144766bc50",
@@ -510,40 +531,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
-  },
-  {
-    "id": "583fe7dff53738150e9e082fa62c528c",
-    "title": "Book Review: “Nebraska,” by Monica Datta",
-    "author": "Joumana Khatib",
-    "description": "Monica Datta’s “Nebraska” is a maximalist, continent-spanning story of a mother killing her youngest child, as relayed by a highly idiosyncratic psychoanalyst.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Datta, Monica",
-      "Internal-Open-Access-From-Nl",
-      "Nebraska (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-24",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/23/books/23TBR-Datta-Review/23TBR-Datta-Review-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/23/books/23TBR-Datta-Review/23TBR-Datta-Review-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/23/books/review/nebraska-monica-datta.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Datta, Monica",
-      "Nebraska (Book)",
-      "books",
-      "internal-open-access-from-nl"
-    ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "a5da7a5431352db994e7ab18761aa4f4",
@@ -573,8 +562,8 @@
       "True crime books",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "46685c55e6a2375749c52ca387716ce7",
@@ -602,8 +591,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "8241960d3e3db79bf6d9b81fd124c9f9",
@@ -648,8 +637,8 @@
       "Voice and Speech",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "4d0133681ee8dc791c6caa680031c967",
@@ -688,8 +677,8 @@
       "Sex",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "feb324ad590f7576779b3f5708068eae",
@@ -721,42 +710,8 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
-  },
-  {
-    "id": "e5c40ef2bc9d6b4a4ba2887fc4a3448b",
-    "title": "Book Review: ‘The Emergency Playbook,’ by Amy Edelman and Chris Begley",
-    "author": "Dwight Garner",
-    "description": "“The Emergency Playbook” is a disaster preparation guide that emphasizes community rather than lone-hero fantasies.",
-    "summary_ai": "",
-    "categories": [
-      "Begley, Chris",
-      "Books",
-      "Books And Literature",
-      "Disasters And Emergencies",
-      "Edelman, Amy",
-      "The Emergency Playbook: A Bunker-Free Guide To Disaster Preparation (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-22",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/22/multimedia/22TBR-Edelman-Begley-review-ckqf/22TBR-Edelman-Begley-review-ckqf-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/22/multimedia/22TBR-Edelman-Begley-review-ckqf/22TBR-Edelman-Begley-review-ckqf-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/22/books/review/emergency-playbook-amy-edelman-chris-begley.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Begley, Chris",
-      "Books and Literature",
-      "Disasters and Emergencies",
-      "Edelman, Amy",
-      "The Emergency Playbook: A Bunker-Free Guide to Disaster Preparation (Book)",
-      "books"
-    ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "6c0384d1ca7571d392bfdb539e0a6150",
@@ -790,46 +745,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
-  },
-  {
-    "id": "77e4eea59383d117d0faa9c9521680dd",
-    "title": "Mark Singer, Longtime Writer for The New Yorker, Dies at 75",
-    "author": "Trip Gabriel",
-    "description": "He joined the magazine’s staff at 23. Among the subjects of his profiles were the magician Ricky Jay and a pre-politics Donald Trump.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Deaths (Obituaries)",
-      "Magazines",
-      "New Yorker",
-      "Singer, Mark (1950- )",
-      "Writing And Writers"
-    ],
-    "genre": [
-      "Politics"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-21",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/25/multimedia/21-singer-obit3-vzqt-print1/21-singer-obit3-vzqt-print1-mediumSquareAt3X-v2.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/25/multimedia/21-singer-obit3-vzqt-print1/21-singer-obit3-vzqt-print1-mediumSquareAt3X-v2.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/21/obituaries/mark-singer-dead.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Deaths (Obituaries)",
-      "Magazines",
-      "New Yorker",
-      "Singer, Mark (1950- )",
-      "Writing and Writers",
-      "books"
-    ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "867734b7487c124448e68db2b6f3aebb",
@@ -859,8 +776,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "0de47d5039ae63ef8405d47c6646d284",
@@ -896,8 +813,8 @@
       "Paperbacks",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "cd29f8375e271820c02627200e68f1d2",
@@ -929,8 +846,8 @@
       "Michael Ondaatje",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -960,8 +877,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1000,8 +917,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "755ba738881478773c8491c271f5d902",
@@ -1028,8 +945,8 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   },
   {
     "id": "f0a8987fb7322e3a0dc23bf36fa062e5",
@@ -1070,7 +987,85 @@
       "audio-neutral-informative",
       "books"
     ],
-    "created_at": "2026-06-28T08:50:32+00:00",
-    "updated_at": "2026-06-28T08:50:32Z"
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
+  },
+  {
+    "id": "5abd518a1f4e1d19007e36a68c716195",
+    "title": "In ‘Fires in the Dark,’ Kay Redfield Jamison Turns to Healers",
+    "author": "Casey Schwartz",
+    "description": "In “Fires in the Dark,” Jamison, known for her expertise on manic depression, delves into the quest to heal. Her new book, she says, is a “love song to psychotherapy.”",
+    "summary_ai": "",
+    "categories": [
+      "Bipolar Disorder",
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Fires In The Dark: Healing The Unquiet Mind (Book)",
+      "Jamison, Kay Redfield",
+      "Johns Hopkins Medical Center",
+      "Mental Health And Disorders",
+      "Psychiatry And Psychiatrists"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2023-05-22",
+    "thumbnail": "https://static01.nyt.com/images/2023/05/25/multimedia/22JAMISON-lqzm/22JAMISON-lqzm-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2023/05/25/multimedia/22JAMISON-lqzm/22JAMISON-lqzm-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2023/05/22/books/fires-in-the-dark-kay-redfield-jamison.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Bipolar Disorder",
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Fires in the Dark: Healing the Unquiet Mind (Book)",
+      "Jamison, Kay Redfield",
+      "Johns Hopkins Medical Center",
+      "Mental Health and Disorders",
+      "Psychiatry and Psychiatrists",
+      "books"
+    ],
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
+  },
+  {
+    "id": "b15ec480ad78a6bb4219bc916d70f55a",
+    "title": "The Detective Novel ‘Whose Body?,’ by Dorothy L. Sayers, Turns 100",
+    "author": "Sarah Weinman",
+    "description": "Dorothy L. Sayers dealt with emotional and financial instability by writing “Whose Body?,” the first of many to star the detective Lord Peter Wimsey.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Genre-Books-Mystery",
+      "Nineteen Hundred Twenties",
+      "Sayers, Dorothy L",
+      "Whose Body? (Book)",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2023-05-21",
+    "thumbnail": "https://static01.nyt.com/images/2023/06/18/multimedia/10SAYERS-essay-twck/10SAYERS-essay-twck-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2023/06/18/multimedia/10SAYERS-essay-twck/10SAYERS-essay-twck-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2023/05/21/books/review/dorothy-sayers-whose-body-at-100.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Nineteen Hundred Twenties",
+      "Sayers, Dorothy L",
+      "Whose Body? (Book)",
+      "Writing and Writers",
+      "books",
+      "genre-books-mystery"
+    ],
+    "created_at": "2026-06-28T19:12:25+00:00",
+    "updated_at": "2026-06-28T19:12:25Z"
   }
 ]
