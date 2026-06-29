@@ -27,8 +27,8 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "e3a89400decba23737a25a3689dbfdb6",
@@ -38,11 +38,19 @@
     "summary_ai": "",
     "categories": [
       "Books",
+      "Books And Literature",
       "Civil Rights Movement (1954-68)",
       "Conservatism (Us Politics)",
       "Democratic Party",
+      "Ethics (Personal)",
       "Liberalism (Us Politics)",
-      "Politics And Government"
+      "Liberalism Against Itself: Cold War Intellectuals And The Making Of Our Times (Book)",
+      "Moyn, Samuel",
+      "Rosenblatt, Helena (1961- )",
+      "The Lost History Of Liberalism: From Ancient Rome To The Twenty-First Century (Book)",
+      "The Revolutionary Center: The Lost Genius Of Liberalism (Book)",
+      "United States Politics And Government",
+      "Wooldridge, Adrian"
     ],
     "genre": [
       "History"
@@ -56,15 +64,23 @@
     "source": "The New York Times",
     "source_type": "rss",
     "tags": [
+      "Books and Literature",
       "Civil Rights Movement (1954-68)",
       "Conservatism (US Politics)",
       "Democratic Party",
+      "Ethics (Personal)",
       "Liberalism (US Politics)",
-      "Politics and Government",
+      "Liberalism Against Itself: Cold War Intellectuals and the Making of Our Times (Book)",
+      "Moyn, Samuel",
+      "Rosenblatt, Helena (1961- )",
+      "The Lost History of Liberalism: From Ancient Rome to the Twenty-First Century (Book)",
+      "The Revolutionary Center: The Lost Genius of Liberalism (Book)",
+      "United States Politics and Government",
+      "Wooldridge, Adrian",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "50ac1a8da1688d3990fe17a39c3079d3",
@@ -96,8 +112,8 @@
       "US politics",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "34761a9f7f3fd02b57369312064b6c27",
@@ -125,8 +141,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "8ebdc6552da5e8d3414600bc316d7087",
@@ -156,8 +172,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "f1fb870fa44b940ef024e5c3c54c44f1",
@@ -169,6 +185,7 @@
       "Books",
       "Books And Literature",
       "Genre-Books-Mystery",
+      "Heather (Book)",
       "Mullen, Caitlin"
     ],
     "genre": [
@@ -184,18 +201,19 @@
     "source_type": "rss",
     "tags": [
       "Books and Literature",
+      "Heather (Book)",
       "Mullen, Caitlin",
       "books",
       "genre-books-mystery"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
-    "id": "ce1750c8261b7abb11ac66a7f00e3f90",
+    "id": "4761e000cb65db97cf2912bca6098dde",
     "title": "What if doing more isn’t always the answer?",
     "author": "Amanda Montell",
-    "description": "It’s tempting to treat overwhelm with clever fixes – but that might be part of the problem According to my Instagram feed, I am not doing enough. Not spending enough, not saying enough, not taking enough care. I feel more sure of this than anything. And it’s bringing out an irrationality I’m not proud of: one afternoon, in between screengrabs of masked men snatching civilians from their homes, videos of wellness influencers evangelising “anti-trauma” hip stretches, and carousels of political action items disguised as catchy memes, I am served a targeted ad for a “Don’t Talk to Me About AI or I’ll Kill Myself” crochet pattern; and even though I have never crocheted anything in my life, I find myself looking up the materials to get started ... on Etsy to avoid supporting any big, Maga-oriented corporations. It’s overwhelming, this general pressure, palpable not only on social media but throughout the larger culture: today’s most urgent issues, from technological end times to tight hips, can only be solved by squeezing as much into the day as humanly possible. Continue reading...",
+    "description": "It’s tempting to treat overwhelm with clever fixes – but that might be part of the problem According to my Instagram feed, I am not doing enough. Not spending enough, not saying enough, not taking enough care. I feel more sure of this than anything. And it’s bringing out an irrationality I’m not proud of: one afternoon, in between screengrabs of masked men snatching civilians from their homes, videos of wellness influencers evangelising “anti-trauma” hip stretches, and carousels of political action items disguised as catchy memes, I am served a targeted ad for a “Don’t Talk to Me About AI or I’ll Kill Myself” crochet pattern; and even though I have never crocheted anything in my life, I find myself looking up the materials to get started ... on Etsy to avoid supporting any big, Maga-oriented corporations. It’s overwhelming, this general pressure, palpable not only on social media but throughout the larger culture: today’s most urgent issues, from technological end times to tight hips, can only be solved by squeezing as much into the day as humanly possible. The Age of Magical Overthinking by Amanda Montell (HarperCollins, £12.99). To support the Guardian, order your copy at...",
     "summary_ai": "",
     "categories": [
       "Books",
@@ -205,12 +223,12 @@
     ],
     "genre": [],
     "language": "English",
-    "publisher": "The Guardian",
+    "publisher": "HarperCollins",
     "published_date": "2026-06-28",
     "thumbnail": "https://i.guim.co.uk/img/media/a08f7eb1acf322932d265c8cb5f778aa464b3095/0_352_1847_1477/master/1847.jpg?width=700&quality=85&auto=format&fit=max&s=08adee85623ce3fd19f40dd26ccdab86",
     "cover_large": "https://i.guim.co.uk/img/media/a08f7eb1acf322932d265c8cb5f778aa464b3095/0_352_1847_1477/master/1847.jpg?width=700&quality=85&auto=format&fit=max&s=08adee85623ce3fd19f40dd26ccdab86",
-    "article_url": "https://www.theguardian.com/science/2026/jun/28/what-if-doing-more-isnt-always-the-answer",
-    "source": "The Guardian",
+    "article_url": "https://www.guardianbookshop.com/the-age-of-magical-overthinking-9780008701154/?amp%3Butm_medium=merch&amp%3Butm_campaign=article",
+    "source": "Guardianbookshop",
     "source_type": "rss",
     "tags": [
       "Books",
@@ -219,8 +237,8 @@
       "Psychology",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "3ccd6637757bc1a0e7ffea6b6a3cfa3b",
@@ -256,46 +274,8 @@
       "Rachel Cusk",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
-  },
-  {
-    "id": "63917ebcb362d4275a0a1fcbe9b83570",
-    "title": "Tony Brown, Host of Public Affairs Show Aimed at Black Audiences, Dies at 93",
-    "author": "Joseph Berger",
-    "description": "On “Tony Brown’s Journal,” he interviewed guests like Jesse Jackson and Lena Horne, and made programming decisions by asking himself, “Will it help Black people?”",
-    "summary_ai": "",
-    "categories": [
-      "Black Journal (Tv Program)",
-      "Black People",
-      "Books",
-      "Brown, Tony (1933-2026)",
-      "Deaths (Obituaries)",
-      "Public Broadcasting",
-      "Television",
-      "Tony Browns Journal (Tv Program)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-27",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/27/multimedia/27brown_tony-bklj/27brown_tony-bklj-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/27/multimedia/27brown_tony-bklj/27brown_tony-bklj-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/27/arts/television/tony-brown-dead.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Black Journal (TV Program)",
-      "Black People",
-      "Brown, Tony (1933-2026)",
-      "Deaths (Obituaries)",
-      "Public Broadcasting",
-      "Television",
-      "Tony Browns Journal (TV Program)",
-      "books"
-    ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "61bf728bd0dc96ce3d20a929184b8224",
@@ -334,8 +314,8 @@
       "The Yahoo Boys: Love, Deception, and the Real Lives of Nigeria's Romance Scammers (Book)",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "428e822296be2b9c6d6ef0bef2188eaa",
@@ -375,8 +355,8 @@
       "Young adult",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "aa6c098c06adf88c3d5b4301a8445e17",
@@ -423,8 +403,8 @@
       "War and Armed Conflicts",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "32ffa174a93f29d78ffd2c412f59289f",
@@ -454,8 +434,8 @@
       "Life and style",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "c43d1af95615dca6347c60690c639b02",
@@ -489,8 +469,8 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "56f8dce63596ff200f50bd4bf18f6211",
@@ -525,8 +505,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "560effbc7450df3b740c66cbd70f04ad",
@@ -563,8 +543,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "83c6db5191a715036ed4c9a903666dbd",
@@ -597,8 +577,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "257c55906953209269bdbb2ae71d6c50",
@@ -626,8 +606,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "83c9ceb73b7b9fe91ad3e1144766bc50",
@@ -668,8 +648,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "a5da7a5431352db994e7ab18761aa4f4",
@@ -699,8 +679,8 @@
       "True crime books",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "8241960d3e3db79bf6d9b81fd124c9f9",
@@ -745,8 +725,8 @@
       "Voice and Speech",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "feb324ad590f7576779b3f5708068eae",
@@ -778,8 +758,8 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "6c0384d1ca7571d392bfdb539e0a6150",
@@ -813,8 +793,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "0de47d5039ae63ef8405d47c6646d284",
@@ -850,8 +830,8 @@
       "Paperbacks",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "cd29f8375e271820c02627200e68f1d2",
@@ -883,8 +863,8 @@
       "Michael Ondaatje",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -914,8 +894,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -954,8 +934,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "755ba738881478773c8491c271f5d902",
@@ -982,8 +962,8 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "f0a8987fb7322e3a0dc23bf36fa062e5",
@@ -1024,8 +1004,8 @@
       "audio-neutral-informative",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "5abd518a1f4e1d19007e36a68c716195",
@@ -1064,7 +1044,45 @@
       "Psychiatry and Psychiatrists",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
+  },
+  {
+    "id": "b15ec480ad78a6bb4219bc916d70f55a",
+    "title": "The Detective Novel ‘Whose Body?,’ by Dorothy L. Sayers, Turns 100",
+    "author": "Sarah Weinman",
+    "description": "Dorothy L. Sayers dealt with emotional and financial instability by writing “Whose Body?,” the first of many to star the detective Lord Peter Wimsey.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Genre-Books-Mystery",
+      "Nineteen Hundred Twenties",
+      "Sayers, Dorothy L",
+      "Whose Body? (Book)",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2023-05-21",
+    "thumbnail": "https://static01.nyt.com/images/2023/06/18/multimedia/10SAYERS-essay-twck/10SAYERS-essay-twck-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2023/06/18/multimedia/10SAYERS-essay-twck/10SAYERS-essay-twck-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2023/05/21/books/review/dorothy-sayers-whose-body-at-100.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Nineteen Hundred Twenties",
+      "Sayers, Dorothy L",
+      "Whose Body? (Book)",
+      "Writing and Writers",
+      "books",
+      "genre-books-mystery"
+    ],
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   }
 ]

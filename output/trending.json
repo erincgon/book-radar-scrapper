@@ -27,8 +27,8 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "e3a89400decba23737a25a3689dbfdb6",
@@ -38,11 +38,19 @@
     "summary_ai": "",
     "categories": [
       "Books",
+      "Books And Literature",
       "Civil Rights Movement (1954-68)",
       "Conservatism (Us Politics)",
       "Democratic Party",
+      "Ethics (Personal)",
       "Liberalism (Us Politics)",
-      "Politics And Government"
+      "Liberalism Against Itself: Cold War Intellectuals And The Making Of Our Times (Book)",
+      "Moyn, Samuel",
+      "Rosenblatt, Helena (1961- )",
+      "The Lost History Of Liberalism: From Ancient Rome To The Twenty-First Century (Book)",
+      "The Revolutionary Center: The Lost Genius Of Liberalism (Book)",
+      "United States Politics And Government",
+      "Wooldridge, Adrian"
     ],
     "genre": [
       "History"
@@ -56,15 +64,23 @@
     "source": "The New York Times",
     "source_type": "rss",
     "tags": [
+      "Books and Literature",
       "Civil Rights Movement (1954-68)",
       "Conservatism (US Politics)",
       "Democratic Party",
+      "Ethics (Personal)",
       "Liberalism (US Politics)",
-      "Politics and Government",
+      "Liberalism Against Itself: Cold War Intellectuals and the Making of Our Times (Book)",
+      "Moyn, Samuel",
+      "Rosenblatt, Helena (1961- )",
+      "The Lost History of Liberalism: From Ancient Rome to the Twenty-First Century (Book)",
+      "The Revolutionary Center: The Lost Genius of Liberalism (Book)",
+      "United States Politics and Government",
+      "Wooldridge, Adrian",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "50ac1a8da1688d3990fe17a39c3079d3",
@@ -96,8 +112,8 @@
       "US politics",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "34761a9f7f3fd02b57369312064b6c27",
@@ -125,8 +141,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "8ebdc6552da5e8d3414600bc316d7087",
@@ -156,8 +172,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "f1fb870fa44b940ef024e5c3c54c44f1",
@@ -169,6 +185,7 @@
       "Books",
       "Books And Literature",
       "Genre-Books-Mystery",
+      "Heather (Book)",
       "Mullen, Caitlin"
     ],
     "genre": [
@@ -184,18 +201,19 @@
     "source_type": "rss",
     "tags": [
       "Books and Literature",
+      "Heather (Book)",
       "Mullen, Caitlin",
       "books",
       "genre-books-mystery"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
-    "id": "ce1750c8261b7abb11ac66a7f00e3f90",
+    "id": "4761e000cb65db97cf2912bca6098dde",
     "title": "What if doing more isn’t always the answer?",
     "author": "Amanda Montell",
-    "description": "It’s tempting to treat overwhelm with clever fixes – but that might be part of the problem According to my Instagram feed, I am not doing enough. Not spending enough, not saying enough, not taking enough care. I feel more sure of this than anything. And it’s bringing out an irrationality I’m not proud of: one afternoon, in between screengrabs of masked men snatching civilians from their homes, videos of wellness influencers evangelising “anti-trauma” hip stretches, and carousels of political action items disguised as catchy memes, I am served a targeted ad for a “Don’t Talk to Me About AI or I’ll Kill Myself” crochet pattern; and even though I have never crocheted anything in my life, I find myself looking up the materials to get started ... on Etsy to avoid supporting any big, Maga-oriented corporations. It’s overwhelming, this general pressure, palpable not only on social media but throughout the larger culture: today’s most urgent issues, from technological end times to tight hips, can only be solved by squeezing as much into the day as humanly possible. Continue reading...",
+    "description": "It’s tempting to treat overwhelm with clever fixes – but that might be part of the problem According to my Instagram feed, I am not doing enough. Not spending enough, not saying enough, not taking enough care. I feel more sure of this than anything. And it’s bringing out an irrationality I’m not proud of: one afternoon, in between screengrabs of masked men snatching civilians from their homes, videos of wellness influencers evangelising “anti-trauma” hip stretches, and carousels of political action items disguised as catchy memes, I am served a targeted ad for a “Don’t Talk to Me About AI or I’ll Kill Myself” crochet pattern; and even though I have never crocheted anything in my life, I find myself looking up the materials to get started ... on Etsy to avoid supporting any big, Maga-oriented corporations. It’s overwhelming, this general pressure, palpable not only on social media but throughout the larger culture: today’s most urgent issues, from technological end times to tight hips, can only be solved by squeezing as much into the day as humanly possible. The Age of Magical Overthinking by Amanda Montell (HarperCollins, £12.99). To support the Guardian, order your copy at...",
     "summary_ai": "",
     "categories": [
       "Books",
@@ -205,12 +223,12 @@
     ],
     "genre": [],
     "language": "English",
-    "publisher": "The Guardian",
+    "publisher": "HarperCollins",
     "published_date": "2026-06-28",
     "thumbnail": "https://i.guim.co.uk/img/media/a08f7eb1acf322932d265c8cb5f778aa464b3095/0_352_1847_1477/master/1847.jpg?width=700&quality=85&auto=format&fit=max&s=08adee85623ce3fd19f40dd26ccdab86",
     "cover_large": "https://i.guim.co.uk/img/media/a08f7eb1acf322932d265c8cb5f778aa464b3095/0_352_1847_1477/master/1847.jpg?width=700&quality=85&auto=format&fit=max&s=08adee85623ce3fd19f40dd26ccdab86",
-    "article_url": "https://www.theguardian.com/science/2026/jun/28/what-if-doing-more-isnt-always-the-answer",
-    "source": "The Guardian",
+    "article_url": "https://www.guardianbookshop.com/the-age-of-magical-overthinking-9780008701154/?amp%3Butm_medium=merch&amp%3Butm_campaign=article",
+    "source": "Guardianbookshop",
     "source_type": "rss",
     "tags": [
       "Books",
@@ -219,8 +237,8 @@
       "Psychology",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "3ccd6637757bc1a0e7ffea6b6a3cfa3b",
@@ -256,46 +274,34 @@
       "Rachel Cusk",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
-    "id": "63917ebcb362d4275a0a1fcbe9b83570",
-    "title": "Tony Brown, Host of Public Affairs Show Aimed at Black Audiences, Dies at 93",
-    "author": "Joseph Berger",
-    "description": "On “Tony Brown’s Journal,” he interviewed guests like Jesse Jackson and Lena Horne, and made programming decisions by asking himself, “Will it help Black people?”",
+    "id": "51521d77cc907384b7cfc2b6fc8f3a10",
+    "title": "The Book News We Covered This Week",
+    "author": "Community",
+    "description": "The books colleges are reading in 2026, nominees for a literary prize cleared of using AI, the new trailer for Sense and Sensibility, and more.",
     "summary_ai": "",
     "categories": [
-      "Black Journal (Tv Program)",
-      "Black People",
-      "Books",
-      "Brown, Tony (1933-2026)",
-      "Deaths (Obituaries)",
-      "Public Broadcasting",
-      "Television",
-      "Tony Browns Journal (Tv Program)"
+      "Reviews",
+      "Today In Books"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-27",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/27/multimedia/27brown_tony-bklj/27brown_tony-bklj-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/27/multimedia/27brown_tony-bklj/27brown_tony-bklj-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/27/arts/television/tony-brown-dead.html",
-    "source": "The New York Times",
+    "publisher": "Book Riot",
+    "published_date": "2026-06-28",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/04/eyeglasses-coffee-newspapers-white-table-news.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/04/eyeglasses-coffee-newspapers-white-table-news.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/today-in-books-june-28-2026/",
+    "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Black Journal (TV Program)",
-      "Black People",
-      "Brown, Tony (1933-2026)",
-      "Deaths (Obituaries)",
-      "Public Broadcasting",
-      "Television",
-      "Tony Browns Journal (TV Program)",
-      "books"
+      "Today in Books",
+      "reviews"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "61bf728bd0dc96ce3d20a929184b8224",
@@ -334,8 +340,8 @@
       "The Yahoo Boys: Love, Deception, and the Real Lives of Nigeria's Romance Scammers (Book)",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "428e822296be2b9c6d6ef0bef2188eaa",
@@ -375,8 +381,34 @@
       "Young adult",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
+  },
+  {
+    "id": "4d1588aedc315c9df20652244320050a",
+    "title": "Lit Hub Weekly: June 22 – 26, 2026",
+    "author": "Lit Hub Daily",
+    "description": "Maggie McKinley considers Joan Didion’s “future-oriented” nostalgia. | Lit Hub Criticism “I would never blame them. But being around Americans while this country is bombing mine is the last thing I can do.” Iranian writer Shohreh Laici on war and",
+    "summary_ai": "",
+    "categories": [
+      "Lit Hub Daily",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-06-27",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/E.R.Braithwaite-768x344.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/E.R.Braithwaite-768x344.jpg",
+    "article_url": "https://lithub.com/lit-hub-weekly-june-22-26-2026/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Lit Hub Daily",
+      "reviews"
+    ],
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "09d39eea452c64d425bdd9bb0c1aab3a",
@@ -401,8 +433,8 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-06-29T10:58:02+00:00",
-    "updated_at": "2026-06-29T10:58:02Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "aa6c098c06adf88c3d5b4301a8445e17",
@@ -449,8 +481,8 @@
       "War and Armed Conflicts",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "32ffa174a93f29d78ffd2c412f59289f",
@@ -480,8 +512,8 @@
       "Life and style",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "c43d1af95615dca6347c60690c639b02",
@@ -515,8 +547,8 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "2b5cf1c885d4f1ac8eaecee45f993305",
@@ -539,8 +571,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-06-29T10:58:02+00:00",
-    "updated_at": "2026-06-29T10:58:02Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "9f47611b884544e3c389e9b6a1e70968",
@@ -563,34 +595,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-06-29T10:58:02+00:00",
-    "updated_at": "2026-06-29T10:58:02Z"
-  },
-  {
-    "id": "17750c28cc0235f3945c72c564d7f23e",
-    "title": "Essential American Literature, According to PUBLISHERS WEEKLY",
-    "author": "S. Zainab Williams",
-    "description": "Publishers Weekly picks 15 essential works of American literature, Barnes & Noble announces this year's Discover Prize winner, and more.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Today In Books"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-26",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2021/06/book-stacks.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2021/06/book-stacks.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/essential-american-literature/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Today in Books",
-      "reviews"
-    ],
-    "created_at": "2026-06-29T10:58:02+00:00",
-    "updated_at": "2026-06-29T10:58:02Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "56f8dce63596ff200f50bd4bf18f6211",
@@ -625,8 +631,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   },
   {
     "id": "560effbc7450df3b740c66cbd70f04ad",
@@ -663,7 +669,7 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-06-29T10:58:03+00:00",
-    "updated_at": "2026-06-29T10:58:03Z"
+    "created_at": "2026-06-29T19:50:55+00:00",
+    "updated_at": "2026-06-29T19:50:55Z"
   }
 ]
