@@ -30,8 +30,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-06-29T19:50:56+00:00",
-    "updated_at": "2026-06-29T19:50:56Z"
+    "created_at": "2026-06-30T09:34:17+00:00",
+    "updated_at": "2026-06-30T09:34:17Z"
   },
   {
     "id": "3e282a5013ad30138a49b8f4d14058a0",
@@ -66,8 +66,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-06-29T19:50:56+00:00",
-    "updated_at": "2026-06-29T19:50:56Z"
+    "created_at": "2026-06-30T09:34:17+00:00",
+    "updated_at": "2026-06-30T09:34:17Z"
   },
   {
     "id": "218124a83ccbe11cba9011a44366d709",
@@ -100,8 +100,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-06-29T19:50:56+00:00",
-    "updated_at": "2026-06-29T19:50:56Z"
+    "created_at": "2026-06-30T09:34:17+00:00",
+    "updated_at": "2026-06-30T09:34:17Z"
   },
   {
     "id": "b8a6187f4e286a6176cf29b4ef4bc854",
@@ -132,8 +132,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-06-29T19:50:56+00:00",
-    "updated_at": "2026-06-29T19:50:56Z"
+    "created_at": "2026-06-30T09:34:17+00:00",
+    "updated_at": "2026-06-30T09:34:17Z"
   },
   {
     "id": "9c692626cb56666f5cf4abf1136f5a40",
@@ -168,8 +168,8 @@
       "publishers",
       "talking animals"
     ],
-    "created_at": "2026-06-29T19:50:56+00:00",
-    "updated_at": "2026-06-29T19:50:56Z"
+    "created_at": "2026-06-30T09:34:17+00:00",
+    "updated_at": "2026-06-30T09:34:17Z"
   },
   {
     "id": "be3b7c1e7c467552b31f5008958287aa",
@@ -206,8 +206,8 @@
       "robert eggers",
       "trailers"
     ],
-    "created_at": "2026-06-29T19:50:56+00:00",
-    "updated_at": "2026-06-29T19:50:56Z"
+    "created_at": "2026-06-30T09:34:17+00:00",
+    "updated_at": "2026-06-30T09:34:17Z"
   },
   {
     "id": "b9b7d9d2bf4d730fc333983b1c58616e",
@@ -254,8 +254,8 @@
       "television",
       "television reviews"
     ],
-    "created_at": "2026-06-29T19:50:56+00:00",
-    "updated_at": "2026-06-29T19:50:56Z"
+    "created_at": "2026-06-30T09:34:17+00:00",
+    "updated_at": "2026-06-30T09:34:17Z"
   },
   {
     "id": "b0da1d215da78a79dccd354553699ebb",
@@ -288,8 +288,8 @@
       "Science Fiction",
       "publishers"
     ],
-    "created_at": "2026-06-29T19:50:56+00:00",
-    "updated_at": "2026-06-29T19:50:56Z"
+    "created_at": "2026-06-30T09:34:17+00:00",
+    "updated_at": "2026-06-30T09:34:17Z"
   },
   {
     "id": "db4adedd801fea2d055c6a1a9a24c300",
@@ -328,8 +328,8 @@
       "movie reviews",
       "publishers"
     ],
-    "created_at": "2026-06-29T19:50:56+00:00",
-    "updated_at": "2026-06-29T19:50:56Z"
+    "created_at": "2026-06-30T09:34:17+00:00",
+    "updated_at": "2026-06-30T09:34:17Z"
   },
   {
     "id": "72e18fbf350730b5b6ca2d22baecc71e",
@@ -366,8 +366,32 @@
       "publishers",
       "television reviews"
     ],
-    "created_at": "2026-06-29T19:50:56+00:00",
-    "updated_at": "2026-06-29T19:50:56Z"
+    "created_at": "2026-06-30T09:34:17+00:00",
+    "updated_at": "2026-06-30T09:34:17Z"
+  },
+  {
+    "id": "a57564d55b18b7f36994a80ba49f2b24",
+    "title": "Mara Brock Akil’s Debut Novel Finds Freedom in Friendship",
+    "author": "Iyana Jones",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-06-29",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129880-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/129/129880-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/authors/interviews/article/100685-mara-brock-akil-s-debut-novel-finds-freedom-in-friendship.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-06-30T09:34:17+00:00",
+    "updated_at": "2026-06-30T09:34:17Z"
   },
   {
     "id": "067a958cd672bde502236a508fc759cd",
@@ -390,8 +414,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-29T19:50:56+00:00",
-    "updated_at": "2026-06-29T19:50:56Z"
+    "created_at": "2026-06-30T09:34:17+00:00",
+    "updated_at": "2026-06-30T09:34:17Z"
   },
   {
     "id": "b8c60be45b657c1a45a9607320ca818b",
@@ -416,8 +440,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-29T19:50:56+00:00",
-    "updated_at": "2026-06-29T19:50:56Z"
+    "created_at": "2026-06-30T09:34:17+00:00",
+    "updated_at": "2026-06-30T09:34:17Z"
   },
   {
     "id": "18051b51db66b544ee4b53aac9c47b45",
@@ -440,8 +464,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-29T19:50:56+00:00",
-    "updated_at": "2026-06-29T19:50:56Z"
+    "created_at": "2026-06-30T09:34:17+00:00",
+    "updated_at": "2026-06-30T09:34:17Z"
   },
   {
     "id": "e49f53369103fd8f39f7e62dc233175d",
@@ -464,8 +488,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-29T19:50:56+00:00",
-    "updated_at": "2026-06-29T19:50:56Z"
+    "created_at": "2026-06-30T09:34:17+00:00",
+    "updated_at": "2026-06-30T09:34:17Z"
   },
   {
     "id": "0733e8c59ff3daef921e1064f725bda3",
@@ -488,8 +512,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-29T19:50:56+00:00",
-    "updated_at": "2026-06-29T19:50:56Z"
+    "created_at": "2026-06-30T09:34:17+00:00",
+    "updated_at": "2026-06-30T09:34:17Z"
   },
   {
     "id": "4e99d16e1f3790bca41753582254c453",
@@ -512,8 +536,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-29T19:50:56+00:00",
-    "updated_at": "2026-06-29T19:50:56Z"
+    "created_at": "2026-06-30T09:34:17+00:00",
+    "updated_at": "2026-06-30T09:34:17Z"
   },
   {
     "id": "7eeebdd97e3c410a3deb9eda201927a4",
@@ -536,8 +560,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-06-29T19:50:56+00:00",
-    "updated_at": "2026-06-29T19:50:56Z"
+    "created_at": "2026-06-30T09:34:17+00:00",
+    "updated_at": "2026-06-30T09:34:17Z"
   },
   {
     "id": "73cc22f846d7f08e1519f9d79c650c56",
@@ -572,8 +596,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-06-29T19:50:56+00:00",
-    "updated_at": "2026-06-29T19:50:56Z"
+    "created_at": "2026-06-30T09:34:17+00:00",
+    "updated_at": "2026-06-30T09:34:17Z"
   },
   {
     "id": "392157b3ff288893e5d6a45ffdf18e2c",
@@ -620,49 +644,7 @@
       "move reviews",
       "publishers"
     ],
-    "created_at": "2026-06-29T19:50:56+00:00",
-    "updated_at": "2026-06-29T19:50:56Z"
-  },
-  {
-    "id": "af460271549ff1e239a41dc991e28bed",
-    "title": "What to Watch and Read (and Smell?) This Weekend: Haunted Short Stories and Haute Vampire Scents",
-    "author": "Molly Templeton",
-    "description": "Plus: Labyrinth at 40 and the joys of Jackass The post What to Watch and Read (and Smell?) This Weekend: Haunted Short Stories and Haute Vampire Scents appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Books",
-      "Fantasy",
-      "Movies",
-      "News",
-      "Publishers",
-      "Science Fiction",
-      "Sugar",
-      "Television",
-      "The Vampire Lestat"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-06-26",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/06/Vampire-Lestat-image-1-740x416.png",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/06/Vampire-Lestat-image-1-740x416.png",
-    "article_url": "https://reactormag.com/what-to-read-and-watch-this-weekend-june-26-2026/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Science Fiction",
-      "Sugar",
-      "The Vampire Lestat",
-      "books",
-      "fantasy",
-      "movies",
-      "news",
-      "publishers",
-      "television"
-    ],
-    "created_at": "2026-06-29T19:50:56+00:00",
-    "updated_at": "2026-06-29T19:50:56Z"
+    "created_at": "2026-06-30T09:34:17+00:00",
+    "updated_at": "2026-06-30T09:34:17Z"
   }
 ]
