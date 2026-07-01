@@ -1,17 +1,64 @@
 [
   {
+    "id": "a9e819eb34cac123a208c566238fd724",
+    "title": "How JD Vance Helped bell hooks Back Onto the Best",
+    "author": "Alexandra Alter",
+    "description": "A grass-roots campaign urged readers to buy copies of the Black feminist writer’s 2002 book “Communion” before Vice President JD Vance’s book of the same name hit shelves.",
+    "summary_ai": "",
+    "categories": [
+      "Appalachian Elegy: Poetry And Place (Book)",
+      "Book Trade And Publishing",
+      "Books",
+      "Books And Literature",
+      "Communion: Finding My Way Back To Faith (Book)",
+      "Communion: The Female Search For Love (Book)",
+      "Harpercollins Publishers",
+      "Hillbilly Elegy: A Memoir Of A Family And Culture In Crisis (Book)",
+      "Hooks, Bell",
+      "United States Politics And Government",
+      "Vance, J D",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "HarperCollins",
+    "published_date": "2026-07-01",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/10/multimedia/00TBR-communion-promo-fkcb/00TBR-communion-promo-fkcb-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/10/multimedia/00TBR-communion-promo-fkcb/00TBR-communion-promo-fkcb-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/01/books/communion-bell-hooks-jd-vance.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Appalachian Elegy: Poetry and Place (Book)",
+      "Book Trade and Publishing",
+      "Books and Literature",
+      "Communion: Finding My Way Back to Faith (Book)",
+      "Communion: The Female Search for Love (Book)",
+      "HarperCollins Publishers",
+      "Hillbilly Elegy: A Memoir of a Family and Culture in Crisis (Book)",
+      "Hooks, Bell",
+      "United States Politics and Government",
+      "Vance, J D",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
+  },
+  {
     "id": "17ee6de398e4d7a81180ffe8157aadce",
     "title": "Book Review: ‘Gerontocracy in America,’ by Samuel Moyn",
     "author": "Jennifer Szalai",
     "description": "A new book by Samuel Moyn argues that the country has become an “oldigarchy,” in which wealth and power are hoarded by the elderly.",
     "summary_ai": "",
     "categories": [
-      "Aarp",
+      "Age, Chronological",
       "Books",
       "Books And Literature",
       "Elderly",
-      "Gerontocracy In America: How The Old Are Hoarding Power And Wealthand What To Do About It (Book)",
+      "Gerontocracy In America: How The Old Are Hoarding Power And Wealth -- And What To Do About It (Book)",
       "Moyn, Samuel",
+      "United States",
       "United States Politics And Government"
     ],
     "genre": [],
@@ -24,16 +71,17 @@
     "source": "The New York Times",
     "source_type": "rss",
     "tags": [
-      "AARP",
+      "Age, Chronological",
       "Books and Literature",
       "Elderly",
-      "Gerontocracy in America: How the Old Are Hoarding Power and Wealthand What to Do About It (Book)",
+      "Gerontocracy in America: How the Old Are Hoarding Power and Wealth -- and What to Do About It (Book)",
       "Moyn, Samuel",
+      "United States",
       "United States Politics and Government",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "d4ef3eab53e626ec47e8fc7b70cf967d",
@@ -94,8 +142,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "de99c85bd3909b122f332d6797cd7ac8",
@@ -109,8 +157,10 @@
       "Books And Literature",
       "Boynton, Sandra",
       "Children And Childhood",
+      "Content Type: Personal Profile",
       "Genre-Books-Childrens",
-      "Hippos Go Berserk! (Book)"
+      "Hippos Go Berserk! (Book)",
+      "Writing And Writers"
     ],
     "genre": [],
     "language": "English",
@@ -126,12 +176,45 @@
       "Books and Literature",
       "Boynton, Sandra",
       "Children and Childhood",
+      "Content Type: Personal Profile",
       "Hippos Go Berserk! (Book)",
+      "Writing and Writers",
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
+  },
+  {
+    "id": "d1d616e8c628a0d77d0074bf268117de",
+    "title": "Short story accused of being AI",
+    "author": "Ella Creamer",
+    "description": "Jamir Nazir’s The Serpent in the Grove, which critics allege has ‘obvious markers’ of AI use, was described as ‘original, poetic and deeply moving’ by the judging chair A story widely accused on social media of being written using AI has gone on to win the overall Commonwealth short story prize. Jamir Nazir’s story The Serpent in the Grove went viral after being named as a regional winner in mid-May, with critics on X and Bluesky claiming it showed “obvious markers” of AI use. The literary magazine Granta subsequently pulled out of its long-running agreement to publish the Commonwealth winners. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Ai (Artificial Intelligence)",
+      "Awards And Prizes",
+      "Books",
+      "Culture"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Granta",
+    "published_date": "2026-07-01",
+    "thumbnail": "https://i.guim.co.uk/img/media/210c1e27fa6ae778b33d14d445c3dd42516dd1fd/0_0_3824_3060/master/3824.jpg?width=700&quality=85&auto=format&fit=max&s=c95e2791f4040c84224023d80ad0fcdd",
+    "cover_large": "https://i.guim.co.uk/img/media/210c1e27fa6ae778b33d14d445c3dd42516dd1fd/0_0_3824_3060/master/3824.jpg?width=700&quality=85&auto=format&fit=max&s=c95e2791f4040c84224023d80ad0fcdd",
+    "article_url": "https://granta.com/the-serpent-in-the-grove/",
+    "source": "Granta",
+    "source_type": "rss",
+    "tags": [
+      "AI (artificial intelligence)",
+      "Awards and prizes",
+      "Books",
+      "Culture",
+      "books"
+    ],
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "825fab730c67e928cdf7dd05af324142",
@@ -165,8 +248,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "66d7124560972497de809246b5d84eb7",
@@ -197,8 +280,8 @@
       "The Midnight Special: The Secret Prison History of American Music (Book)",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "c59190fa4a2bc96848bb78d4da64f31e",
@@ -227,8 +310,8 @@
       "Tremblay, Paul G (1971- )",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "9a16c64fb780cb14cd7a101f81790c86",
@@ -258,8 +341,8 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "4c67af7b443e59255ae5e43165443d79",
@@ -291,8 +374,8 @@
       "Tessa Hadley",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "ee63e738505d12320606baf053db956b",
@@ -324,8 +407,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "ccca60302399f6770c3c908dfe30c54d",
@@ -351,8 +434,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "e3a89400decba23737a25a3689dbfdb6",
@@ -403,8 +486,8 @@
       "Wooldridge, Adrian",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "f1fb870fa44b940ef024e5c3c54c44f1",
@@ -437,8 +520,8 @@
       "books",
       "genre-books-mystery"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "50ac1a8da1688d3990fe17a39c3079d3",
@@ -470,8 +553,8 @@
       "US politics",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "34761a9f7f3fd02b57369312064b6c27",
@@ -499,8 +582,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "8ebdc6552da5e8d3414600bc316d7087",
@@ -530,8 +613,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "61bf728bd0dc96ce3d20a929184b8224",
@@ -570,8 +653,8 @@
       "The Yahoo Boys: Love, Deception, and the Real Lives of Nigeria's Romance Scammers (Book)",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "aa6c098c06adf88c3d5b4301a8445e17",
@@ -618,8 +701,8 @@
       "War and Armed Conflicts",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "c43d1af95615dca6347c60690c639b02",
@@ -653,8 +736,8 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "56f8dce63596ff200f50bd4bf18f6211",
@@ -689,8 +772,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "560effbc7450df3b740c66cbd70f04ad",
@@ -727,42 +810,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
-  },
-  {
-    "id": "83c6db5191a715036ed4c9a903666dbd",
-    "title": "Paul Rudnick on His Favorite Books and His New ‘Tuxedo Society’",
-    "author": "",
-    "description": "“I can always wait for the streaming version and hope for nudity,” says the writer, whose new novel, “The Tuxedo Society,” is about a cadre of gay spies.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Content Type: Personal Profile",
-      "Rudnick, Paul",
-      "The Tuxedo Society (Book)",
-      "Writing And Writers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-25",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/28/books/28TBR-ByTheBook-PRudnick/28TBR-ByTheBook-PRudnick-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/28/books/28TBR-ByTheBook-PRudnick/28TBR-ByTheBook-PRudnick-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/25/books/review/paul-rudnick-the-tuxedo-society.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Content Type: Personal Profile",
-      "Rudnick, Paul",
-      "The Tuxedo Society (Book)",
-      "Writing and Writers",
-      "books"
-    ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "257c55906953209269bdbb2ae71d6c50",
@@ -790,8 +839,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "a5da7a5431352db994e7ab18761aa4f4",
@@ -821,37 +870,8 @@
       "True crime books",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
-  },
-  {
-    "id": "46685c55e6a2375749c52ca387716ce7",
-    "title": "Kin by Tayari Jones review",
-    "author": "Sana Goyal",
-    "description": "Two friends, united by their missing mothers, come of age in segregation-era America, in a cautionary tale about the limits of love Annie and Vernice (or Niecy, as Annie calls her) are “cradle friends”, brought up in their home town of Honeysuckle, Louisiana, in 1950s America. The protagonists are defined by their motherlessness and their diverging drives to escape their individual tragedies and pre-written destinies. In this haunting novel of motherhood and sisterhood, Tayari Jones writes into unknowability – how far we can know another person, or indeed oneself. The pair, who speak in alternating chapters, are “not the same, but still the same”. Each is tended to by mother figures – grandmothers, aunts – and gives meaning to each other’s lonely, questioning existence: “When you don’t have your mother, you don’t really know who you are.” Annie’s mother has abandoned her but is apparently alive in Memphis, and she makes it her obsession to reconcile with her; Niecy’s, on the other hand, is lost for ever, murdered by Niecy’s father. Where the former is holding out hope, the latter has none; and herein lies the fork in their futures. While Niecy chooses the sensible, stable life...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-24",
-    "thumbnail": "https://i.guim.co.uk/img/media/f5b2b3bf2e1bb2b03e03c695f31afd8aad7bb206/560_21_3979_3185/master/3979.jpg?width=700&quality=85&auto=format&fit=max&s=b96b6a50b51fd9e768d1a8d0cfa78176",
-    "cover_large": "https://i.guim.co.uk/img/media/f5b2b3bf2e1bb2b03e03c695f31afd8aad7bb206/560_21_3979_3185/master/3979.jpg?width=700&quality=85&auto=format&fit=max&s=b96b6a50b51fd9e768d1a8d0cfa78176",
-    "article_url": "https://www.theguardian.com/books/2026/jun/24/kin-by-tayari-jones-review-a-haunting-tale-of-motherlessness",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "feb324ad590f7576779b3f5708068eae",
@@ -883,8 +903,8 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "6c0384d1ca7571d392bfdb539e0a6150",
@@ -918,8 +938,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "0de47d5039ae63ef8405d47c6646d284",
@@ -955,8 +975,8 @@
       "Paperbacks",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -986,8 +1006,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1026,8 +1046,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "755ba738881478773c8491c271f5d902",
@@ -1054,7 +1074,7 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   }
 ]

@@ -1,17 +1,64 @@
 [
   {
+    "id": "a9e819eb34cac123a208c566238fd724",
+    "title": "How JD Vance Helped bell hooks Back Onto the Best",
+    "author": "Alexandra Alter",
+    "description": "A grass-roots campaign urged readers to buy copies of the Black feminist writer’s 2002 book “Communion” before Vice President JD Vance’s book of the same name hit shelves.",
+    "summary_ai": "",
+    "categories": [
+      "Appalachian Elegy: Poetry And Place (Book)",
+      "Book Trade And Publishing",
+      "Books",
+      "Books And Literature",
+      "Communion: Finding My Way Back To Faith (Book)",
+      "Communion: The Female Search For Love (Book)",
+      "Harpercollins Publishers",
+      "Hillbilly Elegy: A Memoir Of A Family And Culture In Crisis (Book)",
+      "Hooks, Bell",
+      "United States Politics And Government",
+      "Vance, J D",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "HarperCollins",
+    "published_date": "2026-07-01",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/10/multimedia/00TBR-communion-promo-fkcb/00TBR-communion-promo-fkcb-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/10/multimedia/00TBR-communion-promo-fkcb/00TBR-communion-promo-fkcb-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/01/books/communion-bell-hooks-jd-vance.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Appalachian Elegy: Poetry and Place (Book)",
+      "Book Trade and Publishing",
+      "Books and Literature",
+      "Communion: Finding My Way Back to Faith (Book)",
+      "Communion: The Female Search for Love (Book)",
+      "HarperCollins Publishers",
+      "Hillbilly Elegy: A Memoir of a Family and Culture in Crisis (Book)",
+      "Hooks, Bell",
+      "United States Politics and Government",
+      "Vance, J D",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
+  },
+  {
     "id": "17ee6de398e4d7a81180ffe8157aadce",
     "title": "Book Review: ‘Gerontocracy in America,’ by Samuel Moyn",
     "author": "Jennifer Szalai",
     "description": "A new book by Samuel Moyn argues that the country has become an “oldigarchy,” in which wealth and power are hoarded by the elderly.",
     "summary_ai": "",
     "categories": [
-      "Aarp",
+      "Age, Chronological",
       "Books",
       "Books And Literature",
       "Elderly",
-      "Gerontocracy In America: How The Old Are Hoarding Power And Wealthand What To Do About It (Book)",
+      "Gerontocracy In America: How The Old Are Hoarding Power And Wealth -- And What To Do About It (Book)",
       "Moyn, Samuel",
+      "United States",
       "United States Politics And Government"
     ],
     "genre": [],
@@ -24,16 +71,17 @@
     "source": "The New York Times",
     "source_type": "rss",
     "tags": [
-      "AARP",
+      "Age, Chronological",
       "Books and Literature",
       "Elderly",
-      "Gerontocracy in America: How the Old Are Hoarding Power and Wealthand What to Do About It (Book)",
+      "Gerontocracy in America: How the Old Are Hoarding Power and Wealth -- and What to Do About It (Book)",
       "Moyn, Samuel",
+      "United States",
       "United States Politics and Government",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "d4ef3eab53e626ec47e8fc7b70cf967d",
@@ -94,8 +142,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "de99c85bd3909b122f332d6797cd7ac8",
@@ -109,8 +157,10 @@
       "Books And Literature",
       "Boynton, Sandra",
       "Children And Childhood",
+      "Content Type: Personal Profile",
       "Genre-Books-Childrens",
-      "Hippos Go Berserk! (Book)"
+      "Hippos Go Berserk! (Book)",
+      "Writing And Writers"
     ],
     "genre": [],
     "language": "English",
@@ -126,12 +176,45 @@
       "Books and Literature",
       "Boynton, Sandra",
       "Children and Childhood",
+      "Content Type: Personal Profile",
       "Hippos Go Berserk! (Book)",
+      "Writing and Writers",
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
+  },
+  {
+    "id": "d1d616e8c628a0d77d0074bf268117de",
+    "title": "Short story accused of being AI",
+    "author": "Ella Creamer",
+    "description": "Jamir Nazir’s The Serpent in the Grove, which critics allege has ‘obvious markers’ of AI use, was described as ‘original, poetic and deeply moving’ by the judging chair A story widely accused on social media of being written using AI has gone on to win the overall Commonwealth short story prize. Jamir Nazir’s story The Serpent in the Grove went viral after being named as a regional winner in mid-May, with critics on X and Bluesky claiming it showed “obvious markers” of AI use. The literary magazine Granta subsequently pulled out of its long-running agreement to publish the Commonwealth winners. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Ai (Artificial Intelligence)",
+      "Awards And Prizes",
+      "Books",
+      "Culture"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Granta",
+    "published_date": "2026-07-01",
+    "thumbnail": "https://i.guim.co.uk/img/media/210c1e27fa6ae778b33d14d445c3dd42516dd1fd/0_0_3824_3060/master/3824.jpg?width=700&quality=85&auto=format&fit=max&s=c95e2791f4040c84224023d80ad0fcdd",
+    "cover_large": "https://i.guim.co.uk/img/media/210c1e27fa6ae778b33d14d445c3dd42516dd1fd/0_0_3824_3060/master/3824.jpg?width=700&quality=85&auto=format&fit=max&s=c95e2791f4040c84224023d80ad0fcdd",
+    "article_url": "https://granta.com/the-serpent-in-the-grove/",
+    "source": "Granta",
+    "source_type": "rss",
+    "tags": [
+      "AI (artificial intelligence)",
+      "Awards and prizes",
+      "Books",
+      "Culture",
+      "books"
+    ],
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "825fab730c67e928cdf7dd05af324142",
@@ -165,8 +248,93 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
+  },
+  {
+    "id": "54fff91f7651fef10202f6c1beb1ba74",
+    "title": "A Literary-Inspired Competition, Protecting Clean Water, and More New YA Books for July 1, 2026",
+    "author": "Kelly Jensen",
+    "description": "From a summer of healing broken hearts to a dangerous forest of foes, here are this week's new YA book releases.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "What'S Up In Ya",
+      "Young Adult Literature"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-01",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/13-Little-Love-Stories-An-Anthology-Inspired-by-Taylor-Swift-Songs-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/13-Little-Love-Stories-An-Anthology-Inspired-by-Taylor-Swift-Songs-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/new-ya-books-for-july-1-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "What's Up in YA",
+      "Young Adult Literature",
+      "reviews"
+    ],
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
+  },
+  {
+    "id": "c27e8d2958c97bd282a8ddb6a1de08f2",
+    "title": "From a Retired Spy to The Return of Enola Holmes, Here Are July’s Mystery & Thriller Adaptations",
+    "author": "Jamie Canaves",
+    "description": "Add these new mystery and thriller adaptations to your to-watch list.",
+    "summary_ai": "",
+    "categories": [
+      "Mystery/Thriller",
+      "Reviews",
+      "Unusual Suspects"
+    ],
+    "genre": [
+      "Mystery",
+      "Thriller"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-01",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2020/10/the-case-of-the-missing-marquess-nancy-springer-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2020/10/the-case-of-the-missing-marquess-nancy-springer-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/july-2026-mystery-thriller-adaptations/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Mystery/Thriller",
+      "Unusual Suspects",
+      "reviews"
+    ],
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
+  },
+  {
+    "id": "a630ec3aa4fed50bc9972941459367d3",
+    "title": "Writer Accused of AI Use Wins Commonwealth Prize",
+    "author": "Rebecca Joines Schinsky",
+    "description": "Jamir Nazir has won the Commonwealth Prize for his story \"The Serpent in the Grove.\"",
+    "summary_ai": "",
+    "categories": [
+      "News",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-01",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/07/commonwealth-short-story-prize-1.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/07/commonwealth-short-story-prize-1.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/jamir-nazir-commonwealth-prize-ai-accusation-granta/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "News",
+      "reviews"
+    ],
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "66d7124560972497de809246b5d84eb7",
@@ -197,8 +365,8 @@
       "The Midnight Special: The Secret Prison History of American Music (Book)",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "c59190fa4a2bc96848bb78d4da64f31e",
@@ -227,8 +395,8 @@
       "Tremblay, Paul G (1971- )",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "9a16c64fb780cb14cd7a101f81790c86",
@@ -258,8 +426,8 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "4c67af7b443e59255ae5e43165443d79",
@@ -291,8 +459,8 @@
       "Tessa Hadley",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "ee63e738505d12320606baf053db956b",
@@ -324,8 +492,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "ccca60302399f6770c3c908dfe30c54d",
@@ -351,157 +519,68 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
-    "id": "d85fe6edbbe110b1a5bf223857fb71e9",
-    "title": "A Beginner’s Guide to Dark Rom",
-    "author": "Emily Martin",
-    "description": "Macabre and dangerous plots, laugh-out-loud humor, and unforgettable romance: you get it all with these dark rom-coms.",
+    "id": "c2d8eea76220462d7ba28d607acb5db5",
+    "title": "The Most Popular Queer Romance Audiobooks on Libby",
+    "author": "Community",
+    "description": "Sports are the name of the game in many of Libby's most popular queer romance audiobooks.",
     "summary_ai": "",
     "categories": [
-      "Kissing Books",
-      "Reviews",
-      "Sponsored"
-    ],
-    "genre": [
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-30",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/08/Lights-Out-cover-REV-05-16-25-2-1-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/08/Lights-Out-cover-REV-05-16-25-2-1-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/a-beginners-guide-to-dark-rom-coms/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Kissing Books",
-      "Sponsored",
-      "reviews"
-    ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
-  },
-  {
-    "id": "ec630dc4c6ac5a86294355bec57e5e8e",
-    "title": "5 of the Best Books to Put in Your Analog Bag This Summer",
-    "author": "Julia Rittenberg",
-    "description": "Any paperback is a good addition to an analog bag, but these books encourage you to pay attention and to cultivate new hobbies.",
-    "summary_ai": "",
-    "categories": [
-      "Book Radar",
-      "Nonfiction",
+      "Breaking In Books",
+      "News",
       "Reviews"
     ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-30",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/better-living-through-birding-cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/better-living-through-birding-cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/books-to-put-in-your-analog-bag/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Book Radar",
-      "Nonfiction",
-      "reviews"
-    ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
-  },
-  {
-    "id": "30a7d51d343a6417fd45c854bf98bd47",
-    "title": "Not a Kissing Book: 6 Non",
-    "author": "Rachel Brittain",
-    "description": "I love cozy fantasy with my whole heart. It’s truly a genre I can’t get enough of. But I’ve noticed that the genre—or at least the more publicized parts of it—is saturated with romance. To be clear, I love a little romance, and cozy fantasy romance is great. But cozy fantasy and cozy fantasy romance [...]",
-    "summary_ai": "",
-    "categories": [
-      "Cozy",
-      "Cozy Fantasy",
-      "Reviews",
-      "Science Fiction/Fantasy",
-      "Swords And Spaceships"
-    ],
     "genre": [
-      "Fantasy",
       "Romance"
     ],
     "language": "English",
     "publisher": "Book Riot",
     "published_date": "2026-06-30",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/12/Nine-Goblins-A-Tale-of-Low-Fantasy-and-High-Mischief-T.-Kingfisher-cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/12/Nine-Goblins-A-Tale-of-Low-Fantasy-and-High-Mischief-T.-Kingfisher-cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/non-romantic-cozy-fantasy-books/",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/image-1.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/image-1.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/most-popular-queer-romance-audiobooks-on-libby/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Science Fiction/Fantasy",
-      "Swords and Spaceships",
-      "cozy",
-      "cozy fantasy",
+      "News",
+      "breaking in books",
       "reviews"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
-    "id": "a5bf6d4efb46a8c92c1f85a1532c6ee4",
-    "title": "Publishers Weekly’s Most Anticipated Books of Fall",
-    "author": "Danika Ellis",
-    "description": "A preview of fall new releases, the Ursula K. Le Guin Prize for Fiction shortlist, The Love Hypothesis teaser trailer, and more.",
+    "id": "d7b43bfc97d0d8d7899fc8f0f24d9041",
+    "title": "Book Riot’s Deals of the Day for June 30, 2026",
+    "author": "Deals",
+    "description": "Trevor Noah's bestselling memoir, Octavia Butler's classic with alien-human hybrids, nonfiction about an American journalist in WWII Paris, and more of today's best deals",
     "summary_ai": "",
     "categories": [
-      "Reviews",
-      "Today In Books"
+      "Book Deals",
+      "Reviews"
     ],
     "genre": [
-      "Fiction"
+      "Fiction",
+      "Memoir",
+      "Nonfiction"
     ],
     "language": "English",
     "publisher": "Book Riot",
     "published_date": "2026-06-30",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/10/curved-bookshelves.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/10/curved-bookshelves.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/publishers-weekly-most-anticipated-books-of-fall-2026/",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2024/11/the-deep-dark-cover.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2024/11/the-deep-dark-cover.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-june-30-2026/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Today in Books",
+      "Book Deals",
       "reviews"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
-  },
-  {
-    "id": "6a5f341744f59869c0297fe98e83a9be",
-    "title": "The Most Important Document We’ve Covered",
-    "author": "Vanessa Diaz",
-    "description": "In honor of America's 250th birthday, we're doing a deep dive into one of our nation's most important foundational documents.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "True Story",
-      "Zero To Well-Read"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-30",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/writing-quill-parchment.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/writing-quill-parchment.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/zero-to-well-read-the-us-constitution/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "True Story",
-      "Zero to Well-Read",
-      "reviews"
-    ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "e3a89400decba23737a25a3689dbfdb6",
@@ -552,8 +631,8 @@
       "Wooldridge, Adrian",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "f1fb870fa44b940ef024e5c3c54c44f1",
@@ -586,8 +665,8 @@
       "books",
       "genre-books-mystery"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   },
   {
     "id": "50ac1a8da1688d3990fe17a39c3079d3",
@@ -619,67 +698,7 @@
       "US politics",
       "books"
     ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
-  },
-  {
-    "id": "34761a9f7f3fd02b57369312064b6c27",
-    "title": "Raveheart by Graeme Armstrong review",
-    "author": "Suzi Feay",
-    "description": "A veteran techno DJ embarks on a campaign of civil disobedience in this passionate and at times hilarious tale of underground resistance Midway through his firecracker of a debut, 2020’s The Young Team , Graeme Armstrong hurls the reader into an exuberant account of a rave, from protagonist Azzy’s pre-party pharmaceutical prep, through the resulting mystical abandon and euphoria, and on to the inevitable crash back to earth. The description of the anguished comedown is a welcome noughties update of Kingsley Amis’s beer-soaked hanxiety in Lucky Jim. All this, set against a panicky backdrop of juvenile turf wars in working-class Airdrie, near Glasgow, won Armstrong a place on the 2023 Granta best of young British novelists list . You’d think there’s not much more to say on the subject of illegal raves, but in his second novel he’s doubled down, while jettisoning the social grit for cartoonish political satire. Narrator William Patterson, AKA DJ Turbo, has a regular gig spinning discs for kids at the ice rink, until a new political party sweeps Britain, demanding a return to civilised values and promising to eradicate moral decay. Top of the agenda is a total ban on electronic music...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-29",
-    "thumbnail": "https://i.guim.co.uk/img/media/a69bf9156ef3d85cfbbfdaedc93ebaa1044eab7a/44_345_4271_3417/master/4271.jpg?width=700&quality=85&auto=format&fit=max&s=b62e3ea4117f10554ab4cac9a6e713ce",
-    "cover_large": "https://i.guim.co.uk/img/media/a69bf9156ef3d85cfbbfdaedc93ebaa1044eab7a/44_345_4271_3417/master/4271.jpg?width=700&quality=85&auto=format&fit=max&s=b62e3ea4117f10554ab4cac9a6e713ce",
-    "article_url": "https://www.theguardian.com/books/2020/mar/13/the-young-team-graeme-armstrong-review",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
-  },
-  {
-    "id": "8ebdc6552da5e8d3414600bc316d7087",
-    "title": "Father Alberto and the Flying Girl by Timothy X Atack review",
-    "author": "David Hayden",
-    "description": "A parish priest cares for the mentally afflicted in an absorbing tale that combines antic comedy with serious moral themes In 1474, in a fictional location in southern Europe, Father Alberto arrives from Jormel Abbey, where he has failed in his ambition to become a manuscript illuminator at their renowned scriptorium. He is the new parish priest of the villages of Hem and Long, whose congregants are generally “piebald and errant”, but not the most peculiar or refractory of his flock. Among his duties is to tend to the mentally afflicted of the convent of Saint Particular, patron saint of the unloved, who are confined in cells for the greater part of the year. The fearsome Abbess and the silent Sister Lorenza introduce Alberto to his charges using the Index, an annotated manuscript of the inmates whose strange minds are “filled o’er the brim”. They include Pieter Mastiff, a raging, blaspheming carpenter; Selina, compulsively naked and unhappily sexual; Carin Marina, a former princess with a secret; Malike Dene, who has scarred his body with a map of the “topography of the universe known”; Zanzibar, a homicidal horse; and a mute girl in rags who “remorselessly attempts to fly”.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [
-      "Fiction"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-29",
-    "thumbnail": "https://i.guim.co.uk/img/media/3eb261426c0d77f2d78c75c7fb14d784010ac97b/33_148_3979_3183/master/3979.jpg?width=700&quality=85&auto=format&fit=max&s=b82b644bf509c85853a80c5a14b19962",
-    "cover_large": "https://i.guim.co.uk/img/media/3eb261426c0d77f2d78c75c7fb14d784010ac97b/33_148_3979_3183/master/3979.jpg?width=700&quality=85&auto=format&fit=max&s=b82b644bf509c85853a80c5a14b19962",
-    "article_url": "https://www.theguardian.com/books/2026/jun/29/father-alberto-and-the-flying-girl-by-timothy-x-atack-review-a-fable-of-medieval-madness",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-07-01T09:43:49+00:00",
-    "updated_at": "2026-07-01T09:43:49Z"
+    "created_at": "2026-07-01T19:47:21+00:00",
+    "updated_at": "2026-07-01T19:47:21Z"
   }
 ]
