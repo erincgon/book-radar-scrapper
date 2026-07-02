@@ -42,8 +42,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-01T19:47:21+00:00",
-    "updated_at": "2026-07-01T19:47:21Z"
+    "created_at": "2026-07-02T08:54:46+00:00",
+    "updated_at": "2026-07-02T08:54:46Z"
   },
   {
     "id": "17ee6de398e4d7a81180ffe8157aadce",
@@ -80,8 +80,8 @@
       "United States Politics and Government",
       "books"
     ],
-    "created_at": "2026-07-01T19:47:21+00:00",
-    "updated_at": "2026-07-01T19:47:21Z"
+    "created_at": "2026-07-02T08:54:46+00:00",
+    "updated_at": "2026-07-02T08:54:46Z"
   },
   {
     "id": "d4ef3eab53e626ec47e8fc7b70cf967d",
@@ -142,8 +142,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-01T19:47:21+00:00",
-    "updated_at": "2026-07-01T19:47:21Z"
+    "created_at": "2026-07-02T08:54:46+00:00",
+    "updated_at": "2026-07-02T08:54:46Z"
   },
   {
     "id": "de99c85bd3909b122f332d6797cd7ac8",
@@ -182,8 +182,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-01T19:47:21+00:00",
-    "updated_at": "2026-07-01T19:47:21Z"
+    "created_at": "2026-07-02T08:54:46+00:00",
+    "updated_at": "2026-07-02T08:54:46Z"
   },
   {
     "id": "d1d616e8c628a0d77d0074bf268117de",
@@ -213,8 +213,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-01T19:47:21+00:00",
-    "updated_at": "2026-07-01T19:47:21Z"
+    "created_at": "2026-07-02T08:54:46+00:00",
+    "updated_at": "2026-07-02T08:54:46Z"
   },
   {
     "id": "825fab730c67e928cdf7dd05af324142",
@@ -248,8 +248,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-01T19:47:21+00:00",
-    "updated_at": "2026-07-01T19:47:21Z"
+    "created_at": "2026-07-02T08:54:46+00:00",
+    "updated_at": "2026-07-02T08:54:46Z"
   },
   {
     "id": "54fff91f7651fef10202f6c1beb1ba74",
@@ -276,8 +276,8 @@
       "Young Adult Literature",
       "reviews"
     ],
-    "created_at": "2026-07-01T19:47:21+00:00",
-    "updated_at": "2026-07-01T19:47:21Z"
+    "created_at": "2026-07-02T08:54:46+00:00",
+    "updated_at": "2026-07-02T08:54:46Z"
   },
   {
     "id": "c27e8d2958c97bd282a8ddb6a1de08f2",
@@ -307,8 +307,36 @@
       "Unusual Suspects",
       "reviews"
     ],
-    "created_at": "2026-07-01T19:47:21+00:00",
-    "updated_at": "2026-07-01T19:47:21Z"
+    "created_at": "2026-07-02T08:54:46+00:00",
+    "updated_at": "2026-07-02T08:54:46Z"
+  },
+  {
+    "id": "c1afe1e7bb50d15df7bb0671070aac1f",
+    "title": "How a Self",
+    "author": "Erica Ezeifedi",
+    "description": "Plus, PEN America's Emerging Voices Fellows, 5 books that define America, and July's best historical fiction.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Today In Books"
+    ],
+    "genre": [
+      "Fiction"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-01",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/04/people-and-things-2026-04-03T210031.047.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/04/people-and-things-2026-04-03T210031.047.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/how-a-self-published-book-became-a-mega-bestseller/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Today in Books",
+      "reviews"
+    ],
+    "created_at": "2026-07-02T08:54:46+00:00",
+    "updated_at": "2026-07-02T08:54:46Z"
   },
   {
     "id": "a630ec3aa4fed50bc9972941459367d3",
@@ -333,8 +361,8 @@
       "News",
       "reviews"
     ],
-    "created_at": "2026-07-01T19:47:21+00:00",
-    "updated_at": "2026-07-01T19:47:21Z"
+    "created_at": "2026-07-02T08:54:46+00:00",
+    "updated_at": "2026-07-02T08:54:46Z"
   },
   {
     "id": "66d7124560972497de809246b5d84eb7",
@@ -365,8 +393,8 @@
       "The Midnight Special: The Secret Prison History of American Music (Book)",
       "books"
     ],
-    "created_at": "2026-07-01T19:47:21+00:00",
-    "updated_at": "2026-07-01T19:47:21Z"
+    "created_at": "2026-07-02T08:54:46+00:00",
+    "updated_at": "2026-07-02T08:54:46Z"
   },
   {
     "id": "c59190fa4a2bc96848bb78d4da64f31e",
@@ -395,8 +423,8 @@
       "Tremblay, Paul G (1971- )",
       "books"
     ],
-    "created_at": "2026-07-01T19:47:21+00:00",
-    "updated_at": "2026-07-01T19:47:21Z"
+    "created_at": "2026-07-02T08:54:46+00:00",
+    "updated_at": "2026-07-02T08:54:46Z"
   },
   {
     "id": "9a16c64fb780cb14cd7a101f81790c86",
@@ -426,8 +454,8 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-07-01T19:47:21+00:00",
-    "updated_at": "2026-07-01T19:47:21Z"
+    "created_at": "2026-07-02T08:54:46+00:00",
+    "updated_at": "2026-07-02T08:54:46Z"
   },
   {
     "id": "4c67af7b443e59255ae5e43165443d79",
@@ -459,8 +487,8 @@
       "Tessa Hadley",
       "books"
     ],
-    "created_at": "2026-07-01T19:47:21+00:00",
-    "updated_at": "2026-07-01T19:47:21Z"
+    "created_at": "2026-07-02T08:54:46+00:00",
+    "updated_at": "2026-07-02T08:54:46Z"
   },
   {
     "id": "ee63e738505d12320606baf053db956b",
@@ -492,8 +520,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-01T19:47:21+00:00",
-    "updated_at": "2026-07-01T19:47:21Z"
+    "created_at": "2026-07-02T08:54:46+00:00",
+    "updated_at": "2026-07-02T08:54:46Z"
   },
   {
     "id": "ccca60302399f6770c3c908dfe30c54d",
@@ -519,8 +547,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-01T19:47:21+00:00",
-    "updated_at": "2026-07-01T19:47:21Z"
+    "created_at": "2026-07-02T08:54:46+00:00",
+    "updated_at": "2026-07-02T08:54:46Z"
   },
   {
     "id": "c2d8eea76220462d7ba28d607acb5db5",
@@ -549,38 +577,8 @@
       "breaking in books",
       "reviews"
     ],
-    "created_at": "2026-07-01T19:47:21+00:00",
-    "updated_at": "2026-07-01T19:47:21Z"
-  },
-  {
-    "id": "d7b43bfc97d0d8d7899fc8f0f24d9041",
-    "title": "Book Riot’s Deals of the Day for June 30, 2026",
-    "author": "Deals",
-    "description": "Trevor Noah's bestselling memoir, Octavia Butler's classic with alien-human hybrids, nonfiction about an American journalist in WWII Paris, and more of today's best deals",
-    "summary_ai": "",
-    "categories": [
-      "Book Deals",
-      "Reviews"
-    ],
-    "genre": [
-      "Fiction",
-      "Memoir",
-      "Nonfiction"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-06-30",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2024/11/the-deep-dark-cover.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2024/11/the-deep-dark-cover.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-june-30-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Book Deals",
-      "reviews"
-    ],
-    "created_at": "2026-07-01T19:47:21+00:00",
-    "updated_at": "2026-07-01T19:47:21Z"
+    "created_at": "2026-07-02T08:54:46+00:00",
+    "updated_at": "2026-07-02T08:54:46Z"
   },
   {
     "id": "e3a89400decba23737a25a3689dbfdb6",
@@ -631,8 +629,8 @@
       "Wooldridge, Adrian",
       "books"
     ],
-    "created_at": "2026-07-01T19:47:21+00:00",
-    "updated_at": "2026-07-01T19:47:21Z"
+    "created_at": "2026-07-02T08:54:46+00:00",
+    "updated_at": "2026-07-02T08:54:46Z"
   },
   {
     "id": "f1fb870fa44b940ef024e5c3c54c44f1",
@@ -665,8 +663,8 @@
       "books",
       "genre-books-mystery"
     ],
-    "created_at": "2026-07-01T19:47:21+00:00",
-    "updated_at": "2026-07-01T19:47:21Z"
+    "created_at": "2026-07-02T08:54:46+00:00",
+    "updated_at": "2026-07-02T08:54:46Z"
   },
   {
     "id": "50ac1a8da1688d3990fe17a39c3079d3",
@@ -698,7 +696,7 @@
       "US politics",
       "books"
     ],
-    "created_at": "2026-07-01T19:47:21+00:00",
-    "updated_at": "2026-07-01T19:47:21Z"
+    "created_at": "2026-07-02T08:54:46+00:00",
+    "updated_at": "2026-07-02T08:54:46Z"
   }
 ]
