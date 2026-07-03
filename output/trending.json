@@ -36,8 +36,8 @@
       "X-Men: Elsewhen (Book)",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "74c1ca4d3b53df4caa08f60121db8f4e",
@@ -104,8 +104,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "16fdcd994f4068c8e6412e0a7322b8be",
@@ -133,8 +133,40 @@
       "Literary criticism",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:47+00:00",
-    "updated_at": "2026-07-03T09:16:47Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
+  },
+  {
+    "id": "caf669be3a82c7feb4166251008ceb7c",
+    "title": "The best recent poetry",
+    "author": "Rowland Bagnall",
+    "description": "Cafés by Holly Pester; The Acrobat by Wisława Szymborska; Volvelle by Rachael Boast; Tree of Knowledge by Victoria Chang; Talk a Blue Streak by Lila Matsumoto Cafés by Holly Pester (Fitzcarraldo, £12.99) Beginning with a sequence of prose poems in which the speaker embarks on an anti-epic quest to open her own cafe, Pester’s second collection builds into a meditation on the nature of desire and disappointment. Comic timing remains a strength, as does her linguistic flexibility, wielding language as a weapon in the face of exploitative working conditions, endless monthly direct debits (“Even my egg subscription is a disaster”) and an intensifying cost-of-living crisis. Juggling the demands of caring for an ageing parent, the excited desperation of a love affair, the “fudgy ordeal” of work and the possibility of parenthood, Pester’s speaker discovers solace in the third space of the cafe, both a meeting point and melting pot. “Here begins inspiration, here begins drama,” she suggests. “I order another coffee in honour of circumstantial life.” Ambitious and inviting, this confident collection confirms Fitzcarraldo’s entry in the arena of contemporary poetry. The Acrobat by Wisława...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Poetry"
+    ],
+    "genre": [
+      "History",
+      "Poetry"
+    ],
+    "language": "English",
+    "publisher": "Guardianbookshop",
+    "published_date": "2026-07-03",
+    "thumbnail": "https://i.guim.co.uk/img/media/11e87448a4d8de3440aad63b28a8c950433d3ed8/53_244_2419_1935/master/2419.jpg?width=700&quality=85&auto=format&fit=max&s=fc09067eeb4f2fd67ecffd7924b89472",
+    "cover_large": "https://i.guim.co.uk/img/media/11e87448a4d8de3440aad63b28a8c950433d3ed8/53_244_2419_1935/master/2419.jpg?width=700&quality=85&auto=format&fit=max&s=fc09067eeb4f2fd67ecffd7924b89472",
+    "article_url": "https://guardianbookshop.com/cafes-9781804272022/?amp%3Butm_medium=merch&amp%3Butm_campaign=article",
+    "source": "Guardianbookshop",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Poetry",
+      "books"
+    ],
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "41598cb79404480fc57dfa5fba5b74a6",
@@ -169,8 +201,8 @@
       "Theater (Broadway)",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "b52f17de64bf6dc08993911ee4a21fe8",
@@ -201,12 +233,12 @@
       "books",
       "genre-books-thriller"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "45ebb0018c8187a8ac21affc46c9dfc0",
-    "title": "Long Wave By Daisy Johnson review",
+    "title": "Long Wave by Daisy Johnson review",
     "author": "Rhiannon Lucy Cosslett",
     "description": "Covering three generations, this tangled story of secrets, childhood, abandonment and care might be her best work yet In 2018 Daisy Johnson was the youngest writer ever to be shortlisted for the Booker prize, for her debut novel Everything Under , a gender-fluid reimagining of the Oedipus myth involving canal boat communities and their complex family dynamics, plus a strange monster lurking in the depths. Before that, her short‐story collection Fen , with its blend of the uncanny and the workaday, was critically acclaimed. She has since written Sisters , a psychological horror that uses supernatural elements to explore sibling bonds and grief, and The Hotel , a series of seriously chilling interlinked ghost stories. Now comes Long Wave, which, while it shares some of these hallmarks, is in many ways finer and more subtle: perhaps her strongest work yet. Long Wave is a story of three generations of mothers. As a small child Ori was found after being “abandoned” by her mother on a wild, uninhabited island somewhere off the coast of England. What happened to Ori’s mother, and why they fled to the island together, only for Ori to later be found and adopted by a scientist specialising...",
     "summary_ai": "",
@@ -234,8 +266,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:47+00:00",
-    "updated_at": "2026-07-03T09:16:47Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "c6eec761b8e0bdc45fcf394549302bbd",
@@ -267,8 +299,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:47+00:00",
-    "updated_at": "2026-07-03T09:16:47Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "d25015c10483d243b5ad396fdd2dad00",
@@ -293,8 +325,8 @@
       "Book Riot Newsletter",
       "reviews"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "e3a1ab3ac172c2f6495b93f17134d27d",
@@ -321,8 +353,8 @@
       "reviews",
       "short stories"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "4056ab94b4973a45221e421e39facf9c",
@@ -349,8 +381,8 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "3a8309e5a9aaef8a44ba0dfdd4092c25",
@@ -382,8 +414,8 @@
       "Our Queerest Shelves",
       "reviews"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "5331ecbe6ed3ebb124e9167ae98fda50",
@@ -412,8 +444,8 @@
       "Young Adult Literature",
       "reviews"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "a9e819eb34cac123a208c566238fd724",
@@ -458,8 +490,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "17ee6de398e4d7a81180ffe8157aadce",
@@ -496,8 +528,8 @@
       "United States Politics and Government",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "d4ef3eab53e626ec47e8fc7b70cf967d",
@@ -558,8 +590,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "de99c85bd3909b122f332d6797cd7ac8",
@@ -598,8 +630,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "d1d616e8c628a0d77d0074bf268117de",
@@ -629,8 +661,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:47+00:00",
-    "updated_at": "2026-07-03T09:16:47Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "825fab730c67e928cdf7dd05af324142",
@@ -664,8 +696,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:47+00:00",
-    "updated_at": "2026-07-03T09:16:47Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "66d7124560972497de809246b5d84eb7",
@@ -696,37 +728,7 @@
       "The Midnight Special: The Secret Prison History of American Music (Book)",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
-  },
-  {
-    "id": "c59190fa4a2bc96848bb78d4da64f31e",
-    "title": "Book Review: ‘Dead but Dreaming of Electric Sheep,’ by Paul Tremblay",
-    "author": "Emily C. Hughes",
-    "description": "In Paul Tremblay’s new A.I. dystopia, “Dead but Dreaming of Electric Sheep,” an experimental technology gives its heroine control over somebody else’s body.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Dead But Dreaming Of Electric Sheep (Book)",
-      "Tremblay, Paul G (1971- )"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-30",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/30/books/30TBR-Tremblay-review-SUB01/30TBR-Tremblay-review-SUB01-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/30/books/30TBR-Tremblay-review-SUB01/30TBR-Tremblay-review-SUB01-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/30/books/review/dead-but-dreaming-of-electric-sheep-paul-tremblay.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Dead But Dreaming of Electric Sheep (Book)",
-      "Tremblay, Paul G (1971- )",
-      "books"
-    ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   }
 ]

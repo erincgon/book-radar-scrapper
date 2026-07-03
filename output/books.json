@@ -36,8 +36,8 @@
       "X-Men: Elsewhen (Book)",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "74c1ca4d3b53df4caa08f60121db8f4e",
@@ -104,8 +104,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "16fdcd994f4068c8e6412e0a7322b8be",
@@ -133,8 +133,40 @@
       "Literary criticism",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:47+00:00",
-    "updated_at": "2026-07-03T09:16:47Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
+  },
+  {
+    "id": "caf669be3a82c7feb4166251008ceb7c",
+    "title": "The best recent poetry",
+    "author": "Rowland Bagnall",
+    "description": "Cafés by Holly Pester; The Acrobat by Wisława Szymborska; Volvelle by Rachael Boast; Tree of Knowledge by Victoria Chang; Talk a Blue Streak by Lila Matsumoto Cafés by Holly Pester (Fitzcarraldo, £12.99) Beginning with a sequence of prose poems in which the speaker embarks on an anti-epic quest to open her own cafe, Pester’s second collection builds into a meditation on the nature of desire and disappointment. Comic timing remains a strength, as does her linguistic flexibility, wielding language as a weapon in the face of exploitative working conditions, endless monthly direct debits (“Even my egg subscription is a disaster”) and an intensifying cost-of-living crisis. Juggling the demands of caring for an ageing parent, the excited desperation of a love affair, the “fudgy ordeal” of work and the possibility of parenthood, Pester’s speaker discovers solace in the third space of the cafe, both a meeting point and melting pot. “Here begins inspiration, here begins drama,” she suggests. “I order another coffee in honour of circumstantial life.” Ambitious and inviting, this confident collection confirms Fitzcarraldo’s entry in the arena of contemporary poetry. The Acrobat by Wisława...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Poetry"
+    ],
+    "genre": [
+      "History",
+      "Poetry"
+    ],
+    "language": "English",
+    "publisher": "Guardianbookshop",
+    "published_date": "2026-07-03",
+    "thumbnail": "https://i.guim.co.uk/img/media/11e87448a4d8de3440aad63b28a8c950433d3ed8/53_244_2419_1935/master/2419.jpg?width=700&quality=85&auto=format&fit=max&s=fc09067eeb4f2fd67ecffd7924b89472",
+    "cover_large": "https://i.guim.co.uk/img/media/11e87448a4d8de3440aad63b28a8c950433d3ed8/53_244_2419_1935/master/2419.jpg?width=700&quality=85&auto=format&fit=max&s=fc09067eeb4f2fd67ecffd7924b89472",
+    "article_url": "https://guardianbookshop.com/cafes-9781804272022/?amp%3Butm_medium=merch&amp%3Butm_campaign=article",
+    "source": "Guardianbookshop",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Poetry",
+      "books"
+    ],
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "41598cb79404480fc57dfa5fba5b74a6",
@@ -169,8 +201,8 @@
       "Theater (Broadway)",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "b52f17de64bf6dc08993911ee4a21fe8",
@@ -201,12 +233,12 @@
       "books",
       "genre-books-thriller"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "45ebb0018c8187a8ac21affc46c9dfc0",
-    "title": "Long Wave By Daisy Johnson review",
+    "title": "Long Wave by Daisy Johnson review",
     "author": "Rhiannon Lucy Cosslett",
     "description": "Covering three generations, this tangled story of secrets, childhood, abandonment and care might be her best work yet In 2018 Daisy Johnson was the youngest writer ever to be shortlisted for the Booker prize, for her debut novel Everything Under , a gender-fluid reimagining of the Oedipus myth involving canal boat communities and their complex family dynamics, plus a strange monster lurking in the depths. Before that, her short‐story collection Fen , with its blend of the uncanny and the workaday, was critically acclaimed. She has since written Sisters , a psychological horror that uses supernatural elements to explore sibling bonds and grief, and The Hotel , a series of seriously chilling interlinked ghost stories. Now comes Long Wave, which, while it shares some of these hallmarks, is in many ways finer and more subtle: perhaps her strongest work yet. Long Wave is a story of three generations of mothers. As a small child Ori was found after being “abandoned” by her mother on a wild, uninhabited island somewhere off the coast of England. What happened to Ori’s mother, and why they fled to the island together, only for Ori to later be found and adopted by a scientist specialising...",
     "summary_ai": "",
@@ -234,8 +266,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:47+00:00",
-    "updated_at": "2026-07-03T09:16:47Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "c6eec761b8e0bdc45fcf394549302bbd",
@@ -267,8 +299,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:47+00:00",
-    "updated_at": "2026-07-03T09:16:47Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "a9e819eb34cac123a208c566238fd724",
@@ -313,8 +345,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "17ee6de398e4d7a81180ffe8157aadce",
@@ -351,8 +383,8 @@
       "United States Politics and Government",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "d4ef3eab53e626ec47e8fc7b70cf967d",
@@ -413,8 +445,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "de99c85bd3909b122f332d6797cd7ac8",
@@ -453,8 +485,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "d1d616e8c628a0d77d0074bf268117de",
@@ -484,8 +516,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:47+00:00",
-    "updated_at": "2026-07-03T09:16:47Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "825fab730c67e928cdf7dd05af324142",
@@ -519,8 +551,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:47+00:00",
-    "updated_at": "2026-07-03T09:16:47Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "66d7124560972497de809246b5d84eb7",
@@ -551,8 +583,8 @@
       "The Midnight Special: The Secret Prison History of American Music (Book)",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "c59190fa4a2bc96848bb78d4da64f31e",
@@ -581,8 +613,8 @@
       "Tremblay, Paul G (1971- )",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "9a16c64fb780cb14cd7a101f81790c86",
@@ -612,8 +644,8 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "4c67af7b443e59255ae5e43165443d79",
@@ -645,8 +677,35 @@
       "Tessa Hadley",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:47+00:00",
-    "updated_at": "2026-07-03T09:16:47Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
+  },
+  {
+    "id": "ccca60302399f6770c3c908dfe30c54d",
+    "title": "International Freak by M Syd Rosen review",
+    "author": "Sukhdev Sandhu",
+    "description": "Robin Farquharson was a prize-winning game theorist, anti-apartheid activist and countercultural chaos merchant Even as an undergraduate, Robin Farquharson was famous for being erratic. He provoked anxiety and goodwill in equal measure. His aim in life, according to an anonymous writer in an Oxford student newspaper, was “to become a contradiction in terms. Since last October, he has been cutting friends in the street; sleeping alternate nights in mysterious George Street garrets and obscure collegiate crypts.” The profile described his soul as “dogged, indomitable” and “fierce, incompatible”. Maybe. Later to become a prize-winning game theorist often hailed as a genius, he died aged just 42 in a squat fire on April Fools’ Day 1973. The poet Aidan Andrew Dun called him an “outsider among outsiders ... a luminous ruin of a man”. For anti-psychiatrist RD Laing, he was “very intelligent and totally out of his fucking mind”. Farquharson once joked he had been born a member of the master race in South Africa. He wasn’t entirely wrong. His father had founded a distinguished law firm in Pretoria; high-up politicians would regularly come over for dinner. He attended elite private schools...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "God he needed to share. Continue reading... Books",
+    "published_date": "2026-06-30",
+    "thumbnail": "https://i.guim.co.uk/img/media/74b06dc253c73b3d8b8383fc6d8b0e01fd3dd78e/163_0_1596_1277/master/1596.jpg?width=700&quality=85&auto=format&fit=max&s=df4a84bce1222787657fc5fbf0450faf",
+    "cover_large": "https://i.guim.co.uk/img/media/74b06dc253c73b3d8b8383fc6d8b0e01fd3dd78e/163_0_1596_1277/master/1596.jpg?width=700&quality=85&auto=format&fit=max&s=df4a84bce1222787657fc5fbf0450faf",
+    "article_url": "https://www.theguardian.com/books/2026/jun/30/international-freak-by-m-syd-rosen-review-the-british-timothy-leary",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "books"
+    ],
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "ee63e738505d12320606baf053db956b",
@@ -678,8 +737,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:47+00:00",
-    "updated_at": "2026-07-03T09:16:47Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "e3a89400decba23737a25a3689dbfdb6",
@@ -730,8 +789,8 @@
       "Wooldridge, Adrian",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "f1fb870fa44b940ef024e5c3c54c44f1",
@@ -764,8 +823,41 @@
       "books",
       "genre-books-mystery"
     ],
-    "created_at": "2026-07-03T09:16:47+00:00",
-    "updated_at": "2026-07-03T09:16:47Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
+  },
+  {
+    "id": "50ac1a8da1688d3990fe17a39c3079d3",
+    "title": "Communion by JD Vance review – a strange, poignant book about faith and the modern world",
+    "author": "Rowan Williams",
+    "description": "JD Vance’s Christian vision is thoughtful – but impossible to square with the political company he keeps At the heart of this strange, perhaps rather poignant, book is the biblical question: “What must I do to be saved?” Not in the crude sense of how to secure a place in heaven, but as an urgent challenge to a whole repertoire of destructive assumptions and habits endorsed by the majority culture. Vance’s famous first book, Hillbilly Elegy , chronicled, among other things, the impact of substance abuse on generations of the rural poor. It is not too much of a stretch to see this book as a vision of the modern west through the lens of addiction and its generational effects. Except, this time, it is the norms and expectations of elite modernity that are as lethal for the ambitious young professional as fentanyl is for the less privileged. Vance offers a diagnosis that is not particularly original, but derives its force from the intensity of the personal questioning he undertook to arrive at it. The US vice president describes with clarity the pervasive mechanisms, in education and the professional and political worlds, that induct us into wanting what others want – not what we...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Jd Vance",
+      "Religion",
+      "Rowan Williams",
+      "Us Politics"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-06-29",
+    "thumbnail": "https://i.guim.co.uk/img/media/7b88be7cfdb065c54c41dbdf0ea6d5fe12f73a6c/788_0_5906_4725/master/5906.jpg?width=700&quality=85&auto=format&fit=max&s=03401f294d25d0e84b2ed3b089769529",
+    "cover_large": "https://i.guim.co.uk/img/media/7b88be7cfdb065c54c41dbdf0ea6d5fe12f73a6c/788_0_5906_4725/master/5906.jpg?width=700&quality=85&auto=format&fit=max&s=03401f294d25d0e84b2ed3b089769529",
+    "article_url": "https://www.theguardian.com/books/2016/dec/07/hillbilly-elegy-by-jd-vance-review",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "JD Vance",
+      "Religion",
+      "Rowan Williams",
+      "US politics",
+      "books"
+    ],
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "34761a9f7f3fd02b57369312064b6c27",
@@ -793,8 +885,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:47+00:00",
-    "updated_at": "2026-07-03T09:16:47Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "8ebdc6552da5e8d3414600bc316d7087",
@@ -824,8 +916,52 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:47+00:00",
-    "updated_at": "2026-07-03T09:16:47Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
+  },
+  {
+    "id": "0ac5b938cc32e6883aadf518018516ff",
+    "title": "L.G.B.T.Q. Figures Who Shaped History From the Margins",
+    "author": "Ash Wu and Amisha Padnani",
+    "description": "Their names may not be familiar, but they helped define queer art, activism and storytelling as we know it today.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Bottner, Lorenza (1959-1994)",
+      "Gentili, Cecilia (1972-2024)",
+      "Harris, E Lynn",
+      "Homosexuality And Bisexuality",
+      "Jobriath (1946-83)",
+      "Kuromiya, Kiyoshi",
+      "Miss Major Griffin-Gracy",
+      "Sullivan, Lou (1951-91)",
+      "Transgender"
+    ],
+    "genre": [
+      "History"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-06-28",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/28/obituaries/28pride-month-obits_promo/28pride-month-obits_promo-mediumSquareAt3X-v2.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/28/obituaries/28pride-month-obits_promo/28pride-month-obits_promo-mediumSquareAt3X-v2.jpg",
+    "article_url": "https://www.nytimes.com/2026/06/28/us/lgbtq-pride-history-trailblazers.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Bottner, Lorenza (1959-1994)",
+      "Gentili, Cecilia (1972-2024)",
+      "Harris, E Lynn",
+      "Homosexuality and Bisexuality",
+      "Jobriath (1946-83)",
+      "Kuromiya, Kiyoshi",
+      "Miss Major Griffin-Gracy",
+      "Sullivan, Lou (1951-91)",
+      "Transgender",
+      "books"
+    ],
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "61bf728bd0dc96ce3d20a929184b8224",
@@ -864,8 +1000,8 @@
       "The Yahoo Boys: Love, Deception, and the Real Lives of Nigeria's Romance Scammers (Book)",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:47+00:00",
-    "updated_at": "2026-07-03T09:16:47Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "c43d1af95615dca6347c60690c639b02",
@@ -899,8 +1035,8 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:47+00:00",
-    "updated_at": "2026-07-03T09:16:47Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "a5da7a5431352db994e7ab18761aa4f4",
@@ -930,76 +1066,8 @@
       "True crime books",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:47+00:00",
-    "updated_at": "2026-07-03T09:16:47Z"
-  },
-  {
-    "id": "feb324ad590f7576779b3f5708068eae",
-    "title": "Fantastic Kingdom by Helene von Bismarck review – an outsider’s guide to British politics",
-    "author": "Pratinav Anil",
-    "description": "This stranger’s-eye-view of an eccentric nation promises insight but delivers only conventional wisdom ‘Continental people have sex lives; the English have hot-water bottles.” So observed Hungarian journalist George Mikes in How to Be an Alien (1946), one of the finest examples of a tradition in which foreigners explain Britain to itself. From Voltaire to VS Naipaul, outsiders have often illuminated national peculiarities, revealing contradictions so embedded in British life that they pass unnoticed. Helene von Bismarck’s Fantastic Kingdom is the latest contribution to this genre. Von Bismarck, a distant relative by marriage of the Iron Chancellor, seems ideally placed for the task. The name alone gives her project a certain piquancy; there is something almost Pynchonesque about a German historian with that name attempting to decipher Britain for the British. Raised across Europe as the daughter of a diplomat, educated at the same Brussels school attended by Boris Johnson and Ursula von der Leyen, and a frequent visitor to the UK for two decades, she possesses the combination of distance and familiarity that can produce genuine insight. Her grand theme is that Britain is a...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "History Books",
-      "Politics Books"
-    ],
-    "genre": [
-      "Politics"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-23",
-    "thumbnail": "https://i.guim.co.uk/img/media/d1e25862331c58a296354b9305efa45bb0d934c5/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=0fdf85c17307dfc85d6ee2bb97cddd38",
-    "cover_large": "https://i.guim.co.uk/img/media/d1e25862331c58a296354b9305efa45bb0d934c5/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=0fdf85c17307dfc85d6ee2bb97cddd38",
-    "article_url": "https://www.theguardian.com/books/2026/jun/23/fantastic-kingdom-by-helene-von-bismarck-review-an-outsiders-guide-to-british-politics",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "History books",
-      "Politics books",
-      "books"
-    ],
-    "created_at": "2026-07-03T09:16:47+00:00",
-    "updated_at": "2026-07-03T09:16:47Z"
-  },
-  {
-    "id": "6c0384d1ca7571d392bfdb539e0a6150",
-    "title": "The Reverse Centaur’s Guide to Life After AI by Cory Doctorow review",
-    "author": "Dorian Lynskey",
-    "description": "A vivid and entertaining polemic on the economics of the tech revolution, filled with righteous ire As former Google CEO Eric Schmidt could tell you, AI is a hard sell these days. Last month, he tried talking up the AI revolution during a commencement address at the University of Arizona and was loudly booed by students about to enter an AI-ravaged job market. His discombobulation was telling. Schmidt is not the only AI booster to crash out with students recently as the popular backlash grows. Every week brings a new story about some writer, publisher or academic who has torched their reputation by using an unreliable chatbot. Most US voters are opposed to the construction of vast, resource-guzzling new datacentres. A majority believe AI will negatively impact not just jobs but creativity and human relationships. In some quarters, saying that AI has any benefits at all is akin to saying that biological warfare gets a bad rap. As a New York Times column put it : “AI populism is here. And no one is ready.” Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Ai (Artificial Intelligence)",
-      "Books",
-      "Computing",
-      "Culture",
-      "Science And Nature Books",
-      "Technology"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-22",
-    "thumbnail": "https://i.guim.co.uk/img/media/c950225c1217464767e369fc79a152c2704e4cb4/982_662_5740_4591/master/5740.jpg?width=700&quality=85&auto=format&fit=max&s=99e86d1e2c3b75db6311b6945133877a",
-    "cover_large": "https://i.guim.co.uk/img/media/c950225c1217464767e369fc79a152c2704e4cb4/982_662_5740_4591/master/5740.jpg?width=700&quality=85&auto=format&fit=max&s=99e86d1e2c3b75db6311b6945133877a",
-    "article_url": "https://www.theguardian.com/us-news/2026/may/18/eric-schmidt-ai-university-commencement-speech-booed",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "AI (artificial intelligence)",
-      "Books",
-      "Computing",
-      "Culture",
-      "Science and nature books",
-      "Technology",
-      "books"
-    ],
-    "created_at": "2026-07-03T09:16:47+00:00",
-    "updated_at": "2026-07-03T09:16:47Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   },
   {
     "id": "0de47d5039ae63ef8405d47c6646d284",
@@ -1035,78 +1103,7 @@
       "Paperbacks",
       "books"
     ],
-    "created_at": "2026-07-03T09:16:47+00:00",
-    "updated_at": "2026-07-03T09:16:47Z"
-  },
-  {
-    "id": "3b9dd82283170fd137a9e4dea4ba8689",
-    "title": "The 100 best novels of all time",
-    "author": "As voted for by authors, critics and journalists",
-    "description": "The top 100 novels of all time published in English, as voted for by authors, critics and academics worldwide. How many have you read? Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "Fiction In Translation"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-05-16",
-    "thumbnail": "https://i.guim.co.uk/img/media/0b235abe226a90f26f501bc5ae6d8d02dbd58865/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=043a20feb06fac06b258f8b689dcff44",
-    "cover_large": "https://i.guim.co.uk/img/media/0b235abe226a90f26f501bc5ae6d8d02dbd58865/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=043a20feb06fac06b258f8b689dcff44",
-    "article_url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "Fiction in translation",
-      "books"
-    ],
-    "created_at": "2026-07-03T09:16:47+00:00",
-    "updated_at": "2026-07-03T09:16:47Z"
-  },
-  {
-    "id": "65d8c8ca1a174f11e32ec64ace3460db",
-    "title": "The Best Romance Novels of 2024 (So Far)",
-    "author": "Olivia Waite",
-    "description": "Looking for an escapist love story? Here are 2024’s sexiest, swooniest reads.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Chu, Lily (Author)",
-      "Genre-Books-Romance",
-      "Grossman, Felicia (Author)",
-      "Sebastian, Cat",
-      "Williams, Tia",
-      "You Should Be So Lucky (Book)"
-    ],
-    "genre": [
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2024-10-01",
-    "thumbnail": "https://static01.nyt.com/images/2024/05/03/books/review/03Romance-WhatToReadNow/03Romance-WhatToReadNow-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2024/05/03/books/review/03Romance-WhatToReadNow/03Romance-WhatToReadNow-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/article/best-romance-books.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Chu, Lily (Author)",
-      "Grossman, Felicia (Author)",
-      "Sebastian, Cat",
-      "Williams, Tia",
-      "You Should Be So Lucky (Book)",
-      "books",
-      "genre-books-romance"
-    ],
-    "created_at": "2026-07-03T09:16:46+00:00",
-    "updated_at": "2026-07-03T09:16:46Z"
+    "created_at": "2026-07-03T19:12:58+00:00",
+    "updated_at": "2026-07-03T19:12:58Z"
   }
 ]
