@@ -1,5 +1,29 @@
 [
   {
+    "id": "cd8d741b52b85d460eaead8a5402cb00",
+    "title": "After weeks of speculation, Taylor Swift, Travis Kelce wed in New York",
+    "author": "Rachel Treisman",
+    "description": "Superfans and sleuths appear to have their hunches confirmed on Friday, as dozens of black cars dropped off elegantly dressed guests outside of Madison Square Garden in New York City. The wedding bash is expected to last into Saturday morning.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "NPR Books",
+    "published_date": "2026-07-03",
+    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3543x2361+0+0/resize/3543x2361!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F37%2F214078384d25862e531dcd57fc7a%2Fgettyimages-2277904889.jpg",
+    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3543x2361+0+0/resize/3543x2361!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F37%2F214078384d25862e531dcd57fc7a%2Fgettyimages-2277904889.jpg",
+    "article_url": "https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg",
+    "source": "NPR Books",
+    "source_type": "rss",
+    "tags": [
+      "reviews"
+    ],
+    "created_at": "2026-07-04T08:35:39+00:00",
+    "updated_at": "2026-07-04T08:35:39Z"
+  },
+  {
     "id": "df3ecda1f222917f81fe3c8d55f7ae3d",
     "title": "What to read next based on your favorite A24 movie.",
     "author": "Brittany Allen",
@@ -78,8 +102,8 @@
       "reviews",
       "witches"
     ],
-    "created_at": "2026-07-03T19:12:58+00:00",
-    "updated_at": "2026-07-03T19:12:58Z"
+    "created_at": "2026-07-04T08:35:39+00:00",
+    "updated_at": "2026-07-04T08:35:39Z"
   },
   {
     "id": "bffcf973c82c5d5baf183df16fbddb39",
@@ -112,8 +136,8 @@
       "Reading Lists",
       "reviews"
     ],
-    "created_at": "2026-07-03T19:12:58+00:00",
-    "updated_at": "2026-07-03T19:12:58Z"
+    "created_at": "2026-07-04T08:35:39+00:00",
+    "updated_at": "2026-07-04T08:35:39Z"
   },
   {
     "id": "38e5be6f5d4d47b03938091a856bf281",
@@ -162,8 +186,8 @@
       "romance",
       "submitting"
     ],
-    "created_at": "2026-07-03T19:12:58+00:00",
-    "updated_at": "2026-07-03T19:12:58Z"
+    "created_at": "2026-07-04T08:35:39+00:00",
+    "updated_at": "2026-07-04T08:35:39Z"
   },
   {
     "id": "754d3f06b9aec1016d49231a68de96c7",
@@ -246,8 +270,8 @@
       "Walking Shadow",
       "reviews"
     ],
-    "created_at": "2026-07-03T19:12:58+00:00",
-    "updated_at": "2026-07-03T19:12:58Z"
+    "created_at": "2026-07-04T08:35:39+00:00",
+    "updated_at": "2026-07-04T08:35:39Z"
   },
   {
     "id": "448f761a5e76e6bb351759717e4fd416",
@@ -275,8 +299,8 @@
       "Lit Hub Daily",
       "reviews"
     ],
-    "created_at": "2026-07-03T19:12:58+00:00",
-    "updated_at": "2026-07-03T19:12:58Z"
+    "created_at": "2026-07-04T08:35:39+00:00",
+    "updated_at": "2026-07-04T08:35:39Z"
   },
   {
     "id": "f347ff0b1a84ab3e7752b245428141dc",
@@ -319,8 +343,8 @@
       "Trump",
       "reviews"
     ],
-    "created_at": "2026-07-03T19:12:58+00:00",
-    "updated_at": "2026-07-03T19:12:58Z"
+    "created_at": "2026-07-04T08:35:39+00:00",
+    "updated_at": "2026-07-04T08:35:39Z"
   },
   {
     "id": "9fbd1e788166931c226d246f888f4251",
@@ -397,8 +421,8 @@
       "sci-fi and fantasy",
       "science fiction"
     ],
-    "created_at": "2026-07-03T19:12:58+00:00",
-    "updated_at": "2026-07-03T19:12:58Z"
+    "created_at": "2026-07-04T08:35:39+00:00",
+    "updated_at": "2026-07-04T08:35:39Z"
   },
   {
     "id": "4e7a344f3dd9e8a15de463b5e695efe8",
@@ -431,8 +455,8 @@
       "Reading Lists",
       "reviews"
     ],
-    "created_at": "2026-07-03T19:12:58+00:00",
-    "updated_at": "2026-07-03T19:12:58Z"
+    "created_at": "2026-07-04T08:35:39+00:00",
+    "updated_at": "2026-07-04T08:35:39Z"
   },
   {
     "id": "d9e83447e2735e3a9d05162770e003ec",
@@ -519,8 +543,8 @@
       "monthly preview",
       "reviews"
     ],
-    "created_at": "2026-07-03T19:12:58+00:00",
-    "updated_at": "2026-07-03T19:12:58Z"
+    "created_at": "2026-07-04T08:35:39+00:00",
+    "updated_at": "2026-07-04T08:35:39Z"
   },
   {
     "id": "57df41c5e3b3240c871187fd4a6ddee7",
@@ -589,8 +613,8 @@
       "reading list",
       "reviews"
     ],
-    "created_at": "2026-07-03T19:12:58+00:00",
-    "updated_at": "2026-07-03T19:12:58Z"
+    "created_at": "2026-07-04T08:35:39+00:00",
+    "updated_at": "2026-07-04T08:35:39Z"
   },
   {
     "id": "cc610134f64ef5d26ec2713934735eaa",
@@ -617,8 +641,8 @@
       "Book Deals",
       "reviews"
     ],
-    "created_at": "2026-07-03T19:12:58+00:00",
-    "updated_at": "2026-07-03T19:12:58Z"
+    "created_at": "2026-07-04T08:35:39+00:00",
+    "updated_at": "2026-07-04T08:35:39Z"
   },
   {
     "id": "d073789993da68e7e82e03ca95ea6027",
@@ -645,8 +669,8 @@
       "breaking in books",
       "reviews"
     ],
-    "created_at": "2026-07-03T19:12:58+00:00",
-    "updated_at": "2026-07-03T19:12:58Z"
+    "created_at": "2026-07-04T08:35:39+00:00",
+    "updated_at": "2026-07-04T08:35:39Z"
   },
   {
     "id": "da784000d20962166c0f997ae4172311",
@@ -675,8 +699,8 @@
       "Swords and Spaceships",
       "reviews"
     ],
-    "created_at": "2026-07-03T19:12:58+00:00",
-    "updated_at": "2026-07-03T19:12:58Z"
+    "created_at": "2026-07-04T08:35:39+00:00",
+    "updated_at": "2026-07-04T08:35:39Z"
   },
   {
     "id": "ff1e24d6b0174661197f5e23ab0aa161",
@@ -707,8 +731,8 @@
       "reviews",
       "summerween"
     ],
-    "created_at": "2026-07-03T19:12:58+00:00",
-    "updated_at": "2026-07-03T19:12:58Z"
+    "created_at": "2026-07-04T08:35:39+00:00",
+    "updated_at": "2026-07-04T08:35:39Z"
   },
   {
     "id": "12052c488087f63a0fa81c5734d20a86",
@@ -737,8 +761,8 @@
       "The Kids Are All Right",
       "reviews"
     ],
-    "created_at": "2026-07-03T19:12:58+00:00",
-    "updated_at": "2026-07-03T19:12:58Z"
+    "created_at": "2026-07-04T08:35:39+00:00",
+    "updated_at": "2026-07-04T08:35:39Z"
   },
   {
     "id": "d25015c10483d243b5ad396fdd2dad00",
@@ -763,8 +787,8 @@
       "Book Riot Newsletter",
       "reviews"
     ],
-    "created_at": "2026-07-03T19:12:58+00:00",
-    "updated_at": "2026-07-03T19:12:58Z"
+    "created_at": "2026-07-04T08:35:39+00:00",
+    "updated_at": "2026-07-04T08:35:39Z"
   },
   {
     "id": "e3a1ab3ac172c2f6495b93f17134d27d",
@@ -791,8 +815,8 @@
       "reviews",
       "short stories"
     ],
-    "created_at": "2026-07-03T19:12:58+00:00",
-    "updated_at": "2026-07-03T19:12:58Z"
+    "created_at": "2026-07-04T08:35:39+00:00",
+    "updated_at": "2026-07-04T08:35:39Z"
   },
   {
     "id": "2b5cf1c885d4f1ac8eaecee45f993305",
@@ -815,14 +839,14 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-07-03T19:12:58+00:00",
-    "updated_at": "2026-07-03T19:12:58Z"
+    "created_at": "2026-07-04T08:35:39+00:00",
+    "updated_at": "2026-07-04T08:35:39Z"
   },
   {
-    "id": "9f47611b884544e3c389e9b6a1e70968",
-    "title": "Why Taylor Swift's rumored wedding has fans watching New York",
-    "author": "Leila Fadel",
-    "description": "Taylor Swift and Travis Kelce are rumored to celebrate at Madison Square Garden on July 3, with speculation ranging from a wedding reception to surprise musical performances.",
+    "id": "dc7c5b10767f6dd5063a777668e09a9e",
+    "title": "The songs that reflect the complex and sometimes contradictory identity of America",
+    "author": "Juana Summers",
+    "description": "On the eve of America's 250th birthday, NPR's Juana Summers talks with NPR Music's Stephen Thompson and Sheldon Pearce about songs that reflect the country's complex identity.",
     "summary_ai": "",
     "categories": [
       "Reviews"
@@ -830,17 +854,17 @@
     "genre": [],
     "language": "English",
     "publisher": "NPR Books",
-    "published_date": "2026-06-26",
-    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4521x3013+0+0/resize/4521x3013!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffa%2F8f%2F2b9edcd0406d85f2bb2866945224%2Fgettyimages-2170226233-1.jpg",
-    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4521x3013+0+0/resize/4521x3013!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffa%2F8f%2F2b9edcd0406d85f2bb2866945224%2Fgettyimages-2170226233-1.jpg",
-    "article_url": "https://www.npr.org/2026/06/26/nx-s1-5870970/taylor-swift-travis-kelce-wedding-rumors-madison-square-garden",
+    "published_date": "2026-07-03",
+    "thumbnail": "",
+    "cover_large": "",
+    "article_url": "https://www.npr.org/2026/07/03/nx-s1-5871381/the-songs-that-reflect-the-complex-and-sometimes-contradictory-identity-of-america",
     "source": "NPR Books",
     "source_type": "rss",
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-07-03T19:12:58+00:00",
-    "updated_at": "2026-07-03T19:12:58Z"
+    "created_at": "2026-07-04T08:35:39+00:00",
+    "updated_at": "2026-07-04T08:35:39Z"
   },
   {
     "id": "4056ab94b4973a45221e421e39facf9c",
@@ -867,8 +891,8 @@
       "Today in Books",
       "reviews"
     ],
-    "created_at": "2026-07-03T19:12:58+00:00",
-    "updated_at": "2026-07-03T19:12:58Z"
+    "created_at": "2026-07-04T08:35:39+00:00",
+    "updated_at": "2026-07-04T08:35:39Z"
   },
   {
     "id": "3a8309e5a9aaef8a44ba0dfdd4092c25",
@@ -900,8 +924,8 @@
       "Our Queerest Shelves",
       "reviews"
     ],
-    "created_at": "2026-07-03T19:12:58+00:00",
-    "updated_at": "2026-07-03T19:12:58Z"
+    "created_at": "2026-07-04T08:35:39+00:00",
+    "updated_at": "2026-07-04T08:35:39Z"
   },
   {
     "id": "5331ecbe6ed3ebb124e9167ae98fda50",
@@ -930,7 +954,7 @@
       "Young Adult Literature",
       "reviews"
     ],
-    "created_at": "2026-07-03T19:12:58+00:00",
-    "updated_at": "2026-07-03T19:12:58Z"
+    "created_at": "2026-07-04T08:35:39+00:00",
+    "updated_at": "2026-07-04T08:35:39Z"
   }
 ]
