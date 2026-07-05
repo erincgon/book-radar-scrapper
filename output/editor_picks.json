@@ -1,5 +1,59 @@
 [
   {
+    "id": "c0200a4db1b60c14dbd8571ba3c44b3e",
+    "title": "Book Riot’s Deals of the Day for July 5, 2026",
+    "author": "Deals",
+    "description": "A most anticipated 2026 literary release, a Japanese novel on obsession, a thrilling chase across Europe, and more of today's best deals",
+    "summary_ai": "",
+    "categories": [
+      "Book Deals",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-05",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/01/The-Complex-Karan-Mahajan-cover-199x300.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/01/The-Complex-Karan-Mahajan-cover-199x300.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-july-5-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Book Deals",
+      "reviews"
+    ],
+    "created_at": "2026-07-05T19:10:11+00:00",
+    "updated_at": "2026-07-05T19:10:11Z"
+  },
+  {
+    "id": "42d0f9773975672bc7cd5be07c6ec65b",
+    "title": "The Book News We Covered This Week",
+    "author": "Community",
+    "description": "The most popular queer romance audiobooks on Libby, a writer accused of using AI wins a literary prize, Alix E. Harrow's latest gets picked up by Netflix, and more",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Today In Books"
+    ],
+    "genre": [
+      "Romance"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-05",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/04/eyeglasses-coffee-newspapers-white-table-news.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/04/eyeglasses-coffee-newspapers-white-table-news.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/today-in-books-july-5-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Today in Books",
+      "reviews"
+    ],
+    "created_at": "2026-07-05T19:10:11+00:00",
+    "updated_at": "2026-07-05T19:10:11Z"
+  },
+  {
     "id": "faddbfa54d1c64fbc5d4d72ddfecd91f",
     "title": "Lit Hub Weekly: June 29 – July 3, 2026",
     "author": "Lit Hub Daily",
@@ -25,8 +79,8 @@
       "Lit Hub Daily",
       "reviews"
     ],
-    "created_at": "2026-07-05T08:51:17+00:00",
-    "updated_at": "2026-07-05T08:51:17Z"
+    "created_at": "2026-07-05T19:10:11+00:00",
+    "updated_at": "2026-07-05T19:10:11Z"
   },
   {
     "id": "cd8d741b52b85d460eaead8a5402cb00",
@@ -49,8 +103,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-07-05T08:51:17+00:00",
-    "updated_at": "2026-07-05T08:51:17Z"
+    "created_at": "2026-07-05T19:10:11+00:00",
+    "updated_at": "2026-07-05T19:10:11Z"
   },
   {
     "id": "dc7c5b10767f6dd5063a777668e09a9e",
@@ -73,8 +127,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-07-05T08:51:17+00:00",
-    "updated_at": "2026-07-05T08:51:17Z"
+    "created_at": "2026-07-05T19:10:11+00:00",
+    "updated_at": "2026-07-05T19:10:11Z"
   },
   {
     "id": "df3ecda1f222917f81fe3c8d55f7ae3d",
@@ -155,8 +209,8 @@
       "reviews",
       "witches"
     ],
-    "created_at": "2026-07-05T08:51:17+00:00",
-    "updated_at": "2026-07-05T08:51:17Z"
+    "created_at": "2026-07-05T19:10:11+00:00",
+    "updated_at": "2026-07-05T19:10:11Z"
   },
   {
     "id": "bffcf973c82c5d5baf183df16fbddb39",
@@ -189,8 +243,8 @@
       "Reading Lists",
       "reviews"
     ],
-    "created_at": "2026-07-05T08:51:17+00:00",
-    "updated_at": "2026-07-05T08:51:17Z"
+    "created_at": "2026-07-05T19:10:11+00:00",
+    "updated_at": "2026-07-05T19:10:11Z"
   },
   {
     "id": "38e5be6f5d4d47b03938091a856bf281",
@@ -239,8 +293,8 @@
       "romance",
       "submitting"
     ],
-    "created_at": "2026-07-05T08:51:17+00:00",
-    "updated_at": "2026-07-05T08:51:17Z"
+    "created_at": "2026-07-05T19:10:11+00:00",
+    "updated_at": "2026-07-05T19:10:11Z"
   },
   {
     "id": "754d3f06b9aec1016d49231a68de96c7",
@@ -323,8 +377,8 @@
       "Walking Shadow",
       "reviews"
     ],
-    "created_at": "2026-07-05T08:51:17+00:00",
-    "updated_at": "2026-07-05T08:51:17Z"
+    "created_at": "2026-07-05T19:10:11+00:00",
+    "updated_at": "2026-07-05T19:10:11Z"
   },
   {
     "id": "448f761a5e76e6bb351759717e4fd416",
@@ -352,8 +406,8 @@
       "Lit Hub Daily",
       "reviews"
     ],
-    "created_at": "2026-07-05T08:51:17+00:00",
-    "updated_at": "2026-07-05T08:51:17Z"
+    "created_at": "2026-07-05T19:10:11+00:00",
+    "updated_at": "2026-07-05T19:10:11Z"
   },
   {
     "id": "f347ff0b1a84ab3e7752b245428141dc",
@@ -396,8 +450,8 @@
       "Trump",
       "reviews"
     ],
-    "created_at": "2026-07-05T08:51:17+00:00",
-    "updated_at": "2026-07-05T08:51:17Z"
+    "created_at": "2026-07-05T19:10:11+00:00",
+    "updated_at": "2026-07-05T19:10:11Z"
   },
   {
     "id": "9fbd1e788166931c226d246f888f4251",
@@ -474,8 +528,8 @@
       "sci-fi and fantasy",
       "science fiction"
     ],
-    "created_at": "2026-07-05T08:51:17+00:00",
-    "updated_at": "2026-07-05T08:51:17Z"
+    "created_at": "2026-07-05T19:10:11+00:00",
+    "updated_at": "2026-07-05T19:10:11Z"
   },
   {
     "id": "4e7a344f3dd9e8a15de463b5e695efe8",
@@ -508,8 +562,8 @@
       "Reading Lists",
       "reviews"
     ],
-    "created_at": "2026-07-05T08:51:17+00:00",
-    "updated_at": "2026-07-05T08:51:17Z"
+    "created_at": "2026-07-05T19:10:11+00:00",
+    "updated_at": "2026-07-05T19:10:11Z"
   },
   {
     "id": "d9e83447e2735e3a9d05162770e003ec",
@@ -596,36 +650,8 @@
       "monthly preview",
       "reviews"
     ],
-    "created_at": "2026-07-05T08:51:17+00:00",
-    "updated_at": "2026-07-05T08:51:17Z"
-  },
-  {
-    "id": "cc610134f64ef5d26ec2713934735eaa",
-    "title": "Book Riot’s Deals of the Day for July 2, 2026",
-    "author": "Deals",
-    "description": "Exploring the work of Toni Morrison, murder and cannibalism in psychological horror, a colonial revenge story in 16th century Mexico, and more of today's best book deals",
-    "summary_ai": "",
-    "categories": [
-      "Book Deals",
-      "Reviews"
-    ],
-    "genre": [
-      "Horror"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-02",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/10/the-eyes-are-the-best-part-200x300.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/10/the-eyes-are-the-best-part-200x300.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-july-2-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Book Deals",
-      "reviews"
-    ],
-    "created_at": "2026-07-05T08:51:17+00:00",
-    "updated_at": "2026-07-05T08:51:17Z"
+    "created_at": "2026-07-05T19:10:11+00:00",
+    "updated_at": "2026-07-05T19:10:11Z"
   },
   {
     "id": "d073789993da68e7e82e03ca95ea6027",
@@ -652,37 +678,7 @@
       "breaking in books",
       "reviews"
     ],
-    "created_at": "2026-07-05T08:51:17+00:00",
-    "updated_at": "2026-07-05T08:51:17Z"
-  },
-  {
-    "id": "da784000d20962166c0f997ae4172311",
-    "title": "THE EVERLASTING is Being Made Into a Netflix Series and More SFF News",
-    "author": "Liberty Hardy",
-    "description": "In this round-up of recent sci-fi and fantasy links, learn about the adaptation of The Everlasting by Alix E. Harrow!",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Science Fiction/Fantasy",
-      "Swords And Spaceships"
-    ],
-    "genre": [
-      "Fantasy"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-02",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/09/The-Everlasting-by-Alix-E.-Harrow.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/09/The-Everlasting-by-Alix-E.-Harrow.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/the-everlasting-adaptation/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Science Fiction/Fantasy",
-      "Swords and Spaceships",
-      "reviews"
-    ],
-    "created_at": "2026-07-05T08:51:17+00:00",
-    "updated_at": "2026-07-05T08:51:17Z"
+    "created_at": "2026-07-05T19:10:11+00:00",
+    "updated_at": "2026-07-05T19:10:11Z"
   }
 ]
