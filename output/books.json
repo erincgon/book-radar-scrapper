@@ -1,7 +1,74 @@
 [
   {
-    "id": "1c7f209fcd636dec0c5abecea98793fd",
-    "title": "Mike Wallace, Who Wrote a Radical History of New York, Dies at 83",
+    "id": "95278e82f5d625779bec536c4ee030ea",
+    "title": "The Land and Its People by David Sedaris review",
+    "author": "Emma Brockes",
+    "description": "Sedaris plays up the curmudgeonliness in a collection that nevertheless entertains I’ll confess my heart sank slightly at the prospect of reading David Sedaris’s new volume of essays, some of them previously published in the New Yorker, and which, relative to his earlier output, strike me as increasingly shticky and reliant on anecdotes too thin for their weight. (From the essay Little America: “Few things drive me crazier than people who put their feet up on the furniture.”) After nine previous volumes, Sedaris would seem to be suffering from a problem that comes to all writers in the end, and memoir writers in particular, which is a dearth of useable material. What can there possibly be left in the Sedaris backstory that the writer hasn’t already mined? Well, as it turns out, there is still lots of useable stuff, as well as some an editor could have put a red line through, although Sedaris, who has sold more than 16m books, may well consider himself part of the post-editing elite. (I was reminded while reading of a line from a profile of JK Rowling several years ago in which, referring to The Casual Vacancy, Ian Parker wrote : “Some sentences cause you to picture a Little...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "David Sedaris",
+      "Essays"
+    ],
+    "genre": [
+      "Essays",
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "Little, Brown",
+    "published_date": "2026-07-06",
+    "thumbnail": "https://i.guim.co.uk/img/media/25f359c8891c8528d631c7040f2f37045f55efcd/0_0_3200_2560/master/3200.jpg?width=700&quality=85&auto=format&fit=max&s=cb4f3c3449b212d7d2716727e8546177",
+    "cover_large": "https://i.guim.co.uk/img/media/25f359c8891c8528d631c7040f2f37045f55efcd/0_0_3200_2560/master/3200.jpg?width=700&quality=85&auto=format&fit=max&s=cb4f3c3449b212d7d2716727e8546177",
+    "article_url": "https://www.newyorker.com/magazine/2012/10/01/mugglemarch?currentPage=all&amp%3Bamp%3Bmobify=0",
+    "source": "Newyorker",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "David Sedaris",
+      "Essays",
+      "books"
+    ],
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
+  },
+  {
+    "id": "2e7327f03e80aed3447879c35f164598",
+    "title": "Contrapposto by Dave Eggers review",
+    "author": "Sukhdev Sandhu",
+    "description": "The story of a lifelong friendship between two art-world mavericks from the working-class midwest is disappointingly pious Dave Eggers, the author of more than a dozen novels as well as a steady stream of children’s and nonfiction books, grew up wanting to be an artist.As a child he took lessons with a Japanese watercolourist, studied painting at college, worked as a magazine cartoonist and illustrator, even curated a New York show entitled Lots of Things Like This featuring pieces by Jean-Michel Basquiat and Marcel Duchamp. He is soon to open a project in San Francisco that he has been hatching for a decade – Art + Water, an amalgam of art school, affordable studios, exhibition galleries and local gathering point. Cricket Dibb, the cloyingly named hero of Contrapposto, would love a place like Art + Water. He’s 10 years old, a working-class midwestern kid who passes raccoons and broken tractors on his way to school. His stepfather, Robert, thinks nothing of beating his mother, calling her “a gimpy whore”, stealing any money she’s saved. Cricket hates him, not least on aesthetic grounds – “his ugly gold watch, his mouth full of black fillings, his bony bald head, his pockmarked...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction"
+    ],
+    "genre": [
+      "Children",
+      "Fiction",
+      "Nonfiction"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-06",
+    "thumbnail": "https://i.guim.co.uk/img/media/7901ea7bae30ad36ff20fcd5837024eb9fc7bb8f/188_273_1991_1593/master/1991.jpg?width=700&quality=85&auto=format&fit=max&s=d50f0115652fb8037fe39d611048c00e",
+    "cover_large": "https://i.guim.co.uk/img/media/7901ea7bae30ad36ff20fcd5837024eb9fc7bb8f/188_273_1991_1593/master/1991.jpg?width=700&quality=85&auto=format&fit=max&s=d50f0115652fb8037fe39d611048c00e",
+    "article_url": "https://www.theguardian.com/books/2026/jul/06/contrapposto-by-dave-eggers-review-this-portrait-of-an-artist-falls-flat",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "books"
+    ],
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
+  },
+  {
+    "id": "4801569f8f39957d63009b2b07343549",
+    "title": "Mike Wallace, Who Wrote an Acclaimed History of New York, Dies at 83",
     "author": "Sam Roberts",
     "description": "His 1998 book, “Gotham,” which told the city’s story to 1898, focused on social and economic conflict. It won a Pulitzer Prize and inspired two sequels.",
     "summary_ai": "",
@@ -38,8 +105,8 @@
       "Wallace, Mike (1942-2026)",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:28+00:00",
+    "updated_at": "2026-07-06T10:19:28Z"
   },
   {
     "id": "a047e0a70a7e7291efe68a669aefc60f",
@@ -74,8 +141,8 @@
       "The Face (Book)",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:28+00:00",
+    "updated_at": "2026-07-06T10:19:28Z"
   },
   {
     "id": "e636fbf53744010645d9041fca6db7b9",
@@ -104,8 +171,8 @@
       "Mason, Daniel",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:28+00:00",
+    "updated_at": "2026-07-06T10:19:28Z"
   },
   {
     "id": "655f7742b274bbce0efe2fe351872198",
@@ -135,8 +202,8 @@
       "Virginia Woolf",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
   },
   {
     "id": "eec0252e0fc0d3386cd48032cb504456",
@@ -166,8 +233,8 @@
       "Psychology",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
   },
   {
     "id": "7156425e36a11ccbb09d850bd60d21ae",
@@ -195,8 +262,8 @@
       "Illustration",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
   },
   {
     "id": "9a8b378e18f4629c6f0f5d5b8ad8d654",
@@ -230,8 +297,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
   },
   {
     "id": "338fa6b551a13cd820ec0574d686cf78",
@@ -254,8 +321,8 @@
     "language": "English",
     "publisher": "The New York Times",
     "published_date": "2026-07-03",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/03/books/03TBR-John-Byrne/03TBR-John-Byrne-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/03/books/03TBR-John-Byrne/03TBR-John-Byrne-mediumSquareAt3X.jpg",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/06/books/03TBR-John-Byrne/03TBR-John-Byrne-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/06/books/03TBR-John-Byrne/03TBR-John-Byrne-mediumSquareAt3X.jpg",
     "article_url": "https://www.nytimes.com/2026/07/03/books/review/john-byrne-x-men-elsewhen.html",
     "source": "The New York Times",
     "source_type": "rss",
@@ -270,8 +337,8 @@
       "X-Men: Elsewhen (Book)",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:28+00:00",
+    "updated_at": "2026-07-06T10:19:28Z"
   },
   {
     "id": "74c1ca4d3b53df4caa08f60121db8f4e",
@@ -338,8 +405,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:28+00:00",
+    "updated_at": "2026-07-06T10:19:28Z"
   },
   {
     "id": "16fdcd994f4068c8e6412e0a7322b8be",
@@ -367,8 +434,8 @@
       "Literary criticism",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
   },
   {
     "id": "caf669be3a82c7feb4166251008ceb7c",
@@ -399,8 +466,8 @@
       "Poetry",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
   },
   {
     "id": "41598cb79404480fc57dfa5fba5b74a6",
@@ -422,8 +489,8 @@
     "language": "English",
     "publisher": "The New York Times",
     "published_date": "2026-07-02",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/02/multimedia/02Kimball--04-zgkm/02Kimball--04-zgkm-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/02/multimedia/02Kimball--04-zgkm/02Kimball--04-zgkm-mediumSquareAt3X.jpg",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/06/multimedia/02Kimball--04-zgkm/02Kimball--04-zgkm-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/06/multimedia/02Kimball--04-zgkm/02Kimball--04-zgkm-mediumSquareAt3X.jpg",
     "article_url": "https://www.nytimes.com/2026/07/02/theater/robert-kimball-dead.html",
     "source": "The New York Times",
     "source_type": "rss",
@@ -435,8 +502,8 @@
       "Theater (Broadway)",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:28+00:00",
+    "updated_at": "2026-07-06T10:19:28Z"
   },
   {
     "id": "b52f17de64bf6dc08993911ee4a21fe8",
@@ -469,8 +536,8 @@
       "genre-books-thriller",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:28+00:00",
+    "updated_at": "2026-07-06T10:19:28Z"
   },
   {
     "id": "45ebb0018c8187a8ac21affc46c9dfc0",
@@ -502,8 +569,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
   },
   {
     "id": "a9e819eb34cac123a208c566238fd724",
@@ -548,8 +615,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:28+00:00",
+    "updated_at": "2026-07-06T10:19:28Z"
   },
   {
     "id": "17ee6de398e4d7a81180ffe8157aadce",
@@ -586,8 +653,8 @@
       "United States Politics and Government",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:28+00:00",
+    "updated_at": "2026-07-06T10:19:28Z"
   },
   {
     "id": "d4ef3eab53e626ec47e8fc7b70cf967d",
@@ -648,8 +715,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:28+00:00",
+    "updated_at": "2026-07-06T10:19:28Z"
   },
   {
     "id": "de99c85bd3909b122f332d6797cd7ac8",
@@ -688,8 +755,43 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:28+00:00",
+    "updated_at": "2026-07-06T10:19:28Z"
+  },
+  {
+    "id": "825fab730c67e928cdf7dd05af324142",
+    "title": "Depraved by Daisy Dixon review",
+    "author": "Chloë Ashby",
+    "description": "From classical painting to video games, this survey of the taboo and the twisted won’t let you look away Museums are damned if they do, damned if they don’t. Ignore the problems of the past and they’re criticised for being problematic. Rewrite their labels according to changing politics and they’re called preachy and woke. The fact is, history is filled with immoral art. But how do we know it when we see it? And what, if anything, should we be doing about it? In her timely and punchy new book, the philosopher Daisy Dixon explores some of the most controversial artworks ever produced. She’s interested in how an artist’s character can influence their creations, and the harmful effects those creations can have on the world. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Art",
+      "Art And Design",
+      "Art And Design Books",
+      "Books",
+      "Culture"
+    ],
+    "genre": [
+      "History",
+      "Politics"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-01",
+    "thumbnail": "https://i.guim.co.uk/img/media/4ae9897dc2c666a751c50ce7ae24e60d05fef09f/0_308_6000_4801/master/6000.jpg?width=700&quality=85&auto=format&fit=max&s=8918b7281a24a4378023a1b679eb8932",
+    "cover_large": "https://i.guim.co.uk/img/media/4ae9897dc2c666a751c50ce7ae24e60d05fef09f/0_308_6000_4801/master/6000.jpg?width=700&quality=85&auto=format&fit=max&s=8918b7281a24a4378023a1b679eb8932",
+    "article_url": "https://www.theguardian.com/books/2026/jul/01/depraved-by-daisy-dixon-review-a-history-of-dark-and-dangerous-art",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Art",
+      "Art and design",
+      "Art and design books",
+      "Culture",
+      "books"
+    ],
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
   },
   {
     "id": "66d7124560972497de809246b5d84eb7",
@@ -720,8 +822,8 @@
       "The Midnight Special: The Secret Prison History of American Music (Book)",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
   },
   {
     "id": "c59190fa4a2bc96848bb78d4da64f31e",
@@ -750,39 +852,8 @@
       "Tremblay, Paul G (1971- )",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
-  },
-  {
-    "id": "9a16c64fb780cb14cd7a101f81790c86",
-    "title": "22 New Books to Read in July: Colson Whitehead, Alice Oseman, Daniel Mason and More",
-    "author": "",
-    "description": "Novels by Colson Whitehead and Daniel Mason, the final “Heartstopper” graphic novel, gripping thrillers, lush romantasy, true crime and more.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Content Type: Service"
-    ],
-    "genre": [
-      "Crime",
-      "Thriller"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-30",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/22/books/22TBR-July-Books-SUB02/22TBR-July-Books-SUB02-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/22/books/22TBR-July-Books-SUB02/22TBR-July-Books-SUB02-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/29/books/new-books-july.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Content Type: Service",
-      "books"
-    ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
   },
   {
     "id": "4c67af7b443e59255ae5e43165443d79",
@@ -814,8 +885,8 @@
       "Tessa Hadley",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
   },
   {
     "id": "ccca60302399f6770c3c908dfe30c54d",
@@ -841,8 +912,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
   },
   {
     "id": "ee63e738505d12320606baf053db956b",
@@ -874,60 +945,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
-  },
-  {
-    "id": "e3a89400decba23737a25a3689dbfdb6",
-    "title": "Liberals Are Preaching Moral Values. What Took Them So Long?",
-    "author": "Jennifer Szalai",
-    "description": "Until recently, the language of morality belonged to social conservatives. But the history of liberalism suggests that values have been at its core all along.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Civil Rights Movement (1954-68)",
-      "Conservatism (Us Politics)",
-      "Democratic Party",
-      "Ethics (Personal)",
-      "Liberalism (Us Politics)",
-      "Liberalism Against Itself: Cold War Intellectuals And The Making Of Our Times (Book)",
-      "Moyn, Samuel",
-      "Rosenblatt, Helena (1961- )",
-      "The Lost History Of Liberalism: From Ancient Rome To The Twenty-First Century (Book)",
-      "The Revolutionary Center: The Lost Genius Of Liberalism (Book)",
-      "United States Politics And Government",
-      "Wooldridge, Adrian"
-    ],
-    "genre": [
-      "History"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-06-29",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/17/books/17TBR-Ideas-Liberalism-Morality/17TBR-Ideas-Liberalism-Morality-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/17/books/17TBR-Ideas-Liberalism-Morality/17TBR-Ideas-Liberalism-Morality-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/06/29/books/review/liberals-are-preaching-moral-values.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Civil Rights Movement (1954-68)",
-      "Conservatism (US Politics)",
-      "Democratic Party",
-      "Ethics (Personal)",
-      "Liberalism (US Politics)",
-      "Liberalism Against Itself: Cold War Intellectuals and the Making of Our Times (Book)",
-      "Moyn, Samuel",
-      "Rosenblatt, Helena (1961- )",
-      "The Lost History of Liberalism: From Ancient Rome to the Twenty-First Century (Book)",
-      "The Revolutionary Center: The Lost Genius of Liberalism (Book)",
-      "United States Politics and Government",
-      "Wooldridge, Adrian",
-      "books"
-    ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
   },
   {
     "id": "50ac1a8da1688d3990fe17a39c3079d3",
@@ -959,8 +978,8 @@
       "US politics",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
   },
   {
     "id": "34761a9f7f3fd02b57369312064b6c27",
@@ -988,39 +1007,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
-  },
-  {
-    "id": "8ebdc6552da5e8d3414600bc316d7087",
-    "title": "Father Alberto and the Flying Girl by Timothy X Atack review",
-    "author": "David Hayden",
-    "description": "A parish priest cares for the mentally afflicted in an absorbing tale that combines antic comedy with serious moral themes In 1474, in a fictional location in southern Europe, Father Alberto arrives from Jormel Abbey, where he has failed in his ambition to become a manuscript illuminator at their renowned scriptorium. He is the new parish priest of the villages of Hem and Long, whose congregants are generally “piebald and errant”, but not the most peculiar or refractory of his flock. Among his duties is to tend to the mentally afflicted of the convent of Saint Particular, patron saint of the unloved, who are confined in cells for the greater part of the year. The fearsome Abbess and the silent Sister Lorenza introduce Alberto to his charges using the Index, an annotated manuscript of the inmates whose strange minds are “filled o’er the brim”. They include Pieter Mastiff, a raging, blaspheming carpenter; Selina, compulsively naked and unhappily sexual; Carin Marina, a former princess with a secret; Malike Dene, who has scarred his body with a map of the “topography of the universe known”; Zanzibar, a homicidal horse; and a mute girl in rags who “remorselessly attempts to fly”.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [
-      "Fiction"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-29",
-    "thumbnail": "https://i.guim.co.uk/img/media/3eb261426c0d77f2d78c75c7fb14d784010ac97b/33_148_3979_3183/master/3979.jpg?width=700&quality=85&auto=format&fit=max&s=b82b644bf509c85853a80c5a14b19962",
-    "cover_large": "https://i.guim.co.uk/img/media/3eb261426c0d77f2d78c75c7fb14d784010ac97b/33_148_3979_3183/master/3979.jpg?width=700&quality=85&auto=format&fit=max&s=b82b644bf509c85853a80c5a14b19962",
-    "article_url": "https://www.theguardian.com/books/2026/jun/29/father-alberto-and-the-flying-girl-by-timothy-x-atack-review-a-fable-of-medieval-madness",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
   },
   {
     "id": "c43d1af95615dca6347c60690c639b02",
@@ -1054,36 +1042,40 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
   },
   {
-    "id": "257c55906953209269bdbb2ae71d6c50",
-    "title": "Dooneen by Keith Ridgway review",
-    "author": "Michael Donkor",
-    "description": "Ireland is trembling with nascent social unrest in this labyrinthine tale of one man’s homecoming Irish author Keith Ridgway’s latest novel deals, both mischievously and menacingly, in ambivalence. The book’s epigraph is taken from a misty-eyed ballad pining for the “lofty” magnificence of the Cliffs of Dooneen. But these lines are appended with a footnote cautioning that “debate continues concerning the cliffs named in the song – whether they are in County Clare or County Kerry, or whether they exist at all ...” Place and knowledge continue to be wilfully unstable categories once the narrative begins. Bartholomew Port, known as Mew, says goodbye to his partner Mootie as he sets off on a trip from south London to his birthplace, Dublin. In the first of the novel’s Alice in Wonderland-style sleights of hand, Mew is transported to the Irish capital not by air or sea, but by slipping through bushes in Camberwell’s Burgess Park. Continue reading...",
+    "id": "6595ebe77ddd141ad91ecb690b46e739",
+    "title": "Children and teens roundup",
+    "author": "Imogen Russell Williams",
+    "description": "A mouse detective; a fresh take on the Odyssey; a dangerous wish; and the world’s most watched reality TV show My Dad Can by Stephen Lightbown, illustrated by Claire Sahara Lemp, Quarto, £7.99 Iris’s dad can turn into dinosaurs, unicorns, anything she imagines – though some people see Dad’s wheelchair and believe he can’t do anything. This soft-smudged, colourful picture book celebrates the playfulness and creativity of parenthood. The Fluffy Futon by Yuichi Kasano, translated by Cathy Hirano, Gecko, £12.99 When Grandma spreads a futon on the sunny porch to air, it’s so fluffy that kittycat, Grandma, hen, chicks and the whole household join each other for a nap in this delightful picture book, perfect for enjoying at bedtime. Continue reading...",
     "summary_ai": "",
     "categories": [
       "Books",
+      "Children And Teenagers",
       "Culture",
-      "Fiction"
+      "Young Adult"
     ],
-    "genre": [],
+    "genre": [
+      "Children"
+    ],
     "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-06-25",
-    "thumbnail": "https://i.guim.co.uk/img/media/4c5651584425d4fac5bc192c3dab7e63ca3b159f/206_35_4869_3895/master/4869.jpg?width=700&quality=85&auto=format&fit=max&s=5bbd8958a9a95c6212ca74945aeff9db",
-    "cover_large": "https://i.guim.co.uk/img/media/4c5651584425d4fac5bc192c3dab7e63ca3b159f/206_35_4869_3895/master/4869.jpg?width=700&quality=85&auto=format&fit=max&s=5bbd8958a9a95c6212ca74945aeff9db",
-    "article_url": "https://www.theguardian.com/books/2026/jun/25/dooneen-by-keith-ridgway-review-uncanny-visions-of-dark-times-in-dublin",
-    "source": "The Guardian",
+    "publisher": "Guardianbookshop",
+    "published_date": "2026-06-26",
+    "thumbnail": "https://i.guim.co.uk/img/media/fe13c09f81810e914f9c593e913867de5008e31f/6_177_757_606/master/757.jpg?width=700&quality=85&auto=format&fit=max&s=8d13d795062d9be9521485b96c0d0848",
+    "cover_large": "https://i.guim.co.uk/img/media/fe13c09f81810e914f9c593e913867de5008e31f/6_177_757_606/master/757.jpg?width=700&quality=85&auto=format&fit=max&s=8d13d795062d9be9521485b96c0d0848",
+    "article_url": "https://guardianbookshop.com/my-dad-can-9781836008835/?amp%3Butm_medium=merch&amp%3Butm_campaign=article",
+    "source": "Guardianbookshop",
     "source_type": "rss",
     "tags": [
       "Books",
+      "Children and teenagers",
       "Culture",
-      "Fiction",
+      "Young adult",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
   }
 ]

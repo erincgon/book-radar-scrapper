@@ -1,7 +1,74 @@
 [
   {
-    "id": "1c7f209fcd636dec0c5abecea98793fd",
-    "title": "Mike Wallace, Who Wrote a Radical History of New York, Dies at 83",
+    "id": "95278e82f5d625779bec536c4ee030ea",
+    "title": "The Land and Its People by David Sedaris review",
+    "author": "Emma Brockes",
+    "description": "Sedaris plays up the curmudgeonliness in a collection that nevertheless entertains I’ll confess my heart sank slightly at the prospect of reading David Sedaris’s new volume of essays, some of them previously published in the New Yorker, and which, relative to his earlier output, strike me as increasingly shticky and reliant on anecdotes too thin for their weight. (From the essay Little America: “Few things drive me crazier than people who put their feet up on the furniture.”) After nine previous volumes, Sedaris would seem to be suffering from a problem that comes to all writers in the end, and memoir writers in particular, which is a dearth of useable material. What can there possibly be left in the Sedaris backstory that the writer hasn’t already mined? Well, as it turns out, there is still lots of useable stuff, as well as some an editor could have put a red line through, although Sedaris, who has sold more than 16m books, may well consider himself part of the post-editing elite. (I was reminded while reading of a line from a profile of JK Rowling several years ago in which, referring to The Casual Vacancy, Ian Parker wrote : “Some sentences cause you to picture a Little...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "David Sedaris",
+      "Essays"
+    ],
+    "genre": [
+      "Essays",
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "Little, Brown",
+    "published_date": "2026-07-06",
+    "thumbnail": "https://i.guim.co.uk/img/media/25f359c8891c8528d631c7040f2f37045f55efcd/0_0_3200_2560/master/3200.jpg?width=700&quality=85&auto=format&fit=max&s=cb4f3c3449b212d7d2716727e8546177",
+    "cover_large": "https://i.guim.co.uk/img/media/25f359c8891c8528d631c7040f2f37045f55efcd/0_0_3200_2560/master/3200.jpg?width=700&quality=85&auto=format&fit=max&s=cb4f3c3449b212d7d2716727e8546177",
+    "article_url": "https://www.newyorker.com/magazine/2012/10/01/mugglemarch?currentPage=all&amp%3Bamp%3Bmobify=0",
+    "source": "Newyorker",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "David Sedaris",
+      "Essays",
+      "books"
+    ],
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
+  },
+  {
+    "id": "2e7327f03e80aed3447879c35f164598",
+    "title": "Contrapposto by Dave Eggers review",
+    "author": "Sukhdev Sandhu",
+    "description": "The story of a lifelong friendship between two art-world mavericks from the working-class midwest is disappointingly pious Dave Eggers, the author of more than a dozen novels as well as a steady stream of children’s and nonfiction books, grew up wanting to be an artist.As a child he took lessons with a Japanese watercolourist, studied painting at college, worked as a magazine cartoonist and illustrator, even curated a New York show entitled Lots of Things Like This featuring pieces by Jean-Michel Basquiat and Marcel Duchamp. He is soon to open a project in San Francisco that he has been hatching for a decade – Art + Water, an amalgam of art school, affordable studios, exhibition galleries and local gathering point. Cricket Dibb, the cloyingly named hero of Contrapposto, would love a place like Art + Water. He’s 10 years old, a working-class midwestern kid who passes raccoons and broken tractors on his way to school. His stepfather, Robert, thinks nothing of beating his mother, calling her “a gimpy whore”, stealing any money she’s saved. Cricket hates him, not least on aesthetic grounds – “his ugly gold watch, his mouth full of black fillings, his bony bald head, his pockmarked...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction"
+    ],
+    "genre": [
+      "Children",
+      "Fiction",
+      "Nonfiction"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-06",
+    "thumbnail": "https://i.guim.co.uk/img/media/7901ea7bae30ad36ff20fcd5837024eb9fc7bb8f/188_273_1991_1593/master/1991.jpg?width=700&quality=85&auto=format&fit=max&s=d50f0115652fb8037fe39d611048c00e",
+    "cover_large": "https://i.guim.co.uk/img/media/7901ea7bae30ad36ff20fcd5837024eb9fc7bb8f/188_273_1991_1593/master/1991.jpg?width=700&quality=85&auto=format&fit=max&s=d50f0115652fb8037fe39d611048c00e",
+    "article_url": "https://www.theguardian.com/books/2026/jul/06/contrapposto-by-dave-eggers-review-this-portrait-of-an-artist-falls-flat",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "books"
+    ],
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
+  },
+  {
+    "id": "4801569f8f39957d63009b2b07343549",
+    "title": "Mike Wallace, Who Wrote an Acclaimed History of New York, Dies at 83",
     "author": "Sam Roberts",
     "description": "His 1998 book, “Gotham,” which told the city’s story to 1898, focused on social and economic conflict. It won a Pulitzer Prize and inspired two sequels.",
     "summary_ai": "",
@@ -38,8 +105,8 @@
       "Wallace, Mike (1942-2026)",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:28+00:00",
+    "updated_at": "2026-07-06T10:19:28Z"
   },
   {
     "id": "a047e0a70a7e7291efe68a669aefc60f",
@@ -74,8 +141,8 @@
       "The Face (Book)",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:28+00:00",
+    "updated_at": "2026-07-06T10:19:28Z"
   },
   {
     "id": "e636fbf53744010645d9041fca6db7b9",
@@ -104,8 +171,8 @@
       "Mason, Daniel",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:28+00:00",
+    "updated_at": "2026-07-06T10:19:28Z"
   },
   {
     "id": "655f7742b274bbce0efe2fe351872198",
@@ -135,8 +202,8 @@
       "Virginia Woolf",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
   },
   {
     "id": "eec0252e0fc0d3386cd48032cb504456",
@@ -166,8 +233,8 @@
       "Psychology",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
   },
   {
     "id": "7156425e36a11ccbb09d850bd60d21ae",
@@ -195,8 +262,62 @@
       "Illustration",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
+  },
+  {
+    "id": "c0200a4db1b60c14dbd8571ba3c44b3e",
+    "title": "Book Riot’s Deals of the Day for July 5, 2026",
+    "author": "Deals",
+    "description": "A most anticipated 2026 literary release, a Japanese novel on obsession, a thrilling chase across Europe, and more of today's best deals",
+    "summary_ai": "",
+    "categories": [
+      "Book Deals",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-05",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/01/The-Complex-Karan-Mahajan-cover-199x300.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/01/The-Complex-Karan-Mahajan-cover-199x300.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-july-5-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Book Deals",
+      "reviews"
+    ],
+    "created_at": "2026-07-06T10:19:28+00:00",
+    "updated_at": "2026-07-06T10:19:28Z"
+  },
+  {
+    "id": "42d0f9773975672bc7cd5be07c6ec65b",
+    "title": "The Book News We Covered This Week",
+    "author": "Community",
+    "description": "The most popular queer romance audiobooks on Libby, a writer accused of using AI wins a literary prize, Alix E. Harrow's latest gets picked up by Netflix, and more",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Today In Books"
+    ],
+    "genre": [
+      "Romance"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-05",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/04/eyeglasses-coffee-newspapers-white-table-news.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/04/eyeglasses-coffee-newspapers-white-table-news.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/today-in-books-july-5-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Today in Books",
+      "reviews"
+    ],
+    "created_at": "2026-07-06T10:19:28+00:00",
+    "updated_at": "2026-07-06T10:19:28Z"
   },
   {
     "id": "9a8b378e18f4629c6f0f5d5b8ad8d654",
@@ -230,8 +351,37 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
+  },
+  {
+    "id": "faddbfa54d1c64fbc5d4d72ddfecd91f",
+    "title": "Lit Hub Weekly: June 29 – July 3, 2026",
+    "author": "Lit Hub Daily",
+    "description": "Get ready for part two! These are the 258 books we’re most anticipating in the second half of 2026. | Lit Hub Reading Lists Did you know that Ancient Roman romance novels went hard? | Lit Hub History Why readers",
+    "summary_ai": "",
+    "categories": [
+      "Lit Hub Daily",
+      "Reviews"
+    ],
+    "genre": [
+      "History",
+      "Romance"
+    ],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-07-04",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/hawthorne-768x344.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/hawthorne-768x344.jpg",
+    "article_url": "https://lithub.com/lit-hub-weekly-june-29-july-3-2026/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Lit Hub Daily",
+      "reviews"
+    ],
+    "created_at": "2026-07-06T10:19:28+00:00",
+    "updated_at": "2026-07-06T10:19:28Z"
   },
   {
     "id": "338fa6b551a13cd820ec0574d686cf78",
@@ -254,8 +404,8 @@
     "language": "English",
     "publisher": "The New York Times",
     "published_date": "2026-07-03",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/03/books/03TBR-John-Byrne/03TBR-John-Byrne-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/03/books/03TBR-John-Byrne/03TBR-John-Byrne-mediumSquareAt3X.jpg",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/06/books/03TBR-John-Byrne/03TBR-John-Byrne-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/06/books/03TBR-John-Byrne/03TBR-John-Byrne-mediumSquareAt3X.jpg",
     "article_url": "https://www.nytimes.com/2026/07/03/books/review/john-byrne-x-men-elsewhen.html",
     "source": "The New York Times",
     "source_type": "rss",
@@ -270,8 +420,8 @@
       "X-Men: Elsewhen (Book)",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:28+00:00",
+    "updated_at": "2026-07-06T10:19:28Z"
   },
   {
     "id": "74c1ca4d3b53df4caa08f60121db8f4e",
@@ -338,8 +488,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:28+00:00",
+    "updated_at": "2026-07-06T10:19:28Z"
   },
   {
     "id": "16fdcd994f4068c8e6412e0a7322b8be",
@@ -367,8 +517,8 @@
       "Literary criticism",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
   },
   {
     "id": "caf669be3a82c7feb4166251008ceb7c",
@@ -399,8 +549,56 @@
       "Poetry",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:29+00:00",
+    "updated_at": "2026-07-06T10:19:29Z"
+  },
+  {
+    "id": "cd8d741b52b85d460eaead8a5402cb00",
+    "title": "After weeks of speculation, Taylor Swift, Travis Kelce wed in New York",
+    "author": "Rachel Treisman",
+    "description": "Superfans and sleuths appear to have their hunches confirmed on Friday, as dozens of black cars dropped off elegantly dressed guests outside of Madison Square Garden in New York City. The wedding bash is expected to last into Saturday morning.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "NPR Books",
+    "published_date": "2026-07-03",
+    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7715x5018+0+0/resize/7715x5018!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F50%2F6c%2F592118e0403b94637cea4a886551%2Fgettyimages-2283939355.jpg",
+    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7715x5018+0+0/resize/7715x5018!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F50%2F6c%2F592118e0403b94637cea4a886551%2Fgettyimages-2283939355.jpg",
+    "article_url": "https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg",
+    "source": "NPR Books",
+    "source_type": "rss",
+    "tags": [
+      "reviews"
+    ],
+    "created_at": "2026-07-06T10:19:28+00:00",
+    "updated_at": "2026-07-06T10:19:28Z"
+  },
+  {
+    "id": "dc7c5b10767f6dd5063a777668e09a9e",
+    "title": "The songs that reflect the complex and sometimes contradictory identity of America",
+    "author": "Juana Summers",
+    "description": "On the eve of America's 250th birthday, NPR's Juana Summers talks with NPR Music's Stephen Thompson and Sheldon Pearce about songs that reflect the country's complex identity.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "NPR Books",
+    "published_date": "2026-07-03",
+    "thumbnail": "",
+    "cover_large": "",
+    "article_url": "https://www.npr.org/2026/07/03/nx-s1-5871381/the-songs-that-reflect-the-complex-and-sometimes-contradictory-identity-of-america",
+    "source": "NPR Books",
+    "source_type": "rss",
+    "tags": [
+      "reviews"
+    ],
+    "created_at": "2026-07-06T10:19:28+00:00",
+    "updated_at": "2026-07-06T10:19:28Z"
   },
   {
     "id": "41598cb79404480fc57dfa5fba5b74a6",
@@ -422,8 +620,8 @@
     "language": "English",
     "publisher": "The New York Times",
     "published_date": "2026-07-02",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/02/multimedia/02Kimball--04-zgkm/02Kimball--04-zgkm-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/02/multimedia/02Kimball--04-zgkm/02Kimball--04-zgkm-mediumSquareAt3X.jpg",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/06/multimedia/02Kimball--04-zgkm/02Kimball--04-zgkm-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/06/multimedia/02Kimball--04-zgkm/02Kimball--04-zgkm-mediumSquareAt3X.jpg",
     "article_url": "https://www.nytimes.com/2026/07/02/theater/robert-kimball-dead.html",
     "source": "The New York Times",
     "source_type": "rss",
@@ -435,8 +633,8 @@
       "Theater (Broadway)",
       "books"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:28+00:00",
+    "updated_at": "2026-07-06T10:19:28Z"
   },
   {
     "id": "b52f17de64bf6dc08993911ee4a21fe8",
@@ -469,223 +667,7 @@
       "genre-books-thriller",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
-  },
-  {
-    "id": "45ebb0018c8187a8ac21affc46c9dfc0",
-    "title": "Long Wave by Daisy Johnson review",
-    "author": "Rhiannon Lucy Cosslett",
-    "description": "Covering three generations, this tangled story of secrets, childhood, abandonment and care might be her best work yet In 2018 Daisy Johnson was the youngest writer ever to be shortlisted for the Booker prize, for her debut novel Everything Under , a gender-fluid reimagining of the Oedipus myth involving canal boat communities and their complex family dynamics, plus a strange monster lurking in the depths. Before that, her short‐story collection Fen , with its blend of the uncanny and the workaday, was critically acclaimed. She has since written Sisters , a psychological horror that uses supernatural elements to explore sibling bonds and grief, and The Hotel , a series of seriously chilling interlinked ghost stories. Now comes Long Wave, which, while it shares some of these hallmarks, is in many ways finer and more subtle: perhaps her strongest work yet. Long Wave is a story of three generations of mothers. As a small child Ori was found after being “abandoned” by her mother on a wild, uninhabited island somewhere off the coast of England. What happened to Ori’s mother, and why they fled to the island together, only for Ori to later be found and adopted by a scientist specialising...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Daisy Johnson",
-      "Fiction"
-    ],
-    "genre": [
-      "Horror"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-02",
-    "thumbnail": "https://i.guim.co.uk/img/media/3063816b2d98f9503aae40926244d5140863bde5/141_1068_1670_1336/master/1670.jpg?width=700&quality=85&auto=format&fit=max&s=4589d29eb0076ddfcc3f15a7ff85db12",
-    "cover_large": "https://i.guim.co.uk/img/media/3063816b2d98f9503aae40926244d5140863bde5/141_1068_1670_1336/master/1670.jpg?width=700&quality=85&auto=format&fit=max&s=4589d29eb0076ddfcc3f15a7ff85db12",
-    "article_url": "https://www.theguardian.com/books/2018/jul/26/everything-under-daisy-johnson-review-man-booker-longlist",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Daisy Johnson",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
-  },
-  {
-    "id": "da784000d20962166c0f997ae4172311",
-    "title": "THE EVERLASTING is Being Made Into a Netflix Series and More SFF News",
-    "author": "Liberty Hardy",
-    "description": "In this round-up of recent sci-fi and fantasy links, learn about the adaptation of The Everlasting by Alix E. Harrow!",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Science Fiction/Fantasy",
-      "Swords And Spaceships"
-    ],
-    "genre": [
-      "Fantasy"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-02",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/09/The-Everlasting-by-Alix-E.-Harrow.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/09/The-Everlasting-by-Alix-E.-Harrow.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/the-everlasting-adaptation/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Science Fiction/Fantasy",
-      "Swords and Spaceships",
-      "reviews"
-    ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
-  },
-  {
-    "id": "ff1e24d6b0174661197f5e23ab0aa161",
-    "title": "Fall Feels in Sunny Season: 5 Summerween Romance Reads",
-    "author": "Anne Mai Yee Jansen",
-    "description": "This summer, take spooky season vibes with you to the beach with these five steamy Summerween romance reads.",
-    "summary_ai": "",
-    "categories": [
-      "Kissing Books",
-      "Reviews",
-      "Romance/Erotica",
-      "Summerween"
-    ],
-    "genre": [
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-02",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/how-not-to-renovate-a-haunted-house-by-jenny-l-howe-book-cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/how-not-to-renovate-a-haunted-house-by-jenny-l-howe-book-cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/summerween-romance-reads/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Kissing Books",
-      "Romance/Erotica",
-      "reviews",
-      "summerween"
-    ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
-  },
-  {
-    "id": "12052c488087f63a0fa81c5734d20a86",
-    "title": "7 Children’s Picture Books for Disability Pride Month",
-    "author": "Kendra Winchester",
-    "description": "These picture books for Disability Pride Month aren’t just sweet stories; they illustrate the incredible diversity in disabled communities.",
-    "summary_ai": "",
-    "categories": [
-      "Culturally Relevant",
-      "Reviews",
-      "The Kids Are All Right"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-02",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/04/cover-of-a-day-with-no-words-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/04/cover-of-a-day-with-no-words-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/picture-books-for-disability-pride-month/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Culturally Relevant",
-      "The Kids Are All Right",
-      "reviews"
-    ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
-  },
-  {
-    "id": "4056ab94b4973a45221e421e39facf9c",
-    "title": "The Most Popular Sci",
-    "author": "Danika Ellis",
-    "description": "What will be the Great American Novel in 250 years? Plus, the most popular recent sci-fi and fantasy novels, Romancing the Vote, and more.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Today In Books"
-    ],
-    "genre": [
-      "Fantasy"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-02",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/10/curved-bookshelves.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/10/curved-bookshelves.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/the-most-popular-sci-fi-and-fantasy-books-of-the-past-3-years/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Today in Books",
-      "reviews"
-    ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
-  },
-  {
-    "id": "3a8309e5a9aaef8a44ba0dfdd4092c25",
-    "title": "All the Queer Books I Read in June, and What’s On My July TBR",
-    "author": "Danika Ellis",
-    "description": "A gay hockey graphic novel, sapphic YA fantasy, a bisexual graphic memoir, and more of the queer books I read in June.",
-    "summary_ai": "",
-    "categories": [
-      "All Access",
-      "Lgbtq",
-      "Our Queerest Shelves",
-      "Reviews"
-    ],
-    "genre": [
-      "Fantasy",
-      "Memoir"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-02",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/09/rainbow-stack-hero-image.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2025/09/rainbow-stack-hero-image.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/the-queer-books-i-read-in-june-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "All Access",
-      "LGBTQ",
-      "Our Queerest Shelves",
-      "reviews"
-    ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
-  },
-  {
-    "id": "5331ecbe6ed3ebb124e9167ae98fda50",
-    "title": "The Best YA Horror and SFF Books, Brandon Sanderson’s Latest Adaptation, and More YA Book News",
-    "author": "Kelly Jensen",
-    "description": "Catch up with the latest in YA adaptation news, an array of YA book awards, and other interesting recent YA news and stories.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "What'S Up In Ya",
-      "Young Adult Literature"
-    ],
-    "genre": [
-      "Horror"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-02",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/05/Image-of-a-Black-woman-reading-on-her-phone-at-a-table.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/05/Image-of-a-Black-woman-reading-on-her-phone-at-a-table.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/ya-news-july-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "What's Up in YA",
-      "Young Adult Literature",
-      "reviews"
-    ],
-    "created_at": "2026-07-05T19:10:11+00:00",
-    "updated_at": "2026-07-05T19:10:11Z"
+    "created_at": "2026-07-06T10:19:28+00:00",
+    "updated_at": "2026-07-06T10:19:28Z"
   }
 ]
