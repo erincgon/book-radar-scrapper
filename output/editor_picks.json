@@ -1,5 +1,153 @@
 [
   {
+    "id": "06afbb9f6542c0e962b86d2826e26289",
+    "title": "Lit Hub Daily: July 7, 2026",
+    "author": "Lit Hub Daily",
+    "description": "How Joyce Carol Oates, queen of the literary internet, examines “the dispiriting effects of technology on contemporary life” in her new collection, The Frenzy. | Lit Hub Criticism Bryan Charles follows AI’s slow, steady invasion of literary translation. | Lit Hub",
+    "summary_ai": "",
+    "categories": [
+      "Lit Hub Daily",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-07-07",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/jamesjoyce3-768x344.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/jamesjoyce3-768x344.jpg",
+    "article_url": "https://lithub.com/lit-hub-daily-july-7-2026/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Lit Hub Daily",
+      "reviews"
+    ],
+    "created_at": "2026-07-07T19:49:04+00:00",
+    "updated_at": "2026-07-07T19:49:04Z"
+  },
+  {
+    "id": "58a1990faa114010fa0e937b273e039d",
+    "title": "Daniel Mason, Rachel Aviv, Emeline Atwood and more: 21 new books out today!",
+    "author": "Julia Hass",
+    "description": "It’s July, and it’s time to be absolutely inundated with summer novels. This week, we’re treated to the new book by North Woods author Daniel Mason, Country People, the hotly anticipated debut novel by Emeline Atwood, A Real Animal, and",
+    "summary_ai": "",
+    "categories": [
+      "A Real Animal",
+      "A Sudden Flicker Of Light: A Revisionist History Of Movies",
+      "And The Race To Save Our Words",
+      "Angelica Glass.",
+      "Country People",
+      "Craft And Criticism",
+      "Dangerland!",
+      "Daniel Mason",
+      "David Heska Wanbli Weiden",
+      "David Thomson",
+      "Emeline Atwood",
+      "Emily Ruskovich",
+      "Erin Singer",
+      "Exit Stalin: The Soviet Union As A Civilization 1953-1991",
+      "Helpless",
+      "How To Kill A Language: Power",
+      "Ian Bogost",
+      "Irvine Welsh",
+      "Jacqueline Harpman",
+      "Jason Stone",
+      "Jessica Knoll",
+      "Kathleen Rooney",
+      "Lisa Owens",
+      "Literary Criticism",
+      "Mac Crane",
+      "Man Overboard!",
+      "Mark B. Smith",
+      "Men In Love",
+      "Natural Disaster",
+      "Nightjar",
+      "Perverts",
+      "Rachel Aviv",
+      "Reading Lists",
+      "Resistance",
+      "Reviews",
+      "Roshan Sethi",
+      "Scavenging Beauty: A Memoir In Walks",
+      "Shannon Sanders",
+      "Sophia Smith Galer",
+      "The Beauty Of The Days Gone By",
+      "The Great Wherever",
+      "The Hub",
+      "The Simp",
+      "The Small Stuff: How To Lead A More Gratifying Life",
+      "Trans. By Ros Schwartz",
+      "Tree Of Knowledge: Poems",
+      "Victoria Chang",
+      "We Were Forbidden",
+      "Wisdom Corner",
+      "You Won'T Get Free Of It: Stories Of Mothers And Daughters"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-07-07",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/9781646222964-768x382.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/9781646222964-768x382.jpg",
+    "article_url": "https://lithub.com/daniel-mason-rachel-aviv-emeline-atwood-and-more-21-new-books-out-today/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "A Real Animal",
+      "A Sudden Flicker of Light: A Revisionist History of Movies",
+      "Angelica Glass.",
+      "Country People",
+      "Craft and Criticism",
+      "Dangerland!",
+      "Daniel Mason",
+      "David Heska Wanbli Weiden",
+      "David Thomson",
+      "Emeline Atwood",
+      "Emily Ruskovich",
+      "Erin Singer",
+      "Exit Stalin: The Soviet Union as a Civilization 1953-1991",
+      "Helpless",
+      "How to Kill a Language: Power",
+      "Ian Bogost",
+      "Irvine Welsh",
+      "Jacqueline Harpman",
+      "Jason Stone",
+      "Jessica Knoll",
+      "Kathleen Rooney",
+      "Lisa Owens",
+      "Literary Criticism",
+      "Mac Crane",
+      "Man Overboard!",
+      "Mark B. Smith",
+      "Men in Love",
+      "Nightjar",
+      "Perverts",
+      "Rachel Aviv",
+      "Reading Lists",
+      "Roshan Sethi",
+      "Scavenging Beauty: A Memoir in Walks",
+      "Shannon Sanders",
+      "Sophia Smith Galer",
+      "The Beauty of the Days Gone By",
+      "The Great Wherever",
+      "The Hub",
+      "The Simp",
+      "The Small Stuff: How to Lead a More Gratifying Life",
+      "Tree of Knowledge: Poems",
+      "Victoria Chang",
+      "We Were Forbidden",
+      "Wisdom Corner",
+      "You Won't Get Free of It: Stories of Mothers and Daughters",
+      "and the Race to Save Our Words",
+      "natural disaster",
+      "resistance",
+      "reviews",
+      "trans. by Ros Schwartz"
+    ],
+    "created_at": "2026-07-07T19:49:04+00:00",
+    "updated_at": "2026-07-07T19:49:04Z"
+  },
+  {
     "id": "b0750bf461d7c71ddcda9994fad11133",
     "title": "Can ChatGPT Produce a Version of Proust Worth Reading?",
     "author": "Bryan Alistair Charles",
@@ -46,8 +194,8 @@
       "translating",
       "translation"
     ],
-    "created_at": "2026-07-07T09:39:30+00:00",
-    "updated_at": "2026-07-07T09:39:30Z"
+    "created_at": "2026-07-07T19:49:04+00:00",
+    "updated_at": "2026-07-07T19:49:04Z"
   },
   {
     "id": "49a89aba8e4cc3bd58369e159df9736f",
@@ -59,8 +207,8 @@
       "Cell Phones",
       "Craft And Criticism",
       "Elon Musk",
-      "Features",
-      "Harry Stecopolous",
+      "Fullwidth Slider",
+      "Harry Stecopoulos",
       "Joyce Carol Oates",
       "Literary Criticism",
       "Reviews",
@@ -84,8 +232,8 @@
     "tags": [
       "Craft and Criticism",
       "Elon Musk",
-      "Features",
-      "Harry Stecopolous",
+      "Fullwidth Slider",
+      "Harry Stecopoulos",
       "Joyce Carol Oates",
       "Literary Criticism",
       "Technology",
@@ -98,8 +246,8 @@
       "short stories",
       "social media"
     ],
-    "created_at": "2026-07-07T09:39:30+00:00",
-    "updated_at": "2026-07-07T09:39:30Z"
+    "created_at": "2026-07-07T19:49:04+00:00",
+    "updated_at": "2026-07-07T19:49:04Z"
   },
   {
     "id": "093a3c39e555f4ae3625fe240a12ec4f",
@@ -148,8 +296,8 @@
       "reviews",
       "writing"
     ],
-    "created_at": "2026-07-07T09:39:30+00:00",
-    "updated_at": "2026-07-07T09:39:30Z"
+    "created_at": "2026-07-07T19:49:04+00:00",
+    "updated_at": "2026-07-07T19:49:04Z"
   },
   {
     "id": "1f151ff5aa341828a7057d2848c3e93d",
@@ -194,8 +342,8 @@
       "reviews",
       "the natural world"
     ],
-    "created_at": "2026-07-07T09:39:30+00:00",
-    "updated_at": "2026-07-07T09:39:30Z"
+    "created_at": "2026-07-07T19:49:04+00:00",
+    "updated_at": "2026-07-07T19:49:04Z"
   },
   {
     "id": "95da6e8f6c4965e2bd200bd2c9488a37",
@@ -270,8 +418,8 @@
       "The Sea Around Us",
       "reviews"
     ],
-    "created_at": "2026-07-07T09:39:30+00:00",
-    "updated_at": "2026-07-07T09:39:30Z"
+    "created_at": "2026-07-07T19:49:04+00:00",
+    "updated_at": "2026-07-07T19:49:04Z"
   },
   {
     "id": "6c74a9c68c436e869e3677cd3a6964c9",
@@ -318,8 +466,8 @@
       "family",
       "reviews"
     ],
-    "created_at": "2026-07-07T09:39:30+00:00",
-    "updated_at": "2026-07-07T09:39:30Z"
+    "created_at": "2026-07-07T19:49:04+00:00",
+    "updated_at": "2026-07-07T19:49:04Z"
   },
   {
     "id": "203dd536b4907e2422a0f1fc680e819f",
@@ -360,245 +508,14 @@
       "Random House",
       "reviews"
     ],
-    "created_at": "2026-07-07T09:39:30+00:00",
-    "updated_at": "2026-07-07T09:39:30Z"
+    "created_at": "2026-07-07T19:49:04+00:00",
+    "updated_at": "2026-07-07T19:49:04Z"
   },
   {
-    "id": "1872fa798387c11bfcffc259fc7eacdf",
-    "title": "11 of the Best Books Out in July",
-    "author": "Erica Ezeifedi",
-    "description": "Colson Whitehead's finished trilogy, romantasy takes us to the demon realm, an Indigenous chef shares his personal journey, and more.",
-    "summary_ai": "",
-    "categories": [
-      "New Books",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-07",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/Cool-Machine-A-Novel-The-Harlem-Trilogy-Colson-Whitehead-cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/Cool-Machine-A-Novel-The-Harlem-Trilogy-Colson-Whitehead-cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/best-new-books-july-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "New Books",
-      "reviews"
-    ],
-    "created_at": "2026-07-07T09:39:30+00:00",
-    "updated_at": "2026-07-07T09:39:30Z"
-  },
-  {
-    "id": "770095b58720065bffa3f35095b718af",
-    "title": "Why Darcy is still the #1 book boyfriend",
-    "author": "Guest",
-    "description": "Freya Sampson, author of Most Ardently Yours, on why Darcy embodies a romantic fantasy that never quite goes out of style.",
-    "summary_ai": "",
-    "categories": [
-      "Classics",
-      "Reviews"
-    ],
-    "genre": [
-      "Fantasy"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-07",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Freya-Sampson.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Freya-Sampson.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/why-darcy-is-still-the-1-book-boyfriend/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Classics",
-      "reviews"
-    ],
-    "created_at": "2026-07-07T09:39:30+00:00",
-    "updated_at": "2026-07-07T09:39:30Z"
-  },
-  {
-    "id": "6437301825d3d572d5b087227bcd7d4f",
-    "title": "Cats as writing supervisors",
-    "author": "Guest",
-    "description": "Alison Leiby discusses how her new book, I'm a Lot: Surviving Myself and All the People I've Been, was written alongside her cat, Rizz.",
-    "summary_ai": "",
-    "categories": [
-      "Nonfiction",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-07",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Alison-Leiby.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Alison-Leiby.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/cats-as-writing-supervisors/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Nonfiction",
-      "reviews"
-    ],
-    "created_at": "2026-07-07T09:39:30+00:00",
-    "updated_at": "2026-07-07T09:39:30Z"
-  },
-  {
-    "id": "05f195619f2c8e333e13ff01e6b8970a",
-    "title": "Philip Glass' new symphony premieres at Tanglewood after Kennedy Center cancellation",
-    "author": "Anastasia Tsioulcas",
-    "description": "Philip Glass' newest symphony, an homage to Abraham Lincoln, was supposed to premiere at the Kennedy Center — until it didn't. And then, the Boston Symphony Orchestra stepped in.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "NPR Books",
-    "published_date": "2026-07-06",
-    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7427x4953+0+0/resize/7427x4953!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F47%2F30%2F4306f00b4f49beaf677f56193672%2F7-5-26-zachary-james-in-philip-glass-symphony-no-15-hilary-scott.jpeg",
-    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7427x4953+0+0/resize/7427x4953!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F47%2F30%2F4306f00b4f49beaf677f56193672%2F7-5-26-zachary-james-in-philip-glass-symphony-no-15-hilary-scott.jpeg",
-    "article_url": "https://www.npr.org/2026/07/06/nx-s1-5342928/philip-glass-lincoln-symphony-bso",
-    "source": "NPR Books",
-    "source_type": "rss",
-    "tags": [
-      "reviews"
-    ],
-    "created_at": "2026-07-07T09:39:30+00:00",
-    "updated_at": "2026-07-07T09:39:30Z"
-  },
-  {
-    "id": "fd1b82b7a191c9f06d0652b00670c9e2",
-    "title": "An English crafter is in hot water after accidentally gifting children erotic...hedgehogs?",
-    "author": "Brittany Allen",
-    "description": "A U.K. crafter came under fire this weekend when parents discovered that his handmade hedgehogs had been assembled with pages from an erotic novel. As The Guardian reported, the unidentified hobbyist made his “little creations” from donated books, often to",
-    "summary_ai": "",
-    "categories": [
-      "Book Arts",
-      "Cheeky",
-      "Crafts",
-      "Local News",
-      "Nicholson Baker",
-      "Reviews",
-      "The Fermata",
-      "The Hub",
-      "The Walled Garden"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "donated books",
-    "published_date": "2026-07-06",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/Untitled-design-7-1-768x384.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/Untitled-design-7-1-768x384.png",
-    "article_url": "https://lithub.com/an-english-crafter-is-in-hot-water-after-accidentally-gifting-children-erotic-hedgehogs/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Nicholson Baker",
-      "The Fermata",
-      "The Hub",
-      "The Walled Garden",
-      "book arts",
-      "cheeky",
-      "crafts",
-      "local news",
-      "reviews"
-    ],
-    "created_at": "2026-07-07T09:39:30+00:00",
-    "updated_at": "2026-07-07T09:39:30Z"
-  },
-  {
-    "id": "6d885688ea50c9eddc44978b63f91ece",
-    "title": "A reparative mini-reading list, in honor of America’s 250th.",
-    "author": "Brittany Allen",
-    "description": "Happy (belated) 250th, America! We’re not exactly in the party mood this rainy Monday, but que sera. This weekend brought Washington a militaristic display, and most states a conundrum: how do we celebrate a country that is actively furthering a",
-    "summary_ai": "",
-    "categories": [
-      "Current Affairs",
-      "Dazed And Confused",
-      "Essays",
-      "Events",
-      "Fourth Of July",
-      "Guardian",
-      "Hammer And Hope",
-      "History",
-      "Lgbtq Authors",
-      "New Yorker",
-      "News And Culture",
-      "Paris Review",
-      "Politics",
-      "Reading List",
-      "Resistance",
-      "Reviews",
-      "The Hub",
-      "Travel"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-07-06",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/Untitled-design-2-1-768x384.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/Untitled-design-2-1-768x384.png",
-    "article_url": "https://lithub.com/a-reparative-mini-reading-list-in-honor-of-americas-250th/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Current Affairs",
-      "Events",
-      "Fourth of July",
-      "Guardian",
-      "Hammer and Hope",
-      "History",
-      "LGBTQ authors",
-      "New Yorker",
-      "News and Culture",
-      "Paris Review",
-      "Politics",
-      "The Hub",
-      "Travel",
-      "dazed and confused",
-      "essays",
-      "history",
-      "reading list",
-      "resistance",
-      "reviews"
-    ],
-    "created_at": "2026-07-07T09:39:30+00:00",
-    "updated_at": "2026-07-07T09:39:30Z"
-  },
-  {
-    "id": "ef2a91d67258309ad9f61469ae91d430",
-    "title": "Lit Hub Daily: July 6, 2026",
-    "author": "Lit Hub Daily",
-    "description": "Michael Dirda makes the case for Moby-Dick as the ultimate American novel. | Lit Hub Criticism Why the “legendary” dinner party from Plato’s Symposium is actually about love. | Lit Hub Craft How medieval scribes engaged in writing as a spiritual",
-    "summary_ai": "",
-    "categories": [
-      "Lit Hub Daily",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-07-06",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/guydemaupassant1-768x344.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/guydemaupassant1-768x344.jpg",
-    "article_url": "https://lithub.com/lit-hub-daily-july-6-2026/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Lit Hub Daily",
-      "reviews"
-    ],
-    "created_at": "2026-07-07T09:39:30+00:00",
-    "updated_at": "2026-07-07T09:39:30Z"
-  },
-  {
-    "id": "b4ae157e76f68a828248837bb417d0b9",
-    "title": "Book Riot’s Deals of the Day for July 6, 2026",
+    "id": "f914e18e3de64406454a1ddf3e311e42",
+    "title": "Book Riot’s Deals of the Day for July 7, 2026",
     "author": "Deals",
-    "description": "The legendary frybread drive-in, an antihero you can't look away from, a talent for survival, and more of today's best book deals.",
+    "description": "A story of modern medicine and bioethics, romantasy in a Southeast Asia–inspired world, an adventure inspired by Jewish myth, and more of today's best book deals",
     "summary_ai": "",
     "categories": [
       "Book Deals",
@@ -607,17 +524,164 @@
     "genre": [],
     "language": "English",
     "publisher": "Book Riot",
-    "published_date": "2026-07-06",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/go-gentle-199x300.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/go-gentle-199x300.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-july-6-2026/",
+    "published_date": "2026-07-07",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/06/the-hurricane-wars-book-cover-199x300.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2025/06/the-hurricane-wars-book-cover-199x300.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-july-7-2026/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
       "Book Deals",
       "reviews"
     ],
-    "created_at": "2026-07-07T09:39:30+00:00",
-    "updated_at": "2026-07-07T09:39:30Z"
+    "created_at": "2026-07-07T19:49:04+00:00",
+    "updated_at": "2026-07-07T19:49:04Z"
+  },
+  {
+    "id": "0907f19a758c62f438ce9ea369ccb8b6",
+    "title": "A Thrilling Sci",
+    "author": "S. Zainab Williams",
+    "description": "Give us more whodunnits in space like Yume Kitasei's inclusive and thrilling exploration of biracial identity, THE DEEP SKY.",
+    "summary_ai": "",
+    "categories": [
+      "In Reading Color",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-07",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2024/04/the-deep-sky-book-cover-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2024/04/the-deep-sky-book-cover-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/the-deep-sky-by-yume-kitase/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "In Reading Color",
+      "reviews"
+    ],
+    "created_at": "2026-07-07T19:49:04+00:00",
+    "updated_at": "2026-07-07T19:49:04Z"
+  },
+  {
+    "id": "812756460c871d7a46491ba5bceaa3ee",
+    "title": "18 Must",
+    "author": "Danika Ellis",
+    "description": "The best new LGBTQ books out in July 2026 include the final Heartstopper book, messy sapphic litfic, M/M cozy folk horror, and so much more.",
+    "summary_ai": "",
+    "categories": [
+      "Lgbtq",
+      "Our Queerest Shelves",
+      "Reviews"
+    ],
+    "genre": [
+      "Horror"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-07",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/How-to-Date-a-Fanatic-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/How-to-Date-a-Fanatic-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/new-lgbtq-books-july-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "LGBTQ",
+      "Our Queerest Shelves",
+      "reviews"
+    ],
+    "created_at": "2026-07-07T19:49:04+00:00",
+    "updated_at": "2026-07-07T19:49:04Z"
+  },
+  {
+    "id": "84b699b9e1c2106620006a6c0c674570",
+    "title": "12 Thrilling New Sci",
+    "author": "Liberty Hardy",
+    "description": "Magic, mayhem, aliens, monsters, romance: there's something for everyone in these new sci-fi and fantasy books out in July 2026!",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Science Fiction/Fantasy",
+      "Swords And Spaceships"
+    ],
+    "genre": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-07",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/The-Inn-at-the-Foot-of-Mount-Vengeance-Chiara-Bullen-cover-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/The-Inn-at-the-Foot-of-Mount-Vengeance-Chiara-Bullen-cover-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/new-sci-fi-and-fantasy-books-of-july-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Science Fiction/Fantasy",
+      "Swords and Spaceships",
+      "reviews"
+    ],
+    "created_at": "2026-07-07T19:49:04+00:00",
+    "updated_at": "2026-07-07T19:49:04Z"
+  },
+  {
+    "id": "2010b1a24685130723dbc48d87fcc02b",
+    "title": "We Can’t Wait to See These Page",
+    "author": "Emily Martin",
+    "description": "From sequels to TV series to epic blockbuster movies, this month is packed with page-to-screen adaptations for book lovers to watch.",
+    "summary_ai": "",
+    "categories": [
+      "Book Radar",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-07",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/enola-holmes-3-300x0.jpeg.optimal.jpeg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/enola-holmes-3-300x0.jpeg.optimal.jpeg",
+    "article_url": "https://bookriot.com/page-to-screen-adaptations-july-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Book Radar",
+      "reviews"
+    ],
+    "created_at": "2026-07-07T19:49:04+00:00",
+    "updated_at": "2026-07-07T19:49:04Z"
+  },
+  {
+    "id": "4f82486b8d39679c447e06e9cd1994a6",
+    "title": "The Best New Dark Romance Books",
+    "author": "Silvana Reyes Lopez",
+    "description": "The best new dark romance books feature serial killers you'll root for, stalkers finding love, mafia romances, and even human-killing sirens.",
+    "summary_ai": "",
+    "categories": [
+      "Dark Romance",
+      "Kissing Books",
+      "Reviews",
+      "Romance/Erotica",
+      "Sponsored"
+    ],
+    "genre": [
+      "Romance"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-07",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/harvest-season-e1782062130334-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/harvest-season-e1782062130334-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/new-dark-romance-books-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Kissing Books",
+      "Romance/Erotica",
+      "Sponsored",
+      "dark romance",
+      "reviews"
+    ],
+    "created_at": "2026-07-07T19:49:04+00:00",
+    "updated_at": "2026-07-07T19:49:04Z"
   }
 ]
