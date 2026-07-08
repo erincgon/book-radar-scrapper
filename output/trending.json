@@ -1,15 +1,137 @@
 [
   {
-    "id": "1e7b0c3229f58088ca1bb0d83f291064",
-    "title": "The Kiss by Katie Barclay review – a history of passion, power and puckering up",
+    "id": "75b329a54d598de87f0b041c469db06e",
+    "title": "A New ‘Little House’ Broadens and Updates the Prairie",
+    "author": "Brooks Barnes",
+    "description": "A Netflix adaptation of the beloved tale empowers Ma and adds new Black and Native characters to challenge prejudices. The creators know criticism is coming.",
+    "summary_ai": "",
+    "categories": [
+      "Black People",
+      "Books",
+      "Books And Literature",
+      "Bracey, Luke (1989- )",
+      "Fitzgerald, Crosby",
+      "Halsey, Alice (2014- )",
+      "Hughes, Skywalker",
+      "Landon, Michael",
+      "Little House On The Prairie (2026) (Tv Program)",
+      "Little House On The Prairie (Book)",
+      "Little House On The Prairie (Tv Program)",
+      "Native Americans",
+      "Netflix Inc",
+      "Race And Ethnicity",
+      "Sonnenshine, Rebecca",
+      "Television",
+      "Wettels, Joy Gorman",
+      "Wilder, Laura Ingalls"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-08",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/12/multimedia/12cul-little-house-01-tghz/12cul-little-house-01-tghz-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/12/multimedia/12cul-little-house-01-tghz/12cul-little-house-01-tghz-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/08/arts/television/little-house-on-the-prairie-netflix.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Black People",
+      "Books and Literature",
+      "Bracey, Luke (1989- )",
+      "Fitzgerald, Crosby",
+      "Halsey, Alice (2014- )",
+      "Hughes, Skywalker",
+      "Landon, Michael",
+      "Little House on the Prairie (2026) (TV Program)",
+      "Little House on the Prairie (Book)",
+      "Little House on the Prairie (TV Program)",
+      "Native Americans",
+      "Netflix Inc",
+      "Race and Ethnicity",
+      "Sonnenshine, Rebecca",
+      "Television",
+      "Wettels, Joy Gorman",
+      "Wilder, Laura Ingalls",
+      "books"
+    ],
+    "created_at": "2026-07-08T19:18:10+00:00",
+    "updated_at": "2026-07-08T19:18:10Z"
+  },
+  {
+    "id": "7b3e6837947fd7b28cdbf4e0d041d7fb",
+    "title": "Book Review: ‘A Table for Fortune,’ by William T. Vollmann",
+    "author": "Tom LeClair",
+    "description": "William T. Vollmann’s fascinating, wildly ambitious text interweaves a family saga with a history of the American war machine since Vietnam.",
+    "summary_ai": "",
+    "categories": [
+      "A Table For Fortune (Book)",
+      "Books",
+      "Books And Literature",
+      "Vollmann, William T"
+    ],
+    "genre": [
+      "History"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-08",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/07/books/07TBR-Vollmann-review/07TBR-Vollmann-review-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/07/books/07TBR-Vollmann-review/07TBR-Vollmann-review-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/08/books/review/table-for-fortune-william-vollmann.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "A Table for Fortune (Book)",
+      "Books and Literature",
+      "Vollmann, William T",
+      "books"
+    ],
+    "created_at": "2026-07-08T19:18:10+00:00",
+    "updated_at": "2026-07-08T19:18:10Z"
+  },
+  {
+    "id": "0ba6399a7e61a1f83f782278248569cd",
+    "title": "Book Review: ‘Men in Love,’ by Irvine Welsh",
+    "author": "James Lasdun",
+    "description": "Irvine Welsh brings back his beloved Edinburgh ensemble for his new novel, “Men in Love.”",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Men In Love (Book)",
+      "Trainspotting (Book)",
+      "Welsh, Irvine"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-08",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/07/books/07TBR-Welsh-review/07TBR-Welsh-review-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/07/books/07TBR-Welsh-review/07TBR-Welsh-review-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/06/books/review/irvine-welsh-men-in-love.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Men in Love (Book)",
+      "Trainspotting (Book)",
+      "Welsh, Irvine",
+      "books"
+    ],
+    "created_at": "2026-07-08T19:18:10+00:00",
+    "updated_at": "2026-07-08T19:18:10Z"
+  },
+  {
+    "id": "89dd3fdd40ba3fd5f0e5e2b2800fd764",
+    "title": "The Kiss by Katie Barclay review – on passion, power and puckering up",
     "author": "Tiffany Watt Smith",
-    "description": "From heads of state to foot-kissing knights, Hollywood romcoms to sex, a fascinating story of the gesture that for centuries has brought people together If, on a European holiday, you get flustered greeting people – should you kiss? how many times? – spare a thought for Dutch theologian Desiderius Erasmus. Visiting England in 1499, he found a nation of enthusiastic kissers. “Wherever you go, you are received on all hands with kisses; when you take leave you are dismissed with kisses,” he wrote in surprise, or possibly, alarm. On the continent, the fashion for greeting with a peck on the lips had long fallen by the wayside (probably because of sexual propriety), but the English held firm. It didn’t matter if the other person was of the opposite sex, everyone puckered up. Whether you like to snog, smooch, suck face or osculate (the scientific term), kissing seems so natural and instinctive, it’s hard to imagine it having a history at all. But just as kissing is not seen in all cultures , so, historian of emotions Katie Barclay writes, its meanings have changed across time too. From foot-kissing knights to baby-kissing politicians, to the “shut-up kiss” of Hollywood romcoms, this...",
+    "description": "From Desiderius Erasmus to Luis Rubiales, a cultural history of this most intimate of gestures If, on a European holiday, you get flustered greeting people – should you kiss? how many times? – spare a thought for Dutch theologian Desiderius Erasmus. Visiting England in 1499, he found a nation of enthusiastic kissers. “Wherever you go, you are received on all hands with kisses; when you take leave you are dismissed with kisses,” he wrote in surprise, or possibly, alarm. On the continent, the fashion for greeting with a peck on the lips had long fallen by the wayside (probably because of sexual propriety), but the English held firm. It didn’t matter if the other person was of the opposite sex, everyone puckered up. Whether you like to snog, smooch, suck face or osculate (the scientific term), kissing seems so natural and instinctive, it’s hard to imagine it having a history at all. But just as kissing is not seen in all cultures , so, historian of emotions Katie Barclay writes, its meanings have changed across time too. From foot-kissing knights to baby-kissing politicians, to the “shut-up kiss” of Hollywood romcoms, this rich and fascinating history reminds us that kissing is, and...",
     "summary_ai": "",
     "categories": [
       "Books",
       "Culture",
       "History Books",
-      "Romance Books",
+      "Society",
       "Society Books"
     ],
     "genre": [
@@ -27,12 +149,12 @@
       "Books",
       "Culture",
       "History books",
-      "Romance books",
+      "Society",
       "Society books",
       "books"
     ],
-    "created_at": "2026-07-08T08:26:16+00:00",
-    "updated_at": "2026-07-08T08:26:16Z"
+    "created_at": "2026-07-08T19:18:10+00:00",
+    "updated_at": "2026-07-08T19:18:10Z"
   },
   {
     "id": "c037a6db86f9a2c3c06e9ec2af57079e",
@@ -62,8 +184,98 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-08T08:26:16+00:00",
-    "updated_at": "2026-07-08T08:26:16Z"
+    "created_at": "2026-07-08T19:18:10+00:00",
+    "updated_at": "2026-07-08T19:18:10Z"
+  },
+  {
+    "id": "c8e3347f0e8197487d59c481991a5457",
+    "title": "A Beginner’s Guide to All Things LitRPG",
+    "author": "Rey Rowland",
+    "description": "If you're curious about the super-popular DUNGEON CRAWLER CARL and other LitRPGs, here's where you should start.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Science Fiction/Fantasy",
+      "Swords And Spaceships"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-08",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2022/01/Sword-art-online-Aincrad-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2022/01/Sword-art-online-Aincrad-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/beginners-guide-to-all-things-litrpg/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Science Fiction/Fantasy",
+      "Swords and Spaceships",
+      "reviews"
+    ],
+    "created_at": "2026-07-08T19:18:09+00:00",
+    "updated_at": "2026-07-08T19:18:09Z"
+  },
+  {
+    "id": "7a3861bc3f3b10210015ea130cff292c",
+    "title": "Get Loud: Public Library and School Internet Access Is Under Threat",
+    "author": "Kelly Jensen",
+    "description": "The FCC wants to change the e-Rate program, which could eliminate discounts libraries and schools get to provide internet to their community.",
+    "summary_ai": "",
+    "categories": [
+      "Censorship",
+      "Check Your Shelf",
+      "Libraries",
+      "Literary Activism",
+      "News",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-08",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/07/image-of-computers-and-desk-chairs-in-a-library.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/07/image-of-computers-and-desk-chairs-in-a-library.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/proposed-fcc-e-rate-changes/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Censorship",
+      "Check Your Shelf",
+      "Libraries",
+      "Literary Activism",
+      "News",
+      "reviews"
+    ],
+    "created_at": "2026-07-08T19:18:09+00:00",
+    "updated_at": "2026-07-08T19:18:09Z"
+  },
+  {
+    "id": "7c82c28a21dca37d538ad355e9e94be1",
+    "title": "The 2026 Harvey Awards Finalists Have Been Announced",
+    "author": "Community",
+    "description": "The finalists for this year's Harvey Awards honoring the best in seven different categories of comics, have been announced.",
+    "summary_ai": "",
+    "categories": [
+      "Comics/Graphic Novels",
+      "News",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-08",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2024/08/the-harvey-awards.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2024/08/the-harvey-awards.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/2026-harvey-awards-finalists/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Comics/Graphic Novels",
+      "News",
+      "reviews"
+    ],
+    "created_at": "2026-07-08T19:18:09+00:00",
+    "updated_at": "2026-07-08T19:18:09Z"
   },
   {
     "id": "097c127ead428cecddeec7b687d7587e",
@@ -106,8 +318,8 @@
       "Williams, Mason B",
       "books"
     ],
-    "created_at": "2026-07-08T08:26:16+00:00",
-    "updated_at": "2026-07-08T08:26:16Z"
+    "created_at": "2026-07-08T19:18:10+00:00",
+    "updated_at": "2026-07-08T19:18:10Z"
   },
   {
     "id": "4801569f8f39957d63009b2b07343549",
@@ -152,8 +364,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-08T08:26:16+00:00",
-    "updated_at": "2026-07-08T08:26:16Z"
+    "created_at": "2026-07-08T19:18:10+00:00",
+    "updated_at": "2026-07-08T19:18:10Z"
   },
   {
     "id": "886035948bde3222a56a2ea5d7902700",
@@ -191,8 +403,8 @@
       "Teen books",
       "books"
     ],
-    "created_at": "2026-07-08T08:26:16+00:00",
-    "updated_at": "2026-07-08T08:26:16Z"
+    "created_at": "2026-07-08T19:18:10+00:00",
+    "updated_at": "2026-07-08T19:18:10Z"
   },
   {
     "id": "3af3ef433d85c84d66ac18b20f69b6a5",
@@ -227,8 +439,8 @@
       "Iran",
       "books"
     ],
-    "created_at": "2026-07-08T08:26:16+00:00",
-    "updated_at": "2026-07-08T08:26:16Z"
+    "created_at": "2026-07-08T19:18:10+00:00",
+    "updated_at": "2026-07-08T19:18:10Z"
   },
   {
     "id": "1974d85a7de0a5747fae415754690151",
@@ -261,8 +473,8 @@
       "Parents and parenting",
       "books"
     ],
-    "created_at": "2026-07-08T08:26:16+00:00",
-    "updated_at": "2026-07-08T08:26:16Z"
+    "created_at": "2026-07-08T19:18:10+00:00",
+    "updated_at": "2026-07-08T19:18:10Z"
   },
   {
     "id": "0bf85898825b348da255995d8643c5a1",
@@ -293,8 +505,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-08T08:26:16+00:00",
-    "updated_at": "2026-07-08T08:26:16Z"
+    "created_at": "2026-07-08T19:18:10+00:00",
+    "updated_at": "2026-07-08T19:18:10Z"
   },
   {
     "id": "1b8a09d692033807747013690893c841",
@@ -328,94 +540,60 @@
       "Technology books",
       "books"
     ],
-    "created_at": "2026-07-08T08:26:16+00:00",
-    "updated_at": "2026-07-08T08:26:16Z"
+    "created_at": "2026-07-08T19:18:10+00:00",
+    "updated_at": "2026-07-08T19:18:10Z"
   },
   {
-    "id": "4f82486b8d39679c447e06e9cd1994a6",
-    "title": "The Best New Dark Romance Books",
-    "author": "Silvana Reyes Lopez",
-    "description": "The best new dark romance books feature serial killers you'll root for, stalkers finding love, mafia romances, and even human-killing sirens.",
+    "id": "c0c71da05bffb140b37816091b13ca1a",
+    "title": "Every literary(ish) person who attended Taylor Swift’s wedding.",
+    "author": "Julia Hass",
+    "description": "Usually when I hear about a party thrown by the most famous person in the world, I don’t immediately assume that someone like me should be there. What does make me think that delusional thought is when the guest list",
     "summary_ai": "",
     "categories": [
-      "Dark Romance",
-      "Kissing Books",
+      "Celebrity",
+      "Ethan Hawke",
+      "Events",
+      "Glennon Doyle",
+      "Jenny Han",
+      "Msg",
+      "Music",
+      "New York City",
+      "News And Culture",
       "Reviews",
-      "Romance/Erotica",
-      "Sponsored"
-    ],
-    "genre": [
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-07",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/harvest-season-e1782062130334-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/harvest-season-e1782062130334-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/new-dark-romance-books-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Kissing Books",
-      "Romance/Erotica",
-      "Sponsored",
-      "dark romance",
-      "reviews"
-    ],
-    "created_at": "2026-07-08T08:26:16+00:00",
-    "updated_at": "2026-07-08T08:26:16Z"
-  },
-  {
-    "id": "7a8264ab216aac9afe3f160f140f7dac",
-    "title": "📚 A little breather",
-    "author": "Community",
-    "description": "Emerge from the long weekend with a round-up of the latest publishing news.",
-    "summary_ai": "",
-    "categories": [
-      "Book Riot Newsletter",
-      "Reviews"
+      "Ronan Farrow",
+      "Taylor Swift",
+      "The Hub",
+      "Travis Kelce",
+      "Zadie Smith"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "the long weekend with a round-up of the latest publishing",
+    "publisher": "Literary Hub",
     "published_date": "2026-07-07",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/Alison-Leiby.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/Alison-Leiby.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/a-little-breather/",
-    "source": "Book Riot",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/taylor-copy-768x432.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/taylor-copy-768x432.jpg",
+    "article_url": "https://lithub.com/every-literaryish-person-who-attended-taylor-swifts-wedding/",
+    "source": "Literary Hub",
     "source_type": "rss",
     "tags": [
-      "Book Riot Newsletter",
+      "Ethan Hawke",
+      "Events",
+      "Glennon Doyle",
+      "Jenny Han",
+      "MSG",
+      "Music",
+      "New York City",
+      "News and Culture",
+      "Ronan Farrow",
+      "Taylor Swift",
+      "The Hub",
+      "Travis Kelce",
+      "Zadie Smith",
+      "celebrity",
       "reviews"
     ],
-    "created_at": "2026-07-08T08:26:16+00:00",
-    "updated_at": "2026-07-08T08:26:16Z"
-  },
-  {
-    "id": "1872fa798387c11bfcffc259fc7eacdf",
-    "title": "11 of the Best Books Out in July",
-    "author": "Erica Ezeifedi",
-    "description": "Colson Whitehead's finished trilogy, romantasy takes us to the demon realm, an Indigenous chef shares his personal journey, and more.",
-    "summary_ai": "",
-    "categories": [
-      "New Books",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-07",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/Cool-Machine-A-Novel-The-Harlem-Trilogy-Colson-Whitehead-cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/Cool-Machine-A-Novel-The-Harlem-Trilogy-Colson-Whitehead-cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/best-new-books-july-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "New Books",
-      "reviews"
-    ],
-    "created_at": "2026-07-08T08:26:16+00:00",
-    "updated_at": "2026-07-08T08:26:16Z"
+    "created_at": "2026-07-08T19:18:09+00:00",
+    "updated_at": "2026-07-08T19:18:09Z"
   },
   {
     "id": "76a9bcadf24e3ca7bc006dc860f4ab0e",
@@ -438,68 +616,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-07-08T08:26:16+00:00",
-    "updated_at": "2026-07-08T08:26:16Z"
-  },
-  {
-    "id": "e3ff5f7597b9f2e515c2abc95ace2be3",
-    "title": "Hot Greek Summer is Finally Here",
-    "author": "Vanessa Diaz",
-    "description": "At long last, hot Greek summer is here! We're getting into the epic poem as we prepare for the buzzy Christopher Nolan adaptation.",
-    "summary_ai": "",
-    "categories": [
-      "Book Radar",
-      "Greek Mythology",
-      "Poetry",
-      "Reviews",
-      "Zero To Well-Read"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-07",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/odyssey-zero-to-well-read-flagship.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/odyssey-zero-to-well-read-flagship.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/zero-to-well-read-the-odyssey/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Book Radar",
-      "Poetry",
-      "Zero to Well-Read",
-      "greek mythology",
-      "reviews"
-    ],
-    "created_at": "2026-07-08T08:26:16+00:00",
-    "updated_at": "2026-07-08T08:26:16Z"
-  },
-  {
-    "id": "b279a14ccecfd0868428a72366f0e0aa",
-    "title": "The Rise of Ragebait Lit and More Updates For Library Workers",
-    "author": "Katie McLain Horner",
-    "description": "With the rise of books like Yesteryear, Harper's Bazaar says that arguing about books in the group chat is back.",
-    "summary_ai": "",
-    "categories": [
-      "Check Your Shelf",
-      "Libraries",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-07",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2020/03/reading-feature-700x375-2.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2020/03/reading-feature-700x375-2.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/the-rise-of-ragebait-lit/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Check Your Shelf",
-      "Libraries",
-      "reviews"
-    ],
-    "created_at": "2026-07-08T08:26:16+00:00",
-    "updated_at": "2026-07-08T08:26:16Z"
+    "created_at": "2026-07-08T19:18:09+00:00",
+    "updated_at": "2026-07-08T19:18:09Z"
   },
   {
     "id": "9eaf81a315370657ee14473fdbbc901a",
@@ -544,8 +662,8 @@
       "World Cup Fever: A Soccer Journey in Nine Tournaments (Book)",
       "books"
     ],
-    "created_at": "2026-07-08T08:26:16+00:00",
-    "updated_at": "2026-07-08T08:26:16Z"
+    "created_at": "2026-07-08T19:18:10+00:00",
+    "updated_at": "2026-07-08T19:18:10Z"
   },
   {
     "id": "a9b77afe3bf26bf5b782dc234771ef4b",
@@ -574,40 +692,8 @@
       "The Coast of Everything (Book)",
       "books"
     ],
-    "created_at": "2026-07-08T08:26:16+00:00",
-    "updated_at": "2026-07-08T08:26:16Z"
-  },
-  {
-    "id": "0ba6399a7e61a1f83f782278248569cd",
-    "title": "Book Review: ‘Men in Love,’ by Irvine Welsh",
-    "author": "James Lasdun",
-    "description": "Irvine Welsh brings back his beloved Edinburgh ensemble for his new novel, “Men in Love.”",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Men In Love (Book)",
-      "Trainspotting (Book)",
-      "Welsh, Irvine"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-06",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/07/books/07TBR-Welsh-review/07TBR-Welsh-review-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/07/books/07TBR-Welsh-review/07TBR-Welsh-review-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/06/books/review/irvine-welsh-men-in-love.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Men in Love (Book)",
-      "Trainspotting (Book)",
-      "Welsh, Irvine",
-      "books"
-    ],
-    "created_at": "2026-07-08T08:26:16+00:00",
-    "updated_at": "2026-07-08T08:26:16Z"
+    "created_at": "2026-07-08T19:18:10+00:00",
+    "updated_at": "2026-07-08T19:18:10Z"
   },
   {
     "id": "e636fbf53744010645d9041fca6db7b9",
@@ -636,47 +722,7 @@
       "Mason, Daniel",
       "books"
     ],
-    "created_at": "2026-07-08T08:26:16+00:00",
-    "updated_at": "2026-07-08T08:26:16Z"
-  },
-  {
-    "id": "338fa6b551a13cd820ec0574d686cf78",
-    "title": "John Byrne, an ‘X-Men’ Artist, Returns to Rewrite the Story His Way",
-    "author": "Howard Fishman",
-    "description": "After creative differences led him to step away from the characters that made him famous decades ago, John Byrne calls “Elsewhen” his swan song. He’s not going quietly.",
-    "summary_ai": "",
-    "categories": [
-      "Abrams Comicarts",
-      "Books",
-      "Books And Literature",
-      "Byrne, John (1950- )",
-      "Comic Books And Strips",
-      "Content Type: Personal Profile",
-      "Marvel Entertainment",
-      "Uncanny X-Men (Comic Strip)",
-      "X-Men: Elsewhen (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-06",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/06/books/03TBR-John-Byrne/03TBR-John-Byrne-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/06/books/03TBR-John-Byrne/03TBR-John-Byrne-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/03/books/review/john-byrne-x-men-elsewhen.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Abrams ComicArts",
-      "Books and Literature",
-      "Byrne, John (1950- )",
-      "Comic Books and Strips",
-      "Content Type: Personal Profile",
-      "Marvel Entertainment",
-      "Uncanny X-Men (Comic Strip)",
-      "X-Men: Elsewhen (Book)",
-      "books"
-    ],
-    "created_at": "2026-07-08T08:26:16+00:00",
-    "updated_at": "2026-07-08T08:26:16Z"
+    "created_at": "2026-07-08T19:18:10+00:00",
+    "updated_at": "2026-07-08T19:18:10Z"
   }
 ]
