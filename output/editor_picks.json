@@ -1,5 +1,57 @@
 [
   {
+    "id": "c0c71da05bffb140b37816091b13ca1a",
+    "title": "Every literary(ish) person who attended Taylor Swift’s wedding.",
+    "author": "Julia Hass",
+    "description": "Usually when I hear about a party thrown by the most famous person in the world, I don’t immediately assume that someone like me should be there. What does make me think that delusional thought is when the guest list",
+    "summary_ai": "",
+    "categories": [
+      "Celebrity",
+      "Ethan Hawke",
+      "Events",
+      "Glennon Doyle",
+      "Jenny Han",
+      "Msg",
+      "Music",
+      "New York City",
+      "News And Culture",
+      "Reviews",
+      "Ronan Farrow",
+      "Taylor Swift",
+      "The Hub",
+      "Travis Kelce",
+      "Zadie Smith"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-07-07",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/taylor-copy-768x432.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/taylor-copy-768x432.jpg",
+    "article_url": "https://lithub.com/every-literaryish-person-who-attended-taylor-swifts-wedding/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Ethan Hawke",
+      "Events",
+      "Glennon Doyle",
+      "Jenny Han",
+      "MSG",
+      "Music",
+      "New York City",
+      "News and Culture",
+      "Ronan Farrow",
+      "Taylor Swift",
+      "The Hub",
+      "Travis Kelce",
+      "Zadie Smith",
+      "celebrity",
+      "reviews"
+    ],
+    "created_at": "2026-07-08T08:26:16+00:00",
+    "updated_at": "2026-07-08T08:26:16Z"
+  },
+  {
     "id": "06afbb9f6542c0e962b86d2826e26289",
     "title": "Lit Hub Daily: July 7, 2026",
     "author": "Lit Hub Daily",
@@ -22,8 +74,8 @@
       "Lit Hub Daily",
       "reviews"
     ],
-    "created_at": "2026-07-07T19:49:04+00:00",
-    "updated_at": "2026-07-07T19:49:04Z"
+    "created_at": "2026-07-08T08:26:16+00:00",
+    "updated_at": "2026-07-08T08:26:16Z"
   },
   {
     "id": "58a1990faa114010fa0e937b273e039d",
@@ -144,8 +196,8 @@
       "reviews",
       "trans. by Ros Schwartz"
     ],
-    "created_at": "2026-07-07T19:49:04+00:00",
-    "updated_at": "2026-07-07T19:49:04Z"
+    "created_at": "2026-07-08T08:26:16+00:00",
+    "updated_at": "2026-07-08T08:26:16Z"
   },
   {
     "id": "b0750bf461d7c71ddcda9994fad11133",
@@ -194,8 +246,8 @@
       "translating",
       "translation"
     ],
-    "created_at": "2026-07-07T19:49:04+00:00",
-    "updated_at": "2026-07-07T19:49:04Z"
+    "created_at": "2026-07-08T08:26:16+00:00",
+    "updated_at": "2026-07-08T08:26:16Z"
   },
   {
     "id": "49a89aba8e4cc3bd58369e159df9736f",
@@ -246,8 +298,8 @@
       "short stories",
       "social media"
     ],
-    "created_at": "2026-07-07T19:49:04+00:00",
-    "updated_at": "2026-07-07T19:49:04Z"
+    "created_at": "2026-07-08T08:26:16+00:00",
+    "updated_at": "2026-07-08T08:26:16Z"
   },
   {
     "id": "093a3c39e555f4ae3625fe240a12ec4f",
@@ -296,8 +348,8 @@
       "reviews",
       "writing"
     ],
-    "created_at": "2026-07-07T19:49:04+00:00",
-    "updated_at": "2026-07-07T19:49:04Z"
+    "created_at": "2026-07-08T08:26:16+00:00",
+    "updated_at": "2026-07-08T08:26:16Z"
   },
   {
     "id": "1f151ff5aa341828a7057d2848c3e93d",
@@ -342,8 +394,8 @@
       "reviews",
       "the natural world"
     ],
-    "created_at": "2026-07-07T19:49:04+00:00",
-    "updated_at": "2026-07-07T19:49:04Z"
+    "created_at": "2026-07-08T08:26:16+00:00",
+    "updated_at": "2026-07-08T08:26:16Z"
   },
   {
     "id": "95da6e8f6c4965e2bd200bd2c9488a37",
@@ -418,8 +470,8 @@
       "The Sea Around Us",
       "reviews"
     ],
-    "created_at": "2026-07-07T19:49:04+00:00",
-    "updated_at": "2026-07-07T19:49:04Z"
+    "created_at": "2026-07-08T08:26:16+00:00",
+    "updated_at": "2026-07-08T08:26:16Z"
   },
   {
     "id": "6c74a9c68c436e869e3677cd3a6964c9",
@@ -466,8 +518,8 @@
       "family",
       "reviews"
     ],
-    "created_at": "2026-07-07T19:49:04+00:00",
-    "updated_at": "2026-07-07T19:49:04Z"
+    "created_at": "2026-07-08T08:26:16+00:00",
+    "updated_at": "2026-07-08T08:26:16Z"
   },
   {
     "id": "203dd536b4907e2422a0f1fc680e819f",
@@ -508,8 +560,8 @@
       "Random House",
       "reviews"
     ],
-    "created_at": "2026-07-07T19:49:04+00:00",
-    "updated_at": "2026-07-07T19:49:04Z"
+    "created_at": "2026-07-08T08:26:16+00:00",
+    "updated_at": "2026-07-08T08:26:16Z"
   },
   {
     "id": "f914e18e3de64406454a1ddf3e311e42",
@@ -534,8 +586,8 @@
       "Book Deals",
       "reviews"
     ],
-    "created_at": "2026-07-07T19:49:04+00:00",
-    "updated_at": "2026-07-07T19:49:04Z"
+    "created_at": "2026-07-08T08:26:16+00:00",
+    "updated_at": "2026-07-08T08:26:16Z"
   },
   {
     "id": "0907f19a758c62f438ce9ea369ccb8b6",
@@ -560,8 +612,8 @@
       "In Reading Color",
       "reviews"
     ],
-    "created_at": "2026-07-07T19:49:04+00:00",
-    "updated_at": "2026-07-07T19:49:04Z"
+    "created_at": "2026-07-08T08:26:16+00:00",
+    "updated_at": "2026-07-08T08:26:16Z"
   },
   {
     "id": "812756460c871d7a46491ba5bceaa3ee",
@@ -590,8 +642,8 @@
       "Our Queerest Shelves",
       "reviews"
     ],
-    "created_at": "2026-07-07T19:49:04+00:00",
-    "updated_at": "2026-07-07T19:49:04Z"
+    "created_at": "2026-07-08T08:26:16+00:00",
+    "updated_at": "2026-07-08T08:26:16Z"
   },
   {
     "id": "84b699b9e1c2106620006a6c0c674570",
@@ -621,8 +673,8 @@
       "Swords and Spaceships",
       "reviews"
     ],
-    "created_at": "2026-07-07T19:49:04+00:00",
-    "updated_at": "2026-07-07T19:49:04Z"
+    "created_at": "2026-07-08T08:26:16+00:00",
+    "updated_at": "2026-07-08T08:26:16Z"
   },
   {
     "id": "2010b1a24685130723dbc48d87fcc02b",
@@ -647,41 +699,7 @@
       "Book Radar",
       "reviews"
     ],
-    "created_at": "2026-07-07T19:49:04+00:00",
-    "updated_at": "2026-07-07T19:49:04Z"
-  },
-  {
-    "id": "4f82486b8d39679c447e06e9cd1994a6",
-    "title": "The Best New Dark Romance Books",
-    "author": "Silvana Reyes Lopez",
-    "description": "The best new dark romance books feature serial killers you'll root for, stalkers finding love, mafia romances, and even human-killing sirens.",
-    "summary_ai": "",
-    "categories": [
-      "Dark Romance",
-      "Kissing Books",
-      "Reviews",
-      "Romance/Erotica",
-      "Sponsored"
-    ],
-    "genre": [
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-07",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/harvest-season-e1782062130334-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/harvest-season-e1782062130334-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/new-dark-romance-books-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Kissing Books",
-      "Romance/Erotica",
-      "Sponsored",
-      "dark romance",
-      "reviews"
-    ],
-    "created_at": "2026-07-07T19:49:04+00:00",
-    "updated_at": "2026-07-07T19:49:04Z"
+    "created_at": "2026-07-08T08:26:16+00:00",
+    "updated_at": "2026-07-08T08:26:16Z"
   }
 ]
