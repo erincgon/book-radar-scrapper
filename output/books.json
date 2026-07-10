@@ -1,5 +1,107 @@
 [
   {
+    "id": "a047e0a70a7e7291efe68a669aefc60f",
+    "title": "‘The Face,’ by Fay Bound",
+    "author": "Ginia Bellafante",
+    "description": "In “The Face,” Fay Bound-Alberti examines our relationship to our most public features.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Bound-Alberti, Fay",
+      "Face",
+      "Plastic Surgery",
+      "Prosopagnosia (Brain Disorder)",
+      "The Face: A Cultural History (Book)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/30/multimedia/00TBRBound-Alberti-Review-lfjt/00TBRBound-Alberti-Review-lfjt-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/30/multimedia/00TBRBound-Alberti-Review-lfjt/00TBRBound-Alberti-Review-lfjt-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/05/books/review/the-face-fay-bound-alberti.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Bound-Alberti, Fay",
+      "Face",
+      "Plastic Surgery",
+      "Prosopagnosia (Brain Disorder)",
+      "The Face: A Cultural History (Book)",
+      "books"
+    ],
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
+  },
+  {
+    "id": "e5405ea90125b1c1597491f853373f63",
+    "title": "Jenni Fagan: ‘Maya Angelou taught me that I owed myself hope’",
+    "author": "Guardian Staff",
+    "description": "The Scottish author on loving The Hobbit, fairytales, Frankenstein and the shock of A Clockwork Orange My earliest reading memory Fairytales. I was obsessed. I took fairytales very seriously as moral lessons. I soon knew that I’d always help any old lady cross the road, it really is always best to do so. My favourite book growing up The Hobbit was my favourite book while growing up. It expanded my understanding of what could be achieved in fiction. I found JRR Tolkien’s world transformative. I felt as if I knew the hobbits, and I so wanted to see the elves. I could hear the crack of fireworks as they turned into dragons that flew overhead. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "Jenni Fagan"
+    ],
+    "genre": [
+      "Fiction"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://i.guim.co.uk/img/media/1fab385d1f7e6e1bafb54b66d883d1e1da208a9d/0_3000_5504_4403/master/5504.jpg?width=700&quality=85&auto=format&fit=max&s=05c35a11ab657bd926fe4ef23d204599",
+    "cover_large": "https://i.guim.co.uk/img/media/1fab385d1f7e6e1bafb54b66d883d1e1da208a9d/0_3000_5504_4403/master/5504.jpg?width=700&quality=85&auto=format&fit=max&s=05c35a11ab657bd926fe4ef23d204599",
+    "article_url": "https://www.theguardian.com/books/2026/jul/10/jenni-fagan-maya-angelou-taught-me-that-i-owed-myself-hope",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "Jenni Fagan",
+      "books"
+    ],
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
+  },
+  {
+    "id": "6c6fad4aaca3daa9f02c25a369c09158",
+    "title": "Transcendent by Laverne Cox review",
+    "author": "Fiona Sturges",
+    "description": "The actor and activist tells the story of her brutal childhood in the deep south with eloquence and defiance When Laverne Cox was eight years old and growing up in Mobile, Alabama, she saved up her pocket money and bought herself a fan decorated with Japanese geishas. The fan became her favourite plaything, a prop to be used while dancing in imaginary music videos or recreating scenes from Gone With the Wind in which she cast herself as Scarlett O’Hara. “I lit up, animated, whenever that fan was in my hand,” she recalls in her memoir. But when Cox, who was raised as a boy, began fanning herself with it at school, her teacher, Mrs Ridgeway, yanked her furiously out of the classroom, paraded her and her new accessory in front of the other teachers, and then phoned her mother, Gloria. When Gloria came home that evening, she exploded with fury. She said Mrs Ridgeway had told her she too had a son who had been an effeminate child who was now living on the streets of New Orleans and wearing a dress. “You want to be in a dress on the streets in New Orleans?” shouted Gloria, who would habitually call Cox a “sissy” and other homophobic slurs. She then signed her up for conversion therapy...",
+    "summary_ai": "",
+    "categories": [
+      "Autobiography And Memoir",
+      "Books",
+      "Culture",
+      "Transgender"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://i.guim.co.uk/img/media/ffb6bd09dc3f4050d3240d5b0ff9275f4a0f9da1/833_0_4167_3333/master/4167.jpg?width=700&quality=85&auto=format&fit=max&s=b605d617cbf783aa1dddeb78a425e80c",
+    "cover_large": "https://i.guim.co.uk/img/media/ffb6bd09dc3f4050d3240d5b0ff9275f4a0f9da1/833_0_4167_3333/master/4167.jpg?width=700&quality=85&auto=format&fit=max&s=b605d617cbf783aa1dddeb78a425e80c",
+    "article_url": "https://www.theguardian.com/books/2026/jul/10/transcendent-by-laverne-cox-review-success-against-the-odds",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Autobiography and memoir",
+      "Books",
+      "Culture",
+      "Transgender",
+      "books"
+    ],
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
+  },
+  {
     "id": "a37c8c310daccda2f23a0eeb2ca9ed30",
     "title": "Too Many Books?",
     "author": "Alex Vadukul",
@@ -28,8 +130,8 @@
       "Real Estate and Housing (Residential)",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "cdc8c7c58553083aa3bbc7bf1d633c19",
@@ -66,8 +168,8 @@
       "books",
       "genre-books-graphic-novels-comic-books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "779a32d57f7dc53a2506bd290f8f8298",
@@ -98,8 +200,8 @@
       "Odyssey (Book)",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "01405a4cc0c1f2d1caa2ac538576a2f3",
@@ -142,8 +244,8 @@
       "books",
       "genre-books-historical-fiction"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "7b3e6837947fd7b28cdbf4e0d041d7fb",
@@ -174,8 +276,8 @@
       "Vollmann, William T",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "2c1fe77a55a45e8992a445a61cfcc650",
@@ -201,8 +303,8 @@
       "The Odyssey",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "f32cdb4c795052e9ead0d2e688b0d331",
@@ -233,8 +335,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "8ad2a9931c56828e07f09baba07f4a86",
@@ -272,8 +374,8 @@
       "William Burroughs",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "75b329a54d598de87f0b041c469db06e",
@@ -330,8 +432,8 @@
       "Wilder, Laura Ingalls",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "0ba6399a7e61a1f83f782278248569cd",
@@ -362,8 +464,8 @@
       "Welsh, Irvine",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "e636fbf53744010645d9041fca6db7b9",
@@ -392,8 +494,8 @@
       "Mason, Daniel",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "89dd3fdd40ba3fd5f0e5e2b2800fd764",
@@ -427,8 +529,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "c037a6db86f9a2c3c06e9ec2af57079e",
@@ -458,8 +560,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "097c127ead428cecddeec7b687d7587e",
@@ -502,8 +604,8 @@
       "Williams, Mason B",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "4801569f8f39957d63009b2b07343549",
@@ -548,83 +650,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
-  },
-  {
-    "id": "886035948bde3222a56a2ea5d7902700",
-    "title": "‘I presumed kids’ books were written by people who were white and dead’: new children’s laureate Patrice Lawrence",
-    "author": "Emma Loffhagen",
-    "description": "The author of Orangeboy, Indigo Donut and Is That Your Mama? plans to use her two-year term to ensure children isolated from reading get involved When Patrice Lawrence got the call asking her to become the UK’s next children’s laureate, her first response was disbelief. “I was in absolute shock,” she says, laughing. She is only just beginning to process what it means to join a lineage that includes Jacqueline Wilson, Quentin Blake, Michael Rosen, Julia Donaldson, Malorie Blackman and, most recently, Frank Cottrell-Boyce. “So many people who’ve gone before have had such an influence on my life,” she says. “Without Jacqueline Wilson, I wouldn’t write the kind of books that I do. She was such a trailblazer in social realism for children. And Malorie ... well, Malorie only needs one name.” Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Awards And Prizes",
-      "Books",
-      "Children And Teenagers",
-      "Children'S Laureate",
-      "Culture",
-      "Patrice Lawrence",
-      "Teen Books"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-07",
-    "thumbnail": "https://i.guim.co.uk/img/media/9ca03ca7574f6e5158eca98f02b4a10c16c92470/417_0_4167_3333/master/4167.jpg?width=700&quality=85&auto=format&fit=max&s=adccce3abcea0d47add404f821b7c7ca",
-    "cover_large": "https://i.guim.co.uk/img/media/9ca03ca7574f6e5158eca98f02b4a10c16c92470/417_0_4167_3333/master/4167.jpg?width=700&quality=85&auto=format&fit=max&s=adccce3abcea0d47add404f821b7c7ca",
-    "article_url": "https://www.theguardian.com/books/2026/jul/07/patrice-lawrence-new-childrens-laureate-interview-orangeboy",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Awards and prizes",
-      "Books",
-      "Children and teenagers",
-      "Children's laureate",
-      "Culture",
-      "Patrice Lawrence",
-      "Teen books",
-      "books"
-    ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
-  },
-  {
-    "id": "3af3ef433d85c84d66ac18b20f69b6a5",
-    "title": "Shahrnush Parsipur, Iranian author of Women Without Men, dies at 80",
-    "author": "Ella Creamer",
-    "description": "The revered writer and political exile’s publisher says her ‘legacy in literary history can’t be compared to anyone else’s’ Shahrnush Parsipur, the celebrated Iranian writer whose subversive works of feminist fiction saw her repeatedly imprisoned, has died aged 80. A pioneer of women’s literature in Iran, Parsipur excoriated the country’s patriarchal culture in novels including Women Without Men and Touba and the Meaning of Night. She was imprisoned four times, under the Shah and then the Islamic Republic. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Feminism",
-      "Fiction",
-      "Iran"
-    ],
-    "genre": [
-      "Fiction",
-      "History"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-07",
-    "thumbnail": "https://i.guim.co.uk/img/media/5d280efe7d80316a60e733102a410cc87ac0e0c8/1003_0_2497_1998/master/2497.jpg?width=700&quality=85&auto=format&fit=max&s=f6c3d54f58610833f44eeb1b33d85914",
-    "cover_large": "https://i.guim.co.uk/img/media/5d280efe7d80316a60e733102a410cc87ac0e0c8/1003_0_2497_1998/master/2497.jpg?width=700&quality=85&auto=format&fit=max&s=f6c3d54f58610833f44eeb1b33d85914",
-    "article_url": "https://www.theguardian.com/books/2026/jul/07/shahrnush-parsipur-iranian-author-women-without-men-dies-80",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Feminism",
-      "Fiction",
-      "Iran",
-      "books"
-    ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "1b8a09d692033807747013690893c841",
@@ -658,8 +685,8 @@
       "Technology books",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "0bf85898825b348da255995d8643c5a1",
@@ -690,8 +717,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "9eaf81a315370657ee14473fdbbc901a",
@@ -736,8 +763,8 @@
       "World Cup Fever: A Soccer Journey in Nine Tournaments (Book)",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "a9b77afe3bf26bf5b782dc234771ef4b",
@@ -766,48 +793,8 @@
       "The Coast of Everything (Book)",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
-  },
-  {
-    "id": "338fa6b551a13cd820ec0574d686cf78",
-    "title": "John Byrne, an ‘X-Men’ Artist, Returns to Rewrite the Story His Way",
-    "author": "Howard Fishman",
-    "description": "After creative differences led him to step away from the characters that made him famous decades ago, John Byrne calls “Elsewhen” his swan song. He’s not going quietly.",
-    "summary_ai": "",
-    "categories": [
-      "Abrams Comicarts",
-      "Books",
-      "Books And Literature",
-      "Byrne, John (1950- )",
-      "Comic Books And Strips",
-      "Content Type: Personal Profile",
-      "Marvel Entertainment",
-      "Uncanny X-Men (Comic Strip)",
-      "X-Men: Elsewhen (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-06",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/06/books/03TBR-John-Byrne/03TBR-John-Byrne-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/06/books/03TBR-John-Byrne/03TBR-John-Byrne-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/03/books/review/john-byrne-x-men-elsewhen.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Abrams ComicArts",
-      "Books and Literature",
-      "Byrne, John (1950- )",
-      "Comic Books and Strips",
-      "Content Type: Personal Profile",
-      "Marvel Entertainment",
-      "Uncanny X-Men (Comic Strip)",
-      "X-Men: Elsewhen (Book)",
-      "books"
-    ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "95278e82f5d625779bec536c4ee030ea",
@@ -840,44 +827,41 @@
       "Essays",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
-    "id": "a047e0a70a7e7291efe68a669aefc60f",
-    "title": "‘The Face,’ by Fay Bound",
-    "author": "Ginia Bellafante",
-    "description": "In “The Face,” Fay Bound-Alberti examines our relationship to our most public features.",
+    "id": "2e7327f03e80aed3447879c35f164598",
+    "title": "Contrapposto by Dave Eggers review",
+    "author": "Sukhdev Sandhu",
+    "description": "The story of a lifelong friendship between two art-world mavericks from the working-class midwest is disappointingly pious Dave Eggers, the author of more than a dozen novels as well as a steady stream of children’s and nonfiction books, grew up wanting to be an artist.As a child he took lessons with a Japanese watercolourist, studied painting at college, worked as a magazine cartoonist and illustrator, even curated a New York show entitled Lots of Things Like This featuring pieces by Jean-Michel Basquiat and Marcel Duchamp. He is soon to open a project in San Francisco that he has been hatching for a decade – Art + Water, an amalgam of art school, affordable studios, exhibition galleries and local gathering point. Cricket Dibb, the cloyingly named hero of Contrapposto, would love a place like Art + Water. He’s 10 years old, a working-class midwestern kid who passes raccoons and broken tractors on his way to school. His stepfather, Robert, thinks nothing of beating his mother, calling her “a gimpy whore”, stealing any money she’s saved. Cricket hates him, not least on aesthetic grounds – “his ugly gold watch, his mouth full of black fillings, his bony bald head, his pockmarked...",
     "summary_ai": "",
     "categories": [
       "Books",
-      "Books And Literature",
-      "Bound-Alberti, Fay",
-      "Face",
-      "Plastic Surgery",
-      "Prosopagnosia (Brain Disorder)",
-      "The Face: A Cultural History (Book)"
+      "Culture",
+      "Fiction"
     ],
-    "genre": [],
+    "genre": [
+      "Children",
+      "Fiction",
+      "Nonfiction"
+    ],
     "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-05",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/30/multimedia/00TBRBound-Alberti-Review-lfjt/00TBRBound-Alberti-Review-lfjt-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/30/multimedia/00TBRBound-Alberti-Review-lfjt/00TBRBound-Alberti-Review-lfjt-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/05/books/review/the-face-fay-bound-alberti.html",
-    "source": "The New York Times",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-06",
+    "thumbnail": "https://i.guim.co.uk/img/media/7901ea7bae30ad36ff20fcd5837024eb9fc7bb8f/188_273_1991_1593/master/1991.jpg?width=700&quality=85&auto=format&fit=max&s=d50f0115652fb8037fe39d611048c00e",
+    "cover_large": "https://i.guim.co.uk/img/media/7901ea7bae30ad36ff20fcd5837024eb9fc7bb8f/188_273_1991_1593/master/1991.jpg?width=700&quality=85&auto=format&fit=max&s=d50f0115652fb8037fe39d611048c00e",
+    "article_url": "https://www.theguardian.com/books/2026/jul/06/contrapposto-by-dave-eggers-review-this-portrait-of-an-artist-falls-flat",
+    "source": "The Guardian",
     "source_type": "rss",
     "tags": [
-      "Books and Literature",
-      "Bound-Alberti, Fay",
-      "Face",
-      "Plastic Surgery",
-      "Prosopagnosia (Brain Disorder)",
-      "The Face: A Cultural History (Book)",
+      "Books",
+      "Culture",
+      "Fiction",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "16fdcd994f4068c8e6412e0a7322b8be",
@@ -905,8 +889,8 @@
       "Literary criticism",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "825fab730c67e928cdf7dd05af324142",
@@ -940,8 +924,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "4c67af7b443e59255ae5e43165443d79",
@@ -973,8 +957,8 @@
       "Tessa Hadley",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "0de47d5039ae63ef8405d47c6646d284",
@@ -1010,8 +994,8 @@
       "Paperbacks",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -1041,8 +1025,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1081,7 +1065,7 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-07-09T19:37:50+00:00",
-    "updated_at": "2026-07-09T19:37:50Z"
+    "created_at": "2026-07-10T09:33:19+00:00",
+    "updated_at": "2026-07-10T09:33:19Z"
   }
 ]
