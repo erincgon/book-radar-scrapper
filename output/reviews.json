@@ -1,5 +1,131 @@
 [
   {
+    "id": "c451b37381d2056eb92bc043de775b84",
+    "title": "These three artists are poised to invade the top of the pop charts",
+    "author": "Stephen Thompson",
+    "description": "We're in that phase of summer pop doldrums when the same songs seem to be on repeat week after week. Can Stella Lefty, Yung Miami or Malcolm Todd make a run to crack the top 10?",
+    "summary_ai": "",
+    "categories": [
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "NPR Books",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4492x3369+0+0/resize/4492x3369!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F37%2F60%2Fcf58216b4defa047d7058e5c4d76%2Fhalle-jean-march.jpg",
+    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4492x3369+0+0/resize/4492x3369!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F37%2F60%2Fcf58216b4defa047d7058e5c4d76%2Fhalle-jean-march.jpg",
+    "article_url": "https://www.npr.org/2026/07/10/nx-s1-5887438/future-pop-stars-stella-lefty-yung-miami-malcolm-todd",
+    "source": "NPR Books",
+    "source_type": "rss",
+    "tags": [
+      "reviews"
+    ],
+    "created_at": "2026-07-10T19:21:15+00:00",
+    "updated_at": "2026-07-10T19:21:15Z"
+  },
+  {
+    "id": "362c4baeb52ee854353db10304428233",
+    "title": "A new Mary Oliver documentary captures the poet’s wild and precious life.",
+    "author": "Brittany Allen",
+    "description": "At the time of her death in 2019, the late Mary Oliver was one of the most successful American poets to ever publish. She wrote dozens of collections, and several highly quotable bangers that a reader would be as likely",
+    "summary_ai": "",
+    "categories": [
+      "Art And Photography",
+      "Biography",
+      "Book News",
+      "Documentary",
+      "Edna St. Vincent Millay",
+      "Film",
+      "Film And Tv",
+      "Garrison Keillor",
+      "Garry Winogrand",
+      "John Waters",
+      "Kino Lorber",
+      "Lucy Dacus",
+      "Mary Oliver",
+      "Molly Malone Cook",
+      "Nature",
+      "News And Culture",
+      "Nick Flynn",
+      "One Wild And Precious Life",
+      "Photography",
+      "Poetry",
+      "Reviews",
+      "Sasha Waters",
+      "Saved By The Beauty Of The World",
+      "Steepletop",
+      "Style",
+      "The Hub"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/17_Young_Mary_color_dog-768x522.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/17_Young_Mary_color_dog-768x522.jpg",
+    "article_url": "https://lithub.com/a-new-mary-oliver-documentary-captures-the-poets-wild-and-precious-life/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Art and Photography",
+      "Biography",
+      "Book News",
+      "Edna St. Vincent Millay",
+      "Film and TV",
+      "Garrison Keillor",
+      "Garry Winogrand",
+      "John Waters",
+      "Kino Lorber",
+      "Lucy Dacus",
+      "Mary Oliver",
+      "Molly Malone Cook",
+      "Nature",
+      "News and Culture",
+      "Nick Flynn",
+      "Sasha Waters",
+      "Saved by the Beauty of the World",
+      "Steepletop",
+      "Style",
+      "The Hub",
+      "documentary",
+      "film",
+      "one wild and precious life",
+      "photography",
+      "poetry",
+      "reviews"
+    ],
+    "created_at": "2026-07-10T19:21:15+00:00",
+    "updated_at": "2026-07-10T19:21:15Z"
+  },
+  {
+    "id": "5489476c3a2e68e9ef15b7d0039012f8",
+    "title": "Lit Hub Daily: July 10, 2026",
+    "author": "Lit Hub Daily",
+    "description": "Zach St. George explores the wild scams of Australia’s snake venom con men. | Lit Hub History How activists Kevin Tubbs and Jacob Ferguson brought environmental liberation of the fae variety to America. | Lit Hub Climate Change “During his years",
+    "summary_ai": "",
+    "categories": [
+      "Lit Hub Daily",
+      "Reviews"
+    ],
+    "genre": [
+      "History"
+    ],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/verlainerimbaud-768x344.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/verlainerimbaud-768x344.jpg",
+    "article_url": "https://lithub.com/lit-hub-daily-july-10-2026/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Lit Hub Daily",
+      "reviews"
+    ],
+    "created_at": "2026-07-10T19:21:15+00:00",
+    "updated_at": "2026-07-10T19:21:15Z"
+  },
+  {
     "id": "0b72d4a9aaf7fba15bc1529dcf27022e",
     "title": "The Au Pair",
     "author": "Lit Hub Excerpts",
@@ -38,8 +164,58 @@
       "The Au Pair",
       "reviews"
     ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
+    "created_at": "2026-07-10T19:21:15+00:00",
+    "updated_at": "2026-07-10T19:21:15Z"
+  },
+  {
+    "id": "c03bc5771c65dafa696373e34fb071be",
+    "title": "David Baerwald on Taking Writing Lessons from Hans Zimmer",
+    "author": "David Baerwald",
+    "description": "This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. A typical song begins with a brief introduction that establishes space, moves into a verse that advances the narrative, turns through a bridge or b-section that complicates matters, and arrives",
+    "summary_ai": "",
+    "categories": [
+      "Craft And Advice",
+      "Craft And Criticism",
+      "David Baerwald",
+      "Features",
+      "Hans Zimmer",
+      "Historical Fiction",
+      "Music",
+      "Music Composition",
+      "On Writing",
+      "Reviews",
+      "Spiegel And Grau",
+      "The Craft Of Writing",
+      "The Fire Agent",
+      "Writing Advice"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/Untitled-design-2026-07-09T150228.354-768x432.png",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/Untitled-design-2026-07-09T150228.354-768x432.png",
+    "article_url": "https://lithub.com/david-baerwald-on-taking-writing-lessons-from-hans-zimmer/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Craft and Advice",
+      "Craft and Criticism",
+      "David Baerwald",
+      "Features",
+      "Hans Zimmer",
+      "Spiegel and Grau",
+      "The Craft of Writing",
+      "The Fire Agent",
+      "historical fiction",
+      "music",
+      "music composition",
+      "on writing",
+      "reviews",
+      "writing advice"
+    ],
+    "created_at": "2026-07-10T19:21:15+00:00",
+    "updated_at": "2026-07-10T19:21:15Z"
   },
   {
     "id": "bae7121d4e4d19687245b593a6427ab2",
@@ -96,8 +272,8 @@
       "environmentalism",
       "reviews"
     ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
+    "created_at": "2026-07-10T19:21:15+00:00",
+    "updated_at": "2026-07-10T19:21:15Z"
   },
   {
     "id": "a13d09ae9f6af29d3b576723d121fc72",
@@ -147,8 +323,8 @@
       "politics",
       "reviews"
     ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
+    "created_at": "2026-07-10T19:21:15+00:00",
+    "updated_at": "2026-07-10T19:21:15Z"
   },
   {
     "id": "2ea769f7437cb94fedfcf85887ffd100",
@@ -201,8 +377,8 @@
       "scams",
       "snakes"
     ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
+    "created_at": "2026-07-10T19:21:15+00:00",
+    "updated_at": "2026-07-10T19:21:15Z"
   },
   {
     "id": "db1343c0dc26079c9ed1cc7caba14fe5",
@@ -254,58 +430,8 @@
       "nonfiction research",
       "reviews"
     ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
-  },
-  {
-    "id": "c03bc5771c65dafa696373e34fb071be",
-    "title": "David Baerwald on Taking Writing Lessons from Hans Zimmer",
-    "author": "David Baerwald",
-    "description": "This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. A typical song begins with a brief introduction that establishes space, moves into a verse that advances the narrative, turns through a bridge or b-section that complicates matters, and arrives",
-    "summary_ai": "",
-    "categories": [
-      "Craft And Advice",
-      "Craft And Criticism",
-      "David Baerwald",
-      "Features",
-      "Hans Zimmer",
-      "Historical Fiction",
-      "Music",
-      "Music Composition",
-      "On Writing",
-      "Reviews",
-      "Spiegel And Grau",
-      "The Craft Of Writing",
-      "The Fire Agent",
-      "Writing Advice"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-07-10",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/Untitled-design-2026-07-09T150228.354-768x432.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/Untitled-design-2026-07-09T150228.354-768x432.png",
-    "article_url": "https://lithub.com/david-baerwald-on-taking-writing-lessons-from-hans-zimmer/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Craft and Advice",
-      "Craft and Criticism",
-      "David Baerwald",
-      "Features",
-      "Hans Zimmer",
-      "Spiegel and Grau",
-      "The Craft of Writing",
-      "The Fire Agent",
-      "historical fiction",
-      "music",
-      "music composition",
-      "on writing",
-      "reviews",
-      "writing advice"
-    ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
+    "created_at": "2026-07-10T19:21:15+00:00",
+    "updated_at": "2026-07-10T19:21:15Z"
   },
   {
     "id": "d2fadc485f191469dcec0dafc5e7f2e1",
@@ -317,7 +443,7 @@
       "Book Marks",
       "Book Reviews",
       "Craft And Criticism",
-      "Features",
+      "Fullwidth Slider",
       "Literary Criticism",
       "Reading Lists",
       "Reviews",
@@ -337,15 +463,15 @@
     "tags": [
       "Book Marks",
       "Craft and Criticism",
-      "Features",
+      "Fullwidth Slider",
       "Literary Criticism",
       "Reading Lists",
       "The Best Reviewed Books of the Week",
       "book reviews",
       "reviews"
     ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
+    "created_at": "2026-07-10T19:21:15+00:00",
+    "updated_at": "2026-07-10T19:21:15Z"
   },
   {
     "id": "c61f549eb596af3154828dc982586a14",
@@ -387,8 +513,125 @@
       "poetry",
       "reviews"
     ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
+    "created_at": "2026-07-10T19:21:15+00:00",
+    "updated_at": "2026-07-10T19:21:15Z"
+  },
+  {
+    "id": "46da9102014adc1ac1284cf836129cd7",
+    "title": "Book Riot’s Deals of the Day for July 10, 2026",
+    "author": "Deals",
+    "description": "A wealthy family's overdue reckoning, a novel of motherhood and madness, a young woman's quest to solve her own murder, and more of today's best book deals",
+    "summary_ai": "",
+    "categories": [
+      "Book Deals",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/10/guardian-and-a-thief.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2025/10/guardian-and-a-thief.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-july-10-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Book Deals",
+      "reviews"
+    ],
+    "created_at": "2026-07-10T19:21:15+00:00",
+    "updated_at": "2026-07-10T19:21:15Z"
+  },
+  {
+    "id": "e27d471907994429b945e15dab5de9a3",
+    "title": "The Best Graphic Novels of 2026 (So Far)",
+    "author": "Eileen Gonzalez",
+    "description": "The director of Frozen teams up for a YA graphic novel—plus cool fight scenes, nuanced horror mystery, nonbinary puberty, and more.",
+    "summary_ai": "",
+    "categories": [
+      "Comics/Graphic Novels",
+      "Reviews",
+      "The Stack"
+    ],
+    "genre": [
+      "Horror",
+      "Mystery"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/12/As-I-Dream-of-You-cover-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2025/12/As-I-Dream-of-You-cover-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/best-graphic-novels-of-2026-so-far/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Comics/Graphic Novels",
+      "The Stack",
+      "reviews"
+    ],
+    "created_at": "2026-07-10T19:21:15+00:00",
+    "updated_at": "2026-07-10T19:21:15Z"
+  },
+  {
+    "id": "743fdbd8d66c58b96ea955c0f215fd43",
+    "title": "The Most Read Books on Goodreads This Week",
+    "author": "Community",
+    "description": "The most read books on Goodreads this week include historical fiction, a marriage thriller, a summer romance, and more.",
+    "summary_ai": "",
+    "categories": [
+      "Breaking In Books",
+      "News",
+      "Reviews"
+    ],
+    "genre": [
+      "Fiction",
+      "Romance",
+      "Thriller"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/The-Memory-Bookshop-by-Song-Yu-jeong-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/The-Memory-Bookshop-by-Song-Yu-jeong-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/most-read-books-on-goodreads-july-10-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "News",
+      "breaking in books",
+      "reviews"
+    ],
+    "created_at": "2026-07-10T19:21:15+00:00",
+    "updated_at": "2026-07-10T19:21:15Z"
+  },
+  {
+    "id": "6e59dcc3b5bf5a403e5b28c3d7ef3a70",
+    "title": "The Best Horror Books of 2026 So Far",
+    "author": "Emily Martin",
+    "description": "Not all the scares this year has brought are bad ones! Add these must-read horror books to the top of your TBR pile.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "The Fright Stuff"
+    ],
+    "genre": [
+      "Horror"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/04/Molka-Monika-Kim-cover-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/04/Molka-Monika-Kim-cover-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/best-horror-books-of-2026-so-far/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "The Fright Stuff",
+      "reviews"
+    ],
+    "created_at": "2026-07-10T19:21:15+00:00",
+    "updated_at": "2026-07-10T19:21:15Z"
   },
   {
     "id": "7fa3f6f5dda7e0de0fcbc23c3ef2fb58",
@@ -411,153 +654,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
-  },
-  {
-    "id": "4c99d4abda4dea93d69cdf303ead7140",
-    "title": "Remembering Tom Stoppard: A Night at the Theater",
-    "author": "Morgan Entrekin",
-    "description": "In London today there will be a memorial celebration for Tom Stoppard. When Tom passed away last November, he was acclaimed and eulogized brilliantly all over the world. To read some of those encomiums you can head here. But in",
-    "summary_ai": "",
-    "categories": [
-      "Biography",
-      "Craft And Criticism",
-      "Features",
-      "In Memoriam",
-      "Jonathan Galassi",
-      "Literary Criticism",
-      "Morgan Entrekin",
-      "Playwrights",
-      "Rachel Cobb",
-      "Reviews",
-      "Sabrina Guinness",
-      "The Hard Problem",
-      "Tom Stoppard",
-      "Tom Wolfe"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/stoppard-768x384.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/stoppard-768x384.jpg",
-    "article_url": "https://lithub.com/remembering-tom-stoppard-a-night-at-the-theater/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Biography",
-      "Craft and Criticism",
-      "Features",
-      "In memoriam",
-      "Jonathan Galassi",
-      "Literary Criticism",
-      "Morgan Entrekin",
-      "Rachel Cobb",
-      "Sabrina Guinness",
-      "The Hard Problem",
-      "Tom Stoppard",
-      "Tom Wolfe",
-      "playwrights",
-      "reviews"
-    ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
-  },
-  {
-    "id": "bd081896d3f6f47af1756ac19357fced",
-    "title": "Today is Tom Stoppard Day in the UK",
-    "author": "Brittany Allen",
-    "description": "Today in London a who’s who of the literary world will be observing what may be the inaugural memorial day for the late playwright Tom Stoppard. Celebrations center around the renaming of the Duke of York’s theatre in Stoppard’s honor",
-    "summary_ai": "",
-    "categories": [
-      "American Theatre",
-      "Anniversary",
-      "Arcadia",
-      "Biography",
-      "Brazil",
-      "Events",
-      "Hermione Lee",
-      "History",
-      "Humor",
-      "Leopoldstadt",
-      "Literary Obituaries",
-      "Monty Python",
-      "News And Culture",
-      "Patrick Marber",
-      "Remembrance",
-      "Reviews",
-      "Terry Gilliam",
-      "The Hub",
-      "Theatre",
-      "Tom Stoppard",
-      "Tribute",
-      "West End"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/tom-stoppard-768x384.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/tom-stoppard-768x384.jpg",
-    "article_url": "https://lithub.com/today-is-tom-stoppard-day-in-the-uk/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "American theatre",
-      "Anniversary",
-      "Arcadia",
-      "Biography",
-      "Brazil",
-      "Events",
-      "Hermione Lee",
-      "History",
-      "Humor",
-      "Leopoldstadt",
-      "Monty Python",
-      "News and Culture",
-      "Patrick Marber",
-      "Terry Gilliam",
-      "The Hub",
-      "Tom Stoppard",
-      "West End",
-      "literary obituaries",
-      "remembrance",
-      "reviews",
-      "theatre",
-      "tribute"
-    ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
-  },
-  {
-    "id": "cf4f850855e6951460872ae862f84f5b",
-    "title": "Book Riot’s Deals of the Day for July 9, 2026",
-    "author": "Deals",
-    "description": "A blend of history, memoir, and travel adventure, rival British bakers in a witty rom-com, secrets at a boarding school in coastal Washington State, and more of today's best book deals",
-    "summary_ai": "",
-    "categories": [
-      "Book Deals",
-      "Reviews"
-    ],
-    "genre": [
-      "History",
-      "Memoir"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/The-Children-Melissa-Albert-cover-199x300.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/The-Children-Melissa-Albert-cover-199x300.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-july-9-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Book Deals",
-      "reviews"
-    ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
+    "created_at": "2026-07-10T19:21:15+00:00",
+    "updated_at": "2026-07-10T19:21:15Z"
   },
   {
     "id": "415de126a935eacc8abe04f8f51b1140",
@@ -582,8 +680,8 @@
       "New Books",
       "reviews"
     ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
+    "created_at": "2026-07-10T19:21:15+00:00",
+    "updated_at": "2026-07-10T19:21:15Z"
   },
   {
     "id": "8fd6511e258d8d290f31e670f97ece36",
@@ -611,8 +709,8 @@
       "Latine Lit",
       "reviews"
     ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
+    "created_at": "2026-07-10T19:21:15+00:00",
+    "updated_at": "2026-07-10T19:21:15Z"
   },
   {
     "id": "a384bfc2f8e14dd3849e869ab0b735e9",
@@ -641,129 +739,8 @@
       "Romance/Erotica",
       "reviews"
     ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
-  },
-  {
-    "id": "8e53c252d416db1f12b156510b96d53d",
-    "title": "The Best Middle Grade Books of the Year So Far",
-    "author": "Alice Nuttall",
-    "description": "From high-stakes magical adventures to thoughtful family dramas, the best middle grade books of 2026 so far will keep readers of all ages entertained.",
-    "summary_ai": "",
-    "categories": [
-      "Children'S",
-      "Children'S Books",
-      "Lists",
-      "Middle Grade",
-      "Reviews",
-      "The Kids Are All Right"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/02/All-That-Chandni-Knows-by-Khushboo-Patel-e1771349180396-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/02/All-That-Chandni-Knows-by-Khushboo-Patel-e1771349180396-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/best-middle-grade-books-of-2026-so-far/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Children's",
-      "Lists",
-      "The Kids Are All Right",
-      "children's books",
-      "middle grade",
-      "reviews"
-    ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
-  },
-  {
-    "id": "64b085511c005b8a6d3e9623486a8636",
-    "title": "The Best SF/F Books of the Year So Far",
-    "author": "Chris M. Arnone",
-    "description": "You'll find fantasy horror blends, samurai space opera, romantic retellings, and more in the best science fiction and fantasy of 2026 so far.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Science Fiction/Fantasy",
-      "Swords And Spaceships"
-    ],
-    "genre": [
-      "Fantasy",
-      "Fiction",
-      "Horror",
-      "Science Fiction"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/11/The-Red-Winter-by-Cameron-Sullivan-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/11/The-Red-Winter-by-Cameron-Sullivan-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/best-science-fiction-and-fantasy-books-of-2026-so-far/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Science Fiction/Fantasy",
-      "Swords and Spaceships",
-      "reviews"
-    ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
-  },
-  {
-    "id": "c0ed29a8507ef1aa149c77ccd18a4f33",
-    "title": "Secret Identities, Cults, Second Chances, and More New YA Books for July 9, 2026",
-    "author": "Kelly Jensen",
-    "description": "From girls lured into a remote cult to teens seeking–or being told–to reinvent themselves, here are this week's new YA books.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "What'S Up In Ya",
-      "Young Adult Literature"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/Augusta-Pine-Does-Not-Exist-by-Emily-Lloyd-Jones-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/Augusta-Pine-Does-Not-Exist-by-Emily-Lloyd-Jones-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/new-ya-books-for-july-8-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "What's Up in YA",
-      "Young Adult Literature",
-      "reviews"
-    ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
-  },
-  {
-    "id": "b4dd0c3a1755922b2beebf8c7b715a1e",
-    "title": "📚 No rest for the wicked",
-    "author": "Community",
-    "description": "Utah bans 36th book from public schools statewide.",
-    "summary_ai": "",
-    "categories": [
-      "Book Riot Newsletter",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/utah-different-seasons-book-ban.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/utah-different-seasons-book-ban.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/no-rest-for-the-wicked/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Book Riot Newsletter",
-      "reviews"
-    ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
+    "created_at": "2026-07-10T19:21:15+00:00",
+    "updated_at": "2026-07-10T19:21:15Z"
   },
   {
     "id": "05f195619f2c8e333e13ff01e6b8970a",
@@ -786,96 +763,68 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
+    "created_at": "2026-07-10T19:21:15+00:00",
+    "updated_at": "2026-07-10T19:21:15Z"
   },
   {
-    "id": "7952439353aa83019302d4b46fa234e2",
-    "title": "How the sounds of Congo Square have shaped New Orleans",
-    "author": "Anastasia Tsioulcas",
-    "description": "Congo Square in New Orleans was one of the only places where, in the 18th and 19th centuries, enslaved Africans could gather. That legacy continues to shape the New Orleans — and its unique sound.",
+    "id": "3253f6977d236ae69410d3eb749c19c9",
+    "title": "12 Book Censorship Posts to Revisit: Book Censorship News for July 11, 2026",
+    "author": "Kelly Jensen",
+    "description": "From the necessity to talk about sex in books to building voter guides to local elections, catch up on previous book censorship posts.",
     "summary_ai": "",
     "categories": [
+      "Censorship",
+      "Libraries",
+      "Literary Activism",
+      "News",
       "Reviews"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "NPR Books",
-    "published_date": "2026-07-04",
-    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4650x3100+0+0/resize/4650x3100!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8a%2F68%2F8465bcfc436f8066b9a64af03654%2Fgettyimages-915100050.jpg",
-    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4650x3100+0+0/resize/4650x3100!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8a%2F68%2F8465bcfc436f8066b9a64af03654%2Fgettyimages-915100050.jpg",
-    "article_url": "https://www.npr.org/2026/07/04/nx-s1-5779591/how-enslaved-traditions-in-new-orleans-congo-square-shaped-american-music-global-sound",
-    "source": "NPR Books",
+    "publisher": "the necessity to talk about sex in books",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/02/book-censorship-news-flagship-size.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/02/book-censorship-news-flagship-size.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/12-more-book-censorship-posts-to-revisit/",
+    "source": "Book Riot",
     "source_type": "rss",
     "tags": [
+      "Censorship",
+      "Libraries",
+      "Literary Activism",
+      "News",
       "reviews"
     ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
+    "created_at": "2026-07-10T19:21:15+00:00",
+    "updated_at": "2026-07-10T19:21:15Z"
   },
   {
-    "id": "3cf033b4af7f3746fdaa9459381318f0",
-    "title": "Colorism is not a popularity contest",
-    "author": "Guest",
-    "description": "Dr. Sarah L. Webb, founder of Colorism Healing, discusses the consequences of colorism and how it is misrepresented in pop culture.",
+    "id": "6001ec1ec524a993b95718b432f4517f",
+    "title": "How Gen Z Does (And Doesn’t Use) Public Libraries",
+    "author": "Katie McLain Horner",
+    "description": "Exploring where and how Gen Z uses the public library, a DUNGEON CRAWLER CARL series, and more news for library workers.",
     "summary_ai": "",
     "categories": [
-      "Bipoc",
-      "In Reading Color",
-      "Nonfiction",
-      "Reviews",
-      "True Story"
+      "Check Your Shelf",
+      "Libraries",
+      "Reviews"
     ],
     "genre": [],
     "language": "English",
     "publisher": "Book Riot",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Dr.-Sarah-L.-Webb-.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/Dr.-Sarah-L.-Webb-.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/colorism-is-not-a-popularity-contest/",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/03/image-of-a-library-shelf.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/03/image-of-a-library-shelf.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/july-2026-library-news/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "BIPOC",
-      "In Reading Color",
-      "Nonfiction",
-      "True Story",
+      "Check Your Shelf",
+      "Libraries",
       "reviews"
     ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
-  },
-  {
-    "id": "d5879b29f435cd28072fceffc198bbb0",
-    "title": "The Most Popular Thriller Audiobooks on Libby",
-    "author": "Erica Ezeifedi",
-    "description": "The most popular thriller audiobooks being checked out on the Libby app all have a lot in common...",
-    "summary_ai": "",
-    "categories": [
-      "Audiobooks",
-      "Libby",
-      "Mystery/Thriller",
-      "Reviews"
-    ],
-    "genre": [
-      "Thriller"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/Untitled-design-2026-07-08T110158.917.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/Untitled-design-2026-07-08T110158.917.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/most-popular-thriller-audiobooks-on-libby/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Audiobooks",
-      "Libby",
-      "Mystery/Thriller",
-      "reviews"
-    ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
+    "created_at": "2026-07-10T19:21:15+00:00",
+    "updated_at": "2026-07-10T19:21:15Z"
   },
   {
     "id": "76a9bcadf24e3ca7bc006dc860f4ab0e",
@@ -898,7 +847,7 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-07-10T09:33:19+00:00",
-    "updated_at": "2026-07-10T09:33:19Z"
+    "created_at": "2026-07-10T19:21:15+00:00",
+    "updated_at": "2026-07-10T19:21:15Z"
   }
 ]
