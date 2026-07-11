@@ -26,8 +26,41 @@
       "Han Ong",
       "books"
     ],
-    "created_at": "2026-07-11T07:54:23+00:00",
-    "updated_at": "2026-07-11T07:54:23Z"
+    "created_at": "2026-07-11T18:55:15+00:00",
+    "updated_at": "2026-07-11T18:55:15Z"
+  },
+  {
+    "id": "0b9377d2c716cc7e55d918d73474f920",
+    "title": "Pressed for time? 20 brilliant books you can read in a day",
+    "author": "Chris Power",
+    "description": "From novels by James Baldwin and Han Kang to a guide to quantum physics – a former Booker prize judge recommends immersive one-sitting wonders A one-sitting read is typically the domain of the short story – a form that largely depends on a reader’s pure, unbroken attention. But there is some­thing special about the intensity of beginning and ending an entire book in a single day. Of all my reading experiences, these have been among the most memorable. As a judge for last year’s Booker prize, faced with 153 books and just over six months in which to read them, it was my task to try to turn every novel into one that could be read in a day. While I loved the experience, it wasn’t exactly a recipe for satisfying reading. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "Fiction In Translation",
+      "Science And Nature Books"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-11",
+    "thumbnail": "https://i.guim.co.uk/img/media/b7f280e8847563c89ac2d90abd6b1c998446ab87/384_506_4177_3342/master/4177.jpg?width=700&quality=85&auto=format&fit=max&s=ee954f1db8b847cb51bf01dcf0c12983",
+    "cover_large": "https://i.guim.co.uk/img/media/b7f280e8847563c89ac2d90abd6b1c998446ab87/384_506_4177_3342/master/4177.jpg?width=700&quality=85&auto=format&fit=max&s=ee954f1db8b847cb51bf01dcf0c12983",
+    "article_url": "https://www.theguardian.com/books/ng-interactive/2026/jul/11/pressed-for-time-20-brilliant-books-you-can-read-in-a-day",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "Fiction in translation",
+      "Science and nature books",
+      "books"
+    ],
+    "created_at": "2026-07-11T18:55:15+00:00",
+    "updated_at": "2026-07-11T18:55:15Z"
   },
   {
     "id": "5f9a5e092a7212ec1233df7bc7168731",
@@ -37,12 +70,10 @@
     "summary_ai": "",
     "categories": [
       "American Historical Assn",
-      "Awards, Decorations And Honors",
+      "Black People",
       "Black Radical: The Life And Times Of William Monroe Trotter (Book)",
-      "Book Trade And Publishing",
       "Books",
       "Books And Literature",
-      "Civil Rights And Liberties",
       "Colleges And Universities",
       "Greenidge, Kerri",
       "History (Academic Subject)",
@@ -62,11 +93,9 @@
     "source_type": "rss",
     "tags": [
       "American Historical Assn",
-      "Awards, Decorations and Honors",
+      "Black People",
       "Black Radical: The Life and Times of William Monroe Trotter (Book)",
-      "Book Trade and Publishing",
       "Books and Literature",
-      "Civil Rights and Liberties",
       "Colleges and Universities",
       "Greenidge, Kerri",
       "History (Academic Subject)",
@@ -76,12 +105,12 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-11T07:54:23+00:00",
-    "updated_at": "2026-07-11T07:54:23Z"
+    "created_at": "2026-07-11T18:55:15+00:00",
+    "updated_at": "2026-07-11T18:55:15Z"
   },
   {
-    "id": "fd5ad58b4773563a571b38c3bf0b3b5c",
-    "title": "Dinaw Mengestu Resigns as PEN America President After 7 Months in Role",
+    "id": "a8fbe96383a7566d11a79503616d8212",
+    "title": "Dinaw Mengestu Resigns as PEN America President After Israel Article",
     "author": "Malia Mendez",
     "description": "The novelist Dinaw Mengestu, who was elected seven months ago, said the article “continues this approach toward defending some rights while not defending others.”",
     "summary_ai": "",
@@ -90,7 +119,6 @@
       "Books",
       "Books And Literature",
       "Boycotts",
-      "Humanities",
       "Israel-Gaza War (2023- )",
       "Mengestu, Dinaw",
       "Pen American Center",
@@ -109,15 +137,14 @@
       "Appointments and Executive Changes",
       "Books and Literature",
       "Boycotts",
-      "Humanities",
       "Israel-Gaza War (2023- )",
       "Mengestu, Dinaw",
       "PEN American Center",
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-11T07:54:23+00:00",
-    "updated_at": "2026-07-11T07:54:23Z"
+    "created_at": "2026-07-11T18:55:15+00:00",
+    "updated_at": "2026-07-11T18:55:15Z"
   },
   {
     "id": "477b7be0b7cc5f43e29caeda6512569b",
@@ -150,8 +177,8 @@
       "The Odyssey (2026) (Movie)",
       "books"
     ],
-    "created_at": "2026-07-11T07:54:23+00:00",
-    "updated_at": "2026-07-11T07:54:23Z"
+    "created_at": "2026-07-11T18:55:15+00:00",
+    "updated_at": "2026-07-11T18:55:15Z"
   },
   {
     "id": "8a3aeaec130d948f1fd0be45fb742a76",
@@ -200,8 +227,8 @@
       "Thomasson, Anna",
       "books"
     ],
-    "created_at": "2026-07-11T07:54:23+00:00",
-    "updated_at": "2026-07-11T07:54:23Z"
+    "created_at": "2026-07-11T18:55:15+00:00",
+    "updated_at": "2026-07-11T18:55:15Z"
   },
   {
     "id": "e1389992604279d9cf3b35e95079e297",
@@ -290,8 +317,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-11T07:54:23+00:00",
-    "updated_at": "2026-07-11T07:54:23Z"
+    "created_at": "2026-07-11T18:55:15+00:00",
+    "updated_at": "2026-07-11T18:55:15Z"
   },
   {
     "id": "01405a4cc0c1f2d1caa2ac538576a2f3",
@@ -344,8 +371,8 @@
       "books",
       "genre-books-historical-fiction"
     ],
-    "created_at": "2026-07-11T07:54:23+00:00",
-    "updated_at": "2026-07-11T07:54:23Z"
+    "created_at": "2026-07-11T18:55:15+00:00",
+    "updated_at": "2026-07-11T18:55:15Z"
   },
   {
     "id": "e5405ea90125b1c1597491f853373f63",
@@ -377,8 +404,8 @@
       "Jenni Fagan",
       "books"
     ],
-    "created_at": "2026-07-11T07:54:23+00:00",
-    "updated_at": "2026-07-11T07:54:23Z"
+    "created_at": "2026-07-11T18:55:15+00:00",
+    "updated_at": "2026-07-11T18:55:15Z"
   },
   {
     "id": "30f5368e1fa3fbac7dda9c0c7014e919",
@@ -419,8 +446,8 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-07-11T07:54:23+00:00",
-    "updated_at": "2026-07-11T07:54:23Z"
+    "created_at": "2026-07-11T18:55:15+00:00",
+    "updated_at": "2026-07-11T18:55:15Z"
   },
   {
     "id": "6c6fad4aaca3daa9f02c25a369c09158",
@@ -452,8 +479,40 @@
       "Transgender",
       "books"
     ],
-    "created_at": "2026-07-11T07:54:23+00:00",
-    "updated_at": "2026-07-11T07:54:23Z"
+    "created_at": "2026-07-11T18:55:15+00:00",
+    "updated_at": "2026-07-11T18:55:15Z"
+  },
+  {
+    "id": "743fdbd8d66c58b96ea955c0f215fd43",
+    "title": "The Most Read Books on Goodreads This Week",
+    "author": "Community",
+    "description": "The most read books on Goodreads this week include historical fiction, a marriage thriller, a summer romance, and more.",
+    "summary_ai": "",
+    "categories": [
+      "Breaking In Books",
+      "News",
+      "Reviews"
+    ],
+    "genre": [
+      "Fiction",
+      "Romance",
+      "Thriller"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/The-Memory-Bookshop-by-Song-Yu-jeong-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/The-Memory-Bookshop-by-Song-Yu-jeong-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/most-read-books-on-goodreads-july-10-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "News",
+      "breaking in books",
+      "reviews"
+    ],
+    "created_at": "2026-07-11T18:55:14+00:00",
+    "updated_at": "2026-07-11T18:55:14Z"
   },
   {
     "id": "6e59dcc3b5bf5a403e5b28c3d7ef3a70",
@@ -480,8 +539,8 @@
       "The Fright Stuff",
       "reviews"
     ],
-    "created_at": "2026-07-11T07:54:23+00:00",
-    "updated_at": "2026-07-11T07:54:23Z"
+    "created_at": "2026-07-11T18:55:14+00:00",
+    "updated_at": "2026-07-11T18:55:14Z"
   },
   {
     "id": "3253f6977d236ae69410d3eb749c19c9",
@@ -512,8 +571,8 @@
       "News",
       "reviews"
     ],
-    "created_at": "2026-07-11T07:54:23+00:00",
-    "updated_at": "2026-07-11T07:54:23Z"
+    "created_at": "2026-07-11T18:55:14+00:00",
+    "updated_at": "2026-07-11T18:55:14Z"
   },
   {
     "id": "6001ec1ec524a993b95718b432f4517f",
@@ -540,8 +599,8 @@
       "Libraries",
       "reviews"
     ],
-    "created_at": "2026-07-11T07:54:23+00:00",
-    "updated_at": "2026-07-11T07:54:23Z"
+    "created_at": "2026-07-11T18:55:14+00:00",
+    "updated_at": "2026-07-11T18:55:14Z"
   },
   {
     "id": "a37c8c310daccda2f23a0eeb2ca9ed30",
@@ -574,8 +633,8 @@
       "Real Estate and Housing (Residential)",
       "books"
     ],
-    "created_at": "2026-07-11T07:54:23+00:00",
-    "updated_at": "2026-07-11T07:54:23Z"
+    "created_at": "2026-07-11T18:55:15+00:00",
+    "updated_at": "2026-07-11T18:55:15Z"
   },
   {
     "id": "cdc8c7c58553083aa3bbc7bf1d633c19",
@@ -612,8 +671,8 @@
       "books",
       "genre-books-graphic-novels-comic-books"
     ],
-    "created_at": "2026-07-11T07:54:23+00:00",
-    "updated_at": "2026-07-11T07:54:23Z"
+    "created_at": "2026-07-11T18:55:15+00:00",
+    "updated_at": "2026-07-11T18:55:15Z"
   },
   {
     "id": "779a32d57f7dc53a2506bd290f8f8298",
@@ -644,8 +703,8 @@
       "Odyssey (Book)",
       "books"
     ],
-    "created_at": "2026-07-11T07:54:23+00:00",
-    "updated_at": "2026-07-11T07:54:23Z"
+    "created_at": "2026-07-11T18:55:15+00:00",
+    "updated_at": "2026-07-11T18:55:15Z"
   },
   {
     "id": "7b3e6837947fd7b28cdbf4e0d041d7fb",
@@ -676,8 +735,8 @@
       "Vollmann, William T",
       "books"
     ],
-    "created_at": "2026-07-11T07:54:23+00:00",
-    "updated_at": "2026-07-11T07:54:23Z"
+    "created_at": "2026-07-11T18:55:15+00:00",
+    "updated_at": "2026-07-11T18:55:15Z"
   },
   {
     "id": "2c1fe77a55a45e8992a445a61cfcc650",
@@ -703,72 +762,7 @@
       "The Odyssey",
       "books"
     ],
-    "created_at": "2026-07-11T07:54:23+00:00",
-    "updated_at": "2026-07-11T07:54:23Z"
-  },
-  {
-    "id": "f32cdb4c795052e9ead0d2e688b0d331",
-    "title": "Trouble Was by Charlotte Edwardes review – a sharp child’s",
-    "author": "Sarah Moss",
-    "description": "A young boy and his two siblings stay with their aunt in the West Country, in this haunting debut set over the long, hot summer of 1976 The summer of 1976 calls to my generation of novelists. We don’t remember it, but we remember the textures of daily life in that era, and a heatwave puts daily life under the kind of pressure that fuels fiction. In Guardian journalist Charlotte Edwardes’s first novel, Trouble Was, the scene is set by that heatwave with its attendant, escalating water shortage; the escalating marital and mental health crisis of the mother of three young children; a remote farm in the West Country. Though in some ways the pace is slow– not a criticism, the pace of school holidays with nowhere to go and nothing to do is also slow – the novel’s engines thrum from the first page. Edwardes has taken the risk of a first-person child narrator, primary-aged Frank. Such figures are necessarily precocious – there’s a reason full-length novels by nine-year-olds are rarely written and never published – and tend to make demands on our suspension of disbelief, but in this case it’s convincing and compelling from the outset. The use of past tense helps, allowing both strikingly...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [
-      "Children",
-      "Fiction"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://i.guim.co.uk/img/media/ab0e02bd37187bd3232335558cd9fdc9470ac278/176_702_1647_1317/master/1647.jpg?width=700&quality=85&auto=format&fit=max&s=a22626c3f837929de6f29566915b9d31",
-    "cover_large": "https://i.guim.co.uk/img/media/ab0e02bd37187bd3232335558cd9fdc9470ac278/176_702_1647_1317/master/1647.jpg?width=700&quality=85&auto=format&fit=max&s=a22626c3f837929de6f29566915b9d31",
-    "article_url": "https://www.theguardian.com/books/2026/jul/09/trouble-was-by-charlotte-edwardes-review-a-sharp-childs-eye-view-of-adult-neglect",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-07-11T07:54:23+00:00",
-    "updated_at": "2026-07-11T07:54:23Z"
-  },
-  {
-    "id": "e767efdaf64fc97a07a6db54b94646c9",
-    "title": "A Short History of Longans by Mirandi Riwoe review",
-    "author": "Seren Heyman-Griffiths",
-    "description": "Riwoe’s commanding new book traces a Chinese Australian family across four generations – all connected by one old longan tree It’s the year 2049 and Daniel Connelly is 75 years old. Eccentric and lonely after decades of self-imposed isolation, his existence is “spartan”, a “relentless searching, a yearning for pieces that fit together to make a new whole”. He spends his days making sculptures from broken pottery; the shards of his life. During a warm winter’s day, Daniel steps outside to find that the longan tree in his garden has fallen during a storm. The tree was an heirloom of sorts – a family emblem of home and belonging for generations before him. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Australian Books",
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [
-      "History"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://i.guim.co.uk/img/media/65f5becb825478987a1c94b7ddcfe853f6c73143/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=4e7d79e8836d8be21118d3cf24322e97",
-    "cover_large": "https://i.guim.co.uk/img/media/65f5becb825478987a1c94b7ddcfe853f6c73143/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=4e7d79e8836d8be21118d3cf24322e97",
-    "article_url": "https://www.theguardian.com/books/2026/jul/10/a-short-history-of-longans-book-review-author-mirani-riwoe",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Australian books",
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-07-11T07:54:23+00:00",
-    "updated_at": "2026-07-11T07:54:23Z"
+    "created_at": "2026-07-11T18:55:15+00:00",
+    "updated_at": "2026-07-11T18:55:15Z"
   }
 ]
