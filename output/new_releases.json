@@ -32,8 +32,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-10T19:21:16+00:00",
-    "updated_at": "2026-07-10T19:21:16Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "59e1c381b5e99d9ec648d2dc2b445c0a",
@@ -76,8 +76,8 @@
       "movie reviews",
       "publishers"
     ],
-    "created_at": "2026-07-10T19:21:16+00:00",
-    "updated_at": "2026-07-10T19:21:16Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "83fc8abcfa0ceb7c8195a27833909e9a",
@@ -116,13 +116,13 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-07-10T19:21:16+00:00",
-    "updated_at": "2026-07-10T19:21:16Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
-    "id": "1f8a6a502fbb15d4736f4412c900e55a",
-    "title": "Book Deals: Week of July 13, 2026",
-    "author": "",
+    "id": "06bfacab7821735429c938d5aafec43c",
+    "title": "This Week’s Bestsellers: July 13, 2026",
+    "author": "Edited by Carolyn Juris",
     "description": "",
     "summary_ai": "",
     "categories": [
@@ -132,70 +132,329 @@
     "language": "English",
     "publisher": "Publishers Weekly",
     "published_date": "2026-07-10",
-    "thumbnail": "https://www.publishersweekly.com/images/data/IMG/img/000/000/1-3.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/IMG/img/000/000/1-3.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/book-deals/article/100805-book-deals-week-of-july-13-2026.html",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130292-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130292-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/100818-this-week-s-bestsellers-july-13-2026.html",
     "source": "Publishers Weekly",
     "source_type": "rss",
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-10T19:21:16+00:00",
-    "updated_at": "2026-07-10T19:21:16Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
-    "id": "7a42f082fee1a19510c47de3a12465fd",
-    "title": "Frankfurt Book Fair Forced to Close Hall 6, Reshuffles Exhibitors, Agents",
+    "id": "704d0616bd418df915d8d084bbd1a47f",
+    "title": "Fall 2026 Children's Preview: Early Reader Spotlight",
+    "author": "Amanda Bruns",
+    "description": "Books for beginning readers span functions and dip into genres.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130289-3.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130289-3.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/new-titles/childrens-announcements/article/100816-fall-2026-children-s-preview-early-reader-spotlight.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
+  },
+  {
+    "id": "d8f87c516848698283b9a47979777a1b",
+    "title": "Fall 2026 Children's Preview: 10 Sturdy Stories for Littlest Readers",
+    "author": "Amanda Bruns",
+    "description": "Board books make playful use of interactive elements to introduce basic concepts.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130288-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130288-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/new-titles/childrens-announcements/article/100814-fall-2026-children-s-preview-10-sturdy-stories-for-littlest-readers.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
+  },
+  {
+    "id": "2ef75283b6e7d2a12841b5a080af5ade",
+    "title": "Fall 2026 Children's Preview: Five Epic YA Expansions",
+    "author": "Amanda Ramirez",
+    "description": "Gripping finales, new adventures, and a surprising Sliding Doors –esque entry to a bestselling saga await admirers of these series.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130285-3.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130285-3.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/new-titles/childrens-announcements/article/100812-fall-2026-children-s-preview-five-epic-ya-expansions.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
+  },
+  {
+    "id": "c27b01d8ca7ef4c8df45a2c9a27d977e",
+    "title": "Outsider Editions Wants the Backlist’s Outcasts",
+    "author": "David Varno",
+    "description": "The new reissue imprint at Doubleday offers a home to groundbreaking and hard-to-pin-down books that have disappeared from shelves.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Doubleday",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130283-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130283-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100811-outsider-editions-wants-the-backlist-s-outcasts.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
+  },
+  {
+    "id": "5044e44670d82121a86f27c168787e84",
+    "title": "Fall 2026 Children's Preview: Young Adult",
+    "author": "Amanda Ramirez",
+    "description": "Among this season’s notable YA titles are high-concept fantasies, thrillers, and contemporary stories about healing and becoming oneself.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [
+      "Children",
+      "Thriller",
+      "Young Adult"
+    ],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130282-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130282-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/new-titles/childrens-announcements/article/100808-fall-2026-children-s-preview-young-adult.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
+  },
+  {
+    "id": "8b1b859429fc79d81b4ba3b2f7eb392a",
+    "title": "Fall 2026 Children's Preview: Picture Books",
+    "author": "Amanda Bruns",
+    "description": "A big house move, an epic nocturnal bike ride, and a celebratory parade feature in this season’s picture books, which lean into life’s anchors and twists.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130256-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130256-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/new-titles/childrens-announcements/article/100807-fall-2026-children-s-preview-picture-books.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
+  },
+  {
+    "id": "0896beeed74ebb5c35539e831f7a35f3",
+    "title": "Fall 2026 Children's Preview: Middle Grade",
+    "author": "Amanda Ramirez",
+    "description": "Series-launching fantasy adventures, innovative mash-ups, and exciting remixes of familiar classics feature in this season’s middle grade offerings.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [
+      "Children",
+      "Fantasy"
+    ],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130251-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130251-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/new-titles/childrens-announcements/article/100806-fall-2026-children-s-preview-middle-grade.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
+  },
+  {
+    "id": "5347730993999221e115d98fdd4ee6d6",
+    "title": "Darcie Little Badger on Heritage and Hope",
+    "author": "Patricia Morris Buckley",
+    "description": "Newbery Honor author Darcie Little Badger pushes to bring young readers Native representation and recognition in books such as her forthcoming graphic novel, Children of Owl .",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130246-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130246-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/authors/profiles/article/100801-darcie-little-badger-heritage-and-hope.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
+  },
+  {
+    "id": "cb35359127eea83c89c228421e759ea8",
+    "title": "Rewriting the Story of Rock: PW Talks with Chuck Klosterman",
+    "author": "Isaac Randel",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130210-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130210-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/authors/interviews/article/100798-rewriting-the-story-of-rock-pw-talks-with-chuck-klosterman.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
+  },
+  {
+    "id": "da14620b0f2f325adaed7cfa073ac2e6",
+    "title": "Miss Megachurch: PW Talks with Deesha Philyaw",
+    "author": "Marian Perales",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130208-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130208-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/authors/interviews/article/100797-miss-megachurch-pw-talks-with-deesha-philyaw.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
+  },
+  {
+    "id": "391999a27848b3f8a6841f2cf3f718a4",
+    "title": "50 Years of the Pushcart Prizes: PW Talks with Bill Henderson",
     "author": "Ed Nawotka",
-    "description": "",
+    "description": "The founder and publisher of Pushcart Press recently celebrated the 50th anniversary of its eponymous prizes with a 580-page retrospective, copublished with W.W. Norton, of the last quarter-century of anthologies.",
     "summary_ai": "",
     "categories": [
       "Publishers"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "Publishers Weekly",
+    "publisher": "W.W. Norton",
     "published_date": "2026-07-10",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130277-1.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130277-1.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/100810-frankfurt-book-fair-forced-to-close-hall-6-reshuffles-exhibitors-agents.html",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130207-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130207-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100796-50-years-of-the-pushcart-prizes-pw-talks-with-bill-henderson.html",
     "source": "Publishers Weekly",
     "source_type": "rss",
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-10T19:21:16+00:00",
-    "updated_at": "2026-07-10T19:21:16Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
-    "id": "14f6082b75c9936ad55cc50b1196542e",
-    "title": "Tommy Orange, Amitav Ghosh Add Manuscripts to Oslo’s ‘Future Library’",
-    "author": "Ed Nawotka",
+    "id": "03023408f4a512a3c5be8b1b3c235bb6",
+    "title": "Children's Books for Fall 2026: All Our Coverage",
+    "author": "Amanda Bruns and Amanda Ramirez",
     "description": "",
     "summary_ai": "",
     "categories": [
       "Publishers"
     ],
-    "genre": [],
+    "genre": [
+      "Children"
+    ],
     "language": "English",
     "publisher": "Publishers Weekly",
     "published_date": "2026-07-10",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130241-1.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130241-1.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100803-tommy-orange-amitav-ghosh-add-manuscripts-to-oslo-s-future-library.html",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130188-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130188-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/new-titles/childrens-announcements/article/100795-children-s-books-for-fall-2026-all-our-coverage.html",
     "source": "Publishers Weekly",
     "source_type": "rss",
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-10T19:21:16+00:00",
-    "updated_at": "2026-07-10T19:21:16Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
-    "id": "59d1690c59489fee7e2f7963f2869204",
-    "title": "Global AI Data Analytics Startups Promise Publishers an Edge",
-    "author": "Ed Nawotka",
-    "description": "",
+    "id": "d304ce34711fb5ed562f24e6b63b5db4",
+    "title": "An Indie Novel Perseveres",
+    "author": "Julie Ann Sipos",
+    "description": "An author shares her publishing journey.",
     "summary_ai": "",
     "categories": [
       "Publishers"
@@ -204,16 +463,40 @@
     "language": "English",
     "publisher": "Publishers Weekly",
     "published_date": "2026-07-10",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130150-2.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130150-2.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100778-global-ai-data-analytics-startups-promise-publishers-an-edge.html",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130186-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130186-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/authors/pw-select/article/100793-an-indie-novel-perseveres.html",
     "source": "Publishers Weekly",
     "source_type": "rss",
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-10T19:21:16+00:00",
-    "updated_at": "2026-07-10T19:21:16Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
+  },
+  {
+    "id": "3cb881f749ec697d5b1bce15d6606888",
+    "title": "How ‘Rebecca’ by Kate Beaton Got Made",
+    "author": "PW Staff",
+    "description": "An inside look at the publication process for the author’s latest picture book.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130179-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130179-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100789-how-rebecca-by-kate-beaton-got-made.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "8ff6a3546a983077d3c8f225479edca4",
@@ -254,8 +537,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-10T19:21:16+00:00",
-    "updated_at": "2026-07-10T19:21:16Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "1345872102783ca04c6555304fbe3974",
@@ -292,349 +575,7 @@
       "publishers",
       "trailers"
     ],
-    "created_at": "2026-07-10T19:21:16+00:00",
-    "updated_at": "2026-07-10T19:21:16Z"
-  },
-  {
-    "id": "e2d08a44a66a5b9127a12b7ff9c9e083",
-    "title": "The (Talking?) Cats Are in the Bags in the Trailer for The Wrong Girls",
-    "author": "Molly Templeton",
-    "description": "Just look at that stunning stoner garbage bag couture The post The (Talking?) Cats Are in the Bags in the Trailer for The Wrong Girls appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Alia Shawkat",
-      "Blog",
-      "Dylan Meyer",
-      "Kristen Stewart",
-      "Movies",
-      "News",
-      "Publishers",
-      "The Wrong Girls"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/the-wrong-girls-740x493.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/the-wrong-girls-740x493.jpg",
-    "article_url": "https://reactormag.com/the-wrong-girls-trailer/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Alia Shawkat",
-      "Blog",
-      "Dylan Meyer",
-      "Kristen Stewart",
-      "The Wrong Girls",
-      "movies",
-      "news",
-      "publishers"
-    ],
-    "created_at": "2026-07-10T19:21:16+00:00",
-    "updated_at": "2026-07-10T19:21:16Z"
-  },
-  {
-    "id": "9978c15a77c2e41c8642fa46e1c34491",
-    "title": "Na Hong-jin’s Alien Film Hope Gets Another Delightfully Chaotic Trailer",
-    "author": "Molly Templeton",
-    "description": "We certainly HOPE this movie is as good as it looks, ha ha ha The post Na Hong-jin’s Alien Film Hope Gets Another Delightfully Chaotic Trailer appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Hope",
-      "Movies",
-      "Na Hong-Jin",
-      "News",
-      "Publishers",
-      "Trailers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/hope-trailer-740x493.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/hope-trailer-740x493.jpg",
-    "article_url": "https://reactormag.com/hope-movie-trailer-2/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Na Hong-jin",
-      "hope",
-      "movies",
-      "news",
-      "publishers",
-      "trailers"
-    ],
-    "created_at": "2026-07-10T19:21:16+00:00",
-    "updated_at": "2026-07-10T19:21:16Z"
-  },
-  {
-    "id": "95f575f0939e375a33afa288593bfd43",
-    "title": "Godzilla Faces a Terrible Human",
-    "author": "Molly Templeton",
-    "description": "We just make the WORST choices The post Godzilla Faces a Terrible Human-Made Weapon in the Teaser for Godzilla Minus Zero appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Godzilla",
-      "Godzilla Minus Zero",
-      "Movies",
-      "News",
-      "Publishers",
-      "Takashi Yamazaki",
-      "Trailers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/godzilla-minus-zero-740x493.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/godzilla-minus-zero-740x493.jpg",
-    "article_url": "https://reactormag.com/godzilla-minus-zero-teaser-trailer/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Godzilla",
-      "Godzilla Minus Zero",
-      "Takashi Yamazaki",
-      "movies",
-      "news",
-      "publishers",
-      "trailers"
-    ],
-    "created_at": "2026-07-10T19:21:16+00:00",
-    "updated_at": "2026-07-10T19:21:16Z"
-  },
-  {
-    "id": "745ac92064ee69dbf25caf04b683a1f2",
-    "title": "Who’s Who in The Odyssey Cast: Every Actor and the Mythological Character They Play",
-    "author": "Matthew Byrd",
-    "description": "A cast guide for everyone who kind of remembers reading The Odyssey in school but also not really The post Who’s Who in The Odyssey Cast: Every Actor and the Mythological Character They Play appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Christopher Nolan",
-      "Fantasy",
-      "Movies",
-      "News",
-      "Publishers",
-      "The Odyssey"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/The-Odyssey-Trailer-Feature-740x374.png",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/The-Odyssey-Trailer-Feature-740x374.png",
-    "article_url": "https://reactormag.com/the-odyssey-cast-every-actor-character-explained/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Christopher Nolan",
-      "The Odyssey",
-      "fantasy",
-      "movies",
-      "news",
-      "publishers"
-    ],
-    "created_at": "2026-07-10T19:21:16+00:00",
-    "updated_at": "2026-07-10T19:21:16Z"
-  },
-  {
-    "id": "d4888f3297da85152e8d7751b12abff5",
-    "title": "Locus Magazine Will Publish a New SFF Anthology",
-    "author": "Molly Templeton",
-    "description": "The collection will look to address a \"steady decline in the number of Best Of anthologies being published\" The post Locus Magazine Will Publish a New SFF Anthology appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Kickstarter",
-      "Locus",
-      "Locus Magazine",
-      "News",
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/04/Locus-Award-740x260.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/04/Locus-Award-740x260.jpg",
-    "article_url": "https://reactormag.com/locus-anthology-kickstarter-details/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Kickstarter",
-      "Locus",
-      "Locus Magazine",
-      "news",
-      "publishers"
-    ],
-    "created_at": "2026-07-10T19:21:16+00:00",
-    "updated_at": "2026-07-10T19:21:16Z"
-  },
-  {
-    "id": "651a5dfba8aa044785641c61884f4871",
-    "title": "Excalibur: An Epic Tale of Swords, Sorcery, and Baffling Tonal Shifts",
-    "author": "Sarah",
-    "description": "A deeply flawed, fascinating, and visually stunning film from director John Boorman. The post Excalibur : An Epic Tale of Swords, Sorcery, and Baffling Tonal Shifts appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "80S Fantasy Film Club",
-      "Arthurian Mythology",
-      "Blog",
-      "Excalibur",
-      "Fantasy",
-      "King Arthur",
-      "Nostalgia",
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/Excalibur-1981-Nigel-Terry-740x423.png",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/Excalibur-1981-Nigel-Terry-740x423.png",
-    "article_url": "https://reactormag.com/excalibur-an-epic-tale-of-swords-sorcery-and-baffling-tonal-shifts/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "80s Fantasy Film Club",
-      "Arthurian Mythology",
-      "Blog",
-      "Excalibur",
-      "King Arthur",
-      "fantasy",
-      "nostalgia",
-      "publishers"
-    ],
-    "created_at": "2026-07-10T19:21:16+00:00",
-    "updated_at": "2026-07-10T19:21:16Z"
-  },
-  {
-    "id": "96fce47e145b7de48cadf726be47a0d0",
-    "title": "2026 IPA Congress Spotlights Children’s Books and Literacy",
-    "author": "Teri Tan",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130245-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130245-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100804-2026-ipa-congress-spotlights-children-s-books-and-literacy.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-10T19:21:16+00:00",
-    "updated_at": "2026-07-10T19:21:16Z"
-  },
-  {
-    "id": "d620eafeecd90fee83646cf1dc843b5e",
-    "title": "In Brief: July 9, 2026",
-    "author": "",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130249-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130249-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100802-in-brief-july-9-2026.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-10T19:21:16+00:00",
-    "updated_at": "2026-07-10T19:21:16Z"
-  },
-  {
-    "id": "c9802d44bd9ff97d7004bbff927d8700",
-    "title": "Rights Report: Week of July 6, 2026",
-    "author": "",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130211-1.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130211-1.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100799-rights-report-week-of-july-6-2026.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-10T19:21:16+00:00",
-    "updated_at": "2026-07-10T19:21:16Z"
-  },
-  {
-    "id": "0a3a8ccdf8bcb252009e5f987eecd932",
-    "title": "ALA 2026 in Photos",
-    "author": "Compiled by Emma Kantor",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130209-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130209-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100794-ala-2026-in-photos.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-10T19:21:16+00:00",
-    "updated_at": "2026-07-10T19:21:16Z"
-  },
-  {
-    "id": "55c1ca131da2808d9cc2ec72f75a4f7a",
-    "title": "First Illustrated Edition Caps 20th Anniversary of Brandon Mull's ‘Fablehaven’",
-    "author": "Sally Lodge",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130184-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130184-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100792-first-illustrated-edition-caps-20th-anniversary-of-fablehaven.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-10T19:21:16+00:00",
-    "updated_at": "2026-07-10T19:21:16Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   }
 ]

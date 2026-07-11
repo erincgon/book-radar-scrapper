@@ -1,5 +1,85 @@
 [
   {
+    "id": "3592e8f5456efeeecfa56b907d0272ba",
+    "title": "Book Review: ‘Fixer Chao,’ by Han Ong",
+    "author": "Leah Greenblatt",
+    "description": "Han Ong’s barbed, irreverent portrait of identity, class envy and flimflam deception in turn-of-the-21st-century Manhattan still resonates.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Fixer Chao (Book)",
+      "Han Ong"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-11",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/26/books/26TBR-Ong-RovingEye/14TBR-Ong-RovingEye-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/26/books/26TBR-Ong-RovingEye/14TBR-Ong-RovingEye-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/11/books/review/fixer-chao-han-ong.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Fixer Chao (Book)",
+      "Han Ong",
+      "books"
+    ],
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
+  },
+  {
+    "id": "5f9a5e092a7212ec1233df7bc7168731",
+    "title": "Historian Kerri K. Greenidge and Her Book ‘The Grimkes’ Come Under Fire",
+    "author": "Neil Vigdor",
+    "description": "Kerri K. Greenidge appeared to lose her professorship at Tufts University after scholars began scrutinizing her 2022 book, “The Grimkes,” which is no longer listed on its publisher’s website.",
+    "summary_ai": "",
+    "categories": [
+      "American Historical Assn",
+      "Awards, Decorations And Honors",
+      "Black Radical: The Life And Times Of William Monroe Trotter (Book)",
+      "Book Trade And Publishing",
+      "Books",
+      "Books And Literature",
+      "Civil Rights And Liberties",
+      "Colleges And Universities",
+      "Greenidge, Kerri",
+      "History (Academic Subject)",
+      "Norton, W W, & Co",
+      "Slavery (Historical)",
+      "Tufts University",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Norton",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/10/multimedia/00TBR-Greenidge-3-jbtg/00TBR-Greenidge-3-jbtg-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/10/multimedia/00TBR-Greenidge-3-jbtg/00TBR-Greenidge-3-jbtg-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/10/books/kerri-greenidge-the-grimkes.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "American Historical Assn",
+      "Awards, Decorations and Honors",
+      "Black Radical: The Life and Times of William Monroe Trotter (Book)",
+      "Book Trade and Publishing",
+      "Books and Literature",
+      "Civil Rights and Liberties",
+      "Colleges and Universities",
+      "Greenidge, Kerri",
+      "History (Academic Subject)",
+      "Norton, W W, & Co",
+      "Slavery (Historical)",
+      "Tufts University",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
+  },
+  {
     "id": "fd5ad58b4773563a571b38c3bf0b3b5c",
     "title": "Dinaw Mengestu Resigns as PEN America President After 7 Months in Role",
     "author": "Malia Mendez",
@@ -36,8 +116,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "477b7be0b7cc5f43e29caeda6512569b",
@@ -70,8 +150,8 @@
       "The Odyssey (2026) (Movie)",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "8a3aeaec130d948f1fd0be45fb742a76",
@@ -120,8 +200,8 @@
       "Thomasson, Anna",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "e1389992604279d9cf3b35e95079e297",
@@ -210,8 +290,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "01405a4cc0c1f2d1caa2ac538576a2f3",
@@ -264,8 +344,8 @@
       "books",
       "genre-books-historical-fiction"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "e5405ea90125b1c1597491f853373f63",
@@ -297,8 +377,8 @@
       "Jenni Fagan",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "30f5368e1fa3fbac7dda9c0c7014e919",
@@ -339,8 +419,8 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "6c6fad4aaca3daa9f02c25a369c09158",
@@ -372,8 +452,8 @@
       "Transgender",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "a37c8c310daccda2f23a0eeb2ca9ed30",
@@ -393,8 +473,8 @@
     "language": "English",
     "publisher": "The New York Times",
     "published_date": "2026-07-09",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/12/multimedia/ST-EVICTED-SCHOLAR-01-vpfj/ST-EVICTED-SCHOLAR-01-vpfj-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/12/multimedia/ST-EVICTED-SCHOLAR-01-vpfj/ST-EVICTED-SCHOLAR-01-vpfj-mediumSquareAt3X.jpg",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/12/multimedia/ST-EVICTED-SCHOLAR-01-vpfj/ST-EVICTED-SCHOLAR-01-vpfj-mediumSquareAt3X-v2.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/12/multimedia/ST-EVICTED-SCHOLAR-01-vpfj/ST-EVICTED-SCHOLAR-01-vpfj-mediumSquareAt3X-v2.jpg",
     "article_url": "https://www.nytimes.com/2026/07/09/style/too-many-books-new-york-city-apartment-scholar-landlord.html",
     "source": "The New York Times",
     "source_type": "rss",
@@ -406,8 +486,8 @@
       "Real Estate and Housing (Residential)",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "cdc8c7c58553083aa3bbc7bf1d633c19",
@@ -444,8 +524,8 @@
       "books",
       "genre-books-graphic-novels-comic-books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "779a32d57f7dc53a2506bd290f8f8298",
@@ -476,8 +556,8 @@
       "Odyssey (Book)",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "7b3e6837947fd7b28cdbf4e0d041d7fb",
@@ -508,8 +588,8 @@
       "Vollmann, William T",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "2c1fe77a55a45e8992a445a61cfcc650",
@@ -535,8 +615,8 @@
       "The Odyssey",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "f32cdb4c795052e9ead0d2e688b0d331",
@@ -567,8 +647,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "e767efdaf64fc97a07a6db54b94646c9",
@@ -600,8 +680,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "75b329a54d598de87f0b041c469db06e",
@@ -658,40 +738,8 @@
       "Wilder, Laura Ingalls",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
-  },
-  {
-    "id": "0ba6399a7e61a1f83f782278248569cd",
-    "title": "Book Review: ‘Men in Love,’ by Irvine Welsh",
-    "author": "James Lasdun",
-    "description": "Irvine Welsh brings back his beloved Edinburgh ensemble for his new novel, “Men in Love.”",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Men In Love (Book)",
-      "Trainspotting (Book)",
-      "Welsh, Irvine"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-08",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/07/books/07TBR-Welsh-review/07TBR-Welsh-review-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/07/books/07TBR-Welsh-review/07TBR-Welsh-review-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/06/books/review/irvine-welsh-men-in-love.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Men in Love (Book)",
-      "Trainspotting (Book)",
-      "Welsh, Irvine",
-      "books"
-    ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "89dd3fdd40ba3fd5f0e5e2b2800fd764",
@@ -725,8 +773,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "c037a6db86f9a2c3c06e9ec2af57079e",
@@ -756,8 +804,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "097c127ead428cecddeec7b687d7587e",
@@ -800,8 +848,8 @@
       "Williams, Mason B",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "1b8a09d692033807747013690893c841",
@@ -835,8 +883,8 @@
       "Technology books",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "9eaf81a315370657ee14473fdbbc901a",
@@ -881,38 +929,8 @@
       "World Cup Fever: A Soccer Journey in Nine Tournaments (Book)",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
-  },
-  {
-    "id": "a9b77afe3bf26bf5b782dc234771ef4b",
-    "title": "Book Review: ‘The Coast of Everything,’ by Guillermo Stitch",
-    "author": "Dustin Illingworth",
-    "description": "“The Coast of Everything,” by Guillermo Stitch, is structured like a nesting doll, with one story hidden within another.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Stitch, Guillermo",
-      "The Coast Of Everything (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-06",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/03/books/03TBR-Stitch-review/03TBR-Stitch-review-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/03/books/03TBR-Stitch-review/03TBR-Stitch-review-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/06/books/review/guillermo-stitch-coast-of-everything.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Stitch, Guillermo",
-      "The Coast of Everything (Book)",
-      "books"
-    ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "95278e82f5d625779bec536c4ee030ea",
@@ -945,8 +963,8 @@
       "Essays",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "16fdcd994f4068c8e6412e0a7322b8be",
@@ -974,8 +992,8 @@
       "Literary criticism",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "825fab730c67e928cdf7dd05af324142",
@@ -1009,8 +1027,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "4c67af7b443e59255ae5e43165443d79",
@@ -1042,8 +1060,8 @@
       "Tessa Hadley",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "0de47d5039ae63ef8405d47c6646d284",
@@ -1079,8 +1097,8 @@
       "Paperbacks",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -1110,8 +1128,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1150,7 +1168,7 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   }
 ]

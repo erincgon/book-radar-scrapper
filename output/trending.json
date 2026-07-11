@@ -1,5 +1,85 @@
 [
   {
+    "id": "3592e8f5456efeeecfa56b907d0272ba",
+    "title": "Book Review: ‘Fixer Chao,’ by Han Ong",
+    "author": "Leah Greenblatt",
+    "description": "Han Ong’s barbed, irreverent portrait of identity, class envy and flimflam deception in turn-of-the-21st-century Manhattan still resonates.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Fixer Chao (Book)",
+      "Han Ong"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-11",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/26/books/26TBR-Ong-RovingEye/14TBR-Ong-RovingEye-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/26/books/26TBR-Ong-RovingEye/14TBR-Ong-RovingEye-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/11/books/review/fixer-chao-han-ong.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Fixer Chao (Book)",
+      "Han Ong",
+      "books"
+    ],
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
+  },
+  {
+    "id": "5f9a5e092a7212ec1233df7bc7168731",
+    "title": "Historian Kerri K. Greenidge and Her Book ‘The Grimkes’ Come Under Fire",
+    "author": "Neil Vigdor",
+    "description": "Kerri K. Greenidge appeared to lose her professorship at Tufts University after scholars began scrutinizing her 2022 book, “The Grimkes,” which is no longer listed on its publisher’s website.",
+    "summary_ai": "",
+    "categories": [
+      "American Historical Assn",
+      "Awards, Decorations And Honors",
+      "Black Radical: The Life And Times Of William Monroe Trotter (Book)",
+      "Book Trade And Publishing",
+      "Books",
+      "Books And Literature",
+      "Civil Rights And Liberties",
+      "Colleges And Universities",
+      "Greenidge, Kerri",
+      "History (Academic Subject)",
+      "Norton, W W, & Co",
+      "Slavery (Historical)",
+      "Tufts University",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Norton",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/10/multimedia/00TBR-Greenidge-3-jbtg/00TBR-Greenidge-3-jbtg-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/10/multimedia/00TBR-Greenidge-3-jbtg/00TBR-Greenidge-3-jbtg-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/10/books/kerri-greenidge-the-grimkes.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "American Historical Assn",
+      "Awards, Decorations and Honors",
+      "Black Radical: The Life and Times of William Monroe Trotter (Book)",
+      "Book Trade and Publishing",
+      "Books and Literature",
+      "Civil Rights and Liberties",
+      "Colleges and Universities",
+      "Greenidge, Kerri",
+      "History (Academic Subject)",
+      "Norton, W W, & Co",
+      "Slavery (Historical)",
+      "Tufts University",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
+  },
+  {
     "id": "fd5ad58b4773563a571b38c3bf0b3b5c",
     "title": "Dinaw Mengestu Resigns as PEN America President After 7 Months in Role",
     "author": "Malia Mendez",
@@ -36,8 +116,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "477b7be0b7cc5f43e29caeda6512569b",
@@ -70,8 +150,8 @@
       "The Odyssey (2026) (Movie)",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "8a3aeaec130d948f1fd0be45fb742a76",
@@ -120,8 +200,8 @@
       "Thomasson, Anna",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "e1389992604279d9cf3b35e95079e297",
@@ -210,8 +290,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "01405a4cc0c1f2d1caa2ac538576a2f3",
@@ -264,8 +344,8 @@
       "books",
       "genre-books-historical-fiction"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "e5405ea90125b1c1597491f853373f63",
@@ -297,8 +377,8 @@
       "Jenni Fagan",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "30f5368e1fa3fbac7dda9c0c7014e919",
@@ -339,8 +419,8 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "6c6fad4aaca3daa9f02c25a369c09158",
@@ -372,8 +452,36 @@
       "Transgender",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
+  },
+  {
+    "id": "6e59dcc3b5bf5a403e5b28c3d7ef3a70",
+    "title": "The Best Horror Books of 2026 So Far",
+    "author": "Emily Martin",
+    "description": "Not all the scares this year has brought are bad ones! Add these must-read horror books to the top of your TBR pile.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "The Fright Stuff"
+    ],
+    "genre": [
+      "Horror"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/04/Molka-Monika-Kim-cover-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/04/Molka-Monika-Kim-cover-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/best-horror-books-of-2026-so-far/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "The Fright Stuff",
+      "reviews"
+    ],
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "3253f6977d236ae69410d3eb749c19c9",
@@ -404,8 +512,8 @@
       "News",
       "reviews"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "6001ec1ec524a993b95718b432f4517f",
@@ -432,8 +540,8 @@
       "Libraries",
       "reviews"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "a37c8c310daccda2f23a0eeb2ca9ed30",
@@ -453,8 +561,8 @@
     "language": "English",
     "publisher": "The New York Times",
     "published_date": "2026-07-09",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/12/multimedia/ST-EVICTED-SCHOLAR-01-vpfj/ST-EVICTED-SCHOLAR-01-vpfj-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/12/multimedia/ST-EVICTED-SCHOLAR-01-vpfj/ST-EVICTED-SCHOLAR-01-vpfj-mediumSquareAt3X.jpg",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/12/multimedia/ST-EVICTED-SCHOLAR-01-vpfj/ST-EVICTED-SCHOLAR-01-vpfj-mediumSquareAt3X-v2.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/12/multimedia/ST-EVICTED-SCHOLAR-01-vpfj/ST-EVICTED-SCHOLAR-01-vpfj-mediumSquareAt3X-v2.jpg",
     "article_url": "https://www.nytimes.com/2026/07/09/style/too-many-books-new-york-city-apartment-scholar-landlord.html",
     "source": "The New York Times",
     "source_type": "rss",
@@ -466,8 +574,8 @@
       "Real Estate and Housing (Residential)",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "cdc8c7c58553083aa3bbc7bf1d633c19",
@@ -504,8 +612,8 @@
       "books",
       "genre-books-graphic-novels-comic-books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "779a32d57f7dc53a2506bd290f8f8298",
@@ -536,8 +644,8 @@
       "Odyssey (Book)",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "7b3e6837947fd7b28cdbf4e0d041d7fb",
@@ -568,8 +676,8 @@
       "Vollmann, William T",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "2c1fe77a55a45e8992a445a61cfcc650",
@@ -595,8 +703,8 @@
       "The Odyssey",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "f32cdb4c795052e9ead0d2e688b0d331",
@@ -627,8 +735,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   },
   {
     "id": "e767efdaf64fc97a07a6db54b94646c9",
@@ -660,86 +768,7 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
-  },
-  {
-    "id": "7fa3f6f5dda7e0de0fcbc23c3ef2fb58",
-    "title": "Bonnie Tyler, singer of power ballad 'Total Eclipse of the Heart,' dies at 75",
-    "author": "Isabella Gomez Sarmiento",
-    "description": "Tyler's biggest hit is a perfect encapsulation of what made her a star in the 1980s: An epic power ballad surging with emotion, delivered in a voice that sounded like it might tear the singer apart.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "NPR Books",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2953x2076+0+0/resize/2953x2076!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F78%2F81%2F2660519f47679c855842872c388d%2Fap26126572670750.jpg",
-    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2953x2076+0+0/resize/2953x2076!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F78%2F81%2F2660519f47679c855842872c388d%2Fap26126572670750.jpg",
-    "article_url": "https://www.npr.org/2026/07/09/nx-s1-5887107/bonnie-tyler-obit",
-    "source": "NPR Books",
-    "source_type": "rss",
-    "tags": [
-      "reviews"
-    ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
-  },
-  {
-    "id": "415de126a935eacc8abe04f8f51b1140",
-    "title": "The Bestselling Books of the Week, According to All the Lists",
-    "author": "Community",
-    "description": "USA Today, Publishers Weekly, NYT, Amazon, and Indie Booksellers all have their own bestseller lists. Here are the combined results.",
-    "summary_ai": "",
-    "categories": [
-      "New Books",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/Communion-202x300.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/Communion-202x300.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/bestselling-books-july-9-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "New Books",
-      "reviews"
-    ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
-  },
-  {
-    "id": "8fd6511e258d8d290f31e670f97ece36",
-    "title": "The Best Latine Books of 2026 So Far",
-    "author": "Vanessa Diaz",
-    "description": "The best Latine books of 2026 so far include a meditation on the power of poetry, two Gothic horror reads, a Peter Pan retelling set in WWI, and more.",
-    "summary_ai": "",
-    "categories": [
-      "Latine Lit",
-      "Reviews"
-    ],
-    "genre": [
-      "Horror",
-      "Poetry"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-09",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/03/Against-Breaking-On-the-Power-of-Poetry-Ada-Limon-cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/03/Against-Breaking-On-the-Power-of-Poetry-Ada-Limon-cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/best-latine-books-of-2026-so-far/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Latine Lit",
-      "reviews"
-    ],
-    "created_at": "2026-07-10T19:21:15+00:00",
-    "updated_at": "2026-07-10T19:21:15Z"
+    "created_at": "2026-07-11T07:54:23+00:00",
+    "updated_at": "2026-07-11T07:54:23Z"
   }
 ]
