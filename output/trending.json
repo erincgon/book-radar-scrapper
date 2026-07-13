@@ -1,5 +1,47 @@
 [
   {
+    "id": "6fdb1c615e8293886d0049a8bd4d7898",
+    "title": "Shahrnush Parsipur, Iranian Writer Imprisoned for Her Novels, Dies at 80",
+    "author": "Clay Risen",
+    "description": "Her best-known work, “Women Without Men,” was longlisted for the International Booker Prize this year.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Deaths (Obituaries)",
+      "Iranian-Americans",
+      "Parsipur, Shahrnush (1946-2026)",
+      "Political Prisoners",
+      "Politics And Government",
+      "Tehran (Iran)",
+      "Women'S Rights",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-13",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/10/multimedia/10Parsipur--02-ptqv/10Parsipur--02-ptqv-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/10/multimedia/10Parsipur--02-ptqv/10Parsipur--02-ptqv-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/13/books/shahrnush-parsipur-dead.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Deaths (Obituaries)",
+      "Iranian-Americans",
+      "Parsipur, Shahrnush (1946-2026)",
+      "Political Prisoners",
+      "Politics and Government",
+      "Tehran (Iran)",
+      "Women's Rights",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
+  },
+  {
     "id": "6165c6f41d79cb7946bf264371f69ff5",
     "title": "Book Review: ‘It Will Come Back to You,’ by Sigrid Nunez",
     "author": "Dwight Garner",
@@ -28,8 +70,8 @@
       "Nunez, Sigrid",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "00bbb5fd0eed22dcb2e32da6ab3a30ba",
@@ -64,8 +106,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "a573ebb5f5a9fb1749e12c938cc2d00f",
@@ -102,8 +144,46 @@
       "Schiller, Lucy",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
+  },
+  {
+    "id": "3a563bfbf469937c2cc5bd2ad0d60235",
+    "title": "Book Review: ‘Every Inch a Lady,’ by Audrey Smaltz",
+    "author": "Roxanne Fequiere",
+    "description": "In “Every Inch a Lady,” Audrey Smaltz shares her incredible story — if not her inimitable voice.",
+    "summary_ai": "",
+    "categories": [
+      "Black People",
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Every Inch A Lady: My Amazing Journey From Dear Harlem To Haute Couture & Beyond (Book)",
+      "Fashion And Apparel",
+      "Models (Professional)",
+      "Smaltz, Audrey"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-13",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/14/multimedia/14TBR-Smaltz-Review-tljc/14TBR-Smaltz-Review-tljc-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/14/multimedia/14TBR-Smaltz-Review-tljc/14TBR-Smaltz-Review-tljc-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/12/books/review/every-inch-a-lady-audrey-smaltz.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Black People",
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Every Inch a Lady: My Amazing Journey From Dear Harlem to Haute Couture & Beyond (Book)",
+      "Fashion and Apparel",
+      "Models (Professional)",
+      "Smaltz, Audrey",
+      "books"
+    ],
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "f133dca0e9cd64d0b8e3304ebca29dbb",
@@ -136,8 +216,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "3e79c9fc9ac7fe6176b02d0184a596f7",
@@ -173,46 +253,141 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
-    "id": "3a563bfbf469937c2cc5bd2ad0d60235",
-    "title": "Book Review: ‘Every Inch a Lady,’ by Audrey Smaltz",
-    "author": "Roxanne Fequiere",
-    "description": "In “Every Inch a Lady,” Audrey Smaltz shares her incredible story — if not her inimitable voice.",
+    "id": "cdf1cff06be902a4cdbbfcc792ff8277",
+    "title": "Oldies But Goodies: New Under",
+    "author": "Isabelle Popp",
+    "description": "These new, under-the-radar historical romances, feature an advice columnist seeking vigilante justice in 19th century London, a retelling of Beauty and the Beast, and more.",
     "summary_ai": "",
     "categories": [
-      "Black People",
-      "Books",
-      "Books And Literature",
-      "Content Type: Personal Profile",
-      "Every Inch A Lady: My Amazing Journey From Dear Harlem To Haute Couture & Beyond (Book)",
-      "Fashion And Apparel",
-      "Models (Professional)",
-      "Smaltz, Audrey"
+      "Featured",
+      "Historical Romance",
+      "Kissing Books",
+      "Reviews",
+      "Romance/Erotica"
     ],
-    "genre": [],
+    "genre": [
+      "Romance"
+    ],
     "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-12",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/14/multimedia/14TBR-Smaltz-Review-tljc/14TBR-Smaltz-Review-tljc-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/14/multimedia/14TBR-Smaltz-Review-tljc/14TBR-Smaltz-Review-tljc-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/12/books/review/every-inch-a-lady-audrey-smaltz.html",
-    "source": "The New York Times",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-13",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/midnight-rendezvous-by-stacy-reid-300x0.jpeg.optimal.jpeg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/midnight-rendezvous-by-stacy-reid-300x0.jpeg.optimal.jpeg",
+    "article_url": "https://bookriot.com/new-under-the-radar-historical-romances/",
+    "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Black People",
-      "Books and Literature",
-      "Content Type: Personal Profile",
-      "Every Inch a Lady: My Amazing Journey From Dear Harlem to Haute Couture & Beyond (Book)",
-      "Fashion and Apparel",
-      "Models (Professional)",
-      "Smaltz, Audrey",
-      "books"
+      "Featured",
+      "Kissing Books",
+      "Romance/Erotica",
+      "historical romance",
+      "reviews"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
+  },
+  {
+    "id": "c6ee0333a3445605fc82f491717b6a6b",
+    "title": "American History Books for Kids to Read as the U.S. Turns 250",
+    "author": "Susie Dumond",
+    "description": "Reflect on 250 years of U.S. history with these American history books for kids about the fight for liberty and justice for all.",
+    "summary_ai": "",
+    "categories": [
+      "Activism",
+      "American History",
+      "Children'S",
+      "Nonfiction",
+      "Reviews",
+      "The Kids Are All Right",
+      "U.S. History"
+    ],
+    "genre": [
+      "History"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-13",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/04/We-the-People-Is-All-the-People-A-Picture-Book-Howard-W.-Reeves-cover-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/04/We-the-People-Is-All-the-People-A-Picture-Book-Howard-W.-Reeves-cover-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/american-history-books-for-kids/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "American history",
+      "Children's",
+      "Nonfiction",
+      "The Kids Are All Right",
+      "U.S. History",
+      "activism",
+      "reviews"
+    ],
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
+  },
+  {
+    "id": "dd485aefb210d26c714bca96cbe2537d",
+    "title": "Mysteries and Thrillers Set at Amusement Parks & Summer Camps",
+    "author": "Jamie Canaves",
+    "description": "Bring on the summer nostalgia and crack the case with these mysteries and thrillers set at amusement parks and summer camps.",
+    "summary_ai": "",
+    "categories": [
+      "All Access",
+      "Mystery/Thriller",
+      "Reviews",
+      "Unusual Suspects"
+    ],
+    "genre": [
+      "Thriller"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-13",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/wonderland-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/wonderland-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/mysteries-and-thrillers-set-at-amusement-parks-and-summer-camps/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "All Access",
+      "Mystery/Thriller",
+      "Unusual Suspects",
+      "reviews"
+    ],
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
+  },
+  {
+    "id": "b4cf67fa75894f00000613cbedd6c0b3",
+    "title": "The 2025 Shirley Jackson Award Winners",
+    "author": "Community",
+    "description": "Read your way into the winners of the 2025 Shirley Jackson Awards, presented to the best in horror, dark fantasy, and psychological suspense.",
+    "summary_ai": "",
+    "categories": [
+      "News",
+      "Reviews"
+    ],
+    "genre": [
+      "Fantasy",
+      "Horror"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-13",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2024/07/shirley-jackson-awards-logo.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2024/07/shirley-jackson-awards-logo.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/the-2025-shirley-jackson-award-winners/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "News",
+      "reviews"
+    ],
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "923f94486c45ee6e0034f0427a6a5a30",
@@ -246,8 +421,8 @@
       "Romance books",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "2e88a2a1af2843d09a28d01d771320e6",
@@ -279,8 +454,8 @@
       "Society",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "b0fa6203a1a5751eec556075f39f7117",
@@ -306,8 +481,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "3592e8f5456efeeecfa56b907d0272ba",
@@ -336,8 +511,8 @@
       "Ong, Han",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "0b9377d2c716cc7e55d918d73474f920",
@@ -369,8 +544,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "5f9a5e092a7212ec1233df7bc7168731",
@@ -415,8 +590,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "a8fbe96383a7566d11a79503616d8212",
@@ -453,8 +628,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "477b7be0b7cc5f43e29caeda6512569b",
@@ -467,6 +642,7 @@
       "Books And Literature",
       "Greek Civilization",
       "Homer",
+      "Internal-Open-Access-Audio",
       "Miller, Madeline (1978- )",
       "The Odyssey (2026) (Movie)"
     ],
@@ -485,10 +661,11 @@
       "Homer",
       "Miller, Madeline (1978- )",
       "The Odyssey (2026) (Movie)",
-      "books"
+      "books",
+      "internal-open-access-audio"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "8a3aeaec130d948f1fd0be45fb742a76",
@@ -537,249 +714,7 @@
       "Thomasson, Anna",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
-  },
-  {
-    "id": "e1389992604279d9cf3b35e95079e297",
-    "title": "10 Kids’ Books for Fans of the Magic Tree House Series",
-    "author": "Travis Jonker",
-    "description": "Ten recommendations for fans of Mary Pope Osborne’s time-travel chapter book series.",
-    "summary_ai": "",
-    "categories": [
-      "Battle Of The Bad-Breath Bats (Book)",
-      "Books",
-      "Books And Literature",
-      "Bowles, David (1970- )",
-      "Catastrophe (Book)",
-      "Children And Childhood",
-      "Clester, Shane",
-      "Danger, Chris",
-      "Genre-Books-Childrens",
-      "Hale, Nathan (Author)",
-      "Howells, Graham",
-      "Jose, Gladys",
-      "Lets Mooove! (Book)",
-      "Lewis, Stevie",
-      "Lupica, Mike",
-      "Magic Tree House (Book)",
-      "Mcmorris, Kelley",
-      "Mensah, Bernard",
-      "Messner, Kate",
-      "Murray The Viking (Book)",
-      "Nayo, Natasha",
-      "One Dead Spy (Book)",
-      "Osborne, Mary Pope",
-      "Rescue On The Oregon Trail (Book)",
-      "Rex, Adam",
-      "Rise Of The Earth Dragon (Book)",
-      "Rise Of The Green Flame (Book)",
-      "Sheinmel, Courtney",
-      "Stower, Adam",
-      "The Missing Baseball (Book)",
-      "The Story Of Gumluck The Wizard (Book)",
-      "Turetsky, Bianca",
-      "West, Tracey",
-      "Winston, Sherri"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-10",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/12/books/12TBR-MagicTreeHouse-Readalikes-02/12TBR-MagicTreeHouse-Readalikes-02-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/12/books/12TBR-MagicTreeHouse-Readalikes-02/12TBR-MagicTreeHouse-Readalikes-02-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/10/books/review/magic-tree-house-books-kids.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Battle of the Bad-Breath Bats (Book)",
-      "Books and Literature",
-      "Bowles, David (1970- )",
-      "Catastrophe (Book)",
-      "Children and Childhood",
-      "Clester, Shane",
-      "Danger, Chris",
-      "Hale, Nathan (Author)",
-      "Howells, Graham",
-      "Jose, Gladys",
-      "Lets Mooove! (Book)",
-      "Lewis, Stevie",
-      "Lupica, Mike",
-      "Magic Tree House (Book)",
-      "McMorris, Kelley",
-      "Mensah, Bernard",
-      "Messner, Kate",
-      "Murray the Viking (Book)",
-      "Nayo, Natasha",
-      "One Dead Spy (Book)",
-      "Osborne, Mary Pope",
-      "Rescue on the Oregon Trail (Book)",
-      "Rex, Adam",
-      "Rise of the Earth Dragon (Book)",
-      "Rise of the Green Flame (Book)",
-      "Sheinmel, Courtney",
-      "Stower, Adam",
-      "The Missing Baseball (Book)",
-      "The Story of Gumluck the Wizard (Book)",
-      "Turetsky, Bianca",
-      "West, Tracey",
-      "Winston, Sherri",
-      "books",
-      "genre-books-childrens"
-    ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
-  },
-  {
-    "id": "01405a4cc0c1f2d1caa2ac538576a2f3",
-    "title": "Historical Fiction Books That Will Transport You to the 1960s",
-    "author": "Kerri Maher",
-    "description": "The best-selling author Kerri Maher recommends books that transport readers to the decade of space travel, counterculture and tumultuous societal change.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Byatt, A S",
-      "Cline, Emma",
-      "Cruz, Angie",
-      "Dominicana: A Novel (Book)",
-      "Garmus, Bonnie",
-      "Genre-Books-Historical-Fiction",
-      "Hilderbrand, Elin",
-      "Internal-Open-Access-From-Nl",
-      "Lessons In Chemistry (Book)",
-      "Nineteen Hundred Sixties",
-      "O'Brien, Tim (1946- )",
-      "Summer Of '69 (Book)",
-      "The Girls (Book)",
-      "The Things They Carried (Book)"
-    ],
-    "genre": [
-      "Fiction"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-10",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/05/books/review/05TBR-HistoricalFiction-MAHER/05TBR-HistoricalFiction-MAHER-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/05/books/review/05TBR-HistoricalFiction-MAHER/05TBR-HistoricalFiction-MAHER-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/09/books/historical-fiction-1960s.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Byatt, A S",
-      "Cline, Emma",
-      "Cruz, Angie",
-      "Dominicana: A Novel (Book)",
-      "Garmus, Bonnie",
-      "Hilderbrand, Elin",
-      "Lessons in Chemistry (Book)",
-      "Nineteen Hundred Sixties",
-      "O'Brien, Tim (1946- )",
-      "Summer of '69 (Book)",
-      "The Girls (Book)",
-      "The Things They Carried (Book)",
-      "books",
-      "genre-books-historical-fiction",
-      "internal-open-access-from-nl"
-    ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
-  },
-  {
-    "id": "e5405ea90125b1c1597491f853373f63",
-    "title": "Jenni Fagan: ‘Maya Angelou taught me that I owed myself hope’",
-    "author": "Guardian Staff",
-    "description": "The Scottish author on loving The Hobbit, fairytales, Frankenstein and the shock of A Clockwork Orange My earliest reading memory Fairytales. I was obsessed. I took fairytales very seriously as moral lessons. I soon knew that I’d always help any old lady cross the road, it really is always best to do so. My favourite book growing up The Hobbit was my favourite book while growing up. It expanded my understanding of what could be achieved in fiction. I found JRR Tolkien’s world transformative. I felt as if I knew the hobbits, and I so wanted to see the elves. I could hear the crack of fireworks as they turned into dragons that flew overhead. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "Jenni Fagan"
-    ],
-    "genre": [
-      "Fiction"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-10",
-    "thumbnail": "https://i.guim.co.uk/img/media/1fab385d1f7e6e1bafb54b66d883d1e1da208a9d/0_3000_5504_4403/master/5504.jpg?width=700&quality=85&auto=format&fit=max&s=05c35a11ab657bd926fe4ef23d204599",
-    "cover_large": "https://i.guim.co.uk/img/media/1fab385d1f7e6e1bafb54b66d883d1e1da208a9d/0_3000_5504_4403/master/5504.jpg?width=700&quality=85&auto=format&fit=max&s=05c35a11ab657bd926fe4ef23d204599",
-    "article_url": "https://www.theguardian.com/books/2026/jul/10/jenni-fagan-maya-angelou-taught-me-that-i-owed-myself-hope",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "Jenni Fagan",
-      "books"
-    ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
-  },
-  {
-    "id": "e27d471907994429b945e15dab5de9a3",
-    "title": "The Best Graphic Novels of 2026 (So Far)",
-    "author": "Eileen Gonzalez",
-    "description": "The director of Frozen teams up for a YA graphic novel—plus cool fight scenes, nuanced horror mystery, nonbinary puberty, and more.",
-    "summary_ai": "",
-    "categories": [
-      "Comics/Graphic Novels",
-      "Reviews",
-      "The Stack"
-    ],
-    "genre": [
-      "Horror",
-      "Mystery"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-10",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/12/As-I-Dream-of-You-cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/12/As-I-Dream-of-You-cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/best-graphic-novels-of-2026-so-far/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Comics/Graphic Novels",
-      "The Stack",
-      "reviews"
-    ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
-  },
-  {
-    "id": "743fdbd8d66c58b96ea955c0f215fd43",
-    "title": "The Most Read Books on Goodreads This Week",
-    "author": "Community",
-    "description": "The most read books on Goodreads this week include historical fiction, a marriage thriller, a summer romance, and more.",
-    "summary_ai": "",
-    "categories": [
-      "Breaking In Books",
-      "News",
-      "Reviews"
-    ],
-    "genre": [
-      "Fiction",
-      "Romance",
-      "Thriller"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-10",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/The-Memory-Bookshop-by-Song-Yu-jeong-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/The-Memory-Bookshop-by-Song-Yu-jeong-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/most-read-books-on-goodreads-july-10-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "News",
-      "breaking in books",
-      "reviews"
-    ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
-    "id": "84a442349855b745af1e693598ded88c",
-    "title": "Was your favorite music influencer paid to post that song?",
+    "id": "7c8c8ac39a65ecf835a0d4919f71c25f",
+    "title": "Music influencers are getting paid to promote songs",
     "author": "Isabella Gomez Sarmiento",
     "description": "Social media can make a song go viral — even push it up the pop charts — seemingly overnight. Perhaps it's not surprising that some influencers are being paid to promote music without disclosing it.",
     "summary_ai": "",
@@ -20,8 +20,150 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
+  },
+  {
+    "id": "44562d4db34ed2528ca53d1f703c5d1c",
+    "title": "Tegan Nia Swanson has won the 2026 DAG Prize for Literature.",
+    "author": "Literary Hub",
+    "description": "Today, the DAG Foundation announced the winners of its second annual DAG Prizes, which award $20,000 each to a visual artist, a writer, and a musician “whose work expands the possibilities for American art.” In particular, the DAG Prize for",
+    "summary_ai": "",
+    "categories": [
+      "Book News",
+      "Literary Prizes",
+      "News And Culture",
+      "Reviews",
+      "Tegan Nia Swanson",
+      "The Dag Prize For Literature",
+      "The Hub"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-07-13",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2024/12/dag-768x384.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2024/12/dag-768x384.jpg",
+    "article_url": "https://lithub.com/tegan-nia-swanson-has-won-the-2026-dag-prize-for-literature/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Book News",
+      "News and Culture",
+      "Tegan Nia Swanson",
+      "The DAG Prize for Literature",
+      "The Hub",
+      "literary prizes",
+      "reviews"
+    ],
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
+  },
+  {
+    "id": "c0401e0ba484434e5cc47339c11b377e",
+    "title": "Fun fact: Salvador Dalí designed a tarot deck for the film Live and Let Die.",
+    "author": "Olivia Rutigliano",
+    "description": "In the early 1970s, the producer Albert R. Broccoli commissioned the artist Salvador Dalí to make a tarot deck for the upcoming James Bond film Live and Let Die. Based on Ian Fleming’s 1954 novel of the same name, Live",
+    "summary_ai": "",
+    "categories": [
+      "Olivia Rutigliano",
+      "Reviews",
+      "Salvador Dalí",
+      "Tarot",
+      "Taschen",
+      "The Hub",
+      "The Morgan Library And Museum"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-07-13",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/Dali-tarot-768x384.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/Dali-tarot-768x384.jpg",
+    "article_url": "https://lithub.com/salvador-dali-made-a-tarot-deck-for-the-james-bond-film-live-and-let-die/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Olivia Rutigliano",
+      "Salvador Dalí",
+      "Tarot",
+      "Taschen",
+      "The Hub",
+      "The Morgan Library and Museum",
+      "reviews"
+    ],
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
+  },
+  {
+    "id": "433aa428e23bac9a6c322249c9f3e4fc",
+    "title": "The Cell Phone Novel Craze of Early 2000s Japan Did Not, in Fact, Destroy Literature",
+    "author": "Nicole Blackwood",
+    "description": "Once upon a Y2K, technology still felt like it could fulfill some human need: our drive for connection, perhaps, or just external recognition of our internal monologue. In the early aughts, digital revolution doubled as personal revelation—suddenly, armed with boxy",
+    "summary_ai": "",
+    "categories": [
+      "Ai",
+      "Cell Phone Novels",
+      "Craft And Criticism",
+      "Features",
+      "Japanese Literature",
+      "Literary Criticism",
+      "Nicole Blackwood",
+      "Reviews",
+      "Technology",
+      "The Tale Of Genji",
+      "Y2K"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-07-13",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/cell-phone-novel-768x384.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/cell-phone-novel-768x384.jpg",
+    "article_url": "https://lithub.com/the-cell-phone-novel-craze-of-early-2000s-japan-did-not-in-fact-destroy-literature/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "AI",
+      "Craft and Criticism",
+      "Features",
+      "Japanese Literature",
+      "Literary Criticism",
+      "Nicole Blackwood",
+      "Technology",
+      "The Tale of Genji",
+      "Y2K",
+      "cell phone novels",
+      "reviews"
+    ],
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
+  },
+  {
+    "id": "f1867812d7ded63dc66db5a7c172903c",
+    "title": "Lit Hub Daily: July 13, 2026",
+    "author": "Lit Hub Daily",
+    "description": "How cell phone novels became the iconic genre among young writers on the Y2k internet. | Lit Hub Criticism “To drink is to enter of a labyrinth of romantic, thrilling, even glamorous myths; to give up drinking is to give",
+    "summary_ai": "",
+    "categories": [
+      "Lit Hub Daily",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-07-13",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/conandoyle-768x344.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/conandoyle-768x344.jpg",
+    "article_url": "https://lithub.com/lit-hub-daily-july-13-2026/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Lit Hub Daily",
+      "reviews"
+    ],
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "f0f7c70823b3d2b7129ae4a0564e83d3",
@@ -64,8 +206,8 @@
       "women writers",
       "writing"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "31de7c6f6ec863b1a1869db8812a8a61",
@@ -78,9 +220,9 @@
       "Andre Aciman",
       "Craft And Criticism",
       "Eric Rohmer",
-      "Features",
       "France",
       "French Literature",
+      "Fullwidth Slider",
       "Literary Criticism",
       "Mcnally Editions",
       "Reviews",
@@ -100,16 +242,16 @@
       "Andre Aciman",
       "Craft and Criticism",
       "Eric Rohmer",
-      "Features",
       "France",
       "French literature",
+      "Fullwidth Slider",
       "Literary Criticism",
       "McNally Editions",
       "reviews",
       "Élisabeth"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "2d7c362294f34a71b1067d81bcf7bb5b",
@@ -148,8 +290,8 @@
       "reviews",
       "short stories"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "dce4899ff84dc20c7ffc9a08bf287d56",
@@ -200,8 +342,8 @@
       "letter writing",
       "reviews"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "53a5e9d97d993e30fd899396c5f2c982",
@@ -244,8 +386,8 @@
       "the writing life",
       "writing routines"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "1ea1a236f189f54c65a974526dd55a83",
@@ -302,14 +444,14 @@
       "reviews",
       "sobriety"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
-    "id": "e9d86cc723f9e0994a7ccdf84bdcd681",
-    "title": "Book Riot’s Deals of the Day for July 12, 2026",
+    "id": "02a934e9bcee3b82889a8a6a284c68e6",
+    "title": "Book Riot’s Deals of the Day for July 13, 2026",
     "author": "Deals",
-    "description": "Southern Vampires, dystopian sci-fi + Mexican folklore, WUTHERING HEIGHTS in modern English, and more of today's best deals",
+    "description": "Chaotic urban-dwelling supernatural inhabitants, the gorgeous girl on the train, a love letter to reading, and more of today's book deals.",
     "summary_ai": "",
     "categories": [
       "Book Deals",
@@ -318,47 +460,204 @@
     "genre": [],
     "language": "English",
     "publisher": "Book Riot",
-    "published_date": "2026-07-12",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/10/Girl-Dinner.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/10/Girl-Dinner.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-july-12-2026/",
+    "published_date": "2026-07-13",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/one-last-stop.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/one-last-stop.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-july-13-2026/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
       "Book Deals",
       "reviews"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
-    "id": "5473bcf3cca27bb61ab34d2fc685d9b1",
-    "title": "Lit Hub Weekly: July 6 – 10, 2026",
-    "author": "Lit Hub Daily",
-    "description": "Lisa Owens explores the “taboo” ways women writers arrange the balance between creativity with family. | Lit Hub Craft How Jane Austen subverted the kind of romance she mastered by writing Emma. | Lit Hub Biography How Joyce Carol Oates,",
+    "id": "65ff83139609f614bbed6e326ae639aa",
+    "title": "Best Books of the Year So Far, BIPOC Edition",
+    "author": "Erica Ezeifedi",
+    "description": "The best books of the year by BIPOC authors includes *all* of the genres. There's something here for everyone.",
     "summary_ai": "",
     "categories": [
-      "Lit Hub Daily",
+      "In Reading Color",
       "Reviews"
     ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-13",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/01/On-Morrison--300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/01/On-Morrison--300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/best-books-of-the-year-so-far-bipoc-edition/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "In Reading Color",
+      "reviews"
+    ],
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
+  },
+  {
+    "id": "d7af0603603fd98928cb84cf9b43ebcc",
+    "title": "The Hardest and Easiest Tasks of the 2026 Read Harder Challenge",
+    "author": "Danika Ellis",
+    "description": "Here are the results of the 2026 Read Harder Challenge halfway check-in survey, including your votes for the hardest task of the year.",
+    "summary_ai": "",
+    "categories": [
+      "Read Harder",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-13",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-12.41.57&",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-12.41.57&",
+    "article_url": "https://bookriot.com/the-hardest-and-easiest-tasks-of-the-2026-read-harder-challenge/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Read Harder",
+      "reviews"
+    ],
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
+  },
+  {
+    "id": "93beab2148cedac827e976af80f3e607",
+    "title": "9 of the Most Adorable Animal Comics for Adult Readers",
+    "author": "Yashvi Peeti",
+    "description": "From therapy insights from emotional support animals to a red panda breaking into death metal, these animal comics for adult readers tell stories that help us understand ourselves.",
+    "summary_ai": "",
+    "categories": [
+      "Comics/Graphic Novels",
+      "Reviews",
+      "Sponsored",
+      "The Stack"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-13",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2024/10/Poorly-Drawn-Lines-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2024/10/Poorly-Drawn-Lines-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/animal-comics-for-adult-readers/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Comics/Graphic Novels",
+      "Sponsored",
+      "The Stack",
+      "reviews"
+    ],
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
+  },
+  {
+    "id": "cdf1cff06be902a4cdbbfcc792ff8277",
+    "title": "Oldies But Goodies: New Under",
+    "author": "Isabelle Popp",
+    "description": "These new, under-the-radar historical romances, feature an advice columnist seeking vigilante justice in 19th century London, a retelling of Beauty and the Beast, and more.",
+    "summary_ai": "",
+    "categories": [
+      "Featured",
+      "Historical Romance",
+      "Kissing Books",
+      "Reviews",
+      "Romance/Erotica"
+    ],
     "genre": [
-      "Biography",
       "Romance"
     ],
     "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-07-11",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/delmoreschwartz-768x344.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/delmoreschwartz-768x344.jpg",
-    "article_url": "https://lithub.com/lit-hub-weekly-july-6-10-2026/",
-    "source": "Literary Hub",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-13",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/midnight-rendezvous-by-stacy-reid-300x0.jpeg.optimal.jpeg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/midnight-rendezvous-by-stacy-reid-300x0.jpeg.optimal.jpeg",
+    "article_url": "https://bookriot.com/new-under-the-radar-historical-romances/",
+    "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Lit Hub Daily",
+      "Featured",
+      "Kissing Books",
+      "Romance/Erotica",
+      "historical romance",
       "reviews"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
+  },
+  {
+    "id": "c6ee0333a3445605fc82f491717b6a6b",
+    "title": "American History Books for Kids to Read as the U.S. Turns 250",
+    "author": "Susie Dumond",
+    "description": "Reflect on 250 years of U.S. history with these American history books for kids about the fight for liberty and justice for all.",
+    "summary_ai": "",
+    "categories": [
+      "Activism",
+      "American History",
+      "Children'S",
+      "Nonfiction",
+      "Reviews",
+      "The Kids Are All Right",
+      "U.S. History"
+    ],
+    "genre": [
+      "History"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-13",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/04/We-the-People-Is-All-the-People-A-Picture-Book-Howard-W.-Reeves-cover-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/04/We-the-People-Is-All-the-People-A-Picture-Book-Howard-W.-Reeves-cover-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/american-history-books-for-kids/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "American history",
+      "Children's",
+      "Nonfiction",
+      "The Kids Are All Right",
+      "U.S. History",
+      "activism",
+      "reviews"
+    ],
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
+  },
+  {
+    "id": "dd485aefb210d26c714bca96cbe2537d",
+    "title": "Mysteries and Thrillers Set at Amusement Parks & Summer Camps",
+    "author": "Jamie Canaves",
+    "description": "Bring on the summer nostalgia and crack the case with these mysteries and thrillers set at amusement parks and summer camps.",
+    "summary_ai": "",
+    "categories": [
+      "All Access",
+      "Mystery/Thriller",
+      "Reviews",
+      "Unusual Suspects"
+    ],
+    "genre": [
+      "Thriller"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-13",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/wonderland-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/wonderland-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/mysteries-and-thrillers-set-at-amusement-parks-and-summer-camps/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "All Access",
+      "Mystery/Thriller",
+      "Unusual Suspects",
+      "reviews"
+    ],
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "cd8809851261682f5b5b32c847e4a7aa",
@@ -381,8 +680,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "c451b37381d2056eb92bc043de775b84",
@@ -405,332 +704,36 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
-    "id": "362c4baeb52ee854353db10304428233",
-    "title": "A new Mary Oliver documentary captures the poet’s wild and precious life.",
-    "author": "Brittany Allen",
-    "description": "At the time of her death in 2019, the late Mary Oliver was one of the most successful American poets to ever publish. She wrote dozens of collections, and several highly quotable bangers that a reader would be as likely",
-    "summary_ai": "",
-    "categories": [
-      "Art And Photography",
-      "Biography",
-      "Book News",
-      "Documentary",
-      "Edna St. Vincent Millay",
-      "Film",
-      "Film And Tv",
-      "Garrison Keillor",
-      "Garry Winogrand",
-      "John Waters",
-      "Kino Lorber",
-      "Lucy Dacus",
-      "Mary Oliver",
-      "Molly Malone Cook",
-      "Nature",
-      "News And Culture",
-      "Nick Flynn",
-      "One Wild And Precious Life",
-      "Photography",
-      "Poetry",
-      "Reviews",
-      "Sasha Waters",
-      "Saved By The Beauty Of The World",
-      "Steepletop",
-      "Style",
-      "The Hub"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-07-10",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/17_Young_Mary_color_dog-768x522.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/17_Young_Mary_color_dog-768x522.jpg",
-    "article_url": "https://lithub.com/a-new-mary-oliver-documentary-captures-the-poets-wild-and-precious-life/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Art and Photography",
-      "Biography",
-      "Book News",
-      "Edna St. Vincent Millay",
-      "Film and TV",
-      "Garrison Keillor",
-      "Garry Winogrand",
-      "John Waters",
-      "Kino Lorber",
-      "Lucy Dacus",
-      "Mary Oliver",
-      "Molly Malone Cook",
-      "Nature",
-      "News and Culture",
-      "Nick Flynn",
-      "Sasha Waters",
-      "Saved by the Beauty of the World",
-      "Steepletop",
-      "Style",
-      "The Hub",
-      "documentary",
-      "film",
-      "one wild and precious life",
-      "photography",
-      "poetry",
-      "reviews"
-    ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
-  },
-  {
-    "id": "5489476c3a2e68e9ef15b7d0039012f8",
-    "title": "Lit Hub Daily: July 10, 2026",
-    "author": "Lit Hub Daily",
-    "description": "Zach St. George explores the wild scams of Australia’s snake venom con men. | Lit Hub History How activists Kevin Tubbs and Jacob Ferguson brought environmental liberation of the fae variety to America. | Lit Hub Climate Change “During his years",
-    "summary_ai": "",
-    "categories": [
-      "Lit Hub Daily",
-      "Reviews"
-    ],
-    "genre": [
-      "History"
-    ],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-07-10",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/verlainerimbaud-768x344.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/verlainerimbaud-768x344.jpg",
-    "article_url": "https://lithub.com/lit-hub-daily-july-10-2026/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Lit Hub Daily",
-      "reviews"
-    ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
-  },
-  {
-    "id": "0b72d4a9aaf7fba15bc1529dcf27022e",
-    "title": "The Au Pair",
-    "author": "Lit Hub Excerpts",
-    "description": "The next morning, Steven suffered through his undergrad fiction workshop with a hangover; three drinks had, sometime in the last few years, become a daylong punishment. The projection screen, synced to his laptop, displayed the first page of Flannery O’Connor’s",
-    "summary_ai": "",
-    "categories": [
-      "Daily Fiction",
-      "Excerpts",
-      "Fiction And Poetry",
-      "From The Novel",
-      "Harper",
-      "Novels",
-      "Reviews",
-      "Teddy Wayne",
-      "The Au Pair"
-    ],
-    "genre": [
-      "Fiction"
-    ],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-07-10",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2025/12/Teddy-Wayne-The-Au-Pair-768x1160.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2025/12/Teddy-Wayne-The-Au-Pair-768x1160.jpg",
-    "article_url": "https://lithub.com/the-au-pair/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Daily Fiction",
-      "Excerpts",
-      "Fiction and Poetry",
-      "From the Novel",
-      "Harper",
-      "Novels",
-      "Teddy Wayne",
-      "The Au Pair",
-      "reviews"
-    ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
-  },
-  {
-    "id": "e27d471907994429b945e15dab5de9a3",
-    "title": "The Best Graphic Novels of 2026 (So Far)",
-    "author": "Eileen Gonzalez",
-    "description": "The director of Frozen teams up for a YA graphic novel—plus cool fight scenes, nuanced horror mystery, nonbinary puberty, and more.",
-    "summary_ai": "",
-    "categories": [
-      "Comics/Graphic Novels",
-      "Reviews",
-      "The Stack"
-    ],
-    "genre": [
-      "Horror",
-      "Mystery"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-10",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/12/As-I-Dream-of-You-cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/12/As-I-Dream-of-You-cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/best-graphic-novels-of-2026-so-far/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Comics/Graphic Novels",
-      "The Stack",
-      "reviews"
-    ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
-  },
-  {
-    "id": "743fdbd8d66c58b96ea955c0f215fd43",
-    "title": "The Most Read Books on Goodreads This Week",
+    "id": "b4cf67fa75894f00000613cbedd6c0b3",
+    "title": "The 2025 Shirley Jackson Award Winners",
     "author": "Community",
-    "description": "The most read books on Goodreads this week include historical fiction, a marriage thriller, a summer romance, and more.",
+    "description": "Read your way into the winners of the 2025 Shirley Jackson Awards, presented to the best in horror, dark fantasy, and psychological suspense.",
     "summary_ai": "",
     "categories": [
-      "Breaking In Books",
       "News",
       "Reviews"
     ],
     "genre": [
-      "Fiction",
-      "Romance",
-      "Thriller"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-10",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/The-Memory-Bookshop-by-Song-Yu-jeong-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/The-Memory-Bookshop-by-Song-Yu-jeong-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/most-read-books-on-goodreads-july-10-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "News",
-      "breaking in books",
-      "reviews"
-    ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
-  },
-  {
-    "id": "6e59dcc3b5bf5a403e5b28c3d7ef3a70",
-    "title": "The Best Horror Books of 2026 So Far",
-    "author": "Emily Martin",
-    "description": "Not all the scares this year has brought are bad ones! Add these must-read horror books to the top of your TBR pile.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "The Fright Stuff"
-    ],
-    "genre": [
+      "Fantasy",
       "Horror"
     ],
     "language": "English",
     "publisher": "Book Riot",
-    "published_date": "2026-07-10",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/04/Molka-Monika-Kim-cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/04/Molka-Monika-Kim-cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/best-horror-books-of-2026-so-far/",
+    "published_date": "2026-07-13",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2024/07/shirley-jackson-awards-logo.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2024/07/shirley-jackson-awards-logo.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/the-2025-shirley-jackson-award-winners/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "The Fright Stuff",
-      "reviews"
-    ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
-  },
-  {
-    "id": "d607b24dd2911725f43f61ebd46b1221",
-    "title": "250+ New LGBTQ Books Out in the Rest of 2026",
-    "author": "Danika Ellis",
-    "description": "Here is a spreadsheet of more than 250 LGBTQ books coming out in the second half of 2026, sortable by genre and representation!",
-    "summary_ai": "",
-    "categories": [
-      "All Access",
-      "Lgbtq",
-      "Our Queerest Shelves",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-11",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2024/07/rainbow-bookstore.png",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2024/07/rainbow-bookstore.png",
-    "article_url": "https://bookriot.com/new-lgbtq-books-out-in-the-rest-of-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "All Access",
-      "LGBTQ",
-      "Our Queerest Shelves",
-      "reviews"
-    ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
-  },
-  {
-    "id": "3253f6977d236ae69410d3eb749c19c9",
-    "title": "12 Book Censorship Posts to Revisit: Book Censorship News for July 11, 2026",
-    "author": "Kelly Jensen",
-    "description": "From the necessity to talk about sex in books to building voter guides to local elections, catch up on previous book censorship posts.",
-    "summary_ai": "",
-    "categories": [
-      "Censorship",
-      "Libraries",
-      "Literary Activism",
-      "News",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "the necessity to talk about sex in books",
-    "published_date": "2026-07-10",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/02/book-censorship-news-flagship-size.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/02/book-censorship-news-flagship-size.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/12-more-book-censorship-posts-to-revisit/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Censorship",
-      "Libraries",
-      "Literary Activism",
       "News",
       "reviews"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
-  },
-  {
-    "id": "6001ec1ec524a993b95718b432f4517f",
-    "title": "How Gen Z Does (And Doesn’t Use) Public Libraries",
-    "author": "Katie McLain Horner",
-    "description": "Exploring where and how Gen Z uses the public library, a DUNGEON CRAWLER CARL series, and more news for library workers.",
-    "summary_ai": "",
-    "categories": [
-      "Check Your Shelf",
-      "Libraries",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-10",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/03/image-of-a-library-shelf.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/03/image-of-a-library-shelf.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/july-2026-library-news/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Check Your Shelf",
-      "Libraries",
-      "reviews"
-    ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   }
 ]

@@ -1,5 +1,47 @@
 [
   {
+    "id": "6fdb1c615e8293886d0049a8bd4d7898",
+    "title": "Shahrnush Parsipur, Iranian Writer Imprisoned for Her Novels, Dies at 80",
+    "author": "Clay Risen",
+    "description": "Her best-known work, “Women Without Men,” was longlisted for the International Booker Prize this year.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Deaths (Obituaries)",
+      "Iranian-Americans",
+      "Parsipur, Shahrnush (1946-2026)",
+      "Political Prisoners",
+      "Politics And Government",
+      "Tehran (Iran)",
+      "Women'S Rights",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-13",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/10/multimedia/10Parsipur--02-ptqv/10Parsipur--02-ptqv-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/10/multimedia/10Parsipur--02-ptqv/10Parsipur--02-ptqv-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/13/books/shahrnush-parsipur-dead.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Deaths (Obituaries)",
+      "Iranian-Americans",
+      "Parsipur, Shahrnush (1946-2026)",
+      "Political Prisoners",
+      "Politics and Government",
+      "Tehran (Iran)",
+      "Women's Rights",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
+  },
+  {
     "id": "6165c6f41d79cb7946bf264371f69ff5",
     "title": "Book Review: ‘It Will Come Back to You,’ by Sigrid Nunez",
     "author": "Dwight Garner",
@@ -28,8 +70,8 @@
       "Nunez, Sigrid",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "00bbb5fd0eed22dcb2e32da6ab3a30ba",
@@ -64,8 +106,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "a573ebb5f5a9fb1749e12c938cc2d00f",
@@ -102,8 +144,46 @@
       "Schiller, Lucy",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
+  },
+  {
+    "id": "3a563bfbf469937c2cc5bd2ad0d60235",
+    "title": "Book Review: ‘Every Inch a Lady,’ by Audrey Smaltz",
+    "author": "Roxanne Fequiere",
+    "description": "In “Every Inch a Lady,” Audrey Smaltz shares her incredible story — if not her inimitable voice.",
+    "summary_ai": "",
+    "categories": [
+      "Black People",
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Every Inch A Lady: My Amazing Journey From Dear Harlem To Haute Couture & Beyond (Book)",
+      "Fashion And Apparel",
+      "Models (Professional)",
+      "Smaltz, Audrey"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-13",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/14/multimedia/14TBR-Smaltz-Review-tljc/14TBR-Smaltz-Review-tljc-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/14/multimedia/14TBR-Smaltz-Review-tljc/14TBR-Smaltz-Review-tljc-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/12/books/review/every-inch-a-lady-audrey-smaltz.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Black People",
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Every Inch a Lady: My Amazing Journey From Dear Harlem to Haute Couture & Beyond (Book)",
+      "Fashion and Apparel",
+      "Models (Professional)",
+      "Smaltz, Audrey",
+      "books"
+    ],
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "f133dca0e9cd64d0b8e3304ebca29dbb",
@@ -136,8 +216,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "3e79c9fc9ac7fe6176b02d0184a596f7",
@@ -173,46 +253,8 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
-  },
-  {
-    "id": "3a563bfbf469937c2cc5bd2ad0d60235",
-    "title": "Book Review: ‘Every Inch a Lady,’ by Audrey Smaltz",
-    "author": "Roxanne Fequiere",
-    "description": "In “Every Inch a Lady,” Audrey Smaltz shares her incredible story — if not her inimitable voice.",
-    "summary_ai": "",
-    "categories": [
-      "Black People",
-      "Books",
-      "Books And Literature",
-      "Content Type: Personal Profile",
-      "Every Inch A Lady: My Amazing Journey From Dear Harlem To Haute Couture & Beyond (Book)",
-      "Fashion And Apparel",
-      "Models (Professional)",
-      "Smaltz, Audrey"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-12",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/14/multimedia/14TBR-Smaltz-Review-tljc/14TBR-Smaltz-Review-tljc-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/14/multimedia/14TBR-Smaltz-Review-tljc/14TBR-Smaltz-Review-tljc-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/12/books/review/every-inch-a-lady-audrey-smaltz.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Black People",
-      "Books and Literature",
-      "Content Type: Personal Profile",
-      "Every Inch a Lady: My Amazing Journey From Dear Harlem to Haute Couture & Beyond (Book)",
-      "Fashion and Apparel",
-      "Models (Professional)",
-      "Smaltz, Audrey",
-      "books"
-    ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "923f94486c45ee6e0034f0427a6a5a30",
@@ -246,8 +288,8 @@
       "Romance books",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "2e88a2a1af2843d09a28d01d771320e6",
@@ -279,8 +321,8 @@
       "Society",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "b0fa6203a1a5751eec556075f39f7117",
@@ -306,8 +348,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "3592e8f5456efeeecfa56b907d0272ba",
@@ -336,8 +378,8 @@
       "Ong, Han",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "0b9377d2c716cc7e55d918d73474f920",
@@ -369,8 +411,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "5f9a5e092a7212ec1233df7bc7168731",
@@ -415,8 +457,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "a8fbe96383a7566d11a79503616d8212",
@@ -453,8 +495,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "477b7be0b7cc5f43e29caeda6512569b",
@@ -467,6 +509,7 @@
       "Books And Literature",
       "Greek Civilization",
       "Homer",
+      "Internal-Open-Access-Audio",
       "Miller, Madeline (1978- )",
       "The Odyssey (2026) (Movie)"
     ],
@@ -485,10 +528,11 @@
       "Homer",
       "Miller, Madeline (1978- )",
       "The Odyssey (2026) (Movie)",
-      "books"
+      "books",
+      "internal-open-access-audio"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "8a3aeaec130d948f1fd0be45fb742a76",
@@ -537,8 +581,8 @@
       "Thomasson, Anna",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "e1389992604279d9cf3b35e95079e297",
@@ -627,64 +671,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
-  },
-  {
-    "id": "01405a4cc0c1f2d1caa2ac538576a2f3",
-    "title": "Historical Fiction Books That Will Transport You to the 1960s",
-    "author": "Kerri Maher",
-    "description": "The best-selling author Kerri Maher recommends books that transport readers to the decade of space travel, counterculture and tumultuous societal change.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Byatt, A S",
-      "Cline, Emma",
-      "Cruz, Angie",
-      "Dominicana: A Novel (Book)",
-      "Garmus, Bonnie",
-      "Genre-Books-Historical-Fiction",
-      "Hilderbrand, Elin",
-      "Internal-Open-Access-From-Nl",
-      "Lessons In Chemistry (Book)",
-      "Nineteen Hundred Sixties",
-      "O'Brien, Tim (1946- )",
-      "Summer Of '69 (Book)",
-      "The Girls (Book)",
-      "The Things They Carried (Book)"
-    ],
-    "genre": [
-      "Fiction"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-10",
-    "thumbnail": "https://static01.nyt.com/images/2026/05/05/books/review/05TBR-HistoricalFiction-MAHER/05TBR-HistoricalFiction-MAHER-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/05/05/books/review/05TBR-HistoricalFiction-MAHER/05TBR-HistoricalFiction-MAHER-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/09/books/historical-fiction-1960s.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Byatt, A S",
-      "Cline, Emma",
-      "Cruz, Angie",
-      "Dominicana: A Novel (Book)",
-      "Garmus, Bonnie",
-      "Hilderbrand, Elin",
-      "Lessons in Chemistry (Book)",
-      "Nineteen Hundred Sixties",
-      "O'Brien, Tim (1946- )",
-      "Summer of '69 (Book)",
-      "The Girls (Book)",
-      "The Things They Carried (Book)",
-      "books",
-      "genre-books-historical-fiction",
-      "internal-open-access-from-nl"
-    ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "e5405ea90125b1c1597491f853373f63",
@@ -716,8 +704,83 @@
       "Jenni Fagan",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
+  },
+  {
+    "id": "6c6fad4aaca3daa9f02c25a369c09158",
+    "title": "Transcendent by Laverne Cox review",
+    "author": "Fiona Sturges",
+    "description": "The actor and activist tells the story of her brutal childhood in the deep south with eloquence and defiance When Laverne Cox was eight years old and growing up in Mobile, Alabama, she saved up her pocket money and bought herself a fan decorated with Japanese geishas. The fan became her favourite plaything, a prop to be used while dancing in imaginary music videos or recreating scenes from Gone With the Wind in which she cast herself as Scarlett O’Hara. “I lit up, animated, whenever that fan was in my hand,” she recalls in her memoir. But when Cox, who was raised as a boy, began fanning herself with it at school, her teacher, Mrs Ridgeway, yanked her furiously out of the classroom, paraded her and her new accessory in front of the other teachers, and then phoned her mother, Gloria. When Gloria came home that evening, she exploded with fury. She said Mrs Ridgeway had told her she too had a son who had been an effeminate child who was now living on the streets of New Orleans and wearing a dress. “You want to be in a dress on the streets in New Orleans?” shouted Gloria, who would habitually call Cox a “sissy” and other homophobic slurs. She then signed her up for conversion therapy...",
+    "summary_ai": "",
+    "categories": [
+      "Autobiography And Memoir",
+      "Books",
+      "Culture",
+      "Transgender"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://i.guim.co.uk/img/media/ffb6bd09dc3f4050d3240d5b0ff9275f4a0f9da1/833_0_4167_3333/master/4167.jpg?width=700&quality=85&auto=format&fit=max&s=b605d617cbf783aa1dddeb78a425e80c",
+    "cover_large": "https://i.guim.co.uk/img/media/ffb6bd09dc3f4050d3240d5b0ff9275f4a0f9da1/833_0_4167_3333/master/4167.jpg?width=700&quality=85&auto=format&fit=max&s=b605d617cbf783aa1dddeb78a425e80c",
+    "article_url": "https://www.theguardian.com/books/2026/jul/10/transcendent-by-laverne-cox-review-success-against-the-odds",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Autobiography and memoir",
+      "Books",
+      "Culture",
+      "Transgender",
+      "books"
+    ],
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
+  },
+  {
+    "id": "30f5368e1fa3fbac7dda9c0c7014e919",
+    "title": "The best recent science fiction, fantasy and horror",
+    "author": "Lisa Tuttle",
+    "description": "Sublimation by Isabel J Kim; Last Day of a Prior Life by Andrés Barba; Dead But Dreaming of Electric Sheep by Paul Tremblay; The Carrier by Ruth Newton; Time to Burn by Ellery Lloyd Sublimation by Isabel J Kim ( Picador , £1 8.99 ) This debut novel from an award-winning Korean-American short fiction writer is a fantastical reimagining of the immigrant experience. Here, anyone who crosses a border not intending to return creates an “instance”: a duplicate self who continues life at home. Reintegration into one body is possible, but after years of separate experiences, Soyoung wonders if it might be the psychological equivalent of murder. This idea shocks her friend Yujin, who speaks with his instance in New York every day, waiting for him to be granted the dual citizenship that will allow them to share a privileged life between two countries. The story of these two pairs is told in the second person, a destabilising choice that gradually immerses the reader in a world of doppelgangers. As in our reality, travel is hedged around with bureaucratic systems designed to codify identity and control immigration. A brilliantly realised, imaginative and compelling work of literary...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fantasy Books",
+      "Fiction",
+      "Fiction In Translation",
+      "Horror Books",
+      "Science Fiction Books"
+    ],
+    "genre": [
+      "Fantasy",
+      "Fiction",
+      "Horror",
+      "Science Fiction"
+    ],
+    "language": "English",
+    "publisher": "Picador",
+    "published_date": "2026-07-10",
+    "thumbnail": "https://i.guim.co.uk/img/media/865a8d495742b40f71053093769ffcffbf63aefd/1502_1729_5557_4445/master/5557.jpg?width=700&quality=85&auto=format&fit=max&s=3acd54ad89aaff61d5e50ae029f29a4c",
+    "cover_large": "https://i.guim.co.uk/img/media/865a8d495742b40f71053093769ffcffbf63aefd/1502_1729_5557_4445/master/5557.jpg?width=700&quality=85&auto=format&fit=max&s=3acd54ad89aaff61d5e50ae029f29a4c",
+    "article_url": "https://guardianbookshop.com/sublimation-9781035065523/?amp%3Butm_medium=merch&amp%3Butm_campaign=article",
+    "source": "Guardianbookshop",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fantasy books",
+      "Fiction",
+      "Fiction in translation",
+      "Horror books",
+      "Science fiction books",
+      "books"
+    ],
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "a37c8c310daccda2f23a0eeb2ca9ed30",
@@ -750,8 +813,8 @@
       "Real Estate and Housing (Residential)",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "cdc8c7c58553083aa3bbc7bf1d633c19",
@@ -788,8 +851,8 @@
       "books",
       "genre-books-graphic-novels-comic-books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "779a32d57f7dc53a2506bd290f8f8298",
@@ -820,39 +883,43 @@
       "Odyssey (Book)",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
-    "id": "c037a6db86f9a2c3c06e9ec2af57079e",
-    "title": "Service by Lauren Mooney review",
-    "author": "Ella Risbridger",
-    "description": "The chills are genuinely spooky in this haunted-house tale about contemporary precarity – a debut that speaks to our times There are, MR James tells us, five conditions that must be met for a perfect ghost story: the pretence of truth, a “pleasing terror”, no explanation of the machinery, no gratuitous horror, and that the story belong to the writer’s (and reader’s) “own day”. In Lauren Mooney’s sharply observed debut novel, Danielle lives a precarious existence as a PA at a dilettante arts charity called Hodgepodge (strapline: “for ideas”) . She types emails, makes tea and increasingly finds herself running personal errands for her monstrous boss Jeannie. Jeannie seems to see no difference between working for the charity, and working for her. After a horrible breakup, Danielle finds herself unexpectedly homeless. With no savings, no bank of Mum and Dad, and no room left in her overdraft, she winds up staying alone in Jeannie’s ancestral home, a rambling pile in the middle of nowhere. “We could do with somebody to take care of the place,” Jeannie says, as Danielle bursts into uncharacteristic tears. “You’d be doing us a huge favour.” Continue reading...",
+    "id": "89dd3fdd40ba3fd5f0e5e2b2800fd764",
+    "title": "The Kiss by Katie Barclay review – on passion, power and puckering up",
+    "author": "Tiffany Watt Smith",
+    "description": "From Desiderius Erasmus to Luis Rubiales, a cultural history of this most intimate of gestures If, on a European holiday, you get flustered greeting people – should you kiss? how many times? – spare a thought for Dutch theologian Desiderius Erasmus. Visiting England in 1499, he found a nation of enthusiastic kissers. “Wherever you go, you are received on all hands with kisses; when you take leave you are dismissed with kisses,” he wrote in surprise, or possibly, alarm. On the continent, the fashion for greeting with a peck on the lips had long fallen by the wayside (probably because of sexual propriety), but the English held firm. It didn’t matter if the other person was of the opposite sex, everyone puckered up. Whether you like to snog, smooch, suck face or osculate (the scientific term), kissing seems so natural and instinctive, it’s hard to imagine it having a history at all. But just as kissing is not seen in all cultures , so, historian of emotions Katie Barclay writes, its meanings have changed across time too. From foot-kissing knights to baby-kissing politicians, to the “shut-up kiss” of Hollywood romcoms, this rich and fascinating history reminds us that kissing is, and...",
     "summary_ai": "",
     "categories": [
       "Books",
       "Culture",
-      "Fiction"
+      "History Books",
+      "Society",
+      "Society Books"
     ],
     "genre": [
-      "Horror"
+      "History"
     ],
     "language": "English",
     "publisher": "The Guardian",
     "published_date": "2026-07-08",
-    "thumbnail": "https://i.guim.co.uk/img/media/5efd9cb17b46c78b9463b9fc73bd9dd123a76cd0/58_774_3800_3040/master/3800.jpg?width=700&quality=85&auto=format&fit=max&s=4d405f5eb8003b182e6d71f8426e83dd",
-    "cover_large": "https://i.guim.co.uk/img/media/5efd9cb17b46c78b9463b9fc73bd9dd123a76cd0/58_774_3800_3040/master/3800.jpg?width=700&quality=85&auto=format&fit=max&s=4d405f5eb8003b182e6d71f8426e83dd",
-    "article_url": "https://www.theguardian.com/books/2026/jul/08/service-by-lauren-mooney-review-a-very-modern-ghost-story",
+    "thumbnail": "https://i.guim.co.uk/img/media/988a8b0d818eaa4ece81675a8c4ff83da7605c17/0_430_5906_4725/master/5906.jpg?width=700&quality=85&auto=format&fit=max&s=7bb907b4fed6fae8bf0a5a0e8c8c3cf2",
+    "cover_large": "https://i.guim.co.uk/img/media/988a8b0d818eaa4ece81675a8c4ff83da7605c17/0_430_5906_4725/master/5906.jpg?width=700&quality=85&auto=format&fit=max&s=7bb907b4fed6fae8bf0a5a0e8c8c3cf2",
+    "article_url": "https://www.theguardian.com/society/2015/jul/19/history-of-kissing-lips-love",
     "source": "The Guardian",
     "source_type": "rss",
     "tags": [
       "Books",
       "Culture",
-      "Fiction",
+      "History books",
+      "Society",
+      "Society books",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "1b8a09d692033807747013690893c841",
@@ -886,8 +953,8 @@
       "Technology books",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "95278e82f5d625779bec536c4ee030ea",
@@ -920,72 +987,8 @@
       "Essays",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
-  },
-  {
-    "id": "16fdcd994f4068c8e6412e0a7322b8be",
-    "title": "On the Mark by Florence Hazrat review",
-    "author": "Steven Poole",
-    "description": "This lavishly researched book shows that dots and dashes are an essential component of style, whether you’re a medieval monk or Donald Trump How do you feel about exclamation marks? Otherwise known as gaspers, screamers, dog’s cocks, or shrieks. In his Modern English Usage, Fowler said that using too many betrays an “uneducated or unpractised writer”. Martin Amis called them “joke badges”, and Theodor Adorno “soundless cymbal-crashing”. The novelist Elmore Leonard specified that you were allowed only two or three every 100,000 words. He was being generous. Florence Hazrat notes that the Nazis loved exclamation marks, with Goebbels pencilling in triplets of them into a speech for Hitler. The modern German linguist Konrad Ehlich is described here as believing that “slapping exclamation marks on to the end of statements turns all utterance into shouting, and all thinking into order”. At the same time she derides male scholars who have complained about previous editors inserting exclamation marks into the speech of Beowulf on the grounds that it feminises the hero. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Literary Criticism"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-03",
-    "thumbnail": "https://i.guim.co.uk/img/media/e4ef340c46cb87fee5ff4d93edd9eb7a72997b6d/467_0_3500_2800/master/3500.jpg?width=700&quality=85&auto=format&fit=max&s=0cbba1fe9435e2a45d0e8a803018aef2",
-    "cover_large": "https://i.guim.co.uk/img/media/e4ef340c46cb87fee5ff4d93edd9eb7a72997b6d/467_0_3500_2800/master/3500.jpg?width=700&quality=85&auto=format&fit=max&s=0cbba1fe9435e2a45d0e8a803018aef2",
-    "article_url": "https://www.theguardian.com/books/2026/jul/03/on-the-mark-by-florence-hazrat-review-a-fascinating-history-of-punctuation",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Literary criticism",
-      "books"
-    ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
-  },
-  {
-    "id": "825fab730c67e928cdf7dd05af324142",
-    "title": "Depraved by Daisy Dixon review",
-    "author": "Chloë Ashby",
-    "description": "From classical painting to video games, this survey of the taboo and the twisted won’t let you look away Museums are damned if they do, damned if they don’t. Ignore the problems of the past and they’re criticised for being problematic. Rewrite their labels according to changing politics and they’re called preachy and woke. The fact is, history is filled with immoral art. But how do we know it when we see it? And what, if anything, should we be doing about it? In her timely and punchy new book, the philosopher Daisy Dixon explores some of the most controversial artworks ever produced. She’s interested in how an artist’s character can influence their creations, and the harmful effects those creations can have on the world. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Art",
-      "Art And Design",
-      "Art And Design Books",
-      "Books",
-      "Culture"
-    ],
-    "genre": [
-      "History",
-      "Politics"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-01",
-    "thumbnail": "https://i.guim.co.uk/img/media/4ae9897dc2c666a751c50ce7ae24e60d05fef09f/0_308_6000_4801/master/6000.jpg?width=700&quality=85&auto=format&fit=max&s=8918b7281a24a4378023a1b679eb8932",
-    "cover_large": "https://i.guim.co.uk/img/media/4ae9897dc2c666a751c50ce7ae24e60d05fef09f/0_308_6000_4801/master/6000.jpg?width=700&quality=85&auto=format&fit=max&s=8918b7281a24a4378023a1b679eb8932",
-    "article_url": "https://www.theguardian.com/books/2026/jul/01/depraved-by-daisy-dixon-review-a-history-of-dark-and-dangerous-art",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Art",
-      "Art and design",
-      "Art and design books",
-      "Culture",
-      "books"
-    ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "4c67af7b443e59255ae5e43165443d79",
@@ -1017,8 +1020,8 @@
       "Tessa Hadley",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "0de47d5039ae63ef8405d47c6646d284",
@@ -1054,8 +1057,8 @@
       "Paperbacks",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -1085,8 +1088,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1125,7 +1128,7 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-07-13T09:24:35+00:00",
-    "updated_at": "2026-07-13T09:24:35Z"
+    "created_at": "2026-07-13T19:18:24+00:00",
+    "updated_at": "2026-07-13T19:18:24Z"
   }
 ]
