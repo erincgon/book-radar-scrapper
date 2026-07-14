@@ -20,8 +20,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "44562d4db34ed2528ca53d1f703c5d1c",
@@ -56,8 +56,8 @@
       "literary prizes",
       "reviews"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "c0401e0ba484434e5cc47339c11b377e",
@@ -92,8 +92,8 @@
       "The Morgan Library and Museum",
       "reviews"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "433aa428e23bac9a6c322249c9f3e4fc",
@@ -136,8 +136,8 @@
       "cell phone novels",
       "reviews"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "f1867812d7ded63dc66db5a7c172903c",
@@ -162,8 +162,8 @@
       "Lit Hub Daily",
       "reviews"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "f0f7c70823b3d2b7129ae4a0564e83d3",
@@ -206,8 +206,8 @@
       "women writers",
       "writing"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "31de7c6f6ec863b1a1869db8812a8a61",
@@ -250,8 +250,8 @@
       "reviews",
       "Élisabeth"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "2d7c362294f34a71b1067d81bcf7bb5b",
@@ -290,8 +290,8 @@
       "reviews",
       "short stories"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "dce4899ff84dc20c7ffc9a08bf287d56",
@@ -342,8 +342,8 @@
       "letter writing",
       "reviews"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "53a5e9d97d993e30fd899396c5f2c982",
@@ -386,8 +386,8 @@
       "the writing life",
       "writing routines"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "1ea1a236f189f54c65a974526dd55a83",
@@ -444,8 +444,34 @@
       "reviews",
       "sobriety"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
+  },
+  {
+    "id": "5a3858b50f7fa3c43eb131907a1fe32c",
+    "title": "What Goes Into Tracking Censorship, With an Update From the New York Public Library Comms Team",
+    "author": "Kelly Jensen",
+    "description": "Immense work goes into reporting on and tracking censorship, so when we're asked to pull that work, we take it seriously.",
+    "summary_ai": "",
+    "categories": [
+      "Literary Activism",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-13",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/12_Book_Censorship_Posts_to_Rev&",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/12_Book_Censorship_Posts_to_Rev&",
+    "article_url": "https://bookriot.com/what-goes-into-tracking-censorship/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Literary Activism",
+      "reviews"
+    ],
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "02a934e9bcee3b82889a8a6a284c68e6",
@@ -470,8 +496,8 @@
       "Book Deals",
       "reviews"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "65ff83139609f614bbed6e326ae639aa",
@@ -496,8 +522,8 @@
       "In Reading Color",
       "reviews"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "d7af0603603fd98928cb84cf9b43ebcc",
@@ -522,37 +548,7 @@
       "Read Harder",
       "reviews"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
-  },
-  {
-    "id": "93beab2148cedac827e976af80f3e607",
-    "title": "9 of the Most Adorable Animal Comics for Adult Readers",
-    "author": "Yashvi Peeti",
-    "description": "From therapy insights from emotional support animals to a red panda breaking into death metal, these animal comics for adult readers tell stories that help us understand ourselves.",
-    "summary_ai": "",
-    "categories": [
-      "Comics/Graphic Novels",
-      "Reviews",
-      "Sponsored",
-      "The Stack"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-13",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2024/10/Poorly-Drawn-Lines-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2024/10/Poorly-Drawn-Lines-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/animal-comics-for-adult-readers/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Comics/Graphic Novels",
-      "Sponsored",
-      "The Stack",
-      "reviews"
-    ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   }
 ]

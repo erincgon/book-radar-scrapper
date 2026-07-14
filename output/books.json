@@ -1,5 +1,38 @@
 [
   {
+    "id": "eae92f47f871dc859aa38179698c0e91",
+    "title": "The Art of Opposition by Courttia Newland review",
+    "author": "Diana Evans",
+    "description": "The novelist issues a inspiring call for artists to exercise their autonomy in a world of gatekeepers In 1988, the late Ghanaian writer and filmmaker Kwesi Owusu edited Storms of the Heart: An Anthology of Black Arts & Culture, a collection of writings and images by Black artists in Britain, including Ben Okri on Shakespeare, Shobana Jeyasingh on Indian dance theatre, Jacob Ross on decolonising language, an interview with Ntozake Shange, and early pieces from the artist Sonia Boyce. Its intention was to document the advances made in Black diasporic arts in postwar Britain, to give voice to the creative and political concerns of practitioners, and importantly, to push back against the routine ghettoisation and marginalisation of their work. As a young writer aware of such realities, it was a huge inspiration for me. Courttia Newland’s essay collection The Art of Opposition is entirely his own work, but it has a similar impact, mainly because of its provision of a space for Black or “othered” creatives to feel supported and understood in their endeavours, and as a counter to the pressures of the mainstream. Newland, a novelist, screenwriter and playwright, is no stranger to these...",
+    "summary_ai": "",
+    "categories": [
+      "Black British Culture",
+      "Books",
+      "Culture",
+      "Essays"
+    ],
+    "genre": [
+      "Essays"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-14",
+    "thumbnail": "https://i.guim.co.uk/img/media/a5122483cb16d78954d8f886ccb8987e4cb27411/0_390_2271_1816/master/2271.jpg?width=700&quality=85&auto=format&fit=max&s=7b8cf505aa5234d2d3fae139a5a4ed89",
+    "cover_large": "https://i.guim.co.uk/img/media/a5122483cb16d78954d8f886ccb8987e4cb27411/0_390_2271_1816/master/2271.jpg?width=700&quality=85&auto=format&fit=max&s=7b8cf505aa5234d2d3fae139a5a4ed89",
+    "article_url": "https://www.theguardian.com/books/2026/jul/14/the-art-of-opposition-by-courttia-newland-review-piercing-essays-on-culture-and-creativity",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Black British culture",
+      "Books",
+      "Culture",
+      "Essays",
+      "books"
+    ],
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
+  },
+  {
     "id": "6fdb1c615e8293886d0049a8bd4d7898",
     "title": "Shahrnush Parsipur, Iranian Writer Imprisoned for Her Novels, Dies at 80",
     "author": "Clay Risen",
@@ -38,8 +71,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "6165c6f41d79cb7946bf264371f69ff5",
@@ -70,8 +103,8 @@
       "Nunez, Sigrid",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "00bbb5fd0eed22dcb2e32da6ab3a30ba",
@@ -106,8 +139,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "a573ebb5f5a9fb1749e12c938cc2d00f",
@@ -119,11 +152,11 @@
       "Aging Out: An Exploration Of Caregiving, Community, And How Americans Grow Old (Book)",
       "Books",
       "Books And Literature",
-      "Content Type: Personal Profile",
       "Elder Care",
       "Elderly",
       "Gray Panthers",
-      "Schiller, Lucy"
+      "Schiller, Lucy (Author)",
+      "United States"
     ],
     "genre": [],
     "language": "English",
@@ -135,17 +168,17 @@
     "source": "The New York Times",
     "source_type": "rss",
     "tags": [
-      "AGING OUT: An Exploration of Caregiving, Community, and How Americans Grow Old (Book)",
+      "Aging Out: An Exploration of Caregiving, Community, and How Americans Grow Old (Book)",
       "Books and Literature",
-      "Content Type: Personal Profile",
       "Elder Care",
       "Elderly",
       "Gray Panthers",
-      "Schiller, Lucy",
+      "Schiller, Lucy (Author)",
+      "United States",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "3a563bfbf469937c2cc5bd2ad0d60235",
@@ -182,8 +215,8 @@
       "Smaltz, Audrey",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "f133dca0e9cd64d0b8e3304ebca29dbb",
@@ -216,8 +249,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "3e79c9fc9ac7fe6176b02d0184a596f7",
@@ -253,8 +286,8 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "923f94486c45ee6e0034f0427a6a5a30",
@@ -288,8 +321,8 @@
       "Romance books",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "2e88a2a1af2843d09a28d01d771320e6",
@@ -321,8 +354,8 @@
       "Society",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "b0fa6203a1a5751eec556075f39f7117",
@@ -348,8 +381,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "3592e8f5456efeeecfa56b907d0272ba",
@@ -378,8 +411,8 @@
       "Ong, Han",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "0b9377d2c716cc7e55d918d73474f920",
@@ -411,8 +444,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "5f9a5e092a7212ec1233df7bc7168731",
@@ -457,8 +490,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "a8fbe96383a7566d11a79503616d8212",
@@ -495,8 +528,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "477b7be0b7cc5f43e29caeda6512569b",
@@ -531,8 +564,8 @@
       "books",
       "internal-open-access-audio"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "8a3aeaec130d948f1fd0be45fb742a76",
@@ -581,8 +614,8 @@
       "Thomasson, Anna",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "e1389992604279d9cf3b35e95079e297",
@@ -671,41 +704,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
-  },
-  {
-    "id": "e5405ea90125b1c1597491f853373f63",
-    "title": "Jenni Fagan: ‘Maya Angelou taught me that I owed myself hope’",
-    "author": "Guardian Staff",
-    "description": "The Scottish author on loving The Hobbit, fairytales, Frankenstein and the shock of A Clockwork Orange My earliest reading memory Fairytales. I was obsessed. I took fairytales very seriously as moral lessons. I soon knew that I’d always help any old lady cross the road, it really is always best to do so. My favourite book growing up The Hobbit was my favourite book while growing up. It expanded my understanding of what could be achieved in fiction. I found JRR Tolkien’s world transformative. I felt as if I knew the hobbits, and I so wanted to see the elves. I could hear the crack of fireworks as they turned into dragons that flew overhead. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "Jenni Fagan"
-    ],
-    "genre": [
-      "Fiction"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-10",
-    "thumbnail": "https://i.guim.co.uk/img/media/1fab385d1f7e6e1bafb54b66d883d1e1da208a9d/0_3000_5504_4403/master/5504.jpg?width=700&quality=85&auto=format&fit=max&s=05c35a11ab657bd926fe4ef23d204599",
-    "cover_large": "https://i.guim.co.uk/img/media/1fab385d1f7e6e1bafb54b66d883d1e1da208a9d/0_3000_5504_4403/master/5504.jpg?width=700&quality=85&auto=format&fit=max&s=05c35a11ab657bd926fe4ef23d204599",
-    "article_url": "https://www.theguardian.com/books/2026/jul/10/jenni-fagan-maya-angelou-taught-me-that-i-owed-myself-hope",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "Jenni Fagan",
-      "books"
-    ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "6c6fad4aaca3daa9f02c25a369c09158",
@@ -737,8 +737,8 @@
       "Transgender",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "30f5368e1fa3fbac7dda9c0c7014e919",
@@ -779,8 +779,8 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "a37c8c310daccda2f23a0eeb2ca9ed30",
@@ -813,8 +813,8 @@
       "Real Estate and Housing (Residential)",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "cdc8c7c58553083aa3bbc7bf1d633c19",
@@ -851,8 +851,8 @@
       "books",
       "genre-books-graphic-novels-comic-books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "779a32d57f7dc53a2506bd290f8f8298",
@@ -883,8 +883,8 @@
       "Odyssey (Book)",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "89dd3fdd40ba3fd5f0e5e2b2800fd764",
@@ -918,8 +918,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "1b8a09d692033807747013690893c841",
@@ -953,8 +953,8 @@
       "Technology books",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "95278e82f5d625779bec536c4ee030ea",
@@ -987,8 +987,8 @@
       "Essays",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "4c67af7b443e59255ae5e43165443d79",
@@ -1020,8 +1020,8 @@
       "Tessa Hadley",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "0de47d5039ae63ef8405d47c6646d284",
@@ -1057,8 +1057,8 @@
       "Paperbacks",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -1088,8 +1088,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1128,7 +1128,7 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   }
 ]

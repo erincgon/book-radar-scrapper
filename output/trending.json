@@ -1,5 +1,38 @@
 [
   {
+    "id": "eae92f47f871dc859aa38179698c0e91",
+    "title": "The Art of Opposition by Courttia Newland review",
+    "author": "Diana Evans",
+    "description": "The novelist issues a inspiring call for artists to exercise their autonomy in a world of gatekeepers In 1988, the late Ghanaian writer and filmmaker Kwesi Owusu edited Storms of the Heart: An Anthology of Black Arts & Culture, a collection of writings and images by Black artists in Britain, including Ben Okri on Shakespeare, Shobana Jeyasingh on Indian dance theatre, Jacob Ross on decolonising language, an interview with Ntozake Shange, and early pieces from the artist Sonia Boyce. Its intention was to document the advances made in Black diasporic arts in postwar Britain, to give voice to the creative and political concerns of practitioners, and importantly, to push back against the routine ghettoisation and marginalisation of their work. As a young writer aware of such realities, it was a huge inspiration for me. Courttia Newland’s essay collection The Art of Opposition is entirely his own work, but it has a similar impact, mainly because of its provision of a space for Black or “othered” creatives to feel supported and understood in their endeavours, and as a counter to the pressures of the mainstream. Newland, a novelist, screenwriter and playwright, is no stranger to these...",
+    "summary_ai": "",
+    "categories": [
+      "Black British Culture",
+      "Books",
+      "Culture",
+      "Essays"
+    ],
+    "genre": [
+      "Essays"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-14",
+    "thumbnail": "https://i.guim.co.uk/img/media/a5122483cb16d78954d8f886ccb8987e4cb27411/0_390_2271_1816/master/2271.jpg?width=700&quality=85&auto=format&fit=max&s=7b8cf505aa5234d2d3fae139a5a4ed89",
+    "cover_large": "https://i.guim.co.uk/img/media/a5122483cb16d78954d8f886ccb8987e4cb27411/0_390_2271_1816/master/2271.jpg?width=700&quality=85&auto=format&fit=max&s=7b8cf505aa5234d2d3fae139a5a4ed89",
+    "article_url": "https://www.theguardian.com/books/2026/jul/14/the-art-of-opposition-by-courttia-newland-review-piercing-essays-on-culture-and-creativity",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Black British culture",
+      "Books",
+      "Culture",
+      "Essays",
+      "books"
+    ],
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
+  },
+  {
     "id": "6fdb1c615e8293886d0049a8bd4d7898",
     "title": "Shahrnush Parsipur, Iranian Writer Imprisoned for Her Novels, Dies at 80",
     "author": "Clay Risen",
@@ -38,8 +71,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "6165c6f41d79cb7946bf264371f69ff5",
@@ -70,8 +103,8 @@
       "Nunez, Sigrid",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "00bbb5fd0eed22dcb2e32da6ab3a30ba",
@@ -106,8 +139,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "a573ebb5f5a9fb1749e12c938cc2d00f",
@@ -119,11 +152,11 @@
       "Aging Out: An Exploration Of Caregiving, Community, And How Americans Grow Old (Book)",
       "Books",
       "Books And Literature",
-      "Content Type: Personal Profile",
       "Elder Care",
       "Elderly",
       "Gray Panthers",
-      "Schiller, Lucy"
+      "Schiller, Lucy (Author)",
+      "United States"
     ],
     "genre": [],
     "language": "English",
@@ -135,17 +168,17 @@
     "source": "The New York Times",
     "source_type": "rss",
     "tags": [
-      "AGING OUT: An Exploration of Caregiving, Community, and How Americans Grow Old (Book)",
+      "Aging Out: An Exploration of Caregiving, Community, and How Americans Grow Old (Book)",
       "Books and Literature",
-      "Content Type: Personal Profile",
       "Elder Care",
       "Elderly",
       "Gray Panthers",
-      "Schiller, Lucy",
+      "Schiller, Lucy (Author)",
+      "United States",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "3a563bfbf469937c2cc5bd2ad0d60235",
@@ -182,8 +215,8 @@
       "Smaltz, Audrey",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "f133dca0e9cd64d0b8e3304ebca29dbb",
@@ -216,8 +249,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "3e79c9fc9ac7fe6176b02d0184a596f7",
@@ -253,8 +286,38 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
+  },
+  {
+    "id": "93beab2148cedac827e976af80f3e607",
+    "title": "9 of the Most Adorable Animal Comics for Adult Readers",
+    "author": "Yashvi Peeti",
+    "description": "From therapy insights from emotional support animals to a red panda breaking into death metal, these animal comics for adult readers tell stories that help us understand ourselves.",
+    "summary_ai": "",
+    "categories": [
+      "Comics/Graphic Novels",
+      "Reviews",
+      "Sponsored",
+      "The Stack"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-13",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2024/10/Poorly-Drawn-Lines-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2024/10/Poorly-Drawn-Lines-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/animal-comics-for-adult-readers/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Comics/Graphic Novels",
+      "Sponsored",
+      "The Stack",
+      "reviews"
+    ],
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "cdf1cff06be902a4cdbbfcc792ff8277",
@@ -287,8 +350,8 @@
       "historical romance",
       "reviews"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "c6ee0333a3445605fc82f491717b6a6b",
@@ -325,8 +388,8 @@
       "activism",
       "reviews"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "dd485aefb210d26c714bca96cbe2537d",
@@ -357,8 +420,8 @@
       "Unusual Suspects",
       "reviews"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "b4cf67fa75894f00000613cbedd6c0b3",
@@ -386,8 +449,8 @@
       "News",
       "reviews"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "923f94486c45ee6e0034f0427a6a5a30",
@@ -421,8 +484,8 @@
       "Romance books",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "2e88a2a1af2843d09a28d01d771320e6",
@@ -454,8 +517,8 @@
       "Society",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "b0fa6203a1a5751eec556075f39f7117",
@@ -481,8 +544,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "3592e8f5456efeeecfa56b907d0272ba",
@@ -511,8 +574,8 @@
       "Ong, Han",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "0b9377d2c716cc7e55d918d73474f920",
@@ -544,8 +607,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "5f9a5e092a7212ec1233df7bc7168731",
@@ -590,8 +653,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   },
   {
     "id": "a8fbe96383a7566d11a79503616d8212",
@@ -628,93 +691,7 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
-  },
-  {
-    "id": "477b7be0b7cc5f43e29caeda6512569b",
-    "title": "This Author Says You Shouldn’t Be Intimidated by ‘The Odyssey’",
-    "author": "Gilbert Cruz, Sarah Diamond, Amy Pearl, Patricia Sulbarán and Tracy Mumford",
-    "description": "First, a primer from the author of “Circe,” Madeline Miller. Then, A.O. Scott on all the genres inside the 3,000-year-old poem.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Greek Civilization",
-      "Homer",
-      "Internal-Open-Access-Audio",
-      "Miller, Madeline (1978- )",
-      "The Odyssey (2026) (Movie)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-10",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/10/podcasts/10tbr-odyssey/10tbr-odyssey-mediumSquareAt3X-v2.png",
-    "cover_large": "https://static01.nyt.com/images/2026/07/10/podcasts/10tbr-odyssey/10tbr-odyssey-mediumSquareAt3X-v2.png",
-    "article_url": "https://www.nytimes.com/2026/07/10/podcasts/madeline-miller-odyssey.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Greek Civilization",
-      "Homer",
-      "Miller, Madeline (1978- )",
-      "The Odyssey (2026) (Movie)",
-      "books",
-      "internal-open-access-audio"
-    ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
-  },
-  {
-    "id": "8a3aeaec130d948f1fd0be45fb742a76",
-    "title": "Book Review: ‘A Vast Horizon,’ by Anna Thomasson",
-    "author": "Emily Eakin",
-    "description": "A group of artists gathered at a hotel on the Côte d’Azur in 1937. A new book by Anna Thomasson captures the art and escapades the holiday inspired.",
-    "summary_ai": "",
-    "categories": [
-      "A Vast Horizon: Artists And Lovers, Freedom And War (Book)",
-      "Agar, Eileen (1899-1991)",
-      "Art",
-      "Books",
-      "Books And Literature",
-      "Eluard, Nusch (1906-46)",
-      "Eluard, Paul",
-      "Fidelin, Ady (1915-2004)",
-      "Maar, Dora",
-      "Miller, Lee (1907-77)",
-      "Penrose, Roland",
-      "Picasso, Pablo",
-      "Ray, Man",
-      "Thomasson, Anna"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-10",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/09/books/09TBR-Thomasson-review/09TBR-Thomasson-review-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/09/books/09TBR-Thomasson-review/09TBR-Thomasson-review-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/10/books/review/a-vast-horizon-anna-thomasson.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "A Vast Horizon: Artists and Lovers, Freedom and War (Book)",
-      "Agar, Eileen (1899-1991)",
-      "Art",
-      "Books and Literature",
-      "Eluard, Nusch (1906-46)",
-      "Eluard, Paul",
-      "Fidelin, Ady (1915-2004)",
-      "Maar, Dora",
-      "Miller, Lee (1907-77)",
-      "Penrose, Roland",
-      "Picasso, Pablo",
-      "Ray, Man",
-      "Thomasson, Anna",
-      "books"
-    ],
-    "created_at": "2026-07-13T19:18:24+00:00",
-    "updated_at": "2026-07-13T19:18:24Z"
+    "created_at": "2026-07-14T08:02:45+00:00",
+    "updated_at": "2026-07-14T08:02:45Z"
   }
 ]
