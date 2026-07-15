@@ -1,5 +1,36 @@
 [
   {
+    "id": "2c9b6413ed2f6827517e3d6b50431a39",
+    "title": "The First House by Avni Doshi review",
+    "author": "Daisy Hildyard",
+    "description": "In the follow-up to the Booker-shortlisted Burnt Sugar, a woman seeks liberation from her controlling relationships Avni Doshi’s second novel is narrated by an unnamed woman in the suburban US who is shocked to hear her husband announce that he is leaving her. She isn’t in love with him, exactly, but she sees their marriage as a structure or “container” for her existence. Formerly a novelist, her writing has stalled since having children. Her husband controls their finances, and won’t tell her why the credit card keeps failing. She suspects he’s been sleeping around. In the aftermath of his departure she tries to isolate herself, not only from her ex, but also from her own family, whose well-meaning interference becomes another kind of domination. She’s a practising astrologist – the “first house” of the title refers both to the couple’s home and to the astrological division of the heavens that has a bearing on the body, physical appearance and early life experience: foundations for a self. This self is exposed by abandonment. The First House, as a whole, is the story of its excoriation: a harsh, occasionally bitterly funny rejection of the narrator’s personhood and relationships...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-15",
+    "thumbnail": "https://i.guim.co.uk/img/media/3f6616877e49b1e185efb0d8f8fc8a34328997de/210_505_816_653/master/816.jpg?width=700&quality=85&auto=format&fit=max&s=e73c175c3e7a613d86625c329438a916",
+    "cover_large": "https://i.guim.co.uk/img/media/3f6616877e49b1e185efb0d8f8fc8a34328997de/210_505_816_653/master/816.jpg?width=700&quality=85&auto=format&fit=max&s=e73c175c3e7a613d86625c329438a916",
+    "article_url": "https://www.theguardian.com/books/2026/jul/15/the-first-house-by-avni-doshi-review-an-intense-portrait-of-marriage-and-freedom",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "books"
+    ],
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
+  },
+  {
     "id": "0ef81a91225f56c39b12ab439d4532f2",
     "title": "Book Review: ‘Cloudthief,’ by Nathaniel Rich",
     "author": "Peter C. Baker",
@@ -28,8 +59,8 @@
       "Rich, Nathaniel (1980- )",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "3dc6d9ff2ebeee94d0c6dc87e3a4e7d1",
@@ -62,8 +93,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "392aa1e9213352fe5cb8142fc1e7a588",
@@ -106,8 +137,8 @@
       "The Gospel According to Hobby Lobby: Inside a Billionaire Family's Quest to Craft a Christian Nation (Book)",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "00bbb5fd0eed22dcb2e32da6ab3a30ba",
@@ -122,6 +153,7 @@
       "De La Rosa, Liana",
       "Genre-Books-Romance",
       "Hibbert, Talia",
+      "Internal-Open-Access-From-Nl",
       "Lauren, Christina (Author)",
       "Rai, Alisha (Author)"
     ],
@@ -142,10 +174,11 @@
       "Lauren, Christina (Author)",
       "Rai, Alisha (Author)",
       "books",
-      "genre-books-romance"
+      "genre-books-romance",
+      "internal-open-access-from-nl"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "eae92f47f871dc859aa38179698c0e91",
@@ -177,8 +210,8 @@
       "Essays",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "4e003c4e5a06c6e96a92fed9cf468121",
@@ -216,8 +249,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "65438d4bdd68939d05070e2f962c38d6",
@@ -247,8 +280,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "f9a7bf6114d01a1ef2ce9a60b67a0300",
@@ -275,8 +308,8 @@
       "Lists",
       "reviews"
     ],
-    "created_at": "2026-07-14T19:11:55+00:00",
-    "updated_at": "2026-07-14T19:11:55Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "ccc26bf3eb4410e4df2d5433bd4f5341",
@@ -311,8 +344,8 @@
       "reviews",
       "summer romances"
     ],
-    "created_at": "2026-07-14T19:11:55+00:00",
-    "updated_at": "2026-07-14T19:11:55Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "9a5ad4755e32408cbcb47362b6918f4b",
@@ -337,8 +370,8 @@
       "Book Riot Newsletter",
       "reviews"
     ],
-    "created_at": "2026-07-14T19:11:55+00:00",
-    "updated_at": "2026-07-14T19:11:55Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "ec91d24ee254528b9f3e617b5538d3d6",
@@ -363,8 +396,8 @@
       "New Books",
       "reviews"
     ],
-    "created_at": "2026-07-14T19:11:55+00:00",
-    "updated_at": "2026-07-14T19:11:55Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "a56e0ad0de0015427d57592c44ae647f",
@@ -391,8 +424,8 @@
       "Libraries",
       "reviews"
     ],
-    "created_at": "2026-07-14T19:11:55+00:00",
-    "updated_at": "2026-07-14T19:11:55Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "76730c2e74ed1306cf932ba39bf0df86",
@@ -417,8 +450,8 @@
       "Zero to Well-Read",
       "reviews"
     ],
-    "created_at": "2026-07-14T19:11:55+00:00",
-    "updated_at": "2026-07-14T19:11:55Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "6fdb1c615e8293886d0049a8bd4d7898",
@@ -459,8 +492,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "6165c6f41d79cb7946bf264371f69ff5",
@@ -491,8 +524,8 @@
       "Nunez, Sigrid",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "a573ebb5f5a9fb1749e12c938cc2d00f",
@@ -529,8 +562,8 @@
       "United States",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "3a563bfbf469937c2cc5bd2ad0d60235",
@@ -567,8 +600,8 @@
       "Smaltz, Audrey",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "f133dca0e9cd64d0b8e3304ebca29dbb",
@@ -601,8 +634,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "3e79c9fc9ac7fe6176b02d0184a596f7",
@@ -638,31 +671,7 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
-  },
-  {
-    "id": "7c8c8ac39a65ecf835a0d4919f71c25f",
-    "title": "Music influencers are getting paid to promote songs",
-    "author": "Isabella Gomez Sarmiento",
-    "description": "Social media can make a song go viral — even push it up the pop charts — seemingly overnight. Perhaps it's not surprising that some influencers are being paid to promote music without disclosing it.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "NPR Books",
-    "published_date": "2026-07-13",
-    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6e%2Fee%2F7c0f703f44d3bbcac676d1be6568%2Fmusicinfluencers1.jpg",
-    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6e%2Fee%2F7c0f703f44d3bbcac676d1be6568%2Fmusicinfluencers1.jpg",
-    "article_url": "https://www.npr.org/2026/07/13/nx-s1-5849926/influencers-paid-music-promotion",
-    "source": "NPR Books",
-    "source_type": "rss",
-    "tags": [
-      "reviews"
-    ],
-    "created_at": "2026-07-14T19:11:55+00:00",
-    "updated_at": "2026-07-14T19:11:55Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   }
 ]

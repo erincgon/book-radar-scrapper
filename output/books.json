@@ -1,5 +1,36 @@
 [
   {
+    "id": "2c9b6413ed2f6827517e3d6b50431a39",
+    "title": "The First House by Avni Doshi review",
+    "author": "Daisy Hildyard",
+    "description": "In the follow-up to the Booker-shortlisted Burnt Sugar, a woman seeks liberation from her controlling relationships Avni Doshi’s second novel is narrated by an unnamed woman in the suburban US who is shocked to hear her husband announce that he is leaving her. She isn’t in love with him, exactly, but she sees their marriage as a structure or “container” for her existence. Formerly a novelist, her writing has stalled since having children. Her husband controls their finances, and won’t tell her why the credit card keeps failing. She suspects he’s been sleeping around. In the aftermath of his departure she tries to isolate herself, not only from her ex, but also from her own family, whose well-meaning interference becomes another kind of domination. She’s a practising astrologist – the “first house” of the title refers both to the couple’s home and to the astrological division of the heavens that has a bearing on the body, physical appearance and early life experience: foundations for a self. This self is exposed by abandonment. The First House, as a whole, is the story of its excoriation: a harsh, occasionally bitterly funny rejection of the narrator’s personhood and relationships...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-15",
+    "thumbnail": "https://i.guim.co.uk/img/media/3f6616877e49b1e185efb0d8f8fc8a34328997de/210_505_816_653/master/816.jpg?width=700&quality=85&auto=format&fit=max&s=e73c175c3e7a613d86625c329438a916",
+    "cover_large": "https://i.guim.co.uk/img/media/3f6616877e49b1e185efb0d8f8fc8a34328997de/210_505_816_653/master/816.jpg?width=700&quality=85&auto=format&fit=max&s=e73c175c3e7a613d86625c329438a916",
+    "article_url": "https://www.theguardian.com/books/2026/jul/15/the-first-house-by-avni-doshi-review-an-intense-portrait-of-marriage-and-freedom",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "books"
+    ],
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
+  },
+  {
     "id": "0ef81a91225f56c39b12ab439d4532f2",
     "title": "Book Review: ‘Cloudthief,’ by Nathaniel Rich",
     "author": "Peter C. Baker",
@@ -28,8 +59,8 @@
       "Rich, Nathaniel (1980- )",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "3dc6d9ff2ebeee94d0c6dc87e3a4e7d1",
@@ -62,8 +93,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "392aa1e9213352fe5cb8142fc1e7a588",
@@ -106,8 +137,8 @@
       "The Gospel According to Hobby Lobby: Inside a Billionaire Family's Quest to Craft a Christian Nation (Book)",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "00bbb5fd0eed22dcb2e32da6ab3a30ba",
@@ -122,6 +153,7 @@
       "De La Rosa, Liana",
       "Genre-Books-Romance",
       "Hibbert, Talia",
+      "Internal-Open-Access-From-Nl",
       "Lauren, Christina (Author)",
       "Rai, Alisha (Author)"
     ],
@@ -142,10 +174,11 @@
       "Lauren, Christina (Author)",
       "Rai, Alisha (Author)",
       "books",
-      "genre-books-romance"
+      "genre-books-romance",
+      "internal-open-access-from-nl"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "eae92f47f871dc859aa38179698c0e91",
@@ -177,8 +210,8 @@
       "Essays",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "4e003c4e5a06c6e96a92fed9cf468121",
@@ -216,8 +249,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "65438d4bdd68939d05070e2f962c38d6",
@@ -247,8 +280,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "6fdb1c615e8293886d0049a8bd4d7898",
@@ -289,8 +322,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "6165c6f41d79cb7946bf264371f69ff5",
@@ -321,8 +354,8 @@
       "Nunez, Sigrid",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "a573ebb5f5a9fb1749e12c938cc2d00f",
@@ -359,8 +392,8 @@
       "United States",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "3a563bfbf469937c2cc5bd2ad0d60235",
@@ -397,8 +430,8 @@
       "Smaltz, Audrey",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "f133dca0e9cd64d0b8e3304ebca29dbb",
@@ -431,8 +464,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "3e79c9fc9ac7fe6176b02d0184a596f7",
@@ -468,8 +501,8 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "923f94486c45ee6e0034f0427a6a5a30",
@@ -503,41 +536,8 @@
       "Romance books",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
-  },
-  {
-    "id": "2e88a2a1af2843d09a28d01d771320e6",
-    "title": "Why do free speech debates make us so angry?",
-    "author": "Matei Candea",
-    "description": "We try to pin down definitions and enforce rules – but often what we’re really arguing about is character In January 2015, two members of al-Qaida gunned down cartoonists at the satirical French magazine Charlie Hebdo in retaliation for their publication of cartoons of the prophet Muhammad. In the following weeks, my Facebook page split in two. Many of my childhood friends (I grew up in France and went to school near Paris) expressed their sadness at the death of artists they had been familiar with for decades, their anger over religious extremism and their fear about the waning of free speech. Meanwhile, many of my British and American academic colleagues, who were discovering Charlie Hebdo and its garishly offensive cartoons for the first time, worried about the stigmatisation of French Muslims and cast doubt on the wisdom of publishing the images in the first place; one reposted a link to a blog that described the murdered cartoonists as “racist assholes”. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Philosophy",
-      "Politics",
-      "Society"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-12",
-    "thumbnail": "https://i.guim.co.uk/img/media/06d49d551d659886040a1609199845cf37d736b8/0_494_1847_1477/master/1847.jpg?width=700&quality=85&auto=format&fit=max&s=3e9dc56f1b9a40017ad2bc0a09cd1a87",
-    "cover_large": "https://i.guim.co.uk/img/media/06d49d551d659886040a1609199845cf37d736b8/0_494_1847_1477/master/1847.jpg?width=700&quality=85&auto=format&fit=max&s=3e9dc56f1b9a40017ad2bc0a09cd1a87",
-    "article_url": "https://www.theguardian.com/world/2025/jan/06/charlie-hebdo-marks-10-years-after-terror-attack-with-special-issue",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Philosophy",
-      "Politics",
-      "Society",
-      "books"
-    ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "3592e8f5456efeeecfa56b907d0272ba",
@@ -566,8 +566,8 @@
       "Ong, Han",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "5f9a5e092a7212ec1233df7bc7168731",
@@ -593,8 +593,8 @@
     "language": "English",
     "publisher": "Norton",
     "published_date": "2026-07-10",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/10/multimedia/00TBR-Greenidge-3-jbtg/00TBR-Greenidge-3-jbtg-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/10/multimedia/00TBR-Greenidge-3-jbtg/00TBR-Greenidge-3-jbtg-mediumSquareAt3X.jpg",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/15/multimedia/00TBR-Greenidge-3-jbtg/00TBR-Greenidge-3-jbtg-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/15/multimedia/00TBR-Greenidge-3-jbtg/00TBR-Greenidge-3-jbtg-mediumSquareAt3X.jpg",
     "article_url": "https://www.nytimes.com/2026/07/10/books/kerri-greenidge-the-grimkes.html",
     "source": "The New York Times",
     "source_type": "rss",
@@ -612,8 +612,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "a8fbe96383a7566d11a79503616d8212",
@@ -650,8 +650,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "477b7be0b7cc5f43e29caeda6512569b",
@@ -686,8 +686,8 @@
       "books",
       "internal-open-access-audio"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "8a3aeaec130d948f1fd0be45fb742a76",
@@ -736,8 +736,8 @@
       "Thomasson, Anna",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "e1389992604279d9cf3b35e95079e297",
@@ -826,8 +826,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "6c6fad4aaca3daa9f02c25a369c09158",
@@ -859,8 +859,8 @@
       "Transgender",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "30f5368e1fa3fbac7dda9c0c7014e919",
@@ -901,8 +901,8 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "89dd3fdd40ba3fd5f0e5e2b2800fd764",
@@ -936,8 +936,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "1b8a09d692033807747013690893c841",
@@ -971,8 +971,8 @@
       "Technology books",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "95278e82f5d625779bec536c4ee030ea",
@@ -1005,8 +1005,8 @@
       "Essays",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "4c67af7b443e59255ae5e43165443d79",
@@ -1038,8 +1038,8 @@
       "Tessa Hadley",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "0de47d5039ae63ef8405d47c6646d284",
@@ -1075,8 +1075,8 @@
       "Paperbacks",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -1106,8 +1106,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1146,7 +1146,7 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-07-14T19:11:56+00:00",
-    "updated_at": "2026-07-14T19:11:56Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   }
 ]

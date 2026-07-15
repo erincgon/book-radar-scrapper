@@ -1,5 +1,113 @@
 [
   {
+    "id": "d38fe5ac5a557fb9b1ce5bf89060b34b",
+    "title": "Joyelle McSweeney on Euripides’s Iphigenia Among the Taurians, translated by Anne Carson",
+    "author": "Windham-Campbell Prizes Podcast",
+    "description": "The Windham-Campbell Prizes Podcast features a series of conversations with past and present Windham-Campbell Prize winners about their favorite books and plays. Hosted by Michael Kelleher. Mike Kelleher talks with Joyelle McSweeney, recipient of a 2026 Windham-Campbell Prize for Poetry,",
+    "summary_ai": "",
+    "categories": [
+      "Anne Carson",
+      "Craft And Advice",
+      "Craft And Criticism",
+      "Euripides",
+      "Features",
+      "Greek Drama",
+      "In Conversation",
+      "Iphigenia Among The Taurians",
+      "Joyelle Mcsweeney",
+      "Lit Hub Radio",
+      "Literary Criticism",
+      "Michael Kelleher",
+      "Plays",
+      "Podcasts",
+      "Reviews",
+      "Theater",
+      "Windham-Campbell Prizes",
+      "Windham-Campbell Prizes Podcast"
+    ],
+    "genre": [
+      "Poetry"
+    ],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-07-15",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/banner-WCP5-768x384.png",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/banner-WCP5-768x384.png",
+    "article_url": "https://lithub.com/joyelle-mcsweeney-on-euripidess-iphigenia-among-the-taurians-translated-by-anne-carson/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Anne Carson",
+      "Craft and Advice",
+      "Craft and Criticism",
+      "Euripides",
+      "Features",
+      "In Conversation",
+      "Iphigenia among the taurians",
+      "Joyelle McSweeney",
+      "Lit Hub Radio",
+      "Literary Criticism",
+      "Michael Kelleher",
+      "Windham-Campbell Prizes",
+      "Windham-Campbell Prizes Podcast",
+      "greek drama",
+      "plays",
+      "podcasts",
+      "reviews",
+      "theater"
+    ],
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
+  },
+  {
+    "id": "85ba0b5777d3430688b79407acae04c0",
+    "title": "Chana Joffe",
+    "author": "The Critic and Her Publics",
+    "description": "Welcome to Season Four of The Critic and Her Publics: The Art of the Interview. This season, host Merve Emre talks with professional interviewers of all kinds about how they get the answer they’re looking for, what makes a good",
+    "summary_ai": "",
+    "categories": [
+      "Chana Joffe-Walt",
+      "Craft And Advice",
+      "Craft And Criticism",
+      "Criticism",
+      "Critics",
+      "Features",
+      "In Conversation",
+      "Lit Hub Radio",
+      "Literary Criticism",
+      "Merve Emre",
+      "Podcasts",
+      "Reviews",
+      "The Critic And Her Publics"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-07-15",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2025/02/image-800x4006-1-768x384.png",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2025/02/image-800x4006-1-768x384.png",
+    "article_url": "https://lithub.com/chana-joffe-walt-on-the-best-tape-you-can-get/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Chana Joffe-Walt",
+      "Craft and Advice",
+      "Craft and Criticism",
+      "Features",
+      "In Conversation",
+      "Lit Hub Radio",
+      "Literary Criticism",
+      "Merve Emre",
+      "The Critic and Her Publics",
+      "criticism",
+      "critics",
+      "podcasts",
+      "reviews"
+    ],
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
+  },
+  {
     "id": "5c2f3537cb68f97764865984ae57cc1e",
     "title": "Some international artists are skipping U.S. tours. Others may follow suit",
     "author": "Josie Fischels",
@@ -20,8 +128,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-07-14T19:11:55+00:00",
-    "updated_at": "2026-07-14T19:11:55Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "73dcda95af370a264d328f3a5d1b1030",
@@ -88,8 +196,8 @@
       "odyssey",
       "reviews"
     ],
-    "created_at": "2026-07-14T19:11:55+00:00",
-    "updated_at": "2026-07-14T19:11:55Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "6b789068f49cf53792d98f896d4e5e92",
@@ -146,8 +254,8 @@
       "free speech",
       "reviews"
     ],
-    "created_at": "2026-07-14T19:11:55+00:00",
-    "updated_at": "2026-07-14T19:11:55Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "6087949aff85557470ca70ddb9e19317",
@@ -172,8 +280,8 @@
       "Lit Hub Daily",
       "reviews"
     ],
-    "created_at": "2026-07-14T19:11:55+00:00",
-    "updated_at": "2026-07-14T19:11:55Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "486b82cabac9d7021b62bbf6fa6dd384",
@@ -210,8 +318,8 @@
       "Novels",
       "reviews"
     ],
-    "created_at": "2026-07-14T19:11:55+00:00",
-    "updated_at": "2026-07-14T19:11:55Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "9bc428e4915d37d4d9dec3c0348273ad",
@@ -335,8 +443,8 @@
       "reviews",
       "trans. by Daniel Bowles"
     ],
-    "created_at": "2026-07-14T19:11:55+00:00",
-    "updated_at": "2026-07-14T19:11:55Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "6757dbdf048eb62bc0e64763b53c52c2",
@@ -381,8 +489,8 @@
       "profiles",
       "reviews"
     ],
-    "created_at": "2026-07-14T19:11:55+00:00",
-    "updated_at": "2026-07-14T19:11:55Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "9336d59a7de9ca5c14c815dd333cf1bc",
@@ -439,8 +547,8 @@
       "reviews",
       "war"
     ],
-    "created_at": "2026-07-14T19:11:55+00:00",
-    "updated_at": "2026-07-14T19:11:55Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "b77f4b0d442fe013225aca6de07386d4",
@@ -483,128 +591,8 @@
       "Teddy Wayne",
       "reviews"
     ],
-    "created_at": "2026-07-14T19:11:55+00:00",
-    "updated_at": "2026-07-14T19:11:55Z"
-  },
-  {
-    "id": "9efd45b503c3567a620cc2d0c5232e4a",
-    "title": "On Trying",
-    "author": "Elizabeth H. Winthrop",
-    "description": "The boy is about five or six years old. He sits with his back against a giant red water tank, one hand on the spigot, the other on the post of the rusted metal platform that holds the tank up",
-    "summary_ai": "",
-    "categories": [
-      "Conviction",
-      "Craft Advice",
-      "Craft And Advice",
-      "Craft And Criticism",
-      "Elizabeth H. Winthrop",
-      "Features",
-      "Fiction Writing",
-      "Grove Atlantic",
-      "Grove Press",
-      "History",
-      "Isis",
-      "Novel Writing",
-      "Politics",
-      "Refugees",
-      "Reviews",
-      "Syria"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Grove Press",
-    "published_date": "2026-07-14",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/al-hol-detention-camp-768x402.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/al-hol-detention-camp-768x402.jpg",
-    "article_url": "https://lithub.com/on-trying-and-failing-to-write-the-lives-of-children-in-a-syrian-detention-camp/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Conviction",
-      "Craft Advice",
-      "Craft and Advice",
-      "Craft and Criticism",
-      "Elizabeth H. Winthrop",
-      "Features",
-      "Grove Atlantic",
-      "Grove Press",
-      "History",
-      "ISIS",
-      "Politics",
-      "Syria",
-      "fiction writing",
-      "novel writing",
-      "refugees",
-      "reviews"
-    ],
-    "created_at": "2026-07-14T19:11:55+00:00",
-    "updated_at": "2026-07-14T19:11:55Z"
-  },
-  {
-    "id": "4c4785984e08e8f191f9078cfcfe5357",
-    "title": "Sad Love Stories Are the Best Stories: A Reading List in Praise of Messy Love",
-    "author": "Alicia Upano",
-    "description": "Despite the prevalence of happy romantic heroes, I’m most intrigued by the ambiguous love story. My favorite titles reveal that the land of love can be treacherous terrain—migration, murder, parental illness, a stranger impregnated. Occasionally, even, the lover dies—shot in",
-    "summary_ai": "",
-    "categories": [
-      "Alicia Upano",
-      "Ann Napolitano",
-      "Craft And Advice",
-      "Craft And Criticism",
-      "Crystal Hana Kim",
-      "Daniel Alarcon",
-      "Dear Edward",
-      "Everything To The Sea",
-      "Exit West",
-      "Features",
-      "Gabriel Garcia Marquez",
-      "Home Fire",
-      "If You Leave Me",
-      "Kamila Shamsie",
-      "Lost City Radio",
-      "Louise Kennedy",
-      "Love In The Time Of Cholera",
-      "Mohsin Hamid",
-      "News And Culture",
-      "Reading Lists",
-      "Reviews",
-      "Trespasses"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-07-14",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/right-sidebar-banner-images-96-768x432.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/right-sidebar-banner-images-96-768x432.png",
-    "article_url": "https://lithub.com/sad-love-stories-are-the-best-stories-a-reading-list-in-praise-of-messy-love/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Alicia Upano",
-      "Ann Napolitano",
-      "Craft and Advice",
-      "Craft and Criticism",
-      "Crystal Hana Kim",
-      "Daniel Alarcon",
-      "Dear Edward",
-      "Everything to the Sea",
-      "Exit West",
-      "Features",
-      "Gabriel Garcia Marquez",
-      "Home Fire",
-      "If You Leave Me",
-      "Kamila Shamsie",
-      "Lost City Radio",
-      "Louise Kennedy",
-      "Love in the Time of Cholera",
-      "Mohsin Hamid",
-      "News and Culture",
-      "Reading Lists",
-      "Trespasses",
-      "reviews"
-    ],
-    "created_at": "2026-07-14T19:11:55+00:00",
-    "updated_at": "2026-07-14T19:11:55Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "bbfecd5b3d4002eed6203752fa6dd924",
@@ -631,8 +619,8 @@
       "Book Deals",
       "reviews"
     ],
-    "created_at": "2026-07-14T19:11:55+00:00",
-    "updated_at": "2026-07-14T19:11:55Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "4bd0c7fc551b6a30352bd80ac857d7f9",
@@ -657,8 +645,8 @@
       "Book Radar",
       "reviews"
     ],
-    "created_at": "2026-07-14T19:11:55+00:00",
-    "updated_at": "2026-07-14T19:11:55Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "8879861e0bb6a68676b2de35c388c809",
@@ -688,8 +676,8 @@
       "Our Queerest Shelves",
       "reviews"
     ],
-    "created_at": "2026-07-14T19:11:55+00:00",
-    "updated_at": "2026-07-14T19:11:55Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   },
   {
     "id": "86957ad443bee065f6052536249d81a7",
@@ -719,7 +707,7 @@
       "Swords and Spaceships",
       "reviews"
     ],
-    "created_at": "2026-07-14T19:11:55+00:00",
-    "updated_at": "2026-07-14T19:11:55Z"
+    "created_at": "2026-07-15T08:08:03+00:00",
+    "updated_at": "2026-07-15T08:08:03Z"
   }
 ]
