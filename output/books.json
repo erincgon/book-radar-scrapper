@@ -1,5 +1,53 @@
 [
   {
+    "id": "52b60bb8c2058c3a2b8e3abd72d3ef67",
+    "title": "Archaeologists Unearth a 2,400",
+    "author": "Franz Lidz",
+    "description": "The ruins of a 2,400-year-old complex suggest that, to the Greeks of antiquity, Homer’s protagonist was not just a character in a poem but a figure of genuine devotion.",
+    "summary_ai": "",
+    "categories": [
+      "Archaeology And Anthropology",
+      "Books",
+      "Books And Literature",
+      "Greek Civilization",
+      "Homer",
+      "Iliad (Book)",
+      "Ithaca (Ny)",
+      "Movies",
+      "Myths And Mythical Creatures",
+      "Nolan, Christopher",
+      "Road Trips",
+      "The Odyssey (2026) (Movie)",
+      "The Odyssey (Book)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-15",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/09/science/00SCI-ODYSSEY-battle/00SCI-ODYSSEY-battle-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/09/science/00SCI-ODYSSEY-battle/00SCI-ODYSSEY-battle-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/15/science/archaeology-homer-odyssey-ithaca.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Archaeology and Anthropology",
+      "Books and Literature",
+      "Greek Civilization",
+      "Homer",
+      "Iliad (Book)",
+      "Ithaca (NY)",
+      "Movies",
+      "Myths and Mythical Creatures",
+      "Nolan, Christopher",
+      "Road Trips",
+      "The Odyssey (2026) (Movie)",
+      "The Odyssey (Book)",
+      "books"
+    ],
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
+  },
+  {
     "id": "2c9b6413ed2f6827517e3d6b50431a39",
     "title": "The First House by Avni Doshi review",
     "author": "Daisy Hildyard",
@@ -27,8 +75,73 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
+  },
+  {
+    "id": "d39553355fe7cae217188dba4d546d2f",
+    "title": "Hidden Creatures by Dino Martins review",
+    "author": "Luca Turin",
+    "description": "From maggots to viruses, this gross-out compendium also manages to celebrate the awe and inventiveness of nature When Craig Venter, one of the mappers of the human genome, set out on a sailboat cruise to map DNA in seawater all across the globe, he found that a teaspoon of seawater contained on average 50m viruses. While this doesn’t sound particularly reassuring, the bad news is mitigated by the fact that most of these are phages that infect marine bacteria and have no interest in us. Viruses are parasites, and like all their parasitic kind, they get a free ride from living organisms. The whole point of multicellular life is to create a cosy environment for cells to live in, and evolution has invented all manner of stowaways that want this comfort and manage to get on board, either outside or sometimes inside the cells themselves. While it is not generally in the best interest of a parasite to kill its host and be forced to find a new home, some come dangerously close. Most diseases in the developing world are connected in some way or another to parasitic infections. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Science And Nature Books"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-15",
+    "thumbnail": "https://i.guim.co.uk/img/media/1c29af65d49b8d71dcd3296b478b3e74c9462c78/1120_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=bc1e0b8866a4bcc2b8490f1232ac4201",
+    "cover_large": "https://i.guim.co.uk/img/media/1c29af65d49b8d71dcd3296b478b3e74c9462c78/1120_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=bc1e0b8866a4bcc2b8490f1232ac4201",
+    "article_url": "https://www.theguardian.com/books/2026/jul/15/hidden-creatures-by-dino-martins-review-the-revolting-world-of-parasites",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Science and nature books",
+      "books"
+    ],
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
+  },
+  {
+    "id": "30c798af75fe342ef953cb7419d56ba9",
+    "title": "‘People are picking the dumbest fights’: the tortured history of America’s culture wars",
+    "author": "David Smith in Washington",
+    "description": "In a new book, Isaac Butler goes back to the 1980s to trace how battles started against the arts, from Piss Christ to Mapplethorpe, and looks at what we can learn for today Isaac Butler is limbering up for an event at Politics and Prose, an independent bookshop and venerable Washington institution, but still has time to explain his arm tattoos. They variously depict: a logo from his grandparents’ company in the 1960s; a satellite that his father worked on at Nasa; a “jaunty crab” for his wife, who finds crabs “hilarious”; an iris by Japan’s Utagawa Hiroshige for Butler’s daughter, Iris; a drawing of a scene from a production of The Seagull by the Russian theatre maker Konstantin Stanislavski; and an artwork by the American painter and photographer David Wojnarowicz that shows a house on fire. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Art",
+      "Art And Design",
+      "Books",
+      "Culture",
+      "History Books"
+    ],
+    "genre": [
+      "History",
+      "Politics"
+    ],
+    "language": "English",
+    "publisher": "Slate",
+    "published_date": "2026-07-15",
+    "thumbnail": "https://i.guim.co.uk/img/media/9c70820e6e46239c0af47a298724b110307948d4/105_0_4478_3585/master/4478.jpg?width=700&quality=85&auto=format&fit=max&s=7b62604296fe18ac3da0c4bdb7e144b1",
+    "cover_large": "https://i.guim.co.uk/img/media/9c70820e6e46239c0af47a298724b110307948d4/105_0_4478_3585/master/4478.jpg?width=700&quality=85&auto=format&fit=max&s=7b62604296fe18ac3da0c4bdb7e144b1",
+    "article_url": "https://slate.com/author/isaac-butler",
+    "source": "Slate",
+    "source_type": "rss",
+    "tags": [
+      "Art",
+      "Art and design",
+      "Books",
+      "Culture",
+      "History books",
+      "books"
+    ],
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "0ef81a91225f56c39b12ab439d4532f2",
@@ -59,8 +172,8 @@
       "Rich, Nathaniel (1980- )",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "3dc6d9ff2ebeee94d0c6dc87e3a4e7d1",
@@ -71,9 +184,11 @@
     "categories": [
       "Books",
       "Books And Literature",
+      "Manhattan (Nyc)",
       "Salinger, J D",
       "Teenagers And Adolescence",
       "The Catcher In The Rye (Book)",
+      "United States",
       "Writing And Writers"
     ],
     "genre": [],
@@ -87,14 +202,16 @@
     "source_type": "rss",
     "tags": [
       "Books and Literature",
+      "Manhattan (NYC)",
       "Salinger, J D",
       "Teenagers and Adolescence",
       "The Catcher in the Rye (Book)",
+      "United States",
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "392aa1e9213352fe5cb8142fc1e7a588",
@@ -137,8 +254,8 @@
       "The Gospel According to Hobby Lobby: Inside a Billionaire Family's Quest to Craft a Christian Nation (Book)",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "00bbb5fd0eed22dcb2e32da6ab3a30ba",
@@ -177,8 +294,8 @@
       "genre-books-romance",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "eae92f47f871dc859aa38179698c0e91",
@@ -210,8 +327,8 @@
       "Essays",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "4e003c4e5a06c6e96a92fed9cf468121",
@@ -249,8 +366,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "65438d4bdd68939d05070e2f962c38d6",
@@ -280,8 +397,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "6fdb1c615e8293886d0049a8bd4d7898",
@@ -322,8 +439,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "6165c6f41d79cb7946bf264371f69ff5",
@@ -354,8 +471,8 @@
       "Nunez, Sigrid",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "a573ebb5f5a9fb1749e12c938cc2d00f",
@@ -392,8 +509,8 @@
       "United States",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "3a563bfbf469937c2cc5bd2ad0d60235",
@@ -430,8 +547,8 @@
       "Smaltz, Audrey",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "f133dca0e9cd64d0b8e3304ebca29dbb",
@@ -464,8 +581,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "3e79c9fc9ac7fe6176b02d0184a596f7",
@@ -501,43 +618,8 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
-  },
-  {
-    "id": "923f94486c45ee6e0034f0427a6a5a30",
-    "title": "‘People treat each other as disposable’: dating columnist turned novelist Annie Lord on love and sex in the age of apps",
-    "author": "Emma Loffhagen",
-    "description": "Her breakup memoir and Vogue column made her the voice of modern dating. As her debut is published, she talks about single life, oversharing and why she still believes she’ll find love There is a scene in Annie Lord’s novel that will be instantly familiar to any young person who has spent time at a pub or nightclub recently. Daisy and Maya, two best friends in their mid-20s, are lamenting the paltry state of the dating market. “It’s just shit out there,” Daisy says. “Every time we go out there’s, like, one decent single guy and then about 40 gorgeous women with master’s degrees and shag haircuts and what’s even the point in trying.” Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Dating",
-      "Fiction",
-      "Romance Books"
-    ],
-    "genre": [
-      "Memoir"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-12",
-    "thumbnail": "https://i.guim.co.uk/img/media/843727ef444b40e998530ca9060ce6d8f3c76b14/1031_118_4852_3882/master/4852.jpg?width=700&quality=85&auto=format&fit=max&s=5dc36cfac1dd376cf85b6de3d4845bc7",
-    "cover_large": "https://i.guim.co.uk/img/media/843727ef444b40e998530ca9060ce6d8f3c76b14/1031_118_4852_3882/master/4852.jpg?width=700&quality=85&auto=format&fit=max&s=5dc36cfac1dd376cf85b6de3d4845bc7",
-    "article_url": "https://www.theguardian.com/books/2026/jul/12/people-treat-each-other-as-disposable-dating-columnist-turned-novelist-annie-lord-on-love-and-sex-in-the-age-of-apps",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Dating",
-      "Fiction",
-      "Romance books",
-      "books"
-    ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "3592e8f5456efeeecfa56b907d0272ba",
@@ -566,8 +648,8 @@
       "Ong, Han",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "5f9a5e092a7212ec1233df7bc7168731",
@@ -612,8 +694,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "a8fbe96383a7566d11a79503616d8212",
@@ -650,8 +732,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "477b7be0b7cc5f43e29caeda6512569b",
@@ -686,8 +768,8 @@
       "books",
       "internal-open-access-audio"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "8a3aeaec130d948f1fd0be45fb742a76",
@@ -736,98 +818,8 @@
       "Thomasson, Anna",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
-  },
-  {
-    "id": "e1389992604279d9cf3b35e95079e297",
-    "title": "10 Kids’ Books for Fans of the Magic Tree House Series",
-    "author": "Travis Jonker",
-    "description": "Ten recommendations for fans of Mary Pope Osborne’s time-travel chapter book series.",
-    "summary_ai": "",
-    "categories": [
-      "Battle Of The Bad-Breath Bats (Book)",
-      "Books",
-      "Books And Literature",
-      "Bowles, David (1970- )",
-      "Catastrophe (Book)",
-      "Children And Childhood",
-      "Clester, Shane",
-      "Danger, Chris",
-      "Genre-Books-Childrens",
-      "Hale, Nathan (Author)",
-      "Howells, Graham",
-      "Jose, Gladys",
-      "Lets Mooove! (Book)",
-      "Lewis, Stevie",
-      "Lupica, Mike",
-      "Magic Tree House (Book)",
-      "Mcmorris, Kelley",
-      "Mensah, Bernard",
-      "Messner, Kate",
-      "Murray The Viking (Book)",
-      "Nayo, Natasha",
-      "One Dead Spy (Book)",
-      "Osborne, Mary Pope",
-      "Rescue On The Oregon Trail (Book)",
-      "Rex, Adam",
-      "Rise Of The Earth Dragon (Book)",
-      "Rise Of The Green Flame (Book)",
-      "Sheinmel, Courtney",
-      "Stower, Adam",
-      "The Missing Baseball (Book)",
-      "The Story Of Gumluck The Wizard (Book)",
-      "Turetsky, Bianca",
-      "West, Tracey",
-      "Winston, Sherri"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-10",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/12/books/12TBR-MagicTreeHouse-Readalikes-02/12TBR-MagicTreeHouse-Readalikes-02-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/12/books/12TBR-MagicTreeHouse-Readalikes-02/12TBR-MagicTreeHouse-Readalikes-02-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/10/books/review/magic-tree-house-books-kids.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Battle of the Bad-Breath Bats (Book)",
-      "Books and Literature",
-      "Bowles, David (1970- )",
-      "Catastrophe (Book)",
-      "Children and Childhood",
-      "Clester, Shane",
-      "Danger, Chris",
-      "Hale, Nathan (Author)",
-      "Howells, Graham",
-      "Jose, Gladys",
-      "Lets Mooove! (Book)",
-      "Lewis, Stevie",
-      "Lupica, Mike",
-      "Magic Tree House (Book)",
-      "McMorris, Kelley",
-      "Mensah, Bernard",
-      "Messner, Kate",
-      "Murray the Viking (Book)",
-      "Nayo, Natasha",
-      "One Dead Spy (Book)",
-      "Osborne, Mary Pope",
-      "Rescue on the Oregon Trail (Book)",
-      "Rex, Adam",
-      "Rise of the Earth Dragon (Book)",
-      "Rise of the Green Flame (Book)",
-      "Sheinmel, Courtney",
-      "Stower, Adam",
-      "The Missing Baseball (Book)",
-      "The Story of Gumluck the Wizard (Book)",
-      "Turetsky, Bianca",
-      "West, Tracey",
-      "Winston, Sherri",
-      "books",
-      "genre-books-childrens"
-    ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "6c6fad4aaca3daa9f02c25a369c09158",
@@ -859,8 +851,8 @@
       "Transgender",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "30f5368e1fa3fbac7dda9c0c7014e919",
@@ -901,8 +893,8 @@
       "Science fiction books",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "89dd3fdd40ba3fd5f0e5e2b2800fd764",
@@ -936,8 +928,8 @@
       "Society books",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "1b8a09d692033807747013690893c841",
@@ -971,42 +963,8 @@
       "Technology books",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
-  },
-  {
-    "id": "95278e82f5d625779bec536c4ee030ea",
-    "title": "The Land and Its People by David Sedaris review",
-    "author": "Emma Brockes",
-    "description": "Sedaris plays up the curmudgeonliness in a collection that nevertheless entertains I’ll confess my heart sank slightly at the prospect of reading David Sedaris’s new volume of essays, some of them previously published in the New Yorker, and which, relative to his earlier output, strike me as increasingly shticky and reliant on anecdotes too thin for their weight. (From the essay Little America: “Few things drive me crazier than people who put their feet up on the furniture.”) After nine previous volumes, Sedaris would seem to be suffering from a problem that comes to all writers in the end, and memoir writers in particular, which is a dearth of useable material. What can there possibly be left in the Sedaris backstory that the writer hasn’t already mined? Well, as it turns out, there is still lots of useable stuff, as well as some an editor could have put a red line through, although Sedaris, who has sold more than 16m books, may well consider himself part of the post-editing elite. (I was reminded while reading of a line from a profile of JK Rowling several years ago in which, referring to The Casual Vacancy, Ian Parker wrote : “Some sentences cause you to picture a Little...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "David Sedaris",
-      "Essays"
-    ],
-    "genre": [
-      "Essays",
-      "Memoir"
-    ],
-    "language": "English",
-    "publisher": "Little, Brown",
-    "published_date": "2026-07-06",
-    "thumbnail": "https://i.guim.co.uk/img/media/25f359c8891c8528d631c7040f2f37045f55efcd/0_0_3200_2560/master/3200.jpg?width=700&quality=85&auto=format&fit=max&s=cb4f3c3449b212d7d2716727e8546177",
-    "cover_large": "https://i.guim.co.uk/img/media/25f359c8891c8528d631c7040f2f37045f55efcd/0_0_3200_2560/master/3200.jpg?width=700&quality=85&auto=format&fit=max&s=cb4f3c3449b212d7d2716727e8546177",
-    "article_url": "https://www.newyorker.com/magazine/2012/10/01/mugglemarch?currentPage=all&amp%3Bamp%3Bmobify=0",
-    "source": "Newyorker",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "David Sedaris",
-      "Essays",
-      "books"
-    ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "4c67af7b443e59255ae5e43165443d79",
@@ -1038,8 +996,8 @@
       "Tessa Hadley",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "0de47d5039ae63ef8405d47c6646d284",
@@ -1075,8 +1033,8 @@
       "Paperbacks",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -1106,8 +1064,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1146,7 +1104,7 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   }
 ]

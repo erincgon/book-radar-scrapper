@@ -1,5 +1,53 @@
 [
   {
+    "id": "52b60bb8c2058c3a2b8e3abd72d3ef67",
+    "title": "Archaeologists Unearth a 2,400",
+    "author": "Franz Lidz",
+    "description": "The ruins of a 2,400-year-old complex suggest that, to the Greeks of antiquity, Homer’s protagonist was not just a character in a poem but a figure of genuine devotion.",
+    "summary_ai": "",
+    "categories": [
+      "Archaeology And Anthropology",
+      "Books",
+      "Books And Literature",
+      "Greek Civilization",
+      "Homer",
+      "Iliad (Book)",
+      "Ithaca (Ny)",
+      "Movies",
+      "Myths And Mythical Creatures",
+      "Nolan, Christopher",
+      "Road Trips",
+      "The Odyssey (2026) (Movie)",
+      "The Odyssey (Book)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-15",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/09/science/00SCI-ODYSSEY-battle/00SCI-ODYSSEY-battle-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/09/science/00SCI-ODYSSEY-battle/00SCI-ODYSSEY-battle-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/15/science/archaeology-homer-odyssey-ithaca.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Archaeology and Anthropology",
+      "Books and Literature",
+      "Greek Civilization",
+      "Homer",
+      "Iliad (Book)",
+      "Ithaca (NY)",
+      "Movies",
+      "Myths and Mythical Creatures",
+      "Nolan, Christopher",
+      "Road Trips",
+      "The Odyssey (2026) (Movie)",
+      "The Odyssey (Book)",
+      "books"
+    ],
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
+  },
+  {
     "id": "2c9b6413ed2f6827517e3d6b50431a39",
     "title": "The First House by Avni Doshi review",
     "author": "Daisy Hildyard",
@@ -27,8 +75,254 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
+  },
+  {
+    "id": "d39553355fe7cae217188dba4d546d2f",
+    "title": "Hidden Creatures by Dino Martins review",
+    "author": "Luca Turin",
+    "description": "From maggots to viruses, this gross-out compendium also manages to celebrate the awe and inventiveness of nature When Craig Venter, one of the mappers of the human genome, set out on a sailboat cruise to map DNA in seawater all across the globe, he found that a teaspoon of seawater contained on average 50m viruses. While this doesn’t sound particularly reassuring, the bad news is mitigated by the fact that most of these are phages that infect marine bacteria and have no interest in us. Viruses are parasites, and like all their parasitic kind, they get a free ride from living organisms. The whole point of multicellular life is to create a cosy environment for cells to live in, and evolution has invented all manner of stowaways that want this comfort and manage to get on board, either outside or sometimes inside the cells themselves. While it is not generally in the best interest of a parasite to kill its host and be forced to find a new home, some come dangerously close. Most diseases in the developing world are connected in some way or another to parasitic infections. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Science And Nature Books"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-15",
+    "thumbnail": "https://i.guim.co.uk/img/media/1c29af65d49b8d71dcd3296b478b3e74c9462c78/1120_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=bc1e0b8866a4bcc2b8490f1232ac4201",
+    "cover_large": "https://i.guim.co.uk/img/media/1c29af65d49b8d71dcd3296b478b3e74c9462c78/1120_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=bc1e0b8866a4bcc2b8490f1232ac4201",
+    "article_url": "https://www.theguardian.com/books/2026/jul/15/hidden-creatures-by-dino-martins-review-the-revolting-world-of-parasites",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Science and nature books",
+      "books"
+    ],
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
+  },
+  {
+    "id": "30c798af75fe342ef953cb7419d56ba9",
+    "title": "‘People are picking the dumbest fights’: the tortured history of America’s culture wars",
+    "author": "David Smith in Washington",
+    "description": "In a new book, Isaac Butler goes back to the 1980s to trace how battles started against the arts, from Piss Christ to Mapplethorpe, and looks at what we can learn for today Isaac Butler is limbering up for an event at Politics and Prose, an independent bookshop and venerable Washington institution, but still has time to explain his arm tattoos. They variously depict: a logo from his grandparents’ company in the 1960s; a satellite that his father worked on at Nasa; a “jaunty crab” for his wife, who finds crabs “hilarious”; an iris by Japan’s Utagawa Hiroshige for Butler’s daughter, Iris; a drawing of a scene from a production of The Seagull by the Russian theatre maker Konstantin Stanislavski; and an artwork by the American painter and photographer David Wojnarowicz that shows a house on fire. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Art",
+      "Art And Design",
+      "Books",
+      "Culture",
+      "History Books"
+    ],
+    "genre": [
+      "History",
+      "Politics"
+    ],
+    "language": "English",
+    "publisher": "Slate",
+    "published_date": "2026-07-15",
+    "thumbnail": "https://i.guim.co.uk/img/media/9c70820e6e46239c0af47a298724b110307948d4/105_0_4478_3585/master/4478.jpg?width=700&quality=85&auto=format&fit=max&s=7b62604296fe18ac3da0c4bdb7e144b1",
+    "cover_large": "https://i.guim.co.uk/img/media/9c70820e6e46239c0af47a298724b110307948d4/105_0_4478_3585/master/4478.jpg?width=700&quality=85&auto=format&fit=max&s=7b62604296fe18ac3da0c4bdb7e144b1",
+    "article_url": "https://slate.com/author/isaac-butler",
+    "source": "Slate",
+    "source_type": "rss",
+    "tags": [
+      "Art",
+      "Art and design",
+      "Books",
+      "Culture",
+      "History books",
+      "books"
+    ],
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
+  },
+  {
+    "id": "9d13130fb17cec6426d3c9f54e0c7dc9",
+    "title": "Queer Manga and Manwha Series for your TBR",
+    "author": "Rey Rowland",
+    "description": "These queer manga and manhwa series have foodie stories, the amnesia trope, nonbinary characters, and even a little fashion!",
+    "summary_ai": "",
+    "categories": [
+      "Our Queerest Shelves",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-15",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2022/09/our-dining-table-e1663369661975-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2022/09/our-dining-table-e1663369661975-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/queer-manga-and-manwha-series/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Our Queerest Shelves",
+      "reviews"
+    ],
+    "created_at": "2026-07-15T19:04:15+00:00",
+    "updated_at": "2026-07-15T19:04:15Z"
+  },
+  {
+    "id": "63ac027f3f0171a7b9675a15d927e214",
+    "title": "A Manor’s Sinister Secrets, Love Magic Gone Wrong, and More New YA Books for July 15, 2026",
+    "author": "Kelly Jensen",
+    "description": "This week's new YA book releases include love magic gone wrong, a sinister manor house, and lots of great horror.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "What'S Up In Ya",
+      "Young Adult Literature"
+    ],
+    "genre": [
+      "Horror"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-15",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/The-Broken-Edge-of-the-World-by-Alena-Bruzas-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/The-Broken-Edge-of-the-World-by-Alena-Bruzas-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/new-ya-books-for-july-15-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "What's Up in YA",
+      "Young Adult Literature",
+      "reviews"
+    ],
+    "created_at": "2026-07-15T19:04:15+00:00",
+    "updated_at": "2026-07-15T19:04:15Z"
+  },
+  {
+    "id": "3d5f0de4b421dcc69eca452190ac50ec",
+    "title": "📚 With care, thought, and readiness to voyage",
+    "author": "Community",
+    "description": "The best science fiction books of the century so far",
+    "summary_ai": "",
+    "categories": [
+      "Book Riot Newsletter",
+      "Reviews"
+    ],
+    "genre": [
+      "Fiction",
+      "Science Fiction"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-15",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/Paul-Tremblay.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/Paul-Tremblay.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/with-care-thought-and-readiness-to-voyage/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Book Riot Newsletter",
+      "reviews"
+    ],
+    "created_at": "2026-07-15T19:04:15+00:00",
+    "updated_at": "2026-07-15T19:04:15Z"
+  },
+  {
+    "id": "6a52fdbc009d3d5b300f398e3964625e",
+    "title": "Can You Guess Amazon’s All-Time Bestselling Books?",
+    "author": "Rebecca Joines Schinsky",
+    "description": "Popular series for readers of all ages lead the top 10.",
+    "summary_ai": "",
+    "categories": [
+      "News",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-15",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/07/amazons-bestselling-books.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/07/amazons-bestselling-books.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/amazons-all-time-bestselling-books/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "News",
+      "reviews"
+    ],
+    "created_at": "2026-07-15T19:04:15+00:00",
+    "updated_at": "2026-07-15T19:04:15Z"
+  },
+  {
+    "id": "f93e657390a3b49475faa7612b204779",
+    "title": "Republican Senators Introduce Nationwide Book Ban Companion Bill, S. 4925",
+    "author": "Kelly Jensen",
+    "description": "Republican Senators have introduced a nationwide book ban bill in the Senate, S. 4925 and it's a warning of their summer plans.",
+    "summary_ai": "",
+    "categories": [
+      "Censorship",
+      "Lgbtq",
+      "Libraries",
+      "Literary Activism",
+      "News",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-15",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2021/08/image-of-congressional-building.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2021/08/image-of-congressional-building.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/senate-bill-4925/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Censorship",
+      "LGBTQ",
+      "Libraries",
+      "Literary Activism",
+      "News",
+      "reviews"
+    ],
+    "created_at": "2026-07-15T19:04:15+00:00",
+    "updated_at": "2026-07-15T19:04:15Z"
+  },
+  {
+    "id": "d0f8be5bf0f706878fc45ddd93a8427c",
+    "title": "What Are the Emma Lion Books and Why Are They Having a Moment?",
+    "author": "Carolina Ciucci",
+    "description": "Emma M. Lion has taken the publishing world by storm. But who is she and why is she so popular with readers?",
+    "summary_ai": "",
+    "categories": [
+      "Beth Bower",
+      "Emma Lion",
+      "Emma M. Lion",
+      "Historical Fiction",
+      "Past Tense",
+      "Reviews",
+      "The Unselected Journals Of Emma M. Lion"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-15",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/07/partial-cover-of-The-Unselected-Journals-of-Emma-M.-Lion.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/07/partial-cover-of-The-Unselected-Journals-of-Emma-M.-Lion.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/emma-lion-books/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Beth Bower",
+      "Emma Lion",
+      "Emma M. Lion",
+      "Historical Fiction",
+      "Past Tense",
+      "The Unselected Journals of Emma M. Lion",
+      "reviews"
+    ],
+    "created_at": "2026-07-15T19:04:15+00:00",
+    "updated_at": "2026-07-15T19:04:15Z"
   },
   {
     "id": "0ef81a91225f56c39b12ab439d4532f2",
@@ -59,8 +353,8 @@
       "Rich, Nathaniel (1980- )",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "3dc6d9ff2ebeee94d0c6dc87e3a4e7d1",
@@ -71,9 +365,11 @@
     "categories": [
       "Books",
       "Books And Literature",
+      "Manhattan (Nyc)",
       "Salinger, J D",
       "Teenagers And Adolescence",
       "The Catcher In The Rye (Book)",
+      "United States",
       "Writing And Writers"
     ],
     "genre": [],
@@ -87,14 +383,16 @@
     "source_type": "rss",
     "tags": [
       "Books and Literature",
+      "Manhattan (NYC)",
       "Salinger, J D",
       "Teenagers and Adolescence",
       "The Catcher in the Rye (Book)",
+      "United States",
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "392aa1e9213352fe5cb8142fc1e7a588",
@@ -137,8 +435,8 @@
       "The Gospel According to Hobby Lobby: Inside a Billionaire Family's Quest to Craft a Christian Nation (Book)",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "00bbb5fd0eed22dcb2e32da6ab3a30ba",
@@ -177,8 +475,8 @@
       "genre-books-romance",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "eae92f47f871dc859aa38179698c0e91",
@@ -210,8 +508,8 @@
       "Essays",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "4e003c4e5a06c6e96a92fed9cf468121",
@@ -249,8 +547,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "65438d4bdd68939d05070e2f962c38d6",
@@ -280,178 +578,32 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
-    "id": "f9a7bf6114d01a1ef2ce9a60b67a0300",
-    "title": "Here’s What the Biggest and Most Interesting Book Clubs are Reading in July 2026",
-    "author": "Jamie Canaves",
-    "description": "From #ReadWithJenna to Reese's and Roxane Gay: here are what the biggest and most interesting book clubs are reading in July 2026.",
+    "id": "5c2f3537cb68f97764865984ae57cc1e",
+    "title": "Some international artists are skipping U.S. tours. Others may follow suit",
+    "author": "Josie Fischels",
+    "description": "The visa process for visiting artists has always been complicated and expensive. Under the current administration, it's gotten significantly worse.",
     "summary_ai": "",
     "categories": [
-      "In The Club",
-      "Lists",
       "Reviews"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "Book Riot",
+    "publisher": "NPR Books",
     "published_date": "2026-07-14",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/Pool-House-A-Novel-cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/Pool-House-A-Novel-cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/book-club-july-2026-picks/",
-    "source": "Book Riot",
+    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1036x583+8+0/resize/1036x583!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2F38%2F8a5de8d3489bbdaf0148728e2409%2Fvisa.jpg",
+    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1036x583+8+0/resize/1036x583!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2F38%2F8a5de8d3489bbdaf0148728e2409%2Fvisa.jpg",
+    "article_url": "https://www.npr.org/2026/07/14/nx-s1-5783845/visa-process-artists-us",
+    "source": "NPR Books",
     "source_type": "rss",
     "tags": [
-      "In the Club",
-      "Lists",
       "reviews"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
-  },
-  {
-    "id": "ccc26bf3eb4410e4df2d5433bd4f5341",
-    "title": "Steamy Stories: The Best New Summer Romance Books",
-    "author": "Megan Mabee",
-    "description": "Summer weddings, beach vacations, hurricane season: these new summer romance books have everything you need for a steamy seasonal read.",
-    "summary_ai": "",
-    "categories": [
-      "Kissing Books",
-      "Lists",
-      "Reviews",
-      "Romance/Erotica",
-      "Sponsored",
-      "Summer Romances"
-    ],
-    "genre": [
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-14",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/Burnout-Summer-Book-Cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/Burnout-Summer-Book-Cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/new-summer-romance-books-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Kissing Books",
-      "Lists",
-      "Romance/Erotica",
-      "Sponsored",
-      "reviews",
-      "summer romances"
-    ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
-  },
-  {
-    "id": "9a5ad4755e32408cbcb47362b6918f4b",
-    "title": "🦖The point is...you are alive when they start to eat you.",
-    "author": "Community",
-    "description": "New publisher lawsuit about the use of books in AI training is particularly compelling.",
-    "summary_ai": "",
-    "categories": [
-      "Book Riot Newsletter",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-14",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/new-releases-july-14.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/new-releases-july-14.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/the-point-isyou-are-alive-when-they-start-to-eat-you/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Book Riot Newsletter",
-      "reviews"
-    ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
-  },
-  {
-    "id": "ec91d24ee254528b9f3e617b5538d3d6",
-    "title": "6 of the Best New Book Releases Out July 14, 2026",
-    "author": "Erica Ezeifedi",
-    "description": "Some of the most anticipated books of the year are out this week!",
-    "summary_ai": "",
-    "categories": [
-      "New Books",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-14",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/Country-People-Daniel-Mason-cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/Country-People-Daniel-Mason-cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/new-book-releases-july-14-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "New Books",
-      "reviews"
-    ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
-  },
-  {
-    "id": "a56e0ad0de0015427d57592c44ae647f",
-    "title": "Youth Privacy Protections and Library Card Access @ Your Library",
-    "author": "Kelly Jensen",
-    "description": "There's no better time to think about youth privacy rights and library card sign-up policies in the library than right now.",
-    "summary_ai": "",
-    "categories": [
-      "Check Your Shelf",
-      "Libraries",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-14",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/07/image-of-a-tan-skinned-teen-reading-a-book-at-the-library.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/07/image-of-a-tan-skinned-teen-reading-a-book-at-the-library.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/youth-privacy-protections-and-library-card-access/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Check Your Shelf",
-      "Libraries",
-      "reviews"
-    ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
-  },
-  {
-    "id": "76730c2e74ed1306cf932ba39bf0df86",
-    "title": "How to Get More Out of Your Reading",
-    "author": "Vanessa Diaz",
-    "description": "From reading habits and readalikes to episode feedback, we're diving into listener questions in the Zero to Well-Read summer mailbag.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Zero To Well-Read"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-14",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/06/summer-mailbag-flagship.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/06/summer-mailbag-flagship.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/zero-to-well-read-summer-mailbag-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Zero to Well-Read",
-      "reviews"
-    ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:15+00:00",
+    "updated_at": "2026-07-15T19:04:15Z"
   },
   {
     "id": "6fdb1c615e8293886d0049a8bd4d7898",
@@ -492,8 +644,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   },
   {
     "id": "6165c6f41d79cb7946bf264371f69ff5",
@@ -524,154 +676,7 @@
       "Nunez, Sigrid",
       "books"
     ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
-  },
-  {
-    "id": "a573ebb5f5a9fb1749e12c938cc2d00f",
-    "title": "Book Review: ‘Aging Out,’ by Lucy Schiller",
-    "author": "Michelle Orange",
-    "description": "From assisted living to elder activism and her own experience as a caregiver, Lucy Schiller investigates aging’s myriad challenges in her first book.",
-    "summary_ai": "",
-    "categories": [
-      "Aging Out: An Exploration Of Caregiving, Community, And How Americans Grow Old (Book)",
-      "Books",
-      "Books And Literature",
-      "Elder Care",
-      "Elderly",
-      "Gray Panthers",
-      "Schiller, Lucy (Author)",
-      "United States"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-13",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/14/multimedia/14TBR-Schiller-review-jckw/14TBR-Schiller-review-jckw-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/14/multimedia/14TBR-Schiller-review-jckw/14TBR-Schiller-review-jckw-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/13/books/review/aging-out-lucy-schiller.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Aging Out: An Exploration of Caregiving, Community, and How Americans Grow Old (Book)",
-      "Books and Literature",
-      "Elder Care",
-      "Elderly",
-      "Gray Panthers",
-      "Schiller, Lucy (Author)",
-      "United States",
-      "books"
-    ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
-  },
-  {
-    "id": "3a563bfbf469937c2cc5bd2ad0d60235",
-    "title": "Book Review: ‘Every Inch a Lady,’ by Audrey Smaltz",
-    "author": "Roxanne Fequiere",
-    "description": "In “Every Inch a Lady,” Audrey Smaltz shares her incredible story — if not her inimitable voice.",
-    "summary_ai": "",
-    "categories": [
-      "Black People",
-      "Books",
-      "Books And Literature",
-      "Content Type: Personal Profile",
-      "Every Inch A Lady: My Amazing Journey From Dear Harlem To Haute Couture & Beyond (Book)",
-      "Fashion And Apparel",
-      "Models (Professional)",
-      "Smaltz, Audrey"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-13",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/14/multimedia/14TBR-Smaltz-Review-tljc/14TBR-Smaltz-Review-tljc-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/14/multimedia/14TBR-Smaltz-Review-tljc/14TBR-Smaltz-Review-tljc-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/12/books/review/every-inch-a-lady-audrey-smaltz.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Black People",
-      "Books and Literature",
-      "Content Type: Personal Profile",
-      "Every Inch a Lady: My Amazing Journey From Dear Harlem to Haute Couture & Beyond (Book)",
-      "Fashion and Apparel",
-      "Models (Professional)",
-      "Smaltz, Audrey",
-      "books"
-    ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
-  },
-  {
-    "id": "f133dca0e9cd64d0b8e3304ebca29dbb",
-    "title": "The Anniversary by Andrea Bajani review",
-    "author": "Lara Feigel",
-    "description": "Therapy brings childhood trauma to light in this ambitious tale of family rupture – a smash hit in Italy that fails to live up to its hype A son leaves home for university and goes on to pay fortnightly visits to his parents for 20 years, dreading every encounter because of the oppressive control exerted by his father and the self-effacing passivity of his mother. Then one day, he changes his phone number and cuts off all contact. Andrea Bajani’s The Anniversary is written from the perspective of this son, 10 years after the rupture. The intervening decade has been, he says, the happiest period of his life. The Anniversary has won Italy’s top literary prize and sold in the hundreds of thousands. It’s been lauded for shattering taboos, revealing families to be breakable structures and sons capable of defying their parents – even in Italy, where a Godfather-like idea of the absolute nature of family loyalty still pervades political and civic life. I came to it expecting some of the lurid revelation found in Knausgård or Houellebecq. What I found was something much simpler and quieter, exposing truths I thought we already knew: fathers can be oppressive and patriarchal; mothers can...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "Fiction In Translation"
-    ],
-    "genre": [
-      "Children",
-      "Fiction"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-13",
-    "thumbnail": "https://i.guim.co.uk/img/media/374f7ffa6a15d00e4196dea4c18f2ea2f1fd9945/811_1122_3146_2517/master/3146.jpg?width=700&quality=85&auto=format&fit=max&s=1466a37b99cd54853dbe660647e4cb89",
-    "cover_large": "https://i.guim.co.uk/img/media/374f7ffa6a15d00e4196dea4c18f2ea2f1fd9945/811_1122_3146_2517/master/3146.jpg?width=700&quality=85&auto=format&fit=max&s=1466a37b99cd54853dbe660647e4cb89",
-    "article_url": "https://www.theguardian.com/books/2026/jul/13/the-anniversary-by-andrea-bajani-review-meet-the-wearily-predictable-parents",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "Fiction in translation",
-      "books"
-    ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
-  },
-  {
-    "id": "3e79c9fc9ac7fe6176b02d0184a596f7",
-    "title": "The Brexit Effect, 2016-2026 edited by Anthony Seldon review",
-    "author": "Fintan O’Toole",
-    "description": "Essays by the great and the good address the legacy of Brexit, but ignore the nationalist elephant in the room This massive collection of essays by 43 different authors, including seven lords, four baronesses, one dame and three knights of the realm, may be the nearest we will ever get to a semi-official reflection on the causes and consequences of Brexit. Its editor, Sir Anthony Seldon, is honorary historian at 10 Downing Street and has written definitive works on successive 21st-century British administrations. Yet the phrase “English nationalism” appears precisely once in its 600 pages – in a glancing reference to the line taken by the Daily Mail during the referendum campaign of 2016. Strikingly, while there is a fine essay by Aileen McHarg called On Scotland, there is none called On England. There is no attempt to provide even a broad overview of the tensions, contradictions and anxieties within the part of the UK where Brexit was won: non-metropolitan England. For much of the political and intellectual establishment, it seems, Englishness is still the condition that dare not speak its name. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Brexit",
-      "Culture",
-      "Essays",
-      "History Books",
-      "Politics Books"
-    ],
-    "genre": [
-      "Essays"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-13",
-    "thumbnail": "https://i.guim.co.uk/img/media/cb65ad1e0c0c61ca16e41cd0c13ed1bbb6686aab/84_0_4968_3974/master/4968.jpg?width=700&quality=85&auto=format&fit=max&s=0198a66530fa79b8777aa064f99fd95f",
-    "cover_large": "https://i.guim.co.uk/img/media/cb65ad1e0c0c61ca16e41cd0c13ed1bbb6686aab/84_0_4968_3974/master/4968.jpg?width=700&quality=85&auto=format&fit=max&s=0198a66530fa79b8777aa064f99fd95f",
-    "article_url": "https://www.theguardian.com/books/2026/jul/13/the-brexit-effect-2016-2026-edited-by-anthony-seldon-review-life-without-eu",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Brexit",
-      "Culture",
-      "Essays",
-      "History books",
-      "Politics books",
-      "books"
-    ],
-    "created_at": "2026-07-15T08:08:03+00:00",
-    "updated_at": "2026-07-15T08:08:03Z"
+    "created_at": "2026-07-15T19:04:16+00:00",
+    "updated_at": "2026-07-15T19:04:16Z"
   }
 ]
