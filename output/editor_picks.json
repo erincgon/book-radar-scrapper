@@ -1,5 +1,31 @@
 [
   {
+    "id": "dbdf7a0d0708cad46ec622bfdad4aa4c",
+    "title": "The Bestselling Books of the Week, According to All the Lists",
+    "author": "Community",
+    "description": "USA Today, Publishers Weekly, NYT, Amazon, and Indie Booksellers all have their own bestseller lists. Here are the combined results.",
+    "summary_ai": "",
+    "categories": [
+      "New Books",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-16",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/Witch-Hat-Atelier-Vol.-1-cover-211x300.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/Witch-Hat-Atelier-Vol.-1-cover-211x300.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/bestselling-books-july-16-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "New Books",
+      "reviews"
+    ],
+    "created_at": "2026-07-16T08:11:38+00:00",
+    "updated_at": "2026-07-16T08:11:38Z"
+  },
+  {
     "id": "4b0d3023513d2978dd677520d810ba9f",
     "title": "When life is chaos, make art",
     "author": "Anastasia Tsioulcas",
@@ -20,8 +46,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-07-15T19:04:15+00:00",
-    "updated_at": "2026-07-15T19:04:15Z"
+    "created_at": "2026-07-16T08:11:38+00:00",
+    "updated_at": "2026-07-16T08:11:38Z"
   },
   {
     "id": "6601bd91a189d53d5bdab9d1ff1daa5e",
@@ -48,8 +74,8 @@
       "Lit Hub Daily",
       "reviews"
     ],
-    "created_at": "2026-07-15T19:04:15+00:00",
-    "updated_at": "2026-07-15T19:04:15Z"
+    "created_at": "2026-07-16T08:11:38+00:00",
+    "updated_at": "2026-07-16T08:11:38Z"
   },
   {
     "id": "fad94a7652066a149ef58dad05f96663",
@@ -104,8 +130,8 @@
       "social media",
       "writing"
     ],
-    "created_at": "2026-07-15T19:04:15+00:00",
-    "updated_at": "2026-07-15T19:04:15Z"
+    "created_at": "2026-07-16T08:11:38+00:00",
+    "updated_at": "2026-07-16T08:11:38Z"
   },
   {
     "id": "d81a41c4f013a947d581ce33d4896f76",
@@ -154,8 +180,8 @@
       "raccoons",
       "reviews"
     ],
-    "created_at": "2026-07-15T19:04:15+00:00",
-    "updated_at": "2026-07-15T19:04:15Z"
+    "created_at": "2026-07-16T08:11:38+00:00",
+    "updated_at": "2026-07-16T08:11:38Z"
   },
   {
     "id": "bb32e6e3961578d369f34180b437293e",
@@ -204,8 +230,8 @@
       "heroines",
       "reviews"
     ],
-    "created_at": "2026-07-15T19:04:15+00:00",
-    "updated_at": "2026-07-15T19:04:15Z"
+    "created_at": "2026-07-16T08:11:38+00:00",
+    "updated_at": "2026-07-16T08:11:38Z"
   },
   {
     "id": "baebb54d9f8c286c7193f31ee636834e",
@@ -252,8 +278,8 @@
       "the environment",
       "the natural world"
     ],
-    "created_at": "2026-07-15T19:04:15+00:00",
-    "updated_at": "2026-07-15T19:04:15Z"
+    "created_at": "2026-07-16T08:11:38+00:00",
+    "updated_at": "2026-07-16T08:11:38Z"
   },
   {
     "id": "182080bc5de51ed0b831383d4f53998b",
@@ -298,8 +324,8 @@
       "science",
       "stargazing"
     ],
-    "created_at": "2026-07-15T19:04:15+00:00",
-    "updated_at": "2026-07-15T19:04:15Z"
+    "created_at": "2026-07-16T08:11:38+00:00",
+    "updated_at": "2026-07-16T08:11:38Z"
   },
   {
     "id": "0d40c73d416ae742fe94a7c8bdc296f0",
@@ -344,8 +370,8 @@
       "reviews",
       "the writing life"
     ],
-    "created_at": "2026-07-15T19:04:15+00:00",
-    "updated_at": "2026-07-15T19:04:15Z"
+    "created_at": "2026-07-16T08:11:38+00:00",
+    "updated_at": "2026-07-16T08:11:38Z"
   },
   {
     "id": "c344f0da80f51a51e01b6bf865fd4e4c",
@@ -384,8 +410,8 @@
       "Novels",
       "reviews"
     ],
-    "created_at": "2026-07-15T19:04:15+00:00",
-    "updated_at": "2026-07-15T19:04:15Z"
+    "created_at": "2026-07-16T08:11:38+00:00",
+    "updated_at": "2026-07-16T08:11:38Z"
   },
   {
     "id": "d38fe5ac5a557fb9b1ce5bf89060b34b",
@@ -444,8 +470,8 @@
       "reviews",
       "theater"
     ],
-    "created_at": "2026-07-15T19:04:15+00:00",
-    "updated_at": "2026-07-15T19:04:15Z"
+    "created_at": "2026-07-16T08:11:38+00:00",
+    "updated_at": "2026-07-16T08:11:38Z"
   },
   {
     "id": "85ba0b5777d3430688b79407acae04c0",
@@ -492,8 +518,8 @@
       "podcasts",
       "reviews"
     ],
-    "created_at": "2026-07-15T19:04:15+00:00",
-    "updated_at": "2026-07-15T19:04:15Z"
+    "created_at": "2026-07-16T08:11:38+00:00",
+    "updated_at": "2026-07-16T08:11:38Z"
   },
   {
     "id": "e3835add80cbdd3241ea49c9e17555c8",
@@ -518,8 +544,8 @@
       "Book Deals",
       "reviews"
     ],
-    "created_at": "2026-07-15T19:04:15+00:00",
-    "updated_at": "2026-07-15T19:04:15Z"
+    "created_at": "2026-07-16T08:11:38+00:00",
+    "updated_at": "2026-07-16T08:11:38Z"
   },
   {
     "id": "e12dfd2522087843f23387c405324ba1",
@@ -560,8 +586,8 @@
       "reviews",
       "the odyssey"
     ],
-    "created_at": "2026-07-15T19:04:15+00:00",
-    "updated_at": "2026-07-15T19:04:15Z"
+    "created_at": "2026-07-16T08:11:38+00:00",
+    "updated_at": "2026-07-16T08:11:38Z"
   },
   {
     "id": "6d5de8fc4716c32f656a30a591842f21",
@@ -588,33 +614,7 @@
       "True Story",
       "reviews"
     ],
-    "created_at": "2026-07-15T19:04:15+00:00",
-    "updated_at": "2026-07-15T19:04:15Z"
-  },
-  {
-    "id": "86f249db708e846c5026192583cca083",
-    "title": "Guess Who’s Narrating Louise Penny’s Upcoming Gamache Novels?",
-    "author": "Jamie Canaves",
-    "description": "There's also adaptation news, the best of the year so far, the Lammy Awards, a Colson Whitehead profile, and more!",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Unusual Suspects"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-15",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/Miss-Wolcotts-Ghost-by-Louise-Penny.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/Miss-Wolcotts-Ghost-by-Louise-Penny.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/whos-narrating-louise-pennys-upcoming-gamache-novels/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Unusual Suspects",
-      "reviews"
-    ],
-    "created_at": "2026-07-15T19:04:15+00:00",
-    "updated_at": "2026-07-15T19:04:15Z"
+    "created_at": "2026-07-16T08:11:38+00:00",
+    "updated_at": "2026-07-16T08:11:38Z"
   }
 ]
