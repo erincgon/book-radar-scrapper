@@ -30,8 +30,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-16T19:02:50+00:00",
-    "updated_at": "2026-07-16T19:02:50Z"
+    "created_at": "2026-07-17T08:08:34+00:00",
+    "updated_at": "2026-07-17T08:08:34Z"
   },
   {
     "id": "d1b130ea474d793fedc6af30219e7761",
@@ -72,8 +72,8 @@
       "publishers",
       "reading recommendations"
     ],
-    "created_at": "2026-07-16T19:02:50+00:00",
-    "updated_at": "2026-07-16T19:02:50Z"
+    "created_at": "2026-07-17T08:08:34+00:00",
+    "updated_at": "2026-07-17T08:08:34Z"
   },
   {
     "id": "4261f045c5fb15b01cb703f6c4171153",
@@ -112,8 +112,8 @@
       "nostalgia",
       "publishers"
     ],
-    "created_at": "2026-07-16T19:02:50+00:00",
-    "updated_at": "2026-07-16T19:02:50Z"
+    "created_at": "2026-07-17T08:08:34+00:00",
+    "updated_at": "2026-07-17T08:08:34Z"
   },
   {
     "id": "dff45dd5515be4ac575008822327909e",
@@ -150,8 +150,154 @@
       "fantasy",
       "publishers"
     ],
-    "created_at": "2026-07-16T19:02:50+00:00",
-    "updated_at": "2026-07-16T19:02:50Z"
+    "created_at": "2026-07-17T08:08:34+00:00",
+    "updated_at": "2026-07-17T08:08:34Z"
+  },
+  {
+    "id": "449001579d19d340edb14e2b92d46e7d",
+    "title": "Noteworthy Picture Book and Novel Sequels: July 2026",
+    "author": "",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-16",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130366-2.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130366-2.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100856-noteworthy-picture-book-and-novel-sequels-july-2026.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-17T08:08:34+00:00",
+    "updated_at": "2026-07-17T08:08:34Z"
+  },
+  {
+    "id": "d05cd9a589d2f69adbdb15157d199d38",
+    "title": "The Shins Frontman James Mercer to Make His Children’s Debut",
+    "author": "Emma Kantor",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-16",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130341-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130341-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100853-the-shins-frontman-james-mercer-to-make-his-children-s-debut.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-17T08:08:34+00:00",
+    "updated_at": "2026-07-17T08:08:34Z"
+  },
+  {
+    "id": "235ac48e7a5bf34f25903da9ffe1bdce",
+    "title": "Together, Apart: PW Talks with Jaque Jours",
+    "author": "Iyana Jones",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-16",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130340-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130340-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100852-four-questions-for-jaque-jours.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-17T08:08:34+00:00",
+    "updated_at": "2026-07-17T08:08:34Z"
+  },
+  {
+    "id": "489a1e57bff377a3b3b93bb8075f4a11",
+    "title": "Karlie Kloss Taps Into Tech Background with STEM Picture Book",
+    "author": "Pamela Brill",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-16",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130339-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130339-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100840-karlie-kloss-taps-into-tech-background-with-stem-picture-book.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-17T08:08:34+00:00",
+    "updated_at": "2026-07-17T08:08:34Z"
+  },
+  {
+    "id": "7c4b8501763199ba0096fa13daa34979",
+    "title": "Owlkids Celebrates 50th Anniversary",
+    "author": "Ed Nawotka",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-16",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130326-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130326-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100830-owlkids-books-celebrates-50th-anniversary.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-17T08:08:34+00:00",
+    "updated_at": "2026-07-17T08:08:34Z"
+  },
+  {
+    "id": "4796d9232624d295764f55cef6342fc2",
+    "title": "New Kids’ and YA Books: Week of July 20, 2026",
+    "author": "",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-16",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130309-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130309-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100828-new-kids-and-ya-books-week-of-july-20-2026.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-17T08:08:34+00:00",
+    "updated_at": "2026-07-17T08:08:34Z"
   },
   {
     "id": "f77211d77b0a7a6fbad4fb798fe148de",
@@ -174,8 +320,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-16T19:02:50+00:00",
-    "updated_at": "2026-07-16T19:02:50Z"
+    "created_at": "2026-07-17T08:08:34+00:00",
+    "updated_at": "2026-07-17T08:08:34Z"
   },
   {
     "id": "1208efca0bc517cafe2a507b177e715b",
@@ -208,8 +354,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-16T19:02:50+00:00",
-    "updated_at": "2026-07-16T19:02:50Z"
+    "created_at": "2026-07-17T08:08:34+00:00",
+    "updated_at": "2026-07-17T08:08:34Z"
   },
   {
     "id": "5ce5bbf97d811307109f0ac6151c25c2",
@@ -242,8 +388,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-16T19:02:50+00:00",
-    "updated_at": "2026-07-16T19:02:50Z"
+    "created_at": "2026-07-17T08:08:34+00:00",
+    "updated_at": "2026-07-17T08:08:34Z"
   },
   {
     "id": "1a9f462bd7581dc0745763713645abb0",
@@ -280,8 +426,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-16T19:02:50+00:00",
-    "updated_at": "2026-07-16T19:02:50Z"
+    "created_at": "2026-07-17T08:08:34+00:00",
+    "updated_at": "2026-07-17T08:08:34Z"
   },
   {
     "id": "f9e1df8968d4c3dff66cd688810bba4f",
@@ -314,8 +460,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-16T19:02:50+00:00",
-    "updated_at": "2026-07-16T19:02:50Z"
+    "created_at": "2026-07-17T08:08:34+00:00",
+    "updated_at": "2026-07-17T08:08:34Z"
   },
   {
     "id": "152043813203b1be220f87cdb7fd1e87",
@@ -352,8 +498,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-16T19:02:50+00:00",
-    "updated_at": "2026-07-16T19:02:50Z"
+    "created_at": "2026-07-17T08:08:34+00:00",
+    "updated_at": "2026-07-17T08:08:34Z"
   },
   {
     "id": "a7788a7bb26083371e9b8049b19cabf5",
@@ -386,8 +532,8 @@
       "Weird Fiction",
       "publishers"
     ],
-    "created_at": "2026-07-16T19:02:50+00:00",
-    "updated_at": "2026-07-16T19:02:50Z"
+    "created_at": "2026-07-17T08:08:34+00:00",
+    "updated_at": "2026-07-17T08:08:34Z"
   },
   {
     "id": "6b87ec1854548b4a549839f7d38b891a",
@@ -454,8 +600,8 @@
       "publishers",
       "reading recommendations"
     ],
-    "created_at": "2026-07-16T19:02:50+00:00",
-    "updated_at": "2026-07-16T19:02:50Z"
+    "created_at": "2026-07-17T08:08:34+00:00",
+    "updated_at": "2026-07-17T08:08:34Z"
   },
   {
     "id": "f6e25cdfe92a9847f1e87ba2ba3a541a",
@@ -478,8 +624,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-16T19:02:50+00:00",
-    "updated_at": "2026-07-16T19:02:50Z"
+    "created_at": "2026-07-17T08:08:34+00:00",
+    "updated_at": "2026-07-17T08:08:34Z"
   },
   {
     "id": "920df1d0402f8cffc38110965ec35b73",
@@ -504,205 +650,7 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-16T19:02:50+00:00",
-    "updated_at": "2026-07-16T19:02:50Z"
-  },
-  {
-    "id": "9a5dd12211430b01195f53151092528c",
-    "title": "Book Club Picks: July 2026",
-    "author": "PW Staff",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-15",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130299-1.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130299-1.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/100817-book-club-picks-july-2026.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-16T19:02:50+00:00",
-    "updated_at": "2026-07-16T19:02:50Z"
-  },
-  {
-    "id": "ecf783202b56f8820a8f72c218099ce2",
-    "title": "Bloomsbury On Track for Record Year",
-    "author": "Jim Milliot",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Bloomsbury",
-    "published_date": "2026-07-15",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130323-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130323-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/100831-bloomsbury-on-track-for-record-year.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-16T19:02:50+00:00",
-    "updated_at": "2026-07-16T19:02:50Z"
-  },
-  {
-    "id": "5d809e59e502454c0fb8c937fedfbc53",
-    "title": "Christopher Nolan Says The Odyssey Addresses a Fantasy Movie Gap “That Hadn’t Been Filled”",
-    "author": "Matthew Byrd",
-    "description": "The director explains how his version of The Odyssey finally helps bring the story to life The post Christopher Nolan Says The Odyssey Addresses a Fantasy Movie Gap “That Hadn’t Been Filled” appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Christopher Nolan",
-      "Fantasy",
-      "Movies",
-      "News",
-      "Publishers",
-      "The Odyssey"
-    ],
-    "genre": [
-      "Fantasy"
-    ],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-14",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/matt-damon-the-odyssey-740x493.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/matt-damon-the-odyssey-740x493.jpg",
-    "article_url": "https://reactormag.com/christopher-nolan-the-odyssey-fantasy-gap/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Christopher Nolan",
-      "The Odyssey",
-      "fantasy",
-      "movies",
-      "news",
-      "publishers"
-    ],
-    "created_at": "2026-07-16T19:02:50+00:00",
-    "updated_at": "2026-07-16T19:02:50Z"
-  },
-  {
-    "id": "e0015ab715612ce1ead2a4e9f52293ae",
-    "title": "Why House of the Dragon Season 3 Changes What Happens to Rhaena",
-    "author": "Matthew Byrd",
-    "description": "The change to Rhaena's story could hint at bigger changes to come The post Why House of the Dragon Season 3 Changes What Happens to Rhaena appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Fantasy",
-      "Hbo",
-      "House Of The Dragon",
-      "News",
-      "Publishers",
-      "Television"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-14",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/06/house-of-the-dragon-301-phoebe-campbell-740x493.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/06/house-of-the-dragon-301-phoebe-campbell-740x493.jpg",
-    "article_url": "https://reactormag.com/house-of-the-dragon-rhaena-changes-explained/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "HBO",
-      "House of the Dragon",
-      "fantasy",
-      "news",
-      "publishers",
-      "television"
-    ],
-    "created_at": "2026-07-16T19:02:50+00:00",
-    "updated_at": "2026-07-16T19:02:50Z"
-  },
-  {
-    "id": "705ef5bc15ae4669d6bb424ac7b07258",
-    "title": "Loki Creator Michael Waldron Is Now Developing a Nova Movie for Marvel",
-    "author": "Molly Templeton",
-    "description": "It'd be cooler if it were a Cassandra Nova movie The post Loki Creator Michael Waldron Is Now Developing a Nova Movie for Marvel appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Comic Book Adaptations",
-      "Michael Waldron",
-      "News",
-      "Nova",
-      "Publishers",
-      "Superheroes"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-14",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2021/07/loki-ep5-1-740x408.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2021/07/loki-ep5-1-740x408.jpg",
-    "article_url": "https://reactormag.com/michael-waldron-nova-movie/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Nova",
-      "Superheroes",
-      "comic book adaptations",
-      "michael waldron",
-      "news",
-      "publishers"
-    ],
-    "created_at": "2026-07-16T19:02:50+00:00",
-    "updated_at": "2026-07-16T19:02:50Z"
-  },
-  {
-    "id": "7c3f7824205c992c9b3d940a1eb553eb",
-    "title": "Reading The Wheel of Time: Backward Leads Only to the Past in Towers of Midnight (Part 2)",
-    "author": "Stefan Raets",
-    "description": "Galad leads seven thousand Children of the Light through a deep and large swamp, taking a path deliberately chosen because it seems the least likely place for Asunawa to be looking for them. The men are struggling in the heat and the mud and the insects, and Dain Bornhald suggests that they turn back. Galad tells [...] The post Reading The Wheel of Time: Backward Leads Only to the Past in Towers of Midnight (Part 2) appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Brandon Sanderson",
-      "Epic Fantasy",
-      "Publishers",
-      "Reading The Wheel Of Time",
-      "Robert Jordan",
-      "The Wheel Of Time",
-      "Towers Of Midnight"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-14",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2021/11/ReadingWOT_TOMbook13-740x407.png",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2021/11/ReadingWOT_TOMbook13-740x407.png",
-    "article_url": "https://reactormag.com/reading-the-wheel-of-time-backward-leads-only-to-the-past-in-towers-of-midnight-part-2/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Brandon Sanderson",
-      "Epic Fantasy",
-      "Reading The Wheel of Time",
-      "Robert Jordan",
-      "The Wheel of Time",
-      "Towers of Midnight",
-      "publishers"
-    ],
-    "created_at": "2026-07-16T19:02:50+00:00",
-    "updated_at": "2026-07-16T19:02:50Z"
+    "created_at": "2026-07-17T08:08:34+00:00",
+    "updated_at": "2026-07-17T08:08:34Z"
   }
 ]
