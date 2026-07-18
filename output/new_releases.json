@@ -32,8 +32,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-07-17T19:00:14+00:00",
-    "updated_at": "2026-07-17T19:00:14Z"
+    "created_at": "2026-07-18T07:47:28+00:00",
+    "updated_at": "2026-07-18T07:47:28Z"
   },
   {
     "id": "87384648d92bc4552d5e62664e974dce",
@@ -68,8 +68,8 @@
       "publishers",
       "video game adaptations"
     ],
-    "created_at": "2026-07-17T19:00:14+00:00",
-    "updated_at": "2026-07-17T19:00:14Z"
+    "created_at": "2026-07-18T07:47:28+00:00",
+    "updated_at": "2026-07-18T07:47:28Z"
   },
   {
     "id": "62163240a535a307174f245c7d63e4db",
@@ -114,8 +114,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-07-17T19:00:14+00:00",
-    "updated_at": "2026-07-17T19:00:14Z"
+    "created_at": "2026-07-18T07:47:28+00:00",
+    "updated_at": "2026-07-18T07:47:28Z"
   },
   {
     "id": "78e7c44fd4ce9f5c72c0cd180227dac3",
@@ -146,13 +146,63 @@
       "publishers",
       "space exploration"
     ],
-    "created_at": "2026-07-17T19:00:14+00:00",
-    "updated_at": "2026-07-17T19:00:14Z"
+    "created_at": "2026-07-18T07:47:28+00:00",
+    "updated_at": "2026-07-18T07:47:28Z"
   },
   {
-    "id": "316b99909362aafc82711ea8763bf949",
-    "title": "Marvel Moves Comics Office to L.A., Announces New Editor",
-    "author": "Christian Holub",
+    "id": "153712ef438c5ac051300263d02fd46e",
+    "title": "Fall 2026 Writers to Watch: Manuia Heinrich",
+    "author": "Elaine Szewczyk",
+    "description": "In her YA debut, 'Salt Water Blood,' the Tahitian Chinese author looks behind the postcard surface of a fictional French Polynesian island.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [
+      "Fiction"
+    ],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-17",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130437-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130437-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100875-fall-2026-writers-to-watch-manuia-heinrich.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-18T07:47:28+00:00",
+    "updated_at": "2026-07-18T07:47:28Z"
+  },
+  {
+    "id": "13b912452eb20bc1c36138fcf3ddcabe",
+    "title": "Fall 2026 Writers to Watch: Fernanda Frick H.",
+    "author": "Elaine Szewczyk",
+    "description": "What started out in the 2010s as an idea for a Netflix series is now the Chilean animator's empowering middle grade graphic novel debut, 'Raise the Bar.'",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-17",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130436-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130436-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100874-fall-2026-writers-to-watch-fernanda-frick-h.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-18T07:47:28+00:00",
+    "updated_at": "2026-07-18T07:47:28Z"
+  },
+  {
+    "id": "8d154a79d6578006b2a6f6addba7da93",
+    "title": "Fall 2026 Writers to Watch: Seán Farrelly",
+    "author": "Iyana Jones",
     "description": "",
     "summary_ai": "",
     "categories": [
@@ -162,21 +212,193 @@
     "language": "English",
     "publisher": "Publishers Weekly",
     "published_date": "2026-07-17",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130387-1.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130387-1.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/100858-marvel-moves-comics-office-to-l-a-announces-new-editor-in-chief.html",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130435-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130435-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100873-fall-2026-writers-to-watch-se-n-farrelly.html",
     "source": "Publishers Weekly",
     "source_type": "rss",
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-17T19:00:14+00:00",
-    "updated_at": "2026-07-17T19:00:14Z"
+    "created_at": "2026-07-18T07:47:28+00:00",
+    "updated_at": "2026-07-18T07:47:28Z"
   },
   {
-    "id": "58df93d2a1f5e1483f2a4e314165bb5a",
-    "title": "Norway’s Beat Spins Out Zedoc, a New Agentic AI Platform",
-    "author": "Ed Nawotka",
+    "id": "8bc5c19e72b5684272cb3f0d731965da",
+    "title": "Falll 2026 Writers to Watch: Stacey Yu",
+    "author": "Matt Seidel",
+    "description": "The debut author spins a story of a floundering young woman’s feline fixation in 'Kitten.'",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-17",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130434-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130434-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100872-falll-2026-writers-to-watch-stacey-yu.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-18T07:47:28+00:00",
+    "updated_at": "2026-07-18T07:47:28Z"
+  },
+  {
+    "id": "845986412f2f2e0cedcacd5705232c3c",
+    "title": "Falll 2026 Writers to Watch: Eloise Rodger",
+    "author": "Matt Seidel",
+    "description": "In the recent Trinity College graduate’s debut novel, 'Death’s a Bitch,' a young woman strikes a strange bargain with the grim reaper.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-17",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130433-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130433-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100871-falll-2026-writers-to-watch-eloise-rodger.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-18T07:47:28+00:00",
+    "updated_at": "2026-07-18T07:47:28Z"
+  },
+  {
+    "id": "4955ce387f71fd60ed7951775175415b",
+    "title": "Falll 2026 Writers to Watch: Leila Renee",
+    "author": "Matt Seidel",
+    "description": "A new teacher struggles to cope with the pressure in 'Soft Spots,' a novel of odd-couple roommates and complex family ties.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-17",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130432-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130432-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100870-falll-2026-writers-to-watch-leila-renee.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-18T07:47:28+00:00",
+    "updated_at": "2026-07-18T07:47:28Z"
+  },
+  {
+    "id": "690e43a028c632f1dbad0958a1cc70d4",
+    "title": "Falll 2026 Writers to Watch: Keletso Mopai",
+    "author": "Matt Seidel",
+    "description": "The legacy of apartheid in South Africa shaped the author’s debut novel, 'We Belong to the Trees.'",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-17",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130431-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130431-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100869-falll-2026-writers-to-watch-keletso-mopai.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-18T07:47:28+00:00",
+    "updated_at": "2026-07-18T07:47:28Z"
+  },
+  {
+    "id": "f18c70d09946517982792fef7c3ab6e1",
+    "title": "Falll 2026 Writers to Watch: Devyn Defoe",
+    "author": "Matt Seidel",
+    "description": "For her surreal debut novel, 'Burnside,' the author drew on the history of serial killers connected to her hometown of Sacramento.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [
+      "History"
+    ],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-17",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130430-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130430-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100868-falll-2026-writers-to-watch-devyn-defoe.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-18T07:47:28+00:00",
+    "updated_at": "2026-07-18T07:47:28Z"
+  },
+  {
+    "id": "85641c49fa4a0399ec5b65b1dffd1b81",
+    "title": "Falll 2026 Writers to Watch: K Chiucarello",
+    "author": "Matt Seidel",
+    "description": "A nanny for the rich and powerful contends with baby fever and an abusive ex in 'Nanny Nanny.'",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-17",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130429-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130429-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100867-falll-2026-writers-to-watch-k-chiucarello.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-18T07:47:28+00:00",
+    "updated_at": "2026-07-18T07:47:28Z"
+  },
+  {
+    "id": "0a99e528ae2f7175e8cc54809d517ea4",
+    "title": "Falll 2026 Writers to Watch: Claire Carusillo",
+    "author": "Matt Seidel",
+    "description": "The author embellishes her family’s tragic history in 'The Responsible Party,' about a mother and daughter who miraculously survive two shipwrecks.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [
+      "History"
+    ],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-17",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130428-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130428-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100866-falll-2026-writers-to-watch-claire-carusillo.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-18T07:47:28+00:00",
+    "updated_at": "2026-07-18T07:47:28Z"
+  },
+  {
+    "id": "11d35cb333bb16fa384f9ec33fb94d58",
+    "title": "This Week’s Bestsellers: July 20, 2026",
+    "author": "Edited by Carolyn Juris",
     "description": "",
     "summary_ai": "",
     "categories": [
@@ -186,16 +408,118 @@
     "language": "English",
     "publisher": "Publishers Weekly",
     "published_date": "2026-07-17",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130367-1.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130367-1.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100855-norway-s-beat-spins-out-zedoc-a-new-agentic-ai-platform.html",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130426-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130426-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/100865-this-week-s-bestsellers-july-20-2026.html",
     "source": "Publishers Weekly",
     "source_type": "rss",
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-17T19:00:14+00:00",
-    "updated_at": "2026-07-17T19:00:14Z"
+    "created_at": "2026-07-18T07:47:28+00:00",
+    "updated_at": "2026-07-18T07:47:28Z"
+  },
+  {
+    "id": "68ef6f9587bee211a6e9262f52a58c08",
+    "title": "Children’s Fall 2026 Writers to Watch",
+    "author": "",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-17",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130412-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130412-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100864-children-s-fall-2026-writers-to-watch.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-18T07:47:28+00:00",
+    "updated_at": "2026-07-18T07:47:28Z"
+  },
+  {
+    "id": "5bc050e2e30e0a34b3007b78598c2ebc",
+    "title": "Fall 2026 Writers to Watch",
+    "author": "",
+    "description": "The season’s most promising fiction debuts are distinguished by their authors’ singular creations, including an eerily cute cat, a phantasmagoric city, and an immaculately dressed grim reaper.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [
+      "Fiction"
+    ],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-17",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130438-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130438-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100863-fall-2026-writers-to-watch.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-18T07:47:28+00:00",
+    "updated_at": "2026-07-18T07:47:28Z"
+  },
+  {
+    "id": "f0d63a8a5e91a4991957c0f704770b5b",
+    "title": "Romance Bookstores Are Surging Across the Country",
+    "author": "Claire Kirch",
+    "description": "In small towns and rural areas, booksellers are opening romance-focused stores that double as community spaces.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [
+      "Romance"
+    ],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-17",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130405-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130405-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/100861-romance-bookstores-are-surging-across-the-country.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-18T07:47:28+00:00",
+    "updated_at": "2026-07-18T07:47:28Z"
+  },
+  {
+    "id": "67dfadec7a37e616d97acfe3f7128567",
+    "title": "Book Deals: Week of July 20, 2026",
+    "author": "Edited by Sophia Stewart",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-17",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130409-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130409-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/book-deals/article/100860-book-deals-week-of-july-20-2026.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-18T07:47:28+00:00",
+    "updated_at": "2026-07-18T07:47:28Z"
   },
   {
     "id": "2999cb8f92f08afcf40273e1ca71761d",
@@ -228,399 +552,7 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-17T19:00:14+00:00",
-    "updated_at": "2026-07-17T19:00:14Z"
-  },
-  {
-    "id": "d1b130ea474d793fedc6af30219e7761",
-    "title": "Five Books About Battling Doubles, Doppelgängers, and Clones",
-    "author": "Sarah",
-    "description": "From evil twins to alter egos that take on a life of their own, you're always your own worst enemy... The post Five Books About Battling Doubles, Doppelgängers, and Clones appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Annie Neugebauer",
-      "Blake Crouch",
-      "Blog",
-      "Clones",
-      "Horror",
-      "Publishers",
-      "Reading Recommendations",
-      "Stephen King",
-      "Tade Thompson",
-      "Tatiana Schlote-Bonne"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-16",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2019/06/murders-of-molly-southbourne-cover-email.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2019/06/murders-of-molly-southbourne-cover-email.jpg",
-    "article_url": "https://reactormag.com/five-books-about-battling-doubles-doppelgangers-and-clones/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Annie Neugebauer",
-      "Blake Crouch",
-      "Blog",
-      "Horror",
-      "Stephen King",
-      "Tade Thompson",
-      "Tatiana Schlote-Bonne",
-      "clones",
-      "publishers",
-      "reading recommendations"
-    ],
-    "created_at": "2026-07-17T19:00:14+00:00",
-    "updated_at": "2026-07-17T19:00:14Z"
-  },
-  {
-    "id": "4261f045c5fb15b01cb703f6c4171153",
-    "title": "The Dangers of Dating: Deadly Attraction, Double Date, and Killer’s Kiss",
-    "author": "Leah Schnelbach",
-    "description": "Oh no, not the secret THIRD identical sister! The post The Dangers of Dating: Deadly Attraction , Double Date , and Killer’s Kiss appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Diane Hoh",
-      "Horror",
-      "Nostalgia",
-      "Publishers",
-      "R.L. Stine",
-      "Teen Horror Time Machine",
-      "Ya",
-      "Young Adult"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-16",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/killers-kiss-header-740x407.png",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/killers-kiss-header-740x407.png",
-    "article_url": "https://reactormag.com/teen-horror-time-machine-deadly-attraction-double-date-and-killers-kiss/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Diane Hoh",
-      "Horror",
-      "R.L. Stine",
-      "Teen Horror Time Machine",
-      "YA",
-      "Young Adult",
-      "nostalgia",
-      "publishers"
-    ],
-    "created_at": "2026-07-17T19:00:14+00:00",
-    "updated_at": "2026-07-17T19:00:14Z"
-  },
-  {
-    "id": "449001579d19d340edb14e2b92d46e7d",
-    "title": "Noteworthy Picture Book and Novel Sequels: July 2026",
-    "author": "",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-16",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130366-2.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130366-2.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100856-noteworthy-picture-book-and-novel-sequels-july-2026.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-17T19:00:14+00:00",
-    "updated_at": "2026-07-17T19:00:14Z"
-  },
-  {
-    "id": "d05cd9a589d2f69adbdb15157d199d38",
-    "title": "The Shins Frontman James Mercer to Make His Children’s Debut",
-    "author": "Emma Kantor",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-16",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130341-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130341-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100853-the-shins-frontman-james-mercer-to-make-his-children-s-debut.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-17T19:00:14+00:00",
-    "updated_at": "2026-07-17T19:00:14Z"
-  },
-  {
-    "id": "235ac48e7a5bf34f25903da9ffe1bdce",
-    "title": "Together, Apart: PW Talks with Jaque Jours",
-    "author": "Iyana Jones",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-16",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130340-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130340-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100852-four-questions-for-jaque-jours.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-17T19:00:14+00:00",
-    "updated_at": "2026-07-17T19:00:14Z"
-  },
-  {
-    "id": "489a1e57bff377a3b3b93bb8075f4a11",
-    "title": "Karlie Kloss Taps Into Tech Background with STEM Picture Book",
-    "author": "Pamela Brill",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-16",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130339-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130339-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100840-karlie-kloss-taps-into-tech-background-with-stem-picture-book.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-17T19:00:14+00:00",
-    "updated_at": "2026-07-17T19:00:14Z"
-  },
-  {
-    "id": "7c4b8501763199ba0096fa13daa34979",
-    "title": "Owlkids Celebrates 50th Anniversary",
-    "author": "Ed Nawotka",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-16",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130326-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130326-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100830-owlkids-books-celebrates-50th-anniversary.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-17T19:00:14+00:00",
-    "updated_at": "2026-07-17T19:00:14Z"
-  },
-  {
-    "id": "4796d9232624d295764f55cef6342fc2",
-    "title": "New Kids’ and YA Books: Week of July 20, 2026",
-    "author": "",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-16",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130309-1.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130309-1.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100828-new-kids-and-ya-books-week-of-july-20-2026.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-17T19:00:14+00:00",
-    "updated_at": "2026-07-17T19:00:14Z"
-  },
-  {
-    "id": "f77211d77b0a7a6fbad4fb798fe148de",
-    "title": "Marissa Stapley Gets ‘Lucky’ in Hollywood",
-    "author": "Ed Nawotka",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-16",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130338-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130338-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/page-to-screen/article/100837-marissa-stapley-gets-lucky-in-hollywood.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-17T19:00:14+00:00",
-    "updated_at": "2026-07-17T19:00:14Z"
-  },
-  {
-    "id": "1208efca0bc517cafe2a507b177e715b",
-    "title": "IMAX Says It Can’t Build More 70mm Projectors for The Odyssey",
-    "author": "Matthew Byrd",
-    "description": "The real odyssey are the tickets we tried to get along the way The post IMAX Says It Can’t Build More 70mm Projectors for The Odyssey appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Fantasy",
-      "Movies",
-      "News",
-      "Publishers",
-      "The Odyssey"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-15",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/Nolan-The-Odyssey-soldier-740x423.png",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/Nolan-The-Odyssey-soldier-740x423.png",
-    "article_url": "https://reactormag.com/the-odyssey-70mm-imax-locations-limited-explained/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "The Odyssey",
-      "fantasy",
-      "movies",
-      "news",
-      "publishers"
-    ],
-    "created_at": "2026-07-17T19:00:14+00:00",
-    "updated_at": "2026-07-17T19:00:14Z"
-  },
-  {
-    "id": "5ce5bbf97d811307109f0ac6151c25c2",
-    "title": "Obsession Gets a Surprise Streaming Release Date on Peacock",
-    "author": "Matthew Byrd",
-    "description": "You'll be able to stream 2026's biggest surprise hit later this week The post Obsession Gets a Surprise Streaming Release Date on Peacock appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Horror",
-      "Movies",
-      "News",
-      "Obsession",
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-15",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/Obsession-740x416.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/Obsession-740x416.jpg",
-    "article_url": "https://reactormag.com/obsession-gets-a-surprise-streaming-release-date-on-peacock/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Horror",
-      "Obsession",
-      "movies",
-      "news",
-      "publishers"
-    ],
-    "created_at": "2026-07-17T19:00:14+00:00",
-    "updated_at": "2026-07-17T19:00:14Z"
-  },
-  {
-    "id": "1a9f462bd7581dc0745763713645abb0",
-    "title": "The Batman Part II Will Skulk Into Theaters in 2028 After Release Date Delay",
-    "author": "Molly Templeton",
-    "description": "The delay comes with new footage from Matt Reeves' \"camera test\" The post The Batman Part II Will Skulk Into Theaters in 2028 After Release Date Delay appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Comic Book Adaptations",
-      "Matt Reeves",
-      "Movies",
-      "News",
-      "Publishers",
-      "Robert Pattinson",
-      "The Batman: Part Ii"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-15",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/Batman-Robert-Pattinson-740x465.png",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/Batman-Robert-Pattinson-740x465.png",
-    "article_url": "https://reactormag.com/the-batman-part-ii-release-2028-delay/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Matt Reeves",
-      "Robert Pattinson",
-      "The Batman: Part II",
-      "comic book adaptations",
-      "movies",
-      "news",
-      "publishers"
-    ],
-    "created_at": "2026-07-17T19:00:14+00:00",
-    "updated_at": "2026-07-17T19:00:14Z"
-  },
-  {
-    "id": "f9e1df8968d4c3dff66cd688810bba4f",
-    "title": "The Vampire Lestat’s Live Concert Will Stream on AMC+",
-    "author": "Molly Templeton",
-    "description": "Please give all these people Emmys already The post The Vampire Lestat ’s Live Concert Will Stream on AMC+ appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Amc Plus",
-      "Blog",
-      "News",
-      "Publishers",
-      "Sam Reid",
-      "The Vampire Lestat"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-15",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/Vampire-Lestat-NW-0405-740x492.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/Vampire-Lestat-NW-0405-740x492.jpg",
-    "article_url": "https://reactormag.com/the-vampire-lestat-live-concert-streaming-release-date/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "AMC Plus",
-      "Blog",
-      "Sam Reid",
-      "The Vampire Lestat",
-      "news",
-      "publishers"
-    ],
-    "created_at": "2026-07-17T19:00:14+00:00",
-    "updated_at": "2026-07-17T19:00:14Z"
+    "created_at": "2026-07-18T07:47:28+00:00",
+    "updated_at": "2026-07-18T07:47:28Z"
   }
 ]
