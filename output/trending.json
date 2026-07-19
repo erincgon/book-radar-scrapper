@@ -1,5 +1,78 @@
 [
   {
+    "id": "a1b108307aa876ce63772109e4b765fa",
+    "title": "The Scariest Place in New Jersey Set the Stage for Her Novel",
+    "author": "Elisabeth Egan",
+    "description": "Caitlin Mullen drew on eerie expeditions to the Pine Barrens for her new mystery novel, “Heather.”",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Heather (Book)",
+      "Mullen, Caitlin",
+      "New Jersey",
+      "Pine Barrens (Nj)",
+      "Please See Us (Book)",
+      "Writing And Writers"
+    ],
+    "genre": [
+      "Mystery"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-19",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/19/multimedia/19tbr-mullen-2-thkl/19tbr-mullen-2-thkl-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/19/multimedia/19tbr-mullen-2-thkl/19tbr-mullen-2-thkl-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/19/books/review/caitlin-mullen-heather-pine-barrens.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Heather (Book)",
+      "Mullen, Caitlin",
+      "New Jersey",
+      "Pine Barrens (NJ)",
+      "Please See Us (Book)",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-07-19T18:59:11+00:00",
+    "updated_at": "2026-07-19T18:59:11Z"
+  },
+  {
+    "id": "40396ff661be4fb8af6b7e98d2f90039",
+    "title": "Could AI be conscious?",
+    "author": "William MacAskill and Lucius Caviola",
+    "description": "Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications In January, the AI company Anthropic published a new constitution for Claude, its most advanced large language model (LLM), which contained the comment: “We are caught in a difficult position where we neither want to overstate the likelihood of Claude’s moral patienthood nor dismiss it out of hand.” A month later, Anthropic’s CEO Dario Amodei went on a podcast and said his company couldn’t rule out the possibility that Claude was conscious. Philosopher David Chalmers, who coined the phrase “the hard problem of consciousness”, has said there is a significant chance of conscious LLMs within a decade. And what about Claude itself? When asked during testing to estimate the probability that it is a moral patient , meaning that its wellbeing matters in its own right, it gave numbers ranging from 5% to 40% and stressed how uncertain it was. Modern AI systems are extraordinarily complex, and they are advancing fast. In terms of structural complexity and computational scale, by some measures a few are already in the range of a mouse brain, and at recent growth rates, they could reach the...",
+    "summary_ai": "",
+    "categories": [
+      "Ai (Artificial Intelligence)",
+      "Anthropic",
+      "Books",
+      "Culture",
+      "Technology"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Anthropic",
+    "published_date": "2026-07-19",
+    "thumbnail": "https://i.guim.co.uk/img/media/baf01a2fa2c02f915864fa10d32a7dc4ccfc0297/267_0_1531_1224/master/1531.jpg?width=700&quality=85&auto=format&fit=max&s=99c6067861d92eb55b9376cb7844a9a9",
+    "cover_large": "https://i.guim.co.uk/img/media/baf01a2fa2c02f915864fa10d32a7dc4ccfc0297/267_0_1531_1224/master/1531.jpg?width=700&quality=85&auto=format&fit=max&s=99c6067861d92eb55b9376cb7844a9a9",
+    "article_url": "https://www.anthropic.com/constitution",
+    "source": "Anthropic",
+    "source_type": "rss",
+    "tags": [
+      "AI (artificial intelligence)",
+      "Anthropic",
+      "Books",
+      "Culture",
+      "Technology",
+      "books"
+    ],
+    "created_at": "2026-07-19T18:59:11+00:00",
+    "updated_at": "2026-07-19T18:59:11Z"
+  },
+  {
     "id": "ba4e532f53719e86015f05cf1438ae73",
     "title": "What to Know Before Seeing ‘The Odyssey’: Plot, Characters and More",
     "author": "Sarah Bahr",
@@ -36,8 +109,8 @@
       "The Odyssey (2026) (Movie)",
       "books"
     ],
-    "created_at": "2026-07-19T08:15:30+00:00",
-    "updated_at": "2026-07-19T08:15:30Z"
+    "created_at": "2026-07-19T18:59:11+00:00",
+    "updated_at": "2026-07-19T18:59:11Z"
   },
   {
     "id": "108ead9a89b9ad5b4d447db40500938d",
@@ -73,8 +146,8 @@
       "Psychology",
       "books"
     ],
-    "created_at": "2026-07-19T08:15:30+00:00",
-    "updated_at": "2026-07-19T08:15:30Z"
+    "created_at": "2026-07-19T18:59:11+00:00",
+    "updated_at": "2026-07-19T18:59:11Z"
   },
   {
     "id": "5ec1c31f5157da86429795ecfa61f56c",
@@ -121,8 +194,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-19T08:15:30+00:00",
-    "updated_at": "2026-07-19T08:15:30Z"
+    "created_at": "2026-07-19T18:59:11+00:00",
+    "updated_at": "2026-07-19T18:59:11Z"
   },
   {
     "id": "61ca3aedcfe2b32ecd1b4dcf09b4615b",
@@ -158,8 +231,8 @@
       "Queen Camilla",
       "books"
     ],
-    "created_at": "2026-07-19T08:15:30+00:00",
-    "updated_at": "2026-07-19T08:15:30Z"
+    "created_at": "2026-07-19T18:59:11+00:00",
+    "updated_at": "2026-07-19T18:59:11Z"
   },
   {
     "id": "8f1cc28dc8be6bc70b88a587a4d4c2c4",
@@ -192,8 +265,8 @@
       "Poetry",
       "books"
     ],
-    "created_at": "2026-07-19T08:15:30+00:00",
-    "updated_at": "2026-07-19T08:15:30Z"
+    "created_at": "2026-07-19T18:59:11+00:00",
+    "updated_at": "2026-07-19T18:59:11Z"
   },
   {
     "id": "fdf202176a839950f16df305d87760a9",
@@ -225,8 +298,8 @@
       "Shops and shopping",
       "books"
     ],
-    "created_at": "2026-07-19T08:15:30+00:00",
-    "updated_at": "2026-07-19T08:15:30Z"
+    "created_at": "2026-07-19T18:59:11+00:00",
+    "updated_at": "2026-07-19T18:59:11Z"
   },
   {
     "id": "dcf175e3c5eabdbfe19bc9f893ee6e48",
@@ -257,8 +330,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-19T08:15:30+00:00",
-    "updated_at": "2026-07-19T08:15:30Z"
+    "created_at": "2026-07-19T18:59:11+00:00",
+    "updated_at": "2026-07-19T18:59:11Z"
   },
   {
     "id": "18df0f18b6cff67bd343c482bb054561",
@@ -293,8 +366,8 @@
       "Thrillers",
       "books"
     ],
-    "created_at": "2026-07-19T08:15:30+00:00",
-    "updated_at": "2026-07-19T08:15:30Z"
+    "created_at": "2026-07-19T18:59:11+00:00",
+    "updated_at": "2026-07-19T18:59:11Z"
   },
   {
     "id": "41310b6cfc8909f953c2e5c46c5fd0dc",
@@ -326,40 +399,8 @@
       "horror",
       "reviews"
     ],
-    "created_at": "2026-07-19T08:15:30+00:00",
-    "updated_at": "2026-07-19T08:15:30Z"
-  },
-  {
-    "id": "915a5fe39f8be70c0b297bd21f08f3c8",
-    "title": "The Most Read Books on Goodreads This Week",
-    "author": "Community",
-    "description": "The most read books on Goodreads this week include historical fiction, a tradwife thriller, a summer romance, and more.",
-    "summary_ai": "",
-    "categories": [
-      "Breaking In Books",
-      "Lists",
-      "Reviews"
-    ],
-    "genre": [
-      "Fiction",
-      "Romance",
-      "Thriller"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-17",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/Dominion-The-Silk-and-Iron-Trilogy-Book-1-cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/Dominion-The-Silk-and-Iron-Trilogy-Book-1-cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/most-read-books-on-goodreads-july-17-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Lists",
-      "breaking in books",
-      "reviews"
-    ],
-    "created_at": "2026-07-19T08:15:30+00:00",
-    "updated_at": "2026-07-19T08:15:30Z"
+    "created_at": "2026-07-19T18:59:12+00:00",
+    "updated_at": "2026-07-19T18:59:12Z"
   },
   {
     "id": "977a9f3a1e9d466c279222601c26e81e",
@@ -392,8 +433,8 @@
       "News",
       "reviews"
     ],
-    "created_at": "2026-07-19T08:15:30+00:00",
-    "updated_at": "2026-07-19T08:15:30Z"
+    "created_at": "2026-07-19T18:59:12+00:00",
+    "updated_at": "2026-07-19T18:59:12Z"
   },
   {
     "id": "1942d09ed166a91962152b1ba195d1e7",
@@ -420,8 +461,8 @@
       "The Stack",
       "reviews"
     ],
-    "created_at": "2026-07-19T08:15:30+00:00",
-    "updated_at": "2026-07-19T08:15:30Z"
+    "created_at": "2026-07-19T18:59:12+00:00",
+    "updated_at": "2026-07-19T18:59:12Z"
   },
   {
     "id": "fcc3e320c807d707043ec6d9efd0f3d8",
@@ -454,8 +495,8 @@
       "Leiby, Alison",
       "books"
     ],
-    "created_at": "2026-07-19T08:15:30+00:00",
-    "updated_at": "2026-07-19T08:15:30Z"
+    "created_at": "2026-07-19T18:59:11+00:00",
+    "updated_at": "2026-07-19T18:59:11Z"
   },
   {
     "id": "7b0e16750539f897f805ec099434fdec",
@@ -484,8 +525,8 @@
       "I Want You to Be Happy (Book)",
       "books"
     ],
-    "created_at": "2026-07-19T08:15:30+00:00",
-    "updated_at": "2026-07-19T08:15:30Z"
+    "created_at": "2026-07-19T18:59:11+00:00",
+    "updated_at": "2026-07-19T18:59:11Z"
   },
   {
     "id": "18b33ee92dab8c23880873b2c67a627b",
@@ -524,39 +565,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-19T08:15:30+00:00",
-    "updated_at": "2026-07-19T08:15:30Z"
-  },
-  {
-    "id": "0cd13e97af516ee5947d2805cd4bec48",
-    "title": "National Year of Reading should extend to a decade, inquiry says",
-    "author": "Ella Creamer",
-    "description": "The education committee also proposed a National Reading Guarantee, ensuring all children have frequent opportunities to enjoy reading The National Year of Reading should be extended to a National Decade of Reading, an education committee inquiry into reading for pleasure has concluded. The government should also commit to a National Reading Guarantee that would ensure all children have regular opportunities to enjoy reading, the committee argues. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Education",
-      "Literacy"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-16",
-    "thumbnail": "https://i.guim.co.uk/img/media/274e4a5e0a94fb6eb7deaed379b882cb16664f23/853_0_4267_3413/master/4267.jpg?width=700&quality=85&auto=format&fit=max&s=b68850760d4553b9c898895ea3fd522f",
-    "cover_large": "https://i.guim.co.uk/img/media/274e4a5e0a94fb6eb7deaed379b882cb16664f23/853_0_4267_3413/master/4267.jpg?width=700&quality=85&auto=format&fit=max&s=b68850760d4553b9c898895ea3fd522f",
-    "article_url": "https://www.theguardian.com/books/2026/jul/17/national-year-of-reading-should-extend-to-a-decade-inquiry-says",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Education",
-      "Literacy",
-      "books"
-    ],
-    "created_at": "2026-07-19T08:15:30+00:00",
-    "updated_at": "2026-07-19T08:15:30Z"
+    "created_at": "2026-07-19T18:59:11+00:00",
+    "updated_at": "2026-07-19T18:59:11Z"
   },
   {
     "id": "524c605cd8982891e747fe848342f8df",
@@ -598,8 +608,8 @@
       "True crime books",
       "books"
     ],
-    "created_at": "2026-07-19T08:15:30+00:00",
-    "updated_at": "2026-07-19T08:15:30Z"
+    "created_at": "2026-07-19T18:59:11+00:00",
+    "updated_at": "2026-07-19T18:59:11Z"
   },
   {
     "id": "81c985665e3e1046d365a1ea02fe0f86",
@@ -631,8 +641,8 @@
       "Social history",
       "books"
     ],
-    "created_at": "2026-07-19T08:15:30+00:00",
-    "updated_at": "2026-07-19T08:15:30Z"
+    "created_at": "2026-07-19T18:59:11+00:00",
+    "updated_at": "2026-07-19T18:59:11Z"
   },
   {
     "id": "52b60bb8c2058c3a2b8e3abd72d3ef67",
@@ -671,8 +681,8 @@
       "The Odyssey (Book)",
       "books"
     ],
-    "created_at": "2026-07-19T08:15:30+00:00",
-    "updated_at": "2026-07-19T08:15:30Z"
+    "created_at": "2026-07-19T18:59:11+00:00",
+    "updated_at": "2026-07-19T18:59:11Z"
   },
   {
     "id": "d39553355fe7cae217188dba4d546d2f",
@@ -700,7 +710,7 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-07-19T08:15:30+00:00",
-    "updated_at": "2026-07-19T08:15:30Z"
+    "created_at": "2026-07-19T18:59:11+00:00",
+    "updated_at": "2026-07-19T18:59:11Z"
   }
 ]
