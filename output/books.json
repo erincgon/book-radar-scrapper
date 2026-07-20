@@ -1,5 +1,179 @@
 [
   {
+    "id": "858f2d3ff308755af33d96db97a7ab1b",
+    "title": "Book Review: ‘Cool Machine,’ by Colson Whitehead",
+    "author": "Dwight Garner",
+    "description": "The final installment of his Harlem crime trilogy is full of heists, cultural shifts and nostalgia for 1980s New York.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Cool Machine (Book)",
+      "Internal-Open-Access-From-Nl",
+      "Whitehead, Colson"
+    ],
+    "genre": [
+      "Crime"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-20",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/20/multimedia/20whitehead-review-pmfq/20whitehead-review-pmfq-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/20/multimedia/20whitehead-review-pmfq/20whitehead-review-pmfq-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/20/books/review/colson-whitehead-cool-machine.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Cool Machine (Book)",
+      "Whitehead, Colson",
+      "books",
+      "internal-open-access-from-nl"
+    ],
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
+  },
+  {
+    "id": "f1aa387cc3bacd108bbb7d3bf49005ab",
+    "title": "To Sell Homer’s ‘Odyssey,’ Book Publishers Get Creative",
+    "author": "MJ Franklin",
+    "description": "The market for the epic poem is as crowded as a certain Ithacan palace, and publishers have had to get crafty to attract readers to their editions.",
+    "summary_ai": "",
+    "categories": [
+      "Book Trade And Publishing",
+      "Books",
+      "Books And Literature",
+      "Fagles, Robert",
+      "Homer",
+      "Mendelsohn, Daniel",
+      "Movies",
+      "Nolan, Christopher",
+      "Odyssey (Book)",
+      "Poetry And Poets",
+      "The Odyssey (2026) (Movie)",
+      "Wilson, Emily (1971- )"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-20",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/20/multimedia/20TBR-odyssey-editions-bgmp/20TBR-odyssey-editions-bgmp-mediumSquareAt3X-v2.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/20/multimedia/20TBR-odyssey-editions-bgmp/20TBR-odyssey-editions-bgmp-mediumSquareAt3X-v2.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/20/books/odyssey-book-editions.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Book Trade and Publishing",
+      "Books and Literature",
+      "Fagles, Robert",
+      "Homer",
+      "Mendelsohn, Daniel",
+      "Movies",
+      "Nolan, Christopher",
+      "Odyssey (Book)",
+      "Poetry and Poets",
+      "The Odyssey (2026) (Movie)",
+      "Wilson, Emily (1971- )",
+      "books"
+    ],
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
+  },
+  {
+    "id": "99265ff59b146e2187f20e177d9ba3f1",
+    "title": "Book Review: ‘The Lost Founder,’ by Jesse Wegman",
+    "author": "Claire Rydell Arcenas",
+    "description": "In “The Lost Founder,” the journalist Jesse Wegman looks back at a largely forgotten and singular voice that helped make the United States what it is today.",
+    "summary_ai": "",
+    "categories": [
+      "Adams, John (1735-1826)",
+      "Books",
+      "Books And Literature",
+      "Constitution (Us)",
+      "Content Type: Personal Profile",
+      "Democracy (Theory And Philosophy)",
+      "Elections, State Legislature",
+      "Electoral College",
+      "History (Academic Subject)",
+      "The Lost Founder: James Wilson And The Forgotten Fight For A Peoples Constitution (Book)",
+      "United States",
+      "United States Politics And Government",
+      "United States Semiquincentennial (2026)",
+      "Wegman, Jesse",
+      "Wilson, James (1742-98)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-20",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/20/arts/20TBR-Wegman-Review/20TBR-Wegman-Review-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/20/arts/20TBR-Wegman-Review/20TBR-Wegman-Review-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/20/books/review/the-lost-founder-jesse-wegman.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Adams, John (1735-1826)",
+      "Books and Literature",
+      "Constitution (US)",
+      "Content Type: Personal Profile",
+      "Democracy (Theory and Philosophy)",
+      "Elections, State Legislature",
+      "Electoral College",
+      "History (Academic Subject)",
+      "The Lost Founder: James Wilson and the Forgotten Fight for a Peoples Constitution (Book)",
+      "United States",
+      "United States Politics and Government",
+      "United States Semiquincentennial (2026)",
+      "Wegman, Jesse",
+      "Wilson, James (1742-98)",
+      "books"
+    ],
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
+  },
+  {
+    "id": "a1b108307aa876ce63772109e4b765fa",
+    "title": "The Scariest Place in New Jersey Set the Stage for Her Novel",
+    "author": "Elisabeth Egan",
+    "description": "Caitlin Mullen drew on eerie expeditions to the Pine Barrens for her new mystery novel, “Heather.”",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Heather (Book)",
+      "Mullen, Caitlin",
+      "New Jersey",
+      "Pine Barrens (Nj)",
+      "Please See Us (Book)",
+      "Writing And Writers"
+    ],
+    "genre": [
+      "Mystery"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-20",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/19/multimedia/19tbr-mullen-2-thkl/19tbr-mullen-2-thkl-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/19/multimedia/19tbr-mullen-2-thkl/19tbr-mullen-2-thkl-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/19/books/review/caitlin-mullen-heather-pine-barrens.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Heather (Book)",
+      "Mullen, Caitlin",
+      "New Jersey",
+      "Pine Barrens (NJ)",
+      "Please See Us (Book)",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
+  },
+  {
     "id": "ba4e532f53719e86015f05cf1438ae73",
     "title": "What to Know Before Seeing ‘The Odyssey’: Plot, Characters and More",
     "author": "Sarah Bahr",
@@ -36,8 +210,8 @@
       "The Odyssey (2026) (Movie)",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "d920e1004dd8ab340fc506a88d646969",
@@ -67,8 +241,8 @@
       "Film books",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "4e5f3ba5ed35b16c70eaf9283c0b5aab",
@@ -96,50 +270,39 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
-    "id": "a1b108307aa876ce63772109e4b765fa",
-    "title": "The Scariest Place in New Jersey Set the Stage for Her Novel",
-    "author": "Elisabeth Egan",
-    "description": "Caitlin Mullen drew on eerie expeditions to the Pine Barrens for her new mystery novel, “Heather.”",
+    "id": "32ffa174a93f29d78ffd2c412f59289f",
+    "title": "Tell us: what have you been reading this month?",
+    "author": "Guardian community team",
+    "description": "We would like to hear about the books you’ve particularly enjoyed this month As part of The Guardian’s “ what we’re reading ” series, we would like to hear about the books you’ve particularly enjoyed this month. Have you read a book in recent weeks – fiction or non-fiction – that you’d recommend? Tell us all about it below. Continue reading...",
     "summary_ai": "",
     "categories": [
       "Books",
-      "Books And Literature",
-      "Content Type: Personal Profile",
-      "Heather (Book)",
-      "Mullen, Caitlin",
-      "New Jersey",
-      "Pine Barrens (Nj)",
-      "Please See Us (Book)",
-      "Writing And Writers"
+      "Culture",
+      "Life And Style"
     ],
     "genre": [
-      "Mystery"
+      "Fiction"
     ],
     "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-19",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/19/multimedia/19tbr-mullen-2-thkl/19tbr-mullen-2-thkl-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/19/multimedia/19tbr-mullen-2-thkl/19tbr-mullen-2-thkl-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/19/books/review/caitlin-mullen-heather-pine-barrens.html",
-    "source": "The New York Times",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-20",
+    "thumbnail": "https://i.guim.co.uk/img/media/b791117314a30cf187ab0b89f0d23de6d5b1d22b/0_0_5760_3456/master/5760.jpg?width=700&quality=85&auto=format&fit=max&s=557d05658a67ac2e85016ed80a85f7bc",
+    "cover_large": "https://i.guim.co.uk/img/media/b791117314a30cf187ab0b89f0d23de6d5b1d22b/0_0_5760_3456/master/5760.jpg?width=700&quality=85&auto=format&fit=max&s=557d05658a67ac2e85016ed80a85f7bc",
+    "article_url": "https://www.theguardian.com/books/series/what-we-re-reading",
+    "source": "The Guardian",
     "source_type": "rss",
     "tags": [
-      "Books and Literature",
-      "Content Type: Personal Profile",
-      "Heather (Book)",
-      "Mullen, Caitlin",
-      "New Jersey",
-      "Pine Barrens (NJ)",
-      "Please See Us (Book)",
-      "Writing and Writers",
+      "Books",
+      "Culture",
+      "Life and style",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "5613ba8d811dfb44d2a5f6fff28b4a0b",
@@ -179,8 +342,8 @@
       "West Coast",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "40396ff661be4fb8af6b7e98d2f90039",
@@ -212,8 +375,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "108ead9a89b9ad5b4d447db40500938d",
@@ -249,8 +412,8 @@
       "Psychology",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "5ec1c31f5157da86429795ecfa61f56c",
@@ -297,79 +460,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
-  },
-  {
-    "id": "61ca3aedcfe2b32ecd1b4dcf09b4615b",
-    "title": "Every year 6 student to be given Katherine Rundell book for Christmas",
-    "author": "Ella Creamer",
-    "description": "More than 800,000 copies of Impossible Creatures will be distributed to year 6 and P6 children through The Queen’s Christmas Present initiative Every child in year 6 in England, Wales and Northern Ireland, and P6 in Scotland, will be given the bestselling book Impossible Creatures by Katherine Rundell this Christmas, to coincide with the end of the government’s National Year of Reading. Queen Camilla announced the initiative, called The Queen’s Christmas Present, to mark her birthday on Friday. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Children",
-      "Children'S Fantasy Books (Children'S And Teens)",
-      "Culture",
-      "Literacy",
-      "Queen Camilla"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-17",
-    "thumbnail": "https://i.guim.co.uk/img/media/5e082c55cb817f0620a0df7a4f8dc0b47f1884e1/792_0_7920_6336/master/7920.jpg?width=700&quality=85&auto=format&fit=max&s=ac76f57ba2a58933a2681bc43398085a",
-    "cover_large": "https://i.guim.co.uk/img/media/5e082c55cb817f0620a0df7a4f8dc0b47f1884e1/792_0_7920_6336/master/7920.jpg?width=700&quality=85&auto=format&fit=max&s=ac76f57ba2a58933a2681bc43398085a",
-    "article_url": "https://www.theguardian.com/books/2026/jul/17/every-year-6-student-to-be-given-katherine-rundell-book-for-christmas",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Children",
-      "Children's fantasy books (children's and teens)",
-      "Culture",
-      "Literacy",
-      "Queen Camilla",
-      "books"
-    ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
-  },
-  {
-    "id": "8f1cc28dc8be6bc70b88a587a4d4c2c4",
-    "title": "Andrew Motion: ‘Wilfred Owen became a kind of sacred text for me’",
-    "author": "Andrew Motion",
-    "description": "The former poet laureate on growing up with Lawrence Durrell, rereading Henry James and getting to grips with the genius of Alexander Pope My earliest reading memory My parents were country people who thought that looking after or chasing animals was more fun than reading: my father used to say that he’d read half a book in his life (The Lonely Skier by Hammond Innes), and while my mother got through three or four novels a year, she didn’t expect me to do anything equivalent. But I do remember enjoying something my grandmother gave me – My Father’s Dragon by Ruth Stiles Gannett. I must have been seven or so, and thought it was amusing and ingenious. The books that changed me as a teenager At my first school, I somehow got my hands on White Eagles Over Serbia by Lawrence Durrell, which my parents thought was unsuitably violent. I never finished it, but enjoyed carrying it around as proof of how grown-up I was. Then, at my secondary school, my history teacher read us some Wilfred Owen (we were studying the first world war), and the poetry-lights in my mind immediately flickered on. When I subsequently bought Owen’s Collected Poems it became a kind of sacred text for me (it still...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Poet Laureate",
-      "Poetry"
-    ],
-    "genre": [
-      "History",
-      "Poetry"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-17",
-    "thumbnail": "https://i.guim.co.uk/img/media/d043009bd94fee6d599f5e6225b7710cbc5d9172/699_197_4587_3671/master/4587.jpg?width=700&quality=85&auto=format&fit=max&s=b2771a44ffe54edac3cf39553a66dd47",
-    "cover_large": "https://i.guim.co.uk/img/media/d043009bd94fee6d599f5e6225b7710cbc5d9172/699_197_4587_3671/master/4587.jpg?width=700&quality=85&auto=format&fit=max&s=b2771a44ffe54edac3cf39553a66dd47",
-    "article_url": "https://www.theguardian.com/books/2026/jul/17/andrew-motion-wilfred-owen-became-a-kind-of-sacred-text-for-me",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Poet laureate",
-      "Poetry",
-      "books"
-    ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "dcf175e3c5eabdbfe19bc9f893ee6e48",
@@ -400,8 +492,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "fcc3e320c807d707043ec6d9efd0f3d8",
@@ -434,8 +526,8 @@
       "Leiby, Alison",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "7b0e16750539f897f805ec099434fdec",
@@ -464,8 +556,8 @@
       "I Want You to Be Happy (Book)",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "18b33ee92dab8c23880873b2c67a627b",
@@ -504,8 +596,45 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
+  },
+  {
+    "id": "e579aaa323f62924b335198ed09b93e8",
+    "title": "Worry Doll by Laura McPhee-Browne review – a sensual, sinister novel about the horrors of desire",
+    "author": "Beejay Silcox",
+    "description": "Two women meet on a train and tumble into an all-consuming affair told from both sides – who have very different stories I’ve been craving a sandwich: soft white roll, roast chicken, sharp cheese. A bright little cut of tomato. After I finish this review I’ll walk up to the supermarket and buy myself a hot chook. Sink my teeth in. It wasn’t my idea. I caught the craving from Laura McPhee-Browne’s Worry Doll. One of her characters longs for the same sandwich, made just so: “there is a particular amount of cheese and chicken that she requires for it to feel the way she needs it to when she chews and swallows.” I know that feeling. There is nothing cheap about cheap pleasure. And Worry Doll understands pleasure. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Australia News",
+      "Books",
+      "Culture",
+      "Fiction",
+      "Relationships",
+      "Sex"
+    ],
+    "genre": [
+      "Horror"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-16",
+    "thumbnail": "https://i.guim.co.uk/img/media/fb75f6c3853de37e844b37017e14d1648bde9eae/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=fdb5bd1deeb9247f20583d40df24ac97",
+    "cover_large": "https://i.guim.co.uk/img/media/fb75f6c3853de37e844b37017e14d1648bde9eae/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=fdb5bd1deeb9247f20583d40df24ac97",
+    "article_url": "https://www.theguardian.com/books/2026/jul/17/worry-doll-by-laura-mcphee-browne-review-a-sensual-sinister-novel-about-the-horrors-of-desire",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Australia news",
+      "Books",
+      "Culture",
+      "Fiction",
+      "Relationships",
+      "Sex",
+      "books"
+    ],
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "524c605cd8982891e747fe848342f8df",
@@ -547,8 +676,8 @@
       "True crime books",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "81c985665e3e1046d365a1ea02fe0f86",
@@ -580,8 +709,8 @@
       "Social history",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "52b60bb8c2058c3a2b8e3abd72d3ef67",
@@ -620,8 +749,8 @@
       "The Odyssey (Book)",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "d39553355fe7cae217188dba4d546d2f",
@@ -649,8 +778,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "0ef81a91225f56c39b12ab439d4532f2",
@@ -681,90 +810,8 @@
       "Rich, Nathaniel (1980- )",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
-  },
-  {
-    "id": "3dc6d9ff2ebeee94d0c6dc87e3a4e7d1",
-    "title": "75 Years Later, ‘The Catcher in the Rye’ Remains a Great American Novel",
-    "author": "Alexandra Jacobs",
-    "description": "Sure, “Catcher in the Rye” has its detractors. But the influence of its wised-up yet winningly innocent hero keeps it among the Great American Novels.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Manhattan (Nyc)",
-      "Salinger, J D",
-      "Teenagers And Adolescence",
-      "The Catcher In The Rye (Book)",
-      "United States",
-      "Writing And Writers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-14",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/13/multimedia/13tbr-catcher-notebook-wmql/13tbr-catcher-notebook-wmql-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/13/multimedia/13tbr-catcher-notebook-wmql/13tbr-catcher-notebook-wmql-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/14/books/review/catcher-in-the-rye-75th-anniversary-salinger.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Manhattan (NYC)",
-      "Salinger, J D",
-      "Teenagers and Adolescence",
-      "The Catcher in the Rye (Book)",
-      "United States",
-      "Writing and Writers",
-      "books"
-    ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
-  },
-  {
-    "id": "392aa1e9213352fe5cb8142fc1e7a588",
-    "title": "Book Review: ‘The Gospel According to Hobby Lobby,’ by Michael Blanding",
-    "author": "Virginia Heffernan",
-    "description": "A new book by Michael Blanding chronicles the history of Hobby Lobby and its billionaire founder’s campaign to promote conservative Christian values.",
-    "summary_ai": "",
-    "categories": [
-      "Blanding, Michael",
-      "Books",
-      "Books And Literature",
-      "Christians And Christianity",
-      "Conservatism (Us Politics)",
-      "Content Type: Personal Profile",
-      "Green, David (1941- )",
-      "Hobby Lobby Stores Inc",
-      "Shopping And Retail",
-      "The Gospel According To Hobby Lobby: Inside A Billionaire Family'S Quest To Craft A Christian Nation (Book)"
-    ],
-    "genre": [
-      "History"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-14",
-    "thumbnail": "https://static01.nyt.com/images/2026/08/02/books/14TBR-Blanding-review/14TBR-Blanding-review-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/08/02/books/14TBR-Blanding-review/14TBR-Blanding-review-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/14/books/review/the-gospel-according-to-hobby-lobby-michael-blanding.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Blanding, Michael",
-      "Books and Literature",
-      "Christians and Christianity",
-      "Conservatism (US Politics)",
-      "Content Type: Personal Profile",
-      "Green, David (1941- )",
-      "Hobby Lobby Stores Inc",
-      "Shopping and Retail",
-      "The Gospel According to Hobby Lobby: Inside a Billionaire Family's Quest to Craft a Christian Nation (Book)",
-      "books"
-    ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "eae92f47f871dc859aa38179698c0e91",
@@ -796,50 +843,8 @@
       "Essays",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
-  },
-  {
-    "id": "6fdb1c615e8293886d0049a8bd4d7898",
-    "title": "Shahrnush Parsipur, Iranian Writer Imprisoned for Her Novels, Dies at 80",
-    "author": "Clay Risen",
-    "description": "Her best-known work, “Women Without Men,” was longlisted for the International Booker Prize this year.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Deaths (Obituaries)",
-      "Iranian-Americans",
-      "Parsipur, Shahrnush (1946-2026)",
-      "Political Prisoners",
-      "Politics And Government",
-      "Tehran (Iran)",
-      "Women'S Rights",
-      "Writing And Writers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-13",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/15/multimedia/10Parsipur--02-ptqv-print2/10Parsipur--02-ptqv-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/15/multimedia/10Parsipur--02-ptqv-print2/10Parsipur--02-ptqv-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/13/books/shahrnush-parsipur-dead.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Deaths (Obituaries)",
-      "Iranian-Americans",
-      "Parsipur, Shahrnush (1946-2026)",
-      "Political Prisoners",
-      "Politics and Government",
-      "Tehran (Iran)",
-      "Women's Rights",
-      "Writing and Writers",
-      "books"
-    ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "3e79c9fc9ac7fe6176b02d0184a596f7",
@@ -875,8 +880,8 @@
       "Politics books",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "4c67af7b443e59255ae5e43165443d79",
@@ -908,8 +913,8 @@
       "Tessa Hadley",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -939,8 +944,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -979,8 +984,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "755ba738881478773c8491c271f5d902",
@@ -1007,8 +1012,8 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "f0a8987fb7322e3a0dc23bf36fa062e5",
@@ -1049,8 +1054,8 @@
       "audio-neutral-informative",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "5abd518a1f4e1d19007e36a68c716195",
@@ -1089,7 +1094,7 @@
       "Psychiatry and Psychiatrists",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   }
 ]

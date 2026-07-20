@@ -1,5 +1,179 @@
 [
   {
+    "id": "858f2d3ff308755af33d96db97a7ab1b",
+    "title": "Book Review: ‘Cool Machine,’ by Colson Whitehead",
+    "author": "Dwight Garner",
+    "description": "The final installment of his Harlem crime trilogy is full of heists, cultural shifts and nostalgia for 1980s New York.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Cool Machine (Book)",
+      "Internal-Open-Access-From-Nl",
+      "Whitehead, Colson"
+    ],
+    "genre": [
+      "Crime"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-20",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/20/multimedia/20whitehead-review-pmfq/20whitehead-review-pmfq-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/20/multimedia/20whitehead-review-pmfq/20whitehead-review-pmfq-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/20/books/review/colson-whitehead-cool-machine.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Cool Machine (Book)",
+      "Whitehead, Colson",
+      "books",
+      "internal-open-access-from-nl"
+    ],
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
+  },
+  {
+    "id": "f1aa387cc3bacd108bbb7d3bf49005ab",
+    "title": "To Sell Homer’s ‘Odyssey,’ Book Publishers Get Creative",
+    "author": "MJ Franklin",
+    "description": "The market for the epic poem is as crowded as a certain Ithacan palace, and publishers have had to get crafty to attract readers to their editions.",
+    "summary_ai": "",
+    "categories": [
+      "Book Trade And Publishing",
+      "Books",
+      "Books And Literature",
+      "Fagles, Robert",
+      "Homer",
+      "Mendelsohn, Daniel",
+      "Movies",
+      "Nolan, Christopher",
+      "Odyssey (Book)",
+      "Poetry And Poets",
+      "The Odyssey (2026) (Movie)",
+      "Wilson, Emily (1971- )"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-20",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/20/multimedia/20TBR-odyssey-editions-bgmp/20TBR-odyssey-editions-bgmp-mediumSquareAt3X-v2.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/20/multimedia/20TBR-odyssey-editions-bgmp/20TBR-odyssey-editions-bgmp-mediumSquareAt3X-v2.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/20/books/odyssey-book-editions.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Book Trade and Publishing",
+      "Books and Literature",
+      "Fagles, Robert",
+      "Homer",
+      "Mendelsohn, Daniel",
+      "Movies",
+      "Nolan, Christopher",
+      "Odyssey (Book)",
+      "Poetry and Poets",
+      "The Odyssey (2026) (Movie)",
+      "Wilson, Emily (1971- )",
+      "books"
+    ],
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
+  },
+  {
+    "id": "99265ff59b146e2187f20e177d9ba3f1",
+    "title": "Book Review: ‘The Lost Founder,’ by Jesse Wegman",
+    "author": "Claire Rydell Arcenas",
+    "description": "In “The Lost Founder,” the journalist Jesse Wegman looks back at a largely forgotten and singular voice that helped make the United States what it is today.",
+    "summary_ai": "",
+    "categories": [
+      "Adams, John (1735-1826)",
+      "Books",
+      "Books And Literature",
+      "Constitution (Us)",
+      "Content Type: Personal Profile",
+      "Democracy (Theory And Philosophy)",
+      "Elections, State Legislature",
+      "Electoral College",
+      "History (Academic Subject)",
+      "The Lost Founder: James Wilson And The Forgotten Fight For A Peoples Constitution (Book)",
+      "United States",
+      "United States Politics And Government",
+      "United States Semiquincentennial (2026)",
+      "Wegman, Jesse",
+      "Wilson, James (1742-98)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-20",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/20/arts/20TBR-Wegman-Review/20TBR-Wegman-Review-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/20/arts/20TBR-Wegman-Review/20TBR-Wegman-Review-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/20/books/review/the-lost-founder-jesse-wegman.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Adams, John (1735-1826)",
+      "Books and Literature",
+      "Constitution (US)",
+      "Content Type: Personal Profile",
+      "Democracy (Theory and Philosophy)",
+      "Elections, State Legislature",
+      "Electoral College",
+      "History (Academic Subject)",
+      "The Lost Founder: James Wilson and the Forgotten Fight for a Peoples Constitution (Book)",
+      "United States",
+      "United States Politics and Government",
+      "United States Semiquincentennial (2026)",
+      "Wegman, Jesse",
+      "Wilson, James (1742-98)",
+      "books"
+    ],
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
+  },
+  {
+    "id": "a1b108307aa876ce63772109e4b765fa",
+    "title": "The Scariest Place in New Jersey Set the Stage for Her Novel",
+    "author": "Elisabeth Egan",
+    "description": "Caitlin Mullen drew on eerie expeditions to the Pine Barrens for her new mystery novel, “Heather.”",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Heather (Book)",
+      "Mullen, Caitlin",
+      "New Jersey",
+      "Pine Barrens (Nj)",
+      "Please See Us (Book)",
+      "Writing And Writers"
+    ],
+    "genre": [
+      "Mystery"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-20",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/19/multimedia/19tbr-mullen-2-thkl/19tbr-mullen-2-thkl-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/19/multimedia/19tbr-mullen-2-thkl/19tbr-mullen-2-thkl-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/19/books/review/caitlin-mullen-heather-pine-barrens.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Heather (Book)",
+      "Mullen, Caitlin",
+      "New Jersey",
+      "Pine Barrens (NJ)",
+      "Please See Us (Book)",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
+  },
+  {
     "id": "ba4e532f53719e86015f05cf1438ae73",
     "title": "What to Know Before Seeing ‘The Odyssey’: Plot, Characters and More",
     "author": "Sarah Bahr",
@@ -36,8 +210,8 @@
       "The Odyssey (2026) (Movie)",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "d920e1004dd8ab340fc506a88d646969",
@@ -67,8 +241,8 @@
       "Film books",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "4e5f3ba5ed35b16c70eaf9283c0b5aab",
@@ -96,50 +270,101 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
-    "id": "a1b108307aa876ce63772109e4b765fa",
-    "title": "The Scariest Place in New Jersey Set the Stage for Her Novel",
-    "author": "Elisabeth Egan",
-    "description": "Caitlin Mullen drew on eerie expeditions to the Pine Barrens for her new mystery novel, “Heather.”",
+    "id": "32ffa174a93f29d78ffd2c412f59289f",
+    "title": "Tell us: what have you been reading this month?",
+    "author": "Guardian community team",
+    "description": "We would like to hear about the books you’ve particularly enjoyed this month As part of The Guardian’s “ what we’re reading ” series, we would like to hear about the books you’ve particularly enjoyed this month. Have you read a book in recent weeks – fiction or non-fiction – that you’d recommend? Tell us all about it below. Continue reading...",
     "summary_ai": "",
     "categories": [
       "Books",
-      "Books And Literature",
-      "Content Type: Personal Profile",
-      "Heather (Book)",
-      "Mullen, Caitlin",
-      "New Jersey",
-      "Pine Barrens (Nj)",
-      "Please See Us (Book)",
-      "Writing And Writers"
+      "Culture",
+      "Life And Style"
     ],
     "genre": [
-      "Mystery"
+      "Fiction"
     ],
     "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-19",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/19/multimedia/19tbr-mullen-2-thkl/19tbr-mullen-2-thkl-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/19/multimedia/19tbr-mullen-2-thkl/19tbr-mullen-2-thkl-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/19/books/review/caitlin-mullen-heather-pine-barrens.html",
-    "source": "The New York Times",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-20",
+    "thumbnail": "https://i.guim.co.uk/img/media/b791117314a30cf187ab0b89f0d23de6d5b1d22b/0_0_5760_3456/master/5760.jpg?width=700&quality=85&auto=format&fit=max&s=557d05658a67ac2e85016ed80a85f7bc",
+    "cover_large": "https://i.guim.co.uk/img/media/b791117314a30cf187ab0b89f0d23de6d5b1d22b/0_0_5760_3456/master/5760.jpg?width=700&quality=85&auto=format&fit=max&s=557d05658a67ac2e85016ed80a85f7bc",
+    "article_url": "https://www.theguardian.com/books/series/what-we-re-reading",
+    "source": "The Guardian",
     "source_type": "rss",
     "tags": [
-      "Books and Literature",
-      "Content Type: Personal Profile",
-      "Heather (Book)",
-      "Mullen, Caitlin",
-      "New Jersey",
-      "Pine Barrens (NJ)",
-      "Please See Us (Book)",
-      "Writing and Writers",
+      "Books",
+      "Culture",
+      "Life and style",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
+  },
+  {
+    "id": "f2f6758920d10d8de47cab627c5fb6ca",
+    "title": "Whimsical Wordless Picture Books",
+    "author": "Megan Mabee",
+    "description": "The beautiful artwork in these wordless picture books adds a layer of whimsey to each story.",
+    "summary_ai": "",
+    "categories": [
+      "All Access",
+      "Children'S",
+      "Lists",
+      "Reviews",
+      "Science Fiction/Fantasy",
+      "The Kids Are All Right",
+      "Wordless Picture Books"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-20",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/The-Octopus-Book-Cover-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/The-Octopus-Book-Cover-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/whimsical-wordless-picture-books/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "All Access",
+      "Children's",
+      "Lists",
+      "Science Fiction/Fantasy",
+      "The Kids Are All Right",
+      "reviews",
+      "wordless picture books"
+    ],
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
+  },
+  {
+    "id": "f4b93cc39d1faa2d9ba4971684a88f10",
+    "title": "Fourth Wing and ACOTAR Will Face Off This Fall",
+    "author": "Rebecca Joines Schinsky",
+    "description": "For the first time since BookTok took dragon- and faerie-fueled smut viral, the two juggernaut series that are keeping publishing afloat will face off with major new releases in the same season. Fourth Wing author Rebecca Yarros announced last week that her next book, Threshing Day, will be out September 29. The reveal is great [...]",
+    "summary_ai": "",
+    "categories": [
+      "News",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-20",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/07/threshing-day-vs-acotar-book-6.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/07/threshing-day-vs-acotar-book-6.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/fourth-wing-acotar-new-books-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "News",
+      "reviews"
+    ],
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "5613ba8d811dfb44d2a5f6fff28b4a0b",
@@ -179,8 +404,8 @@
       "West Coast",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "40396ff661be4fb8af6b7e98d2f90039",
@@ -212,8 +437,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "108ead9a89b9ad5b4d447db40500938d",
@@ -249,8 +474,96 @@
       "Psychology",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
+  },
+  {
+    "id": "24be7211f9016ac67931ef30637dc0d9",
+    "title": "Lit Hub Weekly: July 13 – 17, 2026",
+    "author": "Lit Hub Daily",
+    "description": "On the rise (and fall) of the Japanese cell phone novel in the early 2000s (and the its attendant moral panic). | Lit Hub Technology Josh Cook, bookseller and founder of the Porter Square Review of Books, explores why booksellers",
+    "summary_ai": "",
+    "categories": [
+      "Lit Hub Daily",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-07-18",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/WilliamMakepeaceThackeray-768x344.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/WilliamMakepeaceThackeray-768x344.jpg",
+    "article_url": "https://lithub.com/lit-hub-weekly-july-13-17-2026/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Lit Hub Daily",
+      "reviews"
+    ],
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
+  },
+  {
+    "id": "6eb67c454a063a485ddabddfcd69150c",
+    "title": "All the Biggest New LGBTQ Books of 2026 (So Far)",
+    "author": "Danika Ellis",
+    "description": "Browse 100+ of the most exciting new LGBTQ books out in 2026 (so far), including M/M romance, trans sci-fi, sapphic fantasy, and more.",
+    "summary_ai": "",
+    "categories": [
+      "Lgbtq",
+      "Our Queerest Shelves",
+      "Reviews"
+    ],
+    "genre": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-18",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-11.53.32&",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-11.53.32&",
+    "article_url": "https://bookriot.com/new-lgbtq-books-of-2026-so-far/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "LGBTQ",
+      "Our Queerest Shelves",
+      "reviews"
+    ],
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
+  },
+  {
+    "id": "9023cbc23ad9e6fb99109244447d2f8c",
+    "title": "The Biggest Science Fiction Books of 2026",
+    "author": "Community",
+    "description": "Browse 22 of the most exciting new science fiction books out in 2026 so far and add them to your own custom collections.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Science Fiction/Fantasy",
+      "Swords And Spaceships"
+    ],
+    "genre": [
+      "Fiction",
+      "Science Fiction"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-18",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-12.29.27&",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-12.29.27&",
+    "article_url": "https://bookriot.com/the-biggest-science-fiction-books-of-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Science Fiction/Fantasy",
+      "Swords and Spaceships",
+      "reviews"
+    ],
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "5ec1c31f5157da86429795ecfa61f56c",
@@ -297,79 +610,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
-  },
-  {
-    "id": "61ca3aedcfe2b32ecd1b4dcf09b4615b",
-    "title": "Every year 6 student to be given Katherine Rundell book for Christmas",
-    "author": "Ella Creamer",
-    "description": "More than 800,000 copies of Impossible Creatures will be distributed to year 6 and P6 children through The Queen’s Christmas Present initiative Every child in year 6 in England, Wales and Northern Ireland, and P6 in Scotland, will be given the bestselling book Impossible Creatures by Katherine Rundell this Christmas, to coincide with the end of the government’s National Year of Reading. Queen Camilla announced the initiative, called The Queen’s Christmas Present, to mark her birthday on Friday. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Children",
-      "Children'S Fantasy Books (Children'S And Teens)",
-      "Culture",
-      "Literacy",
-      "Queen Camilla"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-17",
-    "thumbnail": "https://i.guim.co.uk/img/media/5e082c55cb817f0620a0df7a4f8dc0b47f1884e1/792_0_7920_6336/master/7920.jpg?width=700&quality=85&auto=format&fit=max&s=ac76f57ba2a58933a2681bc43398085a",
-    "cover_large": "https://i.guim.co.uk/img/media/5e082c55cb817f0620a0df7a4f8dc0b47f1884e1/792_0_7920_6336/master/7920.jpg?width=700&quality=85&auto=format&fit=max&s=ac76f57ba2a58933a2681bc43398085a",
-    "article_url": "https://www.theguardian.com/books/2026/jul/17/every-year-6-student-to-be-given-katherine-rundell-book-for-christmas",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Children",
-      "Children's fantasy books (children's and teens)",
-      "Culture",
-      "Literacy",
-      "Queen Camilla",
-      "books"
-    ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
-  },
-  {
-    "id": "8f1cc28dc8be6bc70b88a587a4d4c2c4",
-    "title": "Andrew Motion: ‘Wilfred Owen became a kind of sacred text for me’",
-    "author": "Andrew Motion",
-    "description": "The former poet laureate on growing up with Lawrence Durrell, rereading Henry James and getting to grips with the genius of Alexander Pope My earliest reading memory My parents were country people who thought that looking after or chasing animals was more fun than reading: my father used to say that he’d read half a book in his life (The Lonely Skier by Hammond Innes), and while my mother got through three or four novels a year, she didn’t expect me to do anything equivalent. But I do remember enjoying something my grandmother gave me – My Father’s Dragon by Ruth Stiles Gannett. I must have been seven or so, and thought it was amusing and ingenious. The books that changed me as a teenager At my first school, I somehow got my hands on White Eagles Over Serbia by Lawrence Durrell, which my parents thought was unsuitably violent. I never finished it, but enjoyed carrying it around as proof of how grown-up I was. Then, at my secondary school, my history teacher read us some Wilfred Owen (we were studying the first world war), and the poetry-lights in my mind immediately flickered on. When I subsequently bought Owen’s Collected Poems it became a kind of sacred text for me (it still...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Poet Laureate",
-      "Poetry"
-    ],
-    "genre": [
-      "History",
-      "Poetry"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-17",
-    "thumbnail": "https://i.guim.co.uk/img/media/d043009bd94fee6d599f5e6225b7710cbc5d9172/699_197_4587_3671/master/4587.jpg?width=700&quality=85&auto=format&fit=max&s=b2771a44ffe54edac3cf39553a66dd47",
-    "cover_large": "https://i.guim.co.uk/img/media/d043009bd94fee6d599f5e6225b7710cbc5d9172/699_197_4587_3671/master/4587.jpg?width=700&quality=85&auto=format&fit=max&s=b2771a44ffe54edac3cf39553a66dd47",
-    "article_url": "https://www.theguardian.com/books/2026/jul/17/andrew-motion-wilfred-owen-became-a-kind-of-sacred-text-for-me",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Poet laureate",
-      "Poetry",
-      "books"
-    ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "dcf175e3c5eabdbfe19bc9f893ee6e48",
@@ -400,103 +642,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
-  },
-  {
-    "id": "41310b6cfc8909f953c2e5c46c5fd0dc",
-    "title": "10 Recommendations To Convince You Cozy Horror is a Thing",
-    "author": "Rachel Brittain",
-    "description": "What is cozy horror? Dive into the hallmarks of the subgenre, along with 10 book recommendations for getting cozy with the scary.",
-    "summary_ai": "",
-    "categories": [
-      "Cozy",
-      "Horror",
-      "Reviews",
-      "The Fright Stuff"
-    ],
-    "genre": [
-      "Horror"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-17",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/Someone-You-Can-Build-a-Nest-In-cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/Someone-You-Can-Build-a-Nest-In-cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/cozy-horror-books/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Horror",
-      "The Fright Stuff",
-      "cozy",
-      "horror",
-      "reviews"
-    ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
-  },
-  {
-    "id": "977a9f3a1e9d466c279222601c26e81e",
-    "title": "Pride Month Still Matters, Despite Disappearing From Libraries: Book Censorship News, July 17, 2026",
-    "author": "Kelly Jensen",
-    "description": "Pride displays, programs, and events continue to disappear from libraries in the US, making them complicit in queer erasure.",
-    "summary_ai": "",
-    "categories": [
-      "Censorship",
-      "Lgbtq",
-      "Libraries",
-      "Literary Activism",
-      "News",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-17",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/02/book-censorship-news-flagship-size.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/02/book-censorship-news-flagship-size.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/pride-is-disappearing-in-us-libraries/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Censorship",
-      "LGBTQ",
-      "Libraries",
-      "Literary Activism",
-      "News",
-      "reviews"
-    ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
-  },
-  {
-    "id": "1942d09ed166a91962152b1ba195d1e7",
-    "title": "A Wunderkind Showrunner Was Put In Charge of Marvel’s X-Men ‘97. Then Something Went Terribly Wrong",
-    "author": "Eileen Gonzalez",
-    "description": "It's a potpourri of comics news, including this year's Harvey Award nominees, loads of trailers to check out, and more.",
-    "summary_ai": "",
-    "categories": [
-      "Comics/Graphic Novels",
-      "Reviews",
-      "The Stack"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-17",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/02/image-of-the-spines-on-a-stack-of-comics.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/02/image-of-the-spines-on-a-stack-of-comics.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/comics-news-july-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Comics/Graphic Novels",
-      "The Stack",
-      "reviews"
-    ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "fcc3e320c807d707043ec6d9efd0f3d8",
@@ -529,8 +676,8 @@
       "Leiby, Alison",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   },
   {
     "id": "7b0e16750539f897f805ec099434fdec",
@@ -559,163 +706,7 @@
       "I Want You to Be Happy (Book)",
       "books"
     ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
-  },
-  {
-    "id": "18b33ee92dab8c23880873b2c67a627b",
-    "title": "Book Review: ‘Journey to Nowhere,’ by Shiva Naipaul",
-    "author": "Anderson Tepper",
-    "description": "In “Journey to Nowhere,” Shiva Naipaul reports on the aftermath of a cult’s disastrous turn away from idealism.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Jones, Jim (1931-78)",
-      "Journey To Nowhere: A New World Tragedy (Book)",
-      "Naipaul, Shiva",
-      "Naipaul, V S",
-      "People'S Temple Of Disciples Of Christ",
-      "Religious Cults",
-      "Writing And Writers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "idealism. Books",
-    "published_date": "2026-07-16",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/14/multimedia/14TBR-Naipaul-rovingeye-vkfh/14TBR-Naipaul-rovingeye-vkfh-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/14/multimedia/14TBR-Naipaul-rovingeye-vkfh/14TBR-Naipaul-rovingeye-vkfh-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/16/books/review/shiva-naipaul-journey-to-nowhere.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Jones, Jim (1931-78)",
-      "Journey to Nowhere: A New World Tragedy (Book)",
-      "Naipaul, Shiva",
-      "Naipaul, V S",
-      "People's Temple of Disciples of Christ",
-      "Religious Cults",
-      "Writing and Writers",
-      "books"
-    ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
-  },
-  {
-    "id": "524c605cd8982891e747fe848342f8df",
-    "title": "The best books to read in July: new paperbacks from Andrew O’Hagan, Miriam Toews and Oyinkan Braithwaite",
-    "author": "Guardian Staff",
-    "description": "Looking for a new reading recommendation? Here are some fantastic new paperbacks, from the gripping story of an international murder case to a state-of-the-nation yarn *** Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Autobiography And Memoir",
-      "Biography Books",
-      "Books",
-      "Culture",
-      "Essays",
-      "Fiction",
-      "Oyinkan Braithwaite",
-      "Paperbacks",
-      "Thrillers",
-      "True Crime Books"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-16",
-    "thumbnail": "https://i.guim.co.uk/img/media/670fd34739aa3bc350d1f16ff689e5152ed6e732/0_208_4000_3198/master/4000.jpg?width=700&quality=85&auto=format&fit=max&s=29b1495f0b3eaecd06117ca103e0d4a4",
-    "cover_large": "https://i.guim.co.uk/img/media/670fd34739aa3bc350d1f16ff689e5152ed6e732/0_208_4000_3198/master/4000.jpg?width=700&quality=85&auto=format&fit=max&s=29b1495f0b3eaecd06117ca103e0d4a4",
-    "article_url": "https://www.theguardian.com/books/ng-interactive/2026/jul/16/the-best-books-to-read-in-july-new-paperbacks-from-andrew-ohagan-miriam-toews-and-oyinkan-braithwaite",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Autobiography and memoir",
-      "Biography books",
-      "Books",
-      "Culture",
-      "Essays",
-      "Fiction",
-      "Oyinkan Braithwaite",
-      "Paperbacks",
-      "Thrillers",
-      "True crime books",
-      "books"
-    ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
-  },
-  {
-    "id": "81c985665e3e1046d365a1ea02fe0f86",
-    "title": "Up All Night by Imogen Willetts review",
-    "author": "Rebecca Nicholson",
-    "description": "From 18th-century pleasure gardens to Studio 54, the story of nightlife in all its hedonistic – and political – glory In this fabulous alternative history of the modern world, the academic and “party historian” Imogen Willetts looks at the last 500 years of civilisation through the sometimes blurry lenses of its after-dark scenes, with fascinating results. She begins by trying to capture what it feels like to go on a big night out, focusing on a phenomenon that, in 1912, the sociologist Émile Durkheim labelled “collective effervescence”. In one passage, she explains this by referencing dancing as part of ancient tribal hunting rituals, listening to Charli xcx’s 365, or singing along to Sweet Caroline with tens of thousands of other people in a stadium. This is no dry academic study, then, and its mix of historical research, critical theory and conversational references to pop culture makes for a bright and compelling read. What Willetts calls the “seemingly superficial act of getting gussied up to drink, dance, have fun and meet people” is, of course, much more than that, and she scratches away at the layers with skill. Nightlife can contain, or enable, rebellion, community...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "History Books",
-      "Social History"
-    ],
-    "genre": [
-      "History"
-    ],
-    "language": "English",
-    "publisher": "dusk till dawn. Continue reading... Books",
-    "published_date": "2026-07-16",
-    "thumbnail": "https://i.guim.co.uk/img/media/efadd7843daded1ac98a4f825e598df5279a3279/0_116_2641_2112/master/2641.jpg?width=700&quality=85&auto=format&fit=max&s=cec10411f332e2540b3fc327daf304eb",
-    "cover_large": "https://i.guim.co.uk/img/media/efadd7843daded1ac98a4f825e598df5279a3279/0_116_2641_2112/master/2641.jpg?width=700&quality=85&auto=format&fit=max&s=cec10411f332e2540b3fc327daf304eb",
-    "article_url": "https://www.theguardian.com/books/2026/jul/16/up-all-night-by-imogen-willetts-review-a-seductive-history-of-going-out",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "History books",
-      "Social history",
-      "books"
-    ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
-  },
-  {
-    "id": "52b60bb8c2058c3a2b8e3abd72d3ef67",
-    "title": "Archaeologists Unearth a 2,400",
-    "author": "Franz Lidz",
-    "description": "The ruins of a 2,400-year-old complex suggest that, to the Greeks of antiquity, Homer’s protagonist was not just a character in a poem but a figure of genuine devotion.",
-    "summary_ai": "",
-    "categories": [
-      "Archaeology And Anthropology",
-      "Books",
-      "Books And Literature",
-      "Greek Civilization",
-      "Homer",
-      "Movies",
-      "Myths And Mythical Creatures",
-      "The Odyssey (2026) (Movie)",
-      "The Odyssey (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-15",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/09/science/00SCI-ODYSSEY-battle/00SCI-ODYSSEY-battle-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/09/science/00SCI-ODYSSEY-battle/00SCI-ODYSSEY-battle-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/15/science/archaeology-homer-odyssey-ithaca.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Archaeology and Anthropology",
-      "Books and Literature",
-      "Greek Civilization",
-      "Homer",
-      "Movies",
-      "Myths and Mythical Creatures",
-      "The Odyssey (2026) (Movie)",
-      "The Odyssey (Book)",
-      "books"
-    ],
-    "created_at": "2026-07-20T08:56:25+00:00",
-    "updated_at": "2026-07-20T08:56:25Z"
+    "created_at": "2026-07-20T19:38:49+00:00",
+    "updated_at": "2026-07-20T19:38:49Z"
   }
 ]
