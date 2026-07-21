@@ -1,5 +1,95 @@
 [
   {
+    "id": "fb5306c959ae7cdccd3a1284bfb91e69",
+    "title": "Book Review: ‘Unsayable,’ by Michael Cunningham",
+    "author": "Brandon Taylor",
+    "description": "Blending autobiography with meditations on craft, “Unsayable” feels destined for the graduation gift bag.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Cunningham, Michael",
+      "Unsayable: A Life In Writing (Book)",
+      "Writing And Writers"
+    ],
+    "genre": [
+      "Biography"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://static01.nyt.com/images/2026/08/02/multimedia/21tbr-cunningham-review-glfq/21tbr-cunningham-review-glfq-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/08/02/multimedia/21tbr-cunningham-review-glfq/21tbr-cunningham-review-glfq-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/21/books/review/unsayable-michael-cunningham.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Cunningham, Michael",
+      "Unsayable: A Life in Writing (Book)",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-07-21T19:13:27+00:00",
+    "updated_at": "2026-07-21T19:13:27Z"
+  },
+  {
+    "id": "386a1ee68c64ffa6647fedd472f1f43e",
+    "title": "Book Review: ‘The Frenchmen,’ by Emily Eakin",
+    "author": "Clancy Martin",
+    "description": "In “The Frenchmen,” Emily Eakin traces the rise and fall of postmodernist philosophy, and the surprising ways its influence lingers.",
+    "summary_ai": "",
+    "categories": [
+      "Althusser, Louis",
+      "Barthes, Roland",
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "De Man, Paul",
+      "Deleuze, Gilles",
+      "Derrida, Jacques",
+      "Eakin, Emily",
+      "Foucault, Michel",
+      "Guattari, Felix",
+      "Lacan, Jacques",
+      "Levi-Strauss, Claude",
+      "Philosophy",
+      "The Frenchmen: Or, My Life In Theory (Book)",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/21/multimedia/21tbr-martin-review-vhwm/21tbr-martin-review-vhwm-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/21/multimedia/21tbr-martin-review-vhwm/21tbr-martin-review-vhwm-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/21/books/review/how-a-band-of-difficult-thinkers-shaped-one-author-and-the-world.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Althusser, Louis",
+      "Barthes, Roland",
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Deleuze, Gilles",
+      "Derrida, Jacques",
+      "Eakin, Emily",
+      "Foucault, Michel",
+      "Guattari, Felix",
+      "Lacan, Jacques",
+      "Levi-Strauss, Claude",
+      "Philosophy",
+      "The Frenchmen: Or, My Life in Theory (Book)",
+      "Writing and Writers",
+      "books",
+      "de Man, Paul"
+    ],
+    "created_at": "2026-07-21T19:13:27+00:00",
+    "updated_at": "2026-07-21T19:13:27Z"
+  },
+  {
     "id": "43b4b728ee13184468d7e671e6623b9c",
     "title": "Cool Machine by Colson Whitehead review",
     "author": "Xan Brooks",
@@ -28,8 +118,128 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-21T08:26:44+00:00",
-    "updated_at": "2026-07-21T08:26:44Z"
+    "created_at": "2026-07-21T19:13:27+00:00",
+    "updated_at": "2026-07-21T19:13:27Z"
+  },
+  {
+    "id": "35c5412c611a0d60482500b9411080f0",
+    "title": "These Wild English by Nicola Wilding review – explaining a mother’s drift to the far right",
+    "author": "Fiona Sturges",
+    "description": "A documentary-maker probes family history and the darker corners of the internet to solve an urgent political puzzle When Sandra Forsyth began marching in support of the English Defence League, her daughter Nicola Wilding hoped it was a phase. The Cumbria-bred, Dover-dwelling Sandra was about to turn 60 and had been dealing with a lot of stress. Not only had her son been sentenced to two years in prison for armed robbery, but she was working at a home for adults with complex needs. She liked the job, but it could be gruelling – especially when clients hurled furniture at her or ripped sinks off walls. Then, in May 2013, came the death of Lee Rigby, a drummer with the Second Battalion of the Royal Regiment of Fusiliers who was murdered by two Islamist terrorists using machetes. Sandra didn’t know Rigby, Wilding notes, but his death nonetheless brought her pent-up rage to the surface. She began watching videos on Facebook by a man named Tommy Robinson, who wanted to know why the country’s brave soldiers were being murdered. By September of that year, she was protesting on the streets of London. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Politics Books",
+      "Society Books",
+      "The Far Right"
+    ],
+    "genre": [
+      "History"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://i.guim.co.uk/img/media/d89261651669abf0eef1eeef2d8e1a1ab651e718/681_0_6830_5464/master/6830.jpg?width=700&quality=85&auto=format&fit=max&s=aeb95e9ddd7036ebdf66160814aea45b",
+    "cover_large": "https://i.guim.co.uk/img/media/d89261651669abf0eef1eeef2d8e1a1ab651e718/681_0_6830_5464/master/6830.jpg?width=700&quality=85&auto=format&fit=max&s=aeb95e9ddd7036ebdf66160814aea45b",
+    "article_url": "https://www.theguardian.com/books/2026/jul/21/these-wild-english-by-nicola-wilding-review-explaining-a-mothers-drift-to-the-far-right",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Politics books",
+      "Society books",
+      "The far right",
+      "books"
+    ],
+    "created_at": "2026-07-21T19:13:27+00:00",
+    "updated_at": "2026-07-21T19:13:27Z"
+  },
+  {
+    "id": "902373d648f6b4c0b5acd626185de976",
+    "title": "📚 Back in the game",
+    "author": "Community",
+    "description": "Fantasy's biggest fandoms will face off this fall",
+    "summary_ai": "",
+    "categories": [
+      "Book Riot Newsletter",
+      "Reviews"
+    ],
+    "genre": [
+      "Fantasy"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/threshing-day-vs-acotar-book-6.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/threshing-day-vs-acotar-book-6.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/back-in-the-game/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Book Riot Newsletter",
+      "reviews"
+    ],
+    "created_at": "2026-07-21T19:13:27+00:00",
+    "updated_at": "2026-07-21T19:13:27Z"
+  },
+  {
+    "id": "ff03ea65feb12049d9909fab5c655591",
+    "title": "The Battle of the Library Fulfillment Programs",
+    "author": "Katie McLain Horner",
+    "description": "Companies are trying to fill the Baker & Taylor-shaped void. Plus, more in library news!",
+    "summary_ai": "",
+    "categories": [
+      "Check Your Shelf",
+      "Libraries",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2024/03/book-on-table.png",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2024/03/book-on-table.png",
+    "article_url": "https://bookriot.com/battle-of-the-library-fulfillment-programs/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Check Your Shelf",
+      "Libraries",
+      "reviews"
+    ],
+    "created_at": "2026-07-21T19:13:27+00:00",
+    "updated_at": "2026-07-21T19:13:27Z"
+  },
+  {
+    "id": "77c067701761fb9d464df6a0e74ebee1",
+    "title": "Thought",
+    "author": "Guest",
+    "description": "Matthew Medney, author of Existence Equation, recommends three of the most thought-provoking science fiction novels ever written.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Science Fiction/Fantasy"
+    ],
+    "genre": [
+      "Fiction",
+      "Science Fiction"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/07/Matthew-Medney-.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/07/Matthew-Medney-.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/thought-provoking-sci-fi-books/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Science Fiction/Fantasy",
+      "reviews"
+    ],
+    "created_at": "2026-07-21T19:13:27+00:00",
+    "updated_at": "2026-07-21T19:13:27Z"
   },
   {
     "id": "858f2d3ff308755af33d96db97a7ab1b",
@@ -62,8 +272,8 @@
       "books",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-07-21T08:26:44+00:00",
-    "updated_at": "2026-07-21T08:26:44Z"
+    "created_at": "2026-07-21T19:13:27+00:00",
+    "updated_at": "2026-07-21T19:13:27Z"
   },
   {
     "id": "f1aa387cc3bacd108bbb7d3bf49005ab",
@@ -108,8 +318,8 @@
       "Wilson, Emily (1971- )",
       "books"
     ],
-    "created_at": "2026-07-21T08:26:44+00:00",
-    "updated_at": "2026-07-21T08:26:44Z"
+    "created_at": "2026-07-21T19:13:27+00:00",
+    "updated_at": "2026-07-21T19:13:27Z"
   },
   {
     "id": "99265ff59b146e2187f20e177d9ba3f1",
@@ -156,8 +366,8 @@
       "Wilson, James (1742-98)",
       "books"
     ],
-    "created_at": "2026-07-21T08:26:44+00:00",
-    "updated_at": "2026-07-21T08:26:44Z"
+    "created_at": "2026-07-21T19:13:27+00:00",
+    "updated_at": "2026-07-21T19:13:27Z"
   },
   {
     "id": "a1b108307aa876ce63772109e4b765fa",
@@ -198,8 +408,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-21T08:26:44+00:00",
-    "updated_at": "2026-07-21T08:26:44Z"
+    "created_at": "2026-07-21T19:13:27+00:00",
+    "updated_at": "2026-07-21T19:13:27Z"
   },
   {
     "id": "ba4e532f53719e86015f05cf1438ae73",
@@ -238,8 +448,8 @@
       "The Odyssey (2026) (Movie)",
       "books"
     ],
-    "created_at": "2026-07-21T08:26:44+00:00",
-    "updated_at": "2026-07-21T08:26:44Z"
+    "created_at": "2026-07-21T19:13:27+00:00",
+    "updated_at": "2026-07-21T19:13:27Z"
   },
   {
     "id": "d920e1004dd8ab340fc506a88d646969",
@@ -269,8 +479,8 @@
       "Film books",
       "books"
     ],
-    "created_at": "2026-07-21T08:26:44+00:00",
-    "updated_at": "2026-07-21T08:26:44Z"
+    "created_at": "2026-07-21T19:13:27+00:00",
+    "updated_at": "2026-07-21T19:13:27Z"
   },
   {
     "id": "4e5f3ba5ed35b16c70eaf9283c0b5aab",
@@ -298,8 +508,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-21T08:26:44+00:00",
-    "updated_at": "2026-07-21T08:26:44Z"
+    "created_at": "2026-07-21T19:13:27+00:00",
+    "updated_at": "2026-07-21T19:13:27Z"
   },
   {
     "id": "32ffa174a93f29d78ffd2c412f59289f",
@@ -329,96 +539,71 @@
       "Life and style",
       "books"
     ],
-    "created_at": "2026-07-21T08:26:44+00:00",
-    "updated_at": "2026-07-21T08:26:44Z"
+    "created_at": "2026-07-21T19:13:27+00:00",
+    "updated_at": "2026-07-21T19:13:27Z"
   },
   {
-    "id": "f2f6758920d10d8de47cab627c5fb6ca",
-    "title": "Whimsical Wordless Picture Books",
-    "author": "Megan Mabee",
-    "description": "The beautiful artwork in these wordless picture books adds a layer of whimsey to each story.",
+    "id": "06820c6bcb81bad035e766bf3f0b99ca",
+    "title": "How much should we care about a pop star's baggage?",
+    "author": "Ann Powers",
+    "description": "Gracie Abrams, one of today's biggest new singer-songwriters, has polarized critics with her confessional writing and A-list upbringing. Why do people care so much that she is taking up space?",
     "summary_ai": "",
     "categories": [
-      "All Access",
-      "Children'S",
-      "Lists",
-      "Reviews",
-      "Science Fiction/Fantasy",
-      "The Kids Are All Right",
-      "Wordless Picture Books"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-20",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/The-Octopus-Book-Cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/The-Octopus-Book-Cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/whimsical-wordless-picture-books/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "All Access",
-      "Children's",
-      "Lists",
-      "Science Fiction/Fantasy",
-      "The Kids Are All Right",
-      "reviews",
-      "wordless picture books"
-    ],
-    "created_at": "2026-07-21T08:26:44+00:00",
-    "updated_at": "2026-07-21T08:26:44Z"
-  },
-  {
-    "id": "3c5c5fc204a68173e796d9ef268df300",
-    "title": "We Have Seen THE ODYSSEY!",
-    "author": "Vanessa Diaz",
-    "description": "We came, we saw, we nerded the hell out.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Zero To Well-Read"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-20",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/07/odyssey-book-vs-movie-flagship.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/07/odyssey-book-vs-movie-flagship.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/zero-to-well-read-the-odyssey-movie/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Zero to Well-Read",
-      "reviews"
-    ],
-    "created_at": "2026-07-21T08:26:44+00:00",
-    "updated_at": "2026-07-21T08:26:44Z"
-  },
-  {
-    "id": "f4b93cc39d1faa2d9ba4971684a88f10",
-    "title": "Fourth Wing and ACOTAR Will Face Off This Fall",
-    "author": "Rebecca Joines Schinsky",
-    "description": "For the first time since BookTok took dragon- and faerie-fueled smut viral, the two juggernaut series that are keeping publishing afloat will face off with major new releases in the same season. Fourth Wing author Rebecca Yarros announced last week that her next book, Threshing Day, will be out September 29. The reveal is great [...]",
-    "summary_ai": "",
-    "categories": [
-      "News",
       "Reviews"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "Book Riot",
+    "publisher": "NPR Books",
     "published_date": "2026-07-20",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/07/threshing-day-vs-acotar-book-6.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/07/threshing-day-vs-acotar-book-6.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/fourth-wing-acotar-new-books-2026/",
-    "source": "Book Riot",
+    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6279x5074+0+0/resize/6279x5074!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa0%2Ff4%2Ff706820147098f67e57a6c7830a3%2Fpc-julie-greve.jpg",
+    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6279x5074+0+0/resize/6279x5074!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa0%2Ff4%2Ff706820147098f67e57a6c7830a3%2Fpc-julie-greve.jpg",
+    "article_url": "https://www.npr.org/2026/07/20/nx-s1-5900833/gracie-abrams-daughter-from-hell-review",
+    "source": "NPR Books",
     "source_type": "rss",
     "tags": [
-      "News",
       "reviews"
     ],
-    "created_at": "2026-07-21T08:26:44+00:00",
-    "updated_at": "2026-07-21T08:26:44Z"
+    "created_at": "2026-07-21T19:13:27+00:00",
+    "updated_at": "2026-07-21T19:13:27Z"
+  },
+  {
+    "id": "daffddd2aaf9ef0bbefa15d1afe772ac",
+    "title": "This Week in Literary History: O. Henry is Released from Prison",
+    "author": "Literary Hub",
+    "description": "This first appeared in Lit Hub’s Literary History newsletter—sign up here. Famously, O. Henry (the pen name of William Sydney Porter), author of “The Gift of the Magi,” and one of the most celebrated short story writers of his generation, and whose",
+    "summary_ai": "",
+    "categories": [
+      "Fullwidth Slider",
+      "History",
+      "News And Culture",
+      "O. Henry",
+      "Reviews",
+      "Short Stories",
+      "This Week In Literary History"
+    ],
+    "genre": [
+      "History"
+    ],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-07-20",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/ohenry-copy-768x528.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/ohenry-copy-768x528.jpg",
+    "article_url": "https://lithub.com/this-week-in-literary-history-o-henry-is-released-from-prison/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Fullwidth Slider",
+      "History",
+      "News and Culture",
+      "O. Henry",
+      "This Week in Literary History",
+      "history",
+      "reviews",
+      "short stories"
+    ],
+    "created_at": "2026-07-21T19:13:27+00:00",
+    "updated_at": "2026-07-21T19:13:27Z"
   },
   {
     "id": "5613ba8d811dfb44d2a5f6fff28b4a0b",
@@ -458,8 +643,8 @@
       "West Coast",
       "books"
     ],
-    "created_at": "2026-07-21T08:26:44+00:00",
-    "updated_at": "2026-07-21T08:26:44Z"
+    "created_at": "2026-07-21T19:13:27+00:00",
+    "updated_at": "2026-07-21T19:13:27Z"
   },
   {
     "id": "40396ff661be4fb8af6b7e98d2f90039",
@@ -491,102 +676,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-07-21T08:26:44+00:00",
-    "updated_at": "2026-07-21T08:26:44Z"
-  },
-  {
-    "id": "108ead9a89b9ad5b4d447db40500938d",
-    "title": "Hagitude author Sharon Blackie: ‘At 60 I wasn’t ready to give up, I was just starting’",
-    "author": "Lisa Allardice",
-    "description": "The writer of cult hit If Women Rose Rooted is on a mission to bring folklore to modern readers. She talks about confronting her fears, communing with nature – and the power that comes with age Like many of the wise women in her books, Sharon Blackie lives miles from anyone. Hers is the only house on the road winding through a valley deep in the Yorkshire Dales. The River Eden runs along the bottom of her garden, which overlooks the ruins of a castle built, as legend has it, by King Arthur’s father. The writer shares this romantic idyll with three border collies, six sheep, nine hens and her husband, David Knowles, a former RAF Tornado pilot. It seems an appropriate setting for an author who is on a mission to bring fairytales to modern readers. Blackie runs spiritual retreats and workshops at the nearby Broughton Sanctuary and publishes a popular Substack called The Art of Enchantment . Her books, including word-of-mouth hits such as If Women Rose Rooted and Hagitude , are a beguiling mix of memoir, mythology and eco-feminism – manifestos for a better way of living. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Essays",
-      "Fairytales",
-      "Feminism",
-      "Psychology"
-    ],
-    "genre": [
-      "Memoir"
-    ],
-    "language": "English",
-    "publisher": "anyone. Hers is the only house",
-    "published_date": "2026-07-18",
-    "thumbnail": "https://i.guim.co.uk/img/media/c061e3a402ba2e9dde23d7bbd7294cc8da7798a4/597_833_4144_3313/master/4144.jpg?width=700&quality=85&auto=format&fit=max&s=c0de658b3ca2829c84bd9bd5e618753d",
-    "cover_large": "https://i.guim.co.uk/img/media/c061e3a402ba2e9dde23d7bbd7294cc8da7798a4/597_833_4144_3313/master/4144.jpg?width=700&quality=85&auto=format&fit=max&s=c0de658b3ca2829c84bd9bd5e618753d",
-    "article_url": "https://nostos.institute/the-nostos-retreat/",
-    "source": "Nostos",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Essays",
-      "Fairytales",
-      "Feminism",
-      "Psychology",
-      "books"
-    ],
-    "created_at": "2026-07-21T08:26:44+00:00",
-    "updated_at": "2026-07-21T08:26:44Z"
-  },
-  {
-    "id": "24be7211f9016ac67931ef30637dc0d9",
-    "title": "Lit Hub Weekly: July 13 – 17, 2026",
-    "author": "Lit Hub Daily",
-    "description": "On the rise (and fall) of the Japanese cell phone novel in the early 2000s (and the its attendant moral panic). | Lit Hub Technology Josh Cook, bookseller and founder of the Porter Square Review of Books, explores why booksellers",
-    "summary_ai": "",
-    "categories": [
-      "Lit Hub Daily",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-07-18",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/WilliamMakepeaceThackeray-768x344.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/WilliamMakepeaceThackeray-768x344.jpg",
-    "article_url": "https://lithub.com/lit-hub-weekly-july-13-17-2026/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Lit Hub Daily",
-      "reviews"
-    ],
-    "created_at": "2026-07-21T08:26:44+00:00",
-    "updated_at": "2026-07-21T08:26:44Z"
-  },
-  {
-    "id": "6eb67c454a063a485ddabddfcd69150c",
-    "title": "All the Biggest New LGBTQ Books of 2026 (So Far)",
-    "author": "Danika Ellis",
-    "description": "Browse 100+ of the most exciting new LGBTQ books out in 2026 (so far), including M/M romance, trans sci-fi, sapphic fantasy, and more.",
-    "summary_ai": "",
-    "categories": [
-      "Lgbtq",
-      "Our Queerest Shelves",
-      "Reviews"
-    ],
-    "genre": [
-      "Fantasy",
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-18",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-11.53.32&",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-11.53.32&",
-    "article_url": "https://bookriot.com/new-lgbtq-books-of-2026-so-far/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "LGBTQ",
-      "Our Queerest Shelves",
-      "reviews"
-    ],
-    "created_at": "2026-07-21T08:26:44+00:00",
-    "updated_at": "2026-07-21T08:26:44Z"
+    "created_at": "2026-07-21T19:13:27+00:00",
+    "updated_at": "2026-07-21T19:13:27Z"
   },
   {
     "id": "5ec1c31f5157da86429795ecfa61f56c",
@@ -633,73 +724,7 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-21T08:26:44+00:00",
-    "updated_at": "2026-07-21T08:26:44Z"
-  },
-  {
-    "id": "dcf175e3c5eabdbfe19bc9f893ee6e48",
-    "title": "The Red Mouth by Sheila Armstrong review – profound exploration of Ireland’s deep time",
-    "author": "Ruth Gilligan",
-    "description": "Sinister bogland discoveries haunt the intersecting lives of four characters in this meditative, exquisitely written tale Almost 14% of Ireland is bog: vast swathes of moss-carpeted land, below which layers of ancient history have been compounded into mulch-black turf. Captivated by their otherworldly beauty, Seamus Heaney wrote some of his finest poetry about bogs – and the bodies discovered, perfectly preserved, in their eerie depths. Sheila Armstrong’s exquisite second novel, The Red Mouth, also centres around two bog discoveries: the “monstrous, bog-black antler” of a great Irish elk, and the mutilated body of a girl who comes to be known as Belroe Woman. From here we follow the intersecting lives of those haunted, both literally and figuratively, by these excavations and the uncanny landscape that yielded them. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [
-      "History",
-      "Poetry"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-17",
-    "thumbnail": "https://i.guim.co.uk/img/media/c54221d8129eade361eb11091e9048454c9363e7/505_10_4969_3975/master/4969.jpg?width=700&quality=85&auto=format&fit=max&s=b04b1d8d3823349d2a1ee852533cc8b8",
-    "cover_large": "https://i.guim.co.uk/img/media/c54221d8129eade361eb11091e9048454c9363e7/505_10_4969_3975/master/4969.jpg?width=700&quality=85&auto=format&fit=max&s=b04b1d8d3823349d2a1ee852533cc8b8",
-    "article_url": "https://www.theguardian.com/books/2026/jul/17/the-red-mouth-by-sheila-armstrong-review-profound-exploration-of-irelands-deep-time",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-07-21T08:26:44+00:00",
-    "updated_at": "2026-07-21T08:26:44Z"
-  },
-  {
-    "id": "fcc3e320c807d707043ec6d9efd0f3d8",
-    "title": "The Only Thing Riskier Than Telling an Abortion Joke",
-    "author": "Alexandra Alter",
-    "description": "For the comedian Alison Leiby, talking about her choice to be child-free is more polarizing to audiences than anything else.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Comedy And Humor",
-      "Content Type: Personal Profile",
-      "I'M A Lot: Surviving Myself And All The People I'Ve Been (Book)",
-      "Leiby, Alison"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-16",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/19/fashion/ST-LEIBY-3-fmqk/ST-LEIBY-3-fmqk-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/19/fashion/ST-LEIBY-3-fmqk/ST-LEIBY-3-fmqk-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/16/style/alison-leiby-im-a-lot-book-comedy.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Comedy and Humor",
-      "Content Type: Personal Profile",
-      "I'm a Lot: Surviving Myself and All the People I've Been (Book)",
-      "Leiby, Alison",
-      "books"
-    ],
-    "created_at": "2026-07-21T08:26:44+00:00",
-    "updated_at": "2026-07-21T08:26:44Z"
+    "created_at": "2026-07-21T19:13:27+00:00",
+    "updated_at": "2026-07-21T19:13:27Z"
   }
 ]
