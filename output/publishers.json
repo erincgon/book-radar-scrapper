@@ -32,8 +32,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "42639c57ccc47ec16ef07791c599d705",
@@ -74,8 +74,8 @@
       "publishers",
       "trailers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "a777900ce4007edbbaec0d402b92f8e2",
@@ -110,8 +110,8 @@
       "movie adaptations",
       "publishers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "2f4bafb6160a51e10de9d46224ccabc1",
@@ -148,8 +148,8 @@
       "Towers of Midnight",
       "publishers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "83dcb3b5c2f948ec4f72edeb8f5307b9",
@@ -186,8 +186,8 @@
       "publishers",
       "robots"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "62c7801fc460e5dddf93b14a56336049",
@@ -238,8 +238,46 @@
       "publishers",
       "short fiction"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
+  },
+  {
+    "id": "7adb0af2c64202336b77f59c6b6ea95d",
+    "title": "San Diego Comic",
+    "author": "Matthew Byrd",
+    "description": "Marvel Studios returns to San Diego Comic-Con as we (hopefully) get a better look at the future of Star Trek The post San Diego Comic-Con 2026: Every Major Panel To Watch For appeared first on Reactor .",
+    "summary_ai": "",
+    "categories": [
+      "Blog",
+      "Movies",
+      "News",
+      "Publishers",
+      "Science Fiction",
+      "Sdcc",
+      "Sdcc 2026",
+      "Television"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Reactormag",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://reactormag.com/wp-content/uploads/2025/08/star-trek-snw-307-what-is-starfleet-02-740x493.jpg",
+    "cover_large": "https://reactormag.com/wp-content/uploads/2025/08/star-trek-snw-307-what-is-starfleet-02-740x493.jpg",
+    "article_url": "https://reactormag.com/san-diego-comic-con-2026-panels-schedule/",
+    "source": "Reactormag",
+    "source_type": "rss",
+    "tags": [
+      "Blog",
+      "SDCC",
+      "SDCC 2026",
+      "Science Fiction",
+      "movies",
+      "news",
+      "publishers",
+      "television"
+    ],
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "dcd4d502802fc666ef55b88394057f42",
@@ -284,46 +322,8 @@
       "television recaps",
       "television reviews"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
-  },
-  {
-    "id": "3115d45e801dfc06376f3ec8b2e3713a",
-    "title": "The Star Trek: Strange New Worlds Carol Kane Episode We’ll Never Get to See",
-    "author": "Vanessa Armstrong",
-    "description": "“It was a little bit like Sixth Sense... ” The post The Star Trek: Strange New Worlds Carol Kane Episode We’ll Never Get to See appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "News",
-      "Paramount Plus",
-      "Publishers",
-      "Star Trek",
-      "Star Trek: Strange New Worlds",
-      "Strange New Worlds",
-      "Television"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-21",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/SNW3_310_MG_05_22_24_04554_RT_f-740x493.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/SNW3_310_MG_05_22_24_04554_RT_f-740x493.jpg",
-    "article_url": "https://reactormag.com/star-trek-strange-new-worlds-missing-carol-kane-episode-explained/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Paramount Plus",
-      "Star Trek",
-      "Star Trek: Strange New Worlds",
-      "Strange New Worlds",
-      "news",
-      "publishers",
-      "television"
-    ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "81b75aa17a602c4c80e84b91a5620e37",
@@ -356,8 +356,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "d9a3e8ee0d545dfd97f0cd8f855cda60",
@@ -390,8 +390,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "ddac6053ab1d67612ab0c26fbfc28b9b",
@@ -432,8 +432,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "d8bfab88d2538ff76d88e52580dcb4cf",
@@ -466,8 +466,8 @@
       "Science Fiction",
       "publishers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "ca7366d473fbb53730c521da57178ffa",
@@ -502,8 +502,8 @@
       "publishers",
       "trailers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "d4a36fbec6982dd09291dd0acfe67192",
@@ -548,8 +548,8 @@
       "television recaps",
       "television reviews"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "1b71c2d9aba54a9c462bc460fa22faab",
@@ -590,8 +590,202 @@
       "horses",
       "publishers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
+  },
+  {
+    "id": "66720196bbbb7b6354390e0c219c6625",
+    "title": "Bible Teacher Joyce Meyer Revisits Her ‘Battlefield’",
+    "author": "Ann Byle",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130452-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130452-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/religion/article/100880-bible-teacher-joyce-meyer-revisits-her-battlefield.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
+  },
+  {
+    "id": "e34c0d8a3d1a07d0c048d32e041fe8ca",
+    "title": "The Genesis of Bible Scholar Amy",
+    "author": "Cathy Lynn Grossman",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130408-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130408-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/religion/article/100862-the-genesis-of-scholar-amy-jill-levine.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
+  },
+  {
+    "id": "11a512a5205edb6be676c9a5c4e53e6c",
+    "title": "Rights Report: Week of July 20, 2026",
+    "author": "",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130465-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130465-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100889-rights-report-week-of-july-20-2026.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
+  },
+  {
+    "id": "e1d6fc19a73134cc48bdf8d8ed05cad4",
+    "title": "‘You Keep Learning’: PW Talks with Rajani LaRocca",
+    "author": "Linda Lowen",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130461-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130461-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100886-four-questions-for-rajani-larocca.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
+  },
+  {
+    "id": "4da01ecaefb52caa9225578af058bd88",
+    "title": "Religion Book Deals: July 22, 2026",
+    "author": "Ann Byle",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130454-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130454-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/religion/article/100883-religion-book-deals-july-22-2026.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
+  },
+  {
+    "id": "adf1f5ee425591f5952113b6b3a47608",
+    "title": "Cover Reveal: Imani Perry’s Children’s Debut, ‘Hope in a Classroom’",
+    "author": "Matt Broaddus",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130330-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130330-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100834-cover-reveal-imani-perry-s-children-s-debut-hope-in-a-classroom.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
+  },
+  {
+    "id": "6995cb0c1d6e791edacd37a023412d56",
+    "title": "A Christian Look at Christopher Nolan's ‘The Odyssey’",
+    "author": "Cathy Lynn Grossman",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130453-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130453-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/religion/article/100882-a-christian-look-at-christopher-nolan-s-the-odyssey.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
+  },
+  {
+    "id": "3219ab96e65746c19cf598bc32853d50",
+    "title": "Guideposts Finds Itself at Home in Bookstores",
+    "author": "Holly Lebowitz Rossi",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130324-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130324-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/religion/article/100832-guideposts-finds-itself-at-home-in-bookstores.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "14677bb2a619a875965c0ac4fc2b1e23",
@@ -614,8 +808,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "f2a95dfe0ac27ba309bce42aa762c1d5",
@@ -638,8 +832,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "ee0f2bf018f8d43d1026d87fc18c8b82",
@@ -662,8 +856,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "32692dd3ae372965e0810ca3cf68c80b",
@@ -686,8 +880,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "7a811c05ee9feeb3912f272473fcb25b",
@@ -710,8 +904,34 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
+  },
+  {
+    "id": "8e9b0a2a57a0c29d3445d754a5ecd721",
+    "title": "‘The Business of Forgiveness’: Martine Leavitt and Kristen McCallum in Conversation",
+    "author": "",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [
+      "Business"
+    ],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130462-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130462-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100887-in-conversation-martine-leavitt-and-kristen-mccallum.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "749d4452653097c3210a7a1a4110a2b9",
@@ -734,225 +954,7 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
-  },
-  {
-    "id": "4e5589ccc2808e12087a964f6b376530",
-    "title": "National Book Ban Bill Introduced in Senate Committee",
-    "author": "Nathalie op de Beeck",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-20",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130439-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130439-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/100876-national-book-ban-bill-now-introduced-in-senate-committee.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
-  },
-  {
-    "id": "3cd9c680137bb7348ca18a7be7f3e09b",
-    "title": "Forefront Keeps Pushing Forward",
-    "author": "Jim Milliot",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-20",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130441-2.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130441-2.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100857-forefront-keeps-pushing-forward.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
-  },
-  {
-    "id": "47ecf2e7ab8e9e07c034dee675ff972f",
-    "title": "Beyond the Book: Skybound’s Must",
-    "author": "",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-20",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130440-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130440-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/100877-pw-studio-beyond-the-book-skybound-s-must-have-media-tie-ins.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
-  },
-  {
-    "id": "153712ef438c5ac051300263d02fd46e",
-    "title": "Fall 2026 Writers to Watch: Manuia Heinrich",
-    "author": "Elaine Szewczyk",
-    "description": "In her YA debut, 'Salt Water Blood,' the Tahitian Chinese author looks behind the postcard surface of a fictional French Polynesian island.",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [
-      "Fiction"
-    ],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-17",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130437-1.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130437-1.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100875-fall-2026-writers-to-watch-manuia-heinrich.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
-  },
-  {
-    "id": "13b912452eb20bc1c36138fcf3ddcabe",
-    "title": "Fall 2026 Writers to Watch: Fernanda Frick H.",
-    "author": "Elaine Szewczyk",
-    "description": "What started out in the 2010s as an idea for a Netflix series is now the Chilean animator's empowering middle grade graphic novel debut, 'Raise the Bar.'",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-17",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130436-1.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130436-1.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100874-fall-2026-writers-to-watch-fernanda-frick-h.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
-  },
-  {
-    "id": "8d154a79d6578006b2a6f6addba7da93",
-    "title": "Fall 2026 Writers to Watch: Seán Farrelly",
-    "author": "Iyana Jones",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-17",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130435-1.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130435-1.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100873-fall-2026-writers-to-watch-se-n-farrelly.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
-  },
-  {
-    "id": "8bc5c19e72b5684272cb3f0d731965da",
-    "title": "Falll 2026 Writers to Watch: Stacey Yu",
-    "author": "Matt Seidel",
-    "description": "The debut author spins a story of a floundering young woman’s feline fixation in 'Kitten.'",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-17",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130434-1.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130434-1.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100872-falll-2026-writers-to-watch-stacey-yu.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
-  },
-  {
-    "id": "845986412f2f2e0cedcacd5705232c3c",
-    "title": "Falll 2026 Writers to Watch: Eloise Rodger",
-    "author": "Matt Seidel",
-    "description": "In the recent Trinity College graduate’s debut novel, 'Death’s a Bitch,' a young woman strikes a strange bargain with the grim reaper.",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-17",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130433-1.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130433-1.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100871-falll-2026-writers-to-watch-eloise-rodger.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
-  },
-  {
-    "id": "4955ce387f71fd60ed7951775175415b",
-    "title": "Falll 2026 Writers to Watch: Leila Renee",
-    "author": "Matt Seidel",
-    "description": "A new teacher struggles to cope with the pressure in 'Soft Spots,' a novel of odd-couple roommates and complex family ties.",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-17",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130432-1.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130432-1.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100870-falll-2026-writers-to-watch-leila-renee.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   }
 ]

@@ -32,8 +32,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "42639c57ccc47ec16ef07791c599d705",
@@ -74,8 +74,8 @@
       "publishers",
       "trailers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "a777900ce4007edbbaec0d402b92f8e2",
@@ -110,8 +110,8 @@
       "movie adaptations",
       "publishers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "2f4bafb6160a51e10de9d46224ccabc1",
@@ -148,8 +148,8 @@
       "Towers of Midnight",
       "publishers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "83dcb3b5c2f948ec4f72edeb8f5307b9",
@@ -186,8 +186,8 @@
       "publishers",
       "robots"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "62c7801fc460e5dddf93b14a56336049",
@@ -238,8 +238,46 @@
       "publishers",
       "short fiction"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
+  },
+  {
+    "id": "7adb0af2c64202336b77f59c6b6ea95d",
+    "title": "San Diego Comic",
+    "author": "Matthew Byrd",
+    "description": "Marvel Studios returns to San Diego Comic-Con as we (hopefully) get a better look at the future of Star Trek The post San Diego Comic-Con 2026: Every Major Panel To Watch For appeared first on Reactor .",
+    "summary_ai": "",
+    "categories": [
+      "Blog",
+      "Movies",
+      "News",
+      "Publishers",
+      "Science Fiction",
+      "Sdcc",
+      "Sdcc 2026",
+      "Television"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Reactormag",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://reactormag.com/wp-content/uploads/2025/08/star-trek-snw-307-what-is-starfleet-02-740x493.jpg",
+    "cover_large": "https://reactormag.com/wp-content/uploads/2025/08/star-trek-snw-307-what-is-starfleet-02-740x493.jpg",
+    "article_url": "https://reactormag.com/san-diego-comic-con-2026-panels-schedule/",
+    "source": "Reactormag",
+    "source_type": "rss",
+    "tags": [
+      "Blog",
+      "SDCC",
+      "SDCC 2026",
+      "Science Fiction",
+      "movies",
+      "news",
+      "publishers",
+      "television"
+    ],
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "dcd4d502802fc666ef55b88394057f42",
@@ -284,46 +322,202 @@
       "television recaps",
       "television reviews"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
-    "id": "3115d45e801dfc06376f3ec8b2e3713a",
-    "title": "The Star Trek: Strange New Worlds Carol Kane Episode We’ll Never Get to See",
-    "author": "Vanessa Armstrong",
-    "description": "“It was a little bit like Sixth Sense... ” The post The Star Trek: Strange New Worlds Carol Kane Episode We’ll Never Get to See appeared first on Reactor .",
+    "id": "66720196bbbb7b6354390e0c219c6625",
+    "title": "Bible Teacher Joyce Meyer Revisits Her ‘Battlefield’",
+    "author": "Ann Byle",
+    "description": "",
     "summary_ai": "",
     "categories": [
-      "Blog",
-      "News",
-      "Paramount Plus",
-      "Publishers",
-      "Star Trek",
-      "Star Trek: Strange New Worlds",
-      "Strange New Worlds",
-      "Television"
+      "Publishers"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "Reactormag",
+    "publisher": "Publishers Weekly",
     "published_date": "2026-07-21",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/SNW3_310_MG_05_22_24_04554_RT_f-740x493.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/SNW3_310_MG_05_22_24_04554_RT_f-740x493.jpg",
-    "article_url": "https://reactormag.com/star-trek-strange-new-worlds-missing-carol-kane-episode-explained/",
-    "source": "Reactormag",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130452-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130452-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/religion/article/100880-bible-teacher-joyce-meyer-revisits-her-battlefield.html",
+    "source": "Publishers Weekly",
     "source_type": "rss",
     "tags": [
-      "Blog",
-      "Paramount Plus",
-      "Star Trek",
-      "Star Trek: Strange New Worlds",
-      "Strange New Worlds",
-      "news",
-      "publishers",
-      "television"
+      "publishers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
+  },
+  {
+    "id": "e34c0d8a3d1a07d0c048d32e041fe8ca",
+    "title": "The Genesis of Bible Scholar Amy",
+    "author": "Cathy Lynn Grossman",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130408-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130408-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/religion/article/100862-the-genesis-of-scholar-amy-jill-levine.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
+  },
+  {
+    "id": "11a512a5205edb6be676c9a5c4e53e6c",
+    "title": "Rights Report: Week of July 20, 2026",
+    "author": "",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130465-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130465-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100889-rights-report-week-of-july-20-2026.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
+  },
+  {
+    "id": "e1d6fc19a73134cc48bdf8d8ed05cad4",
+    "title": "‘You Keep Learning’: PW Talks with Rajani LaRocca",
+    "author": "Linda Lowen",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130461-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130461-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100886-four-questions-for-rajani-larocca.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
+  },
+  {
+    "id": "4da01ecaefb52caa9225578af058bd88",
+    "title": "Religion Book Deals: July 22, 2026",
+    "author": "Ann Byle",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130454-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130454-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/religion/article/100883-religion-book-deals-july-22-2026.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
+  },
+  {
+    "id": "adf1f5ee425591f5952113b6b3a47608",
+    "title": "Cover Reveal: Imani Perry’s Children’s Debut, ‘Hope in a Classroom’",
+    "author": "Matt Broaddus",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130330-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130330-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100834-cover-reveal-imani-perry-s-children-s-debut-hope-in-a-classroom.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
+  },
+  {
+    "id": "6995cb0c1d6e791edacd37a023412d56",
+    "title": "A Christian Look at Christopher Nolan's ‘The Odyssey’",
+    "author": "Cathy Lynn Grossman",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130453-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130453-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/religion/article/100882-a-christian-look-at-christopher-nolan-s-the-odyssey.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
+  },
+  {
+    "id": "3219ab96e65746c19cf598bc32853d50",
+    "title": "Guideposts Finds Itself at Home in Bookstores",
+    "author": "Holly Lebowitz Rossi",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-21",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130324-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130324-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/religion/article/100832-guideposts-finds-itself-at-home-in-bookstores.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "14677bb2a619a875965c0ac4fc2b1e23",
@@ -346,8 +540,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "f2a95dfe0ac27ba309bce42aa762c1d5",
@@ -370,8 +564,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "ee0f2bf018f8d43d1026d87fc18c8b82",
@@ -394,8 +588,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   },
   {
     "id": "32692dd3ae372965e0810ca3cf68c80b",
@@ -418,299 +612,7 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
-  },
-  {
-    "id": "7a811c05ee9feeb3912f272473fcb25b",
-    "title": "Wildfires Impact Bookstores in Tourist Areas",
-    "author": "Claire Kirch",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-21",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130442-1.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130442-1.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/100878-wildfires-and-smoke-have-varying-effects-on-bookstores-in-tourist-areas.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
-  },
-  {
-    "id": "81b75aa17a602c4c80e84b91a5620e37",
-    "title": "Every Major Character Missing From the Avengers: Doomsday Trailer",
-    "author": "Matthew Byrd",
-    "description": "If anyone sees Alan Cumming, tell him we miss him The post Every Major Character Missing From the Avengers: Doomsday Trailer appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Avengers: Doomsday",
-      "Blog",
-      "Marvel",
-      "Movies",
-      "News",
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-20",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/Doomsday-Trailer-Characters-740x387.png",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/Doomsday-Trailer-Characters-740x387.png",
-    "article_url": "https://reactormag.com/characters-missing-avengers-doomsday-trailer/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Avengers: Doomsday",
-      "Blog",
-      "Marvel",
-      "movies",
-      "news",
-      "publishers"
-    ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
-  },
-  {
-    "id": "d9a3e8ee0d545dfd97f0cd8f855cda60",
-    "title": "Masters of the Universe Gets Second Chance on Streaming Later This Week",
-    "author": "Matthew Byrd",
-    "description": "He-Man, he streaming The post Masters of the Universe Gets Second Chance on Streaming Later This Week appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Fantasy",
-      "Masters Of The Universe",
-      "Movies",
-      "News",
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-20",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/01/masters-of-the-universe-trailer-740x493.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/01/masters-of-the-universe-trailer-740x493.jpg",
-    "article_url": "https://reactormag.com/masters-of-the-universe-streaming-release-date/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Masters of the Universe",
-      "fantasy",
-      "movies",
-      "news",
-      "publishers"
-    ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
-  },
-  {
-    "id": "ddac6053ab1d67612ab0c26fbfc28b9b",
-    "title": "Adam Scott and Two Severance Colleagues Are Teaming Up to Develop a New Sci",
-    "author": "Molly Templeton",
-    "description": "Face ... off? The post Adam Scott and Two Severance Colleagues Are Teaming Up to Develop a New Sci-Fi Series appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Adam Scott",
-      "Blog",
-      "Eli Jorne",
-      "Ezra Claytan Daniels",
-      "Graphic Novel Adaptations",
-      "Hulu",
-      "Koren Shadmi",
-      "News",
-      "Publishers",
-      "Shifter"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-20",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2025/01/Severance-Mark-201-1-740x493.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2025/01/Severance-Mark-201-1-740x493.jpg",
-    "article_url": "https://reactormag.com/shifter-graphic-novel-adaptation/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Adam Scott",
-      "Blog",
-      "Eli Jorne",
-      "Ezra Claytan Daniels",
-      "Hulu",
-      "Koren Shadmi",
-      "Shifter",
-      "graphic novel adaptations",
-      "news",
-      "publishers"
-    ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
-  },
-  {
-    "id": "d8bfab88d2538ff76d88e52580dcb4cf",
-    "title": "Babylon 5 Rewatch: “Objects at Rest”",
-    "author": "Sarah",
-    "description": "Sheridan and Delenn prepare to leave Babylon 5 for Minbar The post Babylon 5 Rewatch: “Objects at Rest” appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Babylon 5",
-      "Babylon 5 Rewatch",
-      "Blog",
-      "J. Michael Straczynski",
-      "Publishers",
-      "Science Fiction"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-20",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/babylon-5-objects-at-rest-01-740x493.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/babylon-5-objects-at-rest-01-740x493.jpg",
-    "article_url": "https://reactormag.com/babylon-5-rewatch-objects-at-rest/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Babylon 5",
-      "Babylon 5 Rewatch",
-      "Blog",
-      "J. Michael Straczynski",
-      "Science Fiction",
-      "publishers"
-    ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
-  },
-  {
-    "id": "ca7366d473fbb53730c521da57178ffa",
-    "title": "The Avengers: Doomsday Trailer Is Here To Remind You How Many People Are in This Movie",
-    "author": "Molly Templeton",
-    "description": "It's gonna take a minute for these Avengers to assemble, no? The post The Avengers: Doomsday Trailer Is Here To Remind You How Many People Are in This Movie appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Anthony & Joe Russo",
-      "Avengers: Doomsday",
-      "Blog",
-      "Marvel Studios",
-      "Movies",
-      "Publishers",
-      "Trailers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-20",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/doomsday-trailer-thor-740x451.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/doomsday-trailer-thor-740x451.jpg",
-    "article_url": "https://reactormag.com/avengers-doomsday-trailer-cast/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Anthony & Joe Russo",
-      "Avengers: Doomsday",
-      "Blog",
-      "Marvel Studios",
-      "movies",
-      "publishers",
-      "trailers"
-    ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
-  },
-  {
-    "id": "d4a36fbec6982dd09291dd0acfe67192",
-    "title": "The Vampire Lestat Goes Deep and Dark in “The Failures”",
-    "author": "Molly Templeton",
-    "description": "The too-short season comes to a close in appropriately dramatic fashion The post The Vampire Lestat Goes Deep and Dark in “The Failures” appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Assan Zaman",
-      "Blog",
-      "Delainey Hayles",
-      "Interview With The Vampire",
-      "Jacob Anderson",
-      "Publishers",
-      "Sam Reid",
-      "Television",
-      "Television Recaps",
-      "Television Reviews",
-      "The Vampire Lestat",
-      "The Vampire Lestat Recaps"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-20",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/lestat-7-top-740x493.jpeg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/lestat-7-top-740x493.jpeg",
-    "article_url": "https://reactormag.com/tv-review-the-vampire-lestat-goes-deep-and-dark-in-the-failures/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Assan Zaman",
-      "Blog",
-      "Delainey Hayles",
-      "Interview with the Vampire",
-      "Jacob Anderson",
-      "Sam Reid",
-      "The Vampire Lestat",
-      "The Vampire Lestat recaps",
-      "publishers",
-      "television",
-      "television recaps",
-      "television reviews"
-    ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
-  },
-  {
-    "id": "1b71c2d9aba54a9c462bc460fa22faab",
-    "title": "The Sassy Horses of Disney Animation",
-    "author": "Sarah",
-    "description": "Who needs words when you have attitude? The post The Sassy Horses of Disney Animation appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Animated Films",
-      "Blog",
-      "Disney",
-      "Disney Animation",
-      "Horses",
-      "Mulan",
-      "Publishers",
-      "Sff Bestiary",
-      "Sleeping Beauty",
-      "Tangled"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-20",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/Disney-Tangled-Maximus-740x423.png",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/Disney-Tangled-Maximus-740x423.png",
-    "article_url": "https://reactormag.com/the-sassy-horses-of-disney-animation/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Disney",
-      "Disney animation",
-      "Mulan",
-      "SFF Bestiary",
-      "Sleeping Beauty",
-      "Tangled",
-      "animated films",
-      "horses",
-      "publishers"
-    ],
-    "created_at": "2026-07-21T19:13:27+00:00",
-    "updated_at": "2026-07-21T19:13:27Z"
+    "created_at": "2026-07-22T08:27:15+00:00",
+    "updated_at": "2026-07-22T08:27:15Z"
   }
 ]
