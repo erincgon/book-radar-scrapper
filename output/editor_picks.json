@@ -1,5 +1,57 @@
 [
   {
+    "id": "1dbf2673324d6cb77c4cf40a52da476b",
+    "title": "Why Americans can’t seem to quit Little House on the Prairie.",
+    "author": "Brittany Allen",
+    "description": "This month, a fresh adaptation of Laura Ingalls Wilder’s beloved Little House on the Prairie arrives on Netflix. The reboot’s timing is auspicious. 2026 saw the apex of the tradwife discourse. And if the Brooklyn streets are anything to go by,",
+    "summary_ai": "",
+    "categories": [
+      "Cottagecore",
+      "Frontier Thesis",
+      "Glynnis Macnicol",
+      "History",
+      "Laura Ingalls Wilder",
+      "Little House On The Prairie",
+      "Nature",
+      "Netflix",
+      "Osage",
+      "Pioneer",
+      "Reviews",
+      "Settler Narratives",
+      "The Hub",
+      "Tradwife",
+      "Travel"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-07-23",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/Untitled-design-8-768x384.png",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/Untitled-design-8-768x384.png",
+    "article_url": "https://lithub.com/why-americans-cant-seem-to-quit-little-house-on-the-prairie/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Glynnis MacNicol",
+      "History",
+      "Laura Ingalls Wilder",
+      "Little House on the Prairie",
+      "Nature",
+      "Netflix",
+      "Osage",
+      "The Hub",
+      "Travel",
+      "cottagecore",
+      "frontier thesis",
+      "pioneer",
+      "reviews",
+      "settler narratives",
+      "tradwife"
+    ],
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
+  },
+  {
     "id": "505e609222c4ec7db46701d1c1cbb0b2",
     "title": "Penelope Speaks: Rebecca Solnit on the Western Literary Tradition of Silencing Women",
     "author": "Rebecca Solnit",
@@ -56,8 +108,8 @@
       "reviews",
       "sexual assault"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "77a0498981bf8da402387a46f541fbc3",
@@ -82,8 +134,8 @@
       "Lit Hub Daily",
       "reviews"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "2d685b472b34a1e682e090c6fe98cdb4",
@@ -122,8 +174,8 @@
       "Tin House",
       "reviews"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "d06d1b2e7f4178896f5c04a28e9b4011",
@@ -171,8 +223,8 @@
       "novels",
       "reviews"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "405e5a6fa64a03cc87b1863bc747c006",
@@ -214,8 +266,52 @@
       "book reviews",
       "reviews"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
+  },
+  {
+    "id": "1bc2cfa51a9bcc9de7a1d4114c11cc4f",
+    "title": "On the Public Historians Reminding Us How Easy It Is to Repeat the Mistakes of the Past",
+    "author": "Jim Downs",
+    "description": "A recent essay in The New Republic asks why historians have become such visible public voices during the Trump era. Katherine Kelaidis argues that figures such as Heather Cox Richardson, Jill Lepore, Joanne Freeman, Ruth Ben-Ghiat and Kevin Kruse have",
+    "summary_ai": "",
+    "categories": [
+      "American History",
+      "Association Of University Presses",
+      "Features",
+      "Historians",
+      "History",
+      "Jim Downs",
+      "News And Culture",
+      "Public History",
+      "Public Intellectuals",
+      "Reviews",
+      "Semiquincentennial"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-07-23",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/america-768x384.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/america-768x384.jpg",
+    "article_url": "https://lithub.com/on-the-public-historians-reminding-us-how-easy-it-is-to-repeat-the-mistakes-of-the-past/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "American History",
+      "Association of University Presses",
+      "Features",
+      "History",
+      "News and Culture",
+      "historians",
+      "jim downs",
+      "public history",
+      "public intellectuals",
+      "reviews",
+      "semiquincentennial"
+    ],
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "d104f75a648045a69bf5fac962676ee2",
@@ -262,52 +358,8 @@
       "climate change",
       "reviews"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
-  },
-  {
-    "id": "1bc2cfa51a9bcc9de7a1d4114c11cc4f",
-    "title": "On the Public Historians Reminding Us How Easy It Is to Repeat the Mistakes of the Past",
-    "author": "Jim Downs",
-    "description": "A recent essay in The New Republic asks why historians have become such visible public voices during the Trump era. Katherine Kelaidis argues that figures such as Heather Cox Richardson, Jill Lepore, Joanne Freeman, Ruth Ben-Ghiat and Kevin Kruse have",
-    "summary_ai": "",
-    "categories": [
-      "American History",
-      "Association Of University Presses",
-      "Features",
-      "Historians",
-      "History",
-      "Jim Downs",
-      "News And Culture",
-      "Public History",
-      "Public Intellectuals",
-      "Reviews",
-      "Semiquincentennial"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-07-23",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/america-768x384.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/america-768x384.jpg",
-    "article_url": "https://lithub.com/on-the-public-historians-reminding-us-how-easy-it-is-to-repeat-the-mistakes-of-the-past/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "American History",
-      "Association of University Presses",
-      "Features",
-      "History",
-      "News and Culture",
-      "historians",
-      "jim downs",
-      "public history",
-      "public intellectuals",
-      "reviews",
-      "semiquincentennial"
-    ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "daeb9047f7d695e50c96d38606e7df89",
@@ -357,8 +409,8 @@
       "reviews",
       "sex"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "a05b1aaf370ee2979a93d434c584d5b6",
@@ -395,82 +447,8 @@
       "book reviews",
       "reviews"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
-  },
-  {
-    "id": "92a0006fa1274623bae417ab7596afd2",
-    "title": "The Annotated Nightstand: What Victoria Chang is Reading Now, and Next",
-    "author": "Diana Arterian",
-    "description": "Attending a reading from Victoria Chang a few years ago, I remember her cheerful comment about how her new poems were a concerted effort to be about nothing, really. She then proceeded to read a piece that left a smoldering",
-    "summary_ai": "",
-    "categories": [
-      "All Our Ordinary Stories",
-      "Amina Cain",
-      "Annotated Nightstand",
-      "Cecily Parks",
-      "Creature",
-      "Features",
-      "Karen Solie",
-      "Kenyon Review",
-      "Kevin Young",
-      "Literary Criticism",
-      "Michael Ann Holly",
-      "Nathalie Léger",
-      "Night Watch",
-      "Reading Lists",
-      "Reviews",
-      "Suite For Barbara Loden",
-      "Summer 2025",
-      "Teresa Wong",
-      "The Caiplie Caves",
-      "The Melancholy Art",
-      "The Seeds",
-      "Tree Of Knowledge",
-      "Victoria Chang",
-      "Virginia Quarterly Review",
-      "Virginia Quarterly Review Winter 2025",
-      "Volume Xlviii"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-07-23",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/victoria-chang-768x432.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/victoria-chang-768x432.png",
-    "article_url": "https://lithub.com/the-annotated-nightstand-what-victoria-chang-is-reading-now-and-next/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "All Our Ordinary Stories",
-      "Amina Cain",
-      "Cecily Parks",
-      "Creature",
-      "Features",
-      "Karen Solie",
-      "Kenyon Review",
-      "Kevin Young",
-      "Literary Criticism",
-      "Michael Ann Holly",
-      "Nathalie Léger",
-      "Night Watch",
-      "Reading Lists",
-      "Suite for Barbara Loden",
-      "Summer 2025",
-      "Teresa Wong",
-      "The Caiplie Caves",
-      "The Melancholy Art",
-      "The Seeds",
-      "Tree of Knowledge",
-      "Victoria Chang",
-      "Virginia Quarterly Review",
-      "Virginia Quarterly Review Winter 2025",
-      "Volume XLVIII",
-      "annotated nightstand",
-      "reviews"
-    ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "c7b704fb4ee46af8009f0178db7af86a",
@@ -497,8 +475,8 @@
       "Book Deals",
       "reviews"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "ae643a127d51a3eb3228c2a47cb91fec",
@@ -523,8 +501,8 @@
       "Latine Lit",
       "reviews"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "882090179df3dbf251c63e2418a04602",
@@ -555,8 +533,8 @@
       "Romance/Erotica",
       "reviews"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "4ef33028f55014b3b3d033c5cc9f192f",
@@ -587,8 +565,8 @@
       "Swords and Spaceships",
       "reviews"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "7f61c7a77a966943af62119f3f7be0e5",
@@ -621,7 +599,7 @@
       "reviews",
       "summer camp"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   }
 ]

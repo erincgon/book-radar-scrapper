@@ -1,45 +1,5 @@
 [
   {
-    "id": "03070ce2b750c51dfbee898ec0d7f86f",
-    "title": "Valeria Luiselli on Her Favorite Books and Her New Novel",
-    "author": "",
-    "description": "Pliny’s “Natural History” is meant for “skimming and skipping,” she says. Her own new (one-volume) road-trip novel is “Beginning Middle End.”",
-    "summary_ai": "",
-    "categories": [
-      "Beginning Middle End (Book)",
-      "Books",
-      "Books And Literature",
-      "Content Type: Personal Profile",
-      "Genre-Books-Audiobooks",
-      "Luiselli, Valeria (1983- )",
-      "Road Trips",
-      "Writing And Writers"
-    ],
-    "genre": [
-      "History"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-23",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/26/books/26TBR-ByTheBook-VLUISELLI/26TBR-ByTheBook-VLUISELLI-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/26/books/26TBR-ByTheBook-VLUISELLI/26TBR-ByTheBook-VLUISELLI-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/23/books/review/valeria-luiselli-beginning-middle-end.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Beginning Middle End (Book)",
-      "Books and Literature",
-      "Content Type: Personal Profile",
-      "Luiselli, Valeria (1983- )",
-      "Road Trips",
-      "Writing and Writers",
-      "books",
-      "genre-books-audiobooks"
-    ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
-  },
-  {
     "id": "1c4d0b3392233b552c7a93d3b9ad66f5",
     "title": "Let These 11 Celebrities Read You Their Memoirs",
     "author": "Elisabeth Egan",
@@ -79,7 +39,7 @@
     ],
     "language": "English",
     "publisher": "The New York Times",
-    "published_date": "2026-07-23",
+    "published_date": "2026-07-24",
     "thumbnail": "https://static01.nyt.com/images/2026/07/26/books/26tbr-audiobooks-celebritymemoir-3_2/09tbr-audiobooks-celebritymemoir-3_2-mediumSquareAt3X.jpg",
     "cover_large": "https://static01.nyt.com/images/2026/07/26/books/26tbr-audiobooks-celebritymemoir-3_2/09tbr-audiobooks-celebritymemoir-3_2-mediumSquareAt3X.jpg",
     "article_url": "https://www.nytimes.com/2026/07/23/books/review/celebrity-audiobook-memoirs.html",
@@ -114,8 +74,83 @@
       "You With the Sad Eyes (Book)",
       "books"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
+  },
+  {
+    "id": "af9abbd40d1ece241f2398628987f883",
+    "title": "Unsayable by Michael Cunningham review – The Hours author on the insecurities that powered his creative life",
+    "author": "Alex Clark",
+    "description": "The American novelist and screenwriter’s memoir covers sex work, Virginia Woolf and Hollywood success As an eight-year-old in comfortable, solid, suburban California, Michael Cunningham felt compelled to make art before he quite understood what it was, or could do: a painting of souls ascending to heaven, for example, in which paradise resembled the Griffith Park Observatory and the dead were all depicted in profile because their creator felt unequal to the challenge of full faces. There was also a cigar box covered in gold-sprayed macaroni and a clay representation of the animals on Noah’s Ark – anything, in fact, that would challenge the painting of a placid white chicken that hung in a gilt frame on his parents’ wall. If Cunningham moved on fairly rapidly from the visual arts, either sparing or denying us the fruits of a more fully formed talent, it wasn’t because the impulse to create had withered. Rather, it was that the experience of making material art had functioned as a temporary outlet, being less painful, less embarrassing – both emotions he ascribes to his young, sensitive self – than attempting to capture the world in words. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Autobiography And Memoir",
+      "Books",
+      "Culture",
+      "Michael Cunningham",
+      "The Hours"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-24",
+    "thumbnail": "https://i.guim.co.uk/img/media/bee7fd6bedf5eee35a2ff7bc77b4b67bde3c1840/187_0_4216_3373/master/4216.jpg?width=700&quality=85&auto=format&fit=max&s=ea5438ef6fea7f93f0709a68e1410deb",
+    "cover_large": "https://i.guim.co.uk/img/media/bee7fd6bedf5eee35a2ff7bc77b4b67bde3c1840/187_0_4216_3373/master/4216.jpg?width=700&quality=85&auto=format&fit=max&s=ea5438ef6fea7f93f0709a68e1410deb",
+    "article_url": "https://www.theguardian.com/books/2026/jul/24/unsayable-by-michael-cunningham-review-the-hours-author-on-the-insecurities-that-powered-his-creative-life",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Autobiography and memoir",
+      "Books",
+      "Culture",
+      "Michael Cunningham",
+      "The Hours",
+      "books"
+    ],
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
+  },
+  {
+    "id": "03070ce2b750c51dfbee898ec0d7f86f",
+    "title": "Valeria Luiselli on Her Favorite Books and Her New Novel",
+    "author": "",
+    "description": "Pliny’s “Natural History” is meant for “skimming and skipping,” she says. Her own new (one-volume) road-trip novel is “Beginning Middle End.”",
+    "summary_ai": "",
+    "categories": [
+      "Beginning Middle End (Book)",
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Genre-Books-Audiobooks",
+      "Luiselli, Valeria (1983- )",
+      "Road Trips",
+      "Writing And Writers"
+    ],
+    "genre": [
+      "History"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-23",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/26/books/26TBR-ByTheBook-VLUISELLI/26TBR-ByTheBook-VLUISELLI-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/26/books/26TBR-ByTheBook-VLUISELLI/26TBR-ByTheBook-VLUISELLI-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/23/books/review/valeria-luiselli-beginning-middle-end.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Beginning Middle End (Book)",
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Luiselli, Valeria (1983- )",
+      "Road Trips",
+      "Writing and Writers",
+      "books",
+      "genre-books-audiobooks"
+    ],
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "4a0dcc1cd7429c0e0f99e24ec7e8b49e",
@@ -158,8 +193,8 @@
       "United States Politics and Government",
       "books"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "4611b387c1d6ab2d88abbf5c23f2cd3c",
@@ -189,8 +224,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "a325e937197ac90b12d7a9e74d933f1d",
@@ -218,8 +253,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "dfcef9731948a87ed2e753281ed1192f",
@@ -251,8 +286,8 @@
       "Raymond Briggs",
       "books"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "8c227fce0175d0eaf9065b2046e24dde",
@@ -292,8 +327,8 @@
       "Teen books",
       "books"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "b148a796198ce20925e200b21db26582",
@@ -320,8 +355,8 @@
       "Book Riot Newsletter",
       "reviews"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "919bd34ad9cedc02df589487475b5e74",
@@ -346,8 +381,8 @@
       "New Books",
       "reviews"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "fb92947e0ef2c37513a5e5df4bc32732",
@@ -376,8 +411,8 @@
       "Young Adult Literature",
       "reviews"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "777d63b21d39e0cf3756ebb5c92c1169",
@@ -424,8 +459,8 @@
       "Thiel, Peter A",
       "books"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "8d53a54e917a106b646610bb00596efc",
@@ -460,8 +495,8 @@
       "Women and Girls",
       "books"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "e6fe377037038a14de6d91c2f6432247",
@@ -501,8 +536,8 @@
       "books",
       "qntm"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "386a1ee68c64ffa6647fedd472f1f43e",
@@ -555,8 +590,8 @@
       "books",
       "de Man, Paul"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "a1b108307aa876ce63772109e4b765fa",
@@ -597,8 +632,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "6fe9e937e648275d730f6d496c0bc253",
@@ -630,8 +665,8 @@
       "US news",
       "books"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "1a01adacf102f08e18ad0c9aacce6bbc",
@@ -664,40 +699,8 @@
       "Travel writing",
       "books"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
-  },
-  {
-    "id": "a68bfa69e95fae6976ad5587ce0a078b",
-    "title": "Venus, Vanishing by Rebecca Birrell review – art, desire and the rise of the Third Reich",
-    "author": "Gabrielle Schwarz",
-    "description": "This portrait of a Jewish painter in bohemian Berlin is filled with insightful observations In the summer of 1937, two exhibitions sponsored by the Nazis opened in Munich. For the Degenerate Art exhibition, hundreds of confiscated works by banned modern artists – including Paul Klee, Wassily Kandinsky, Pablo Picasso – were gathered: a derisive demonstration of the supposedly anti-German spirit of contemporary culture. The show was also meant as a counterpoint to the first Great German Art Exhibition, essentially an art fair for state-sanctioned work, which ran annually until 1944. The official style of Aryan art was traditionalist neoclassicism; popular subjects included idealised female nudes, pastoral landscapes and heroic battle scenes. Hitler was among the main buyers. You probably haven’t heard of any of those artists. What if one of them were secretly a Jew, working under a pseudonym? Rebecca Birrell’s debut novel imagines this scenario, telling the story of a fictional Jewish artist who comes of age in Berlin in the last days of the Weimar republic. Hannah Sherman is working as a seamstress for the family business when she learns that she is about to be married off. She...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [
-      "Business",
-      "Fiction"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-22",
-    "thumbnail": "https://i.guim.co.uk/img/media/561f1a7a5ed0dbe9f9dc398dd7a973e6f7d580d7/456_2736_6010_4808/master/6010.jpg?width=700&quality=85&auto=format&fit=max&s=e9b7ed93d987e791ecd307ce66a80ee4",
-    "cover_large": "https://i.guim.co.uk/img/media/561f1a7a5ed0dbe9f9dc398dd7a973e6f7d580d7/456_2736_6010_4808/master/6010.jpg?width=700&quality=85&auto=format&fit=max&s=e9b7ed93d987e791ecd307ce66a80ee4",
-    "article_url": "https://www.theguardian.com/books/2026/jul/22/venus-vanishing-by-rebecca-birrell-review-art-desire-and-the-rise-of-the-third-reich",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "5b0992fb76e95a1bc3f59a01865758bf",
@@ -726,8 +729,8 @@
       "breaking in books",
       "reviews"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   },
   {
     "id": "1cf720c782a8f021d2f8295bb6831a62",
@@ -750,7 +753,7 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-07-23T19:07:54+00:00",
-    "updated_at": "2026-07-23T19:07:54Z"
+    "created_at": "2026-07-24T08:26:09+00:00",
+    "updated_at": "2026-07-24T08:26:09Z"
   }
 ]
