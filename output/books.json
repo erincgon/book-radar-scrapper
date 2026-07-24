@@ -1,5 +1,133 @@
 [
   {
+    "id": "aee349fced59d1514b1355f04d9e08a6",
+    "title": "Life of Alan Turing Emerges in Richer Detail From Short Story",
+    "author": "Claire Moses",
+    "description": "A Cambridge professor has transcribed a handwritten story that the famous mathematician wrote in the year before his death, presenting a different side of him.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Cambridge University",
+      "Great Britain",
+      "Homosexuality And Bisexuality",
+      "Mathematics",
+      "Research",
+      "Turing, Alan M"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-24",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/24/multimedia/24xp-turing-art/24xp-turing-art-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/24/multimedia/24xp-turing-art/24xp-turing-art-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/24/world/europe/alan-turing-short-story-cambridge.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Cambridge University",
+      "Great Britain",
+      "Homosexuality and Bisexuality",
+      "Mathematics",
+      "Research",
+      "Turing, Alan M",
+      "books"
+    ],
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
+  },
+  {
+    "id": "f2df42bb1d1b15eaff28592c59f83d64",
+    "title": "Let’s Talk About the Best Books of the Year (So Far)",
+    "author": "Gilbert Cruz, Sarah Diamond, Amy Pearl and Tracy Mumford",
+    "description": "It’s time for our annual midyear check-in on the books that we can’t stop thinking about.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Fear And Fury: The Reagan Eighties, The Bernie Goetz Shootings, And The Rebirth Of White Rage (Book)",
+      "Internal-Open-Access-Audio",
+      "Jones, Tayari",
+      "Keefe, Patrick Radden",
+      "Lost Lambs (Book)",
+      "Mueenuddin, Daniyal"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-24",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/24/podcasts/24tbr-best-books-so-far/24tbr-best-books-so-far-mediumSquareAt3X.png",
+    "cover_large": "https://static01.nyt.com/images/2026/07/24/podcasts/24tbr-best-books-so-far/24tbr-best-books-so-far-mediumSquareAt3X.png",
+    "article_url": "https://www.nytimes.com/2026/07/24/podcasts/best-books-so-far.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Fear and Fury: The Reagan Eighties, the Bernie Goetz Shootings, and the Rebirth of White Rage (Book)",
+      "Jones, Tayari",
+      "Keefe, Patrick Radden",
+      "Lost Lambs (Book)",
+      "Mueenuddin, Daniyal",
+      "books",
+      "internal-open-access-audio"
+    ],
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
+  },
+  {
+    "id": "f58f54f0ee17a330c997364f752c4e91",
+    "title": "Children’s Picture Books About Boredom",
+    "author": "Joshua David Stein",
+    "description": "The picture books “Bored” and “Endless Afternoons” are odes to the joy of having nothing to do.",
+    "summary_ai": "",
+    "categories": [
+      "Black, Michael Ian",
+      "Books",
+      "Books And Literature",
+      "Bored (Book)",
+      "Boredom",
+      "Children And Childhood",
+      "Endless Afternoons (Book)",
+      "Faye, Gael",
+      "Genre-Books-Childrens",
+      "Im Bored (Book)",
+      "Meynet, Frank (Hippolyte)",
+      "Sala, Felicita",
+      "The Boring Book (Book)",
+      "Vazquez, Irene (Poet)",
+      "Yoshitake, Shinsuke"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-24",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/26/books/26TBR-Boredom-Kids/26TBR-Boredom-Kids-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/26/books/26TBR-Boredom-Kids/26TBR-Boredom-Kids-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/24/books/review/boredom-childrens-picture-books-felicita-sala-gael-faye.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Black, Michael Ian",
+      "Books and Literature",
+      "Bored (Book)",
+      "Boredom",
+      "Children and Childhood",
+      "Endless Afternoons (Book)",
+      "Faye, Gael",
+      "Im Bored (Book)",
+      "Meynet, Frank (Hippolyte)",
+      "Sala, Felicita",
+      "The Boring Book (Book)",
+      "Vazquez, Irene (Poet)",
+      "Yoshitake, Shinsuke",
+      "books",
+      "genre-books-childrens"
+    ],
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
+  },
+  {
     "id": "1c4d0b3392233b552c7a93d3b9ad66f5",
     "title": "Let These 11 Celebrities Read You Their Memoirs",
     "author": "Elisabeth Egan",
@@ -74,8 +202,87 @@
       "You With the Sad Eyes (Book)",
       "books"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
+  },
+  {
+    "id": "7dd206f28dce5f222604d7a97761c154",
+    "title": "Book Review: ‘The Lost Founder,’ by Jesse Wegman and ‘The Fall of Republics,’ by Thomas F. Madden",
+    "author": "Claire Rydell Arcenas",
+    "description": "A pair of new books look back at the fear, anxiety and optimism that shaped the founding of the United States.",
+    "summary_ai": "",
+    "categories": [
+      "Adams, John (1735-1826)",
+      "Books",
+      "Books And Literature",
+      "Constitution (Us)",
+      "Content Type: Personal Profile",
+      "Democracy (Theory And Philosophy)",
+      "Electoral College",
+      "Madden, Thomas F.",
+      "The Fall Of Republics: A History From Ancient Carthage To The American Constitution (Book)",
+      "The Lost Founder: James Wilson And The Forgotten Fight For A People'S Constitution (Book)",
+      "United States",
+      "United States Politics And Government",
+      "United States Semiquincentennial (2026)",
+      "Wegman, Jesse",
+      "Wilson, James (1742-98)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-24",
+    "thumbnail": "https://static01.nyt.com/images/2026/08/02/arts/02TBR-Wegman-Review/20TBR-Wegman-Review-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/08/02/arts/02TBR-Wegman-Review/20TBR-Wegman-Review-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/20/books/review/the-lost-founder-jesse-wegman-the-fall-of-republics-thomas-f-madden.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Adams, John (1735-1826)",
+      "Books and Literature",
+      "Constitution (US)",
+      "Content Type: Personal Profile",
+      "Democracy (Theory and Philosophy)",
+      "Electoral College",
+      "Madden, Thomas F.",
+      "The Fall of Republics: A History from Ancient Carthage to the American Constitution (Book)",
+      "The Lost Founder: James Wilson and the Forgotten Fight for a People's Constitution (Book)",
+      "United States",
+      "United States Politics and Government",
+      "United States Semiquincentennial (2026)",
+      "Wegman, Jesse",
+      "Wilson, James (1742-98)",
+      "books"
+    ],
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
+  },
+  {
+    "id": "9b04896dfe124150a60d5761e28aec7e",
+    "title": "Lucy Caldwell: ‘Even your text messages fizz after reading James Joyce’",
+    "author": "Lucy Caldwell",
+    "description": "The author on the power of folktales, being inspired by Ulysses – and the book that every woman should read My earliest reading memory The summer my middle sister was born, my mum and I would walk to the shops at Cherryvalley, in east Belfast, to do her messages, and she’d buy me the latest issue of Storyteller, illustrated tales from around the world. It came with a cassette tape of actors reading the stories, a ding to tell you when to turn the page. My favourite was a Japanese folktale called The Goblin Rat. I was only just two, but I listened to it, entranced and terrified, until I could recite it by heart. My favourite book growing up Susan Cooper’s The Dark Is Rising series. I first read them aged 10 – I’ve read the title book every midwinter since, and read them last year with my own then-10-year-old son. They tell a haunting story of the age-old battle between the forces of dark and light, weaving in Arthurian legend, shot through with an adult melancholy that makes them as compelling now as then. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-24",
+    "thumbnail": "https://i.guim.co.uk/img/media/1e7a295e531a0e8da3677946a4571a180611ff62/648_0_6503_5202/master/6503.jpg?width=700&quality=85&auto=format&fit=max&s=4a88e8c3c80367d0a3c535d0b8fba06e",
+    "cover_large": "https://i.guim.co.uk/img/media/1e7a295e531a0e8da3677946a4571a180611ff62/648_0_6503_5202/master/6503.jpg?width=700&quality=85&auto=format&fit=max&s=4a88e8c3c80367d0a3c535d0b8fba06e",
+    "article_url": "https://www.theguardian.com/books/2026/jul/24/lucy-caldwell-even-your-text-messages-fizz-after-reading-james-joyce",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "books"
+    ],
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "af9abbd40d1ece241f2398628987f883",
@@ -109,8 +316,8 @@
       "The Hours",
       "books"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "03070ce2b750c51dfbee898ec0d7f86f",
@@ -149,8 +356,8 @@
       "books",
       "genre-books-audiobooks"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "4a0dcc1cd7429c0e0f99e24ec7e8b49e",
@@ -193,8 +400,8 @@
       "United States Politics and Government",
       "books"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "4611b387c1d6ab2d88abbf5c23f2cd3c",
@@ -224,8 +431,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "a325e937197ac90b12d7a9e74d933f1d",
@@ -253,8 +460,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "dfcef9731948a87ed2e753281ed1192f",
@@ -286,8 +493,8 @@
       "Raymond Briggs",
       "books"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "8c227fce0175d0eaf9065b2046e24dde",
@@ -327,8 +534,8 @@
       "Teen books",
       "books"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "777d63b21d39e0cf3756ebb5c92c1169",
@@ -375,8 +582,8 @@
       "Thiel, Peter A",
       "books"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "8d53a54e917a106b646610bb00596efc",
@@ -411,8 +618,8 @@
       "Women and Girls",
       "books"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "e6fe377037038a14de6d91c2f6432247",
@@ -452,8 +659,8 @@
       "books",
       "qntm"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "386a1ee68c64ffa6647fedd472f1f43e",
@@ -506,8 +713,8 @@
       "books",
       "de Man, Paul"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "a1b108307aa876ce63772109e4b765fa",
@@ -548,8 +755,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "6fe9e937e648275d730f6d496c0bc253",
@@ -581,42 +788,8 @@
       "US news",
       "books"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
-  },
-  {
-    "id": "1a01adacf102f08e18ad0c9aacce6bbc",
-    "title": "On Thin Ice by Charlie Walker review",
-    "author": "Charlie Gilmour",
-    "description": "Moments of beauty and horror punctuate this account of an ill-timed sub-zero camping trip In late February 2022, Charlie Walker set off on a hiking holiday in northern Siberia. In temperatures as low as -50C, he intended to trek a thousand miles north along the frozen surface of the river Lena, then out across the solid Laptev Sea to the port town of Tiksi, before finally flying home to London. “The plan,” he writes, “was simple in concept.” A sub-zero camping trip through a region populated by wolves and bears and scarred by centuries of historical trauma, in a country that was about to invade one of its neighbours: what could possibly go wrong? On Thin Ice is Walker’s third travelogue. Previous excursions have included a 43,000-mile bicycle ride across three continents, a 1,000-mile solo walk through the Gobi desert, and a river trip down the Congo in a leaky canoe. When not performing incredible feats of forward motion, according to his website, he gives talks to business leaders on subjects such as “risk taking” and “the line between courage and recklessness”. Reading his latest, it’s clear he’s familiar with the terrain on both sides of that line. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Russia",
-      "Travel Writing"
-    ],
-    "genre": [
-      "Business",
-      "Horror"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-22",
-    "thumbnail": "https://i.guim.co.uk/img/media/649df7bc88f9cc901b5a81485914016df54245f6/0_0_3780_3024/master/3780.jpg?width=700&quality=85&auto=format&fit=max&s=6369310be4f9239c4f5c0407e033a489",
-    "cover_large": "https://i.guim.co.uk/img/media/649df7bc88f9cc901b5a81485914016df54245f6/0_0_3780_3024/master/3780.jpg?width=700&quality=85&auto=format&fit=max&s=6369310be4f9239c4f5c0407e033a489",
-    "article_url": "https://www.theguardian.com/books/2026/jul/22/on-thin-ice-by-charlie-walker-review-a-siberian-adventure-goes-off-the-rails",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Russia",
-      "Travel writing",
-      "books"
-    ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "fb5306c959ae7cdccd3a1284bfb91e69",
@@ -651,8 +824,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "858f2d3ff308755af33d96db97a7ab1b",
@@ -685,8 +858,8 @@
       "books",
       "internal-open-access-from-nl"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "35c5412c611a0d60482500b9411080f0",
@@ -720,8 +893,8 @@
       "The far right",
       "books"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "f1aa387cc3bacd108bbb7d3bf49005ab",
@@ -766,96 +939,8 @@
       "Wilson, Emily (1971- )",
       "books"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
-  },
-  {
-    "id": "99265ff59b146e2187f20e177d9ba3f1",
-    "title": "Book Review: ‘The Lost Founder,’ by Jesse Wegman",
-    "author": "Claire Rydell Arcenas",
-    "description": "In “The Lost Founder,” the journalist Jesse Wegman looks back at a largely forgotten and singular voice that helped make the United States what it is today.",
-    "summary_ai": "",
-    "categories": [
-      "Adams, John (1735-1826)",
-      "Books",
-      "Books And Literature",
-      "Constitution (Us)",
-      "Content Type: Personal Profile",
-      "Democracy (Theory And Philosophy)",
-      "Electoral College",
-      "The Lost Founder: James Wilson And The Forgotten Fight For A People'S Constitution (Book)",
-      "United States",
-      "United States Politics And Government",
-      "United States Semiquincentennial (2026)",
-      "Wegman, Jesse",
-      "Wilson, James (1742-98)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-20",
-    "thumbnail": "https://static01.nyt.com/images/2026/08/02/arts/02TBR-Wegman-Review/20TBR-Wegman-Review-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/08/02/arts/02TBR-Wegman-Review/20TBR-Wegman-Review-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/20/books/review/the-lost-founder-jesse-wegman.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Adams, John (1735-1826)",
-      "Books and Literature",
-      "Constitution (US)",
-      "Content Type: Personal Profile",
-      "Democracy (Theory and Philosophy)",
-      "Electoral College",
-      "The Lost Founder: James Wilson and the Forgotten Fight for a People's Constitution (Book)",
-      "United States",
-      "United States Politics and Government",
-      "United States Semiquincentennial (2026)",
-      "Wegman, Jesse",
-      "Wilson, James (1742-98)",
-      "books"
-    ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
-  },
-  {
-    "id": "ba4e532f53719e86015f05cf1438ae73",
-    "title": "What to Know Before Seeing ‘The Odyssey’: Plot, Characters and More",
-    "author": "Sarah Bahr",
-    "description": "Christopher Nolan’s adaptation of Homer’s epic poem has monster battles, a sorceress and dozens of thirsty suitors. Here’s a primer.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Homer",
-      "Movies",
-      "Myths And Mythical Creatures",
-      "Nolan, Christopher",
-      "Odyssey (Book)",
-      "Poetry And Poets",
-      "The Odyssey (2026) (Movie)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-20",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/18/multimedia/18cul-odyssey-explainer-01-bhpm/18cul-odyssey-explainer-01-bhpm-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/18/multimedia/18cul-odyssey-explainer-01-bhpm/18cul-odyssey-explainer-01-bhpm-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/18/movies/the-odyssey-plot-characters-trojan-war.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Homer",
-      "Movies",
-      "Myths and Mythical Creatures",
-      "Nolan, Christopher",
-      "Odyssey (Book)",
-      "Poetry and Poets",
-      "The Odyssey (2026) (Movie)",
-      "books"
-    ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "d920e1004dd8ab340fc506a88d646969",
@@ -885,8 +970,8 @@
       "Film books",
       "books"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "4e5f3ba5ed35b16c70eaf9283c0b5aab",
@@ -914,8 +999,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "524c605cd8982891e747fe848342f8df",
@@ -957,8 +1042,8 @@
       "True crime books",
       "books"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "81c985665e3e1046d365a1ea02fe0f86",
@@ -990,8 +1075,8 @@
       "Social history",
       "books"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "d39553355fe7cae217188dba4d546d2f",
@@ -1019,8 +1104,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "4c67af7b443e59255ae5e43165443d79",
@@ -1052,8 +1137,8 @@
       "Tessa Hadley",
       "books"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -1083,75 +1168,7 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
-  },
-  {
-    "id": "65d8c8ca1a174f11e32ec64ace3460db",
-    "title": "The Best Romance Novels of 2024 (So Far)",
-    "author": "Olivia Waite",
-    "description": "Looking for an escapist love story? Here are 2024’s sexiest, swooniest reads.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Chu, Lily (Author)",
-      "Genre-Books-Romance",
-      "Grossman, Felicia (Author)",
-      "Sebastian, Cat",
-      "Williams, Tia",
-      "You Should Be So Lucky (Book)"
-    ],
-    "genre": [
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2024-10-01",
-    "thumbnail": "https://static01.nyt.com/images/2024/05/03/books/review/03Romance-WhatToReadNow/03Romance-WhatToReadNow-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2024/05/03/books/review/03Romance-WhatToReadNow/03Romance-WhatToReadNow-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/article/best-romance-books.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Chu, Lily (Author)",
-      "Grossman, Felicia (Author)",
-      "Sebastian, Cat",
-      "Williams, Tia",
-      "You Should Be So Lucky (Book)",
-      "books",
-      "genre-books-romance"
-    ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
-  },
-  {
-    "id": "755ba738881478773c8491c271f5d902",
-    "title": "What Book Should You Read Next?",
-    "author": "The New York Times Books Staff",
-    "description": "Finding a book you’ll love can be daunting. Let us help.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Content Type: Service"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2024-09-04",
-    "thumbnail": "https://static01.nyt.com/images/2024/09/05/books/review/00WhatToReadNow-092024/00WhatToReadNow-092024-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2024/09/05/books/review/00WhatToReadNow-092024/00WhatToReadNow-092024-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/article/best-books.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Content Type: Service",
-      "books"
-    ],
-    "created_at": "2026-07-24T08:26:09+00:00",
-    "updated_at": "2026-07-24T08:26:09Z"
+    "created_at": "2026-07-24T19:18:17+00:00",
+    "updated_at": "2026-07-24T19:18:17Z"
   }
 ]
