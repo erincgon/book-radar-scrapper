@@ -1,5 +1,83 @@
 [
   {
+    "id": "a367f9bd07059f6bd2c5cbb3414a8efb",
+    "title": "Listening with the Stars: Stellar Celebrity Memoirs Read by Their Authors",
+    "author": "Elisabeth Egan",
+    "description": "There’s nothing like hearing a famous person’s life story in their own, instantly recognizable voice.",
+    "summary_ai": "",
+    "categories": [
+      "Applegate, Christina",
+      "Audiobooks",
+      "Books",
+      "Books And Literature",
+      "Born A Crime: Stories From A South African Childhood (Book)",
+      "Born To Run (Book)",
+      "Bossypants (Book)",
+      "Celebrities",
+      "Content Type: Personal Profile",
+      "Dunham, Lena",
+      "Famesick: A Memoir (Book)",
+      "Fey, Tina",
+      "Friends, Lovers And The Terrible Thing: A Memoir (Book)",
+      "Greenlights (Book)",
+      "I'M Glad My Mom Died (Book)",
+      "Mcconaughey, Matthew",
+      "Mccurdy, Jennette (1992- )",
+      "My Name Is Barbra (Book)",
+      "Noah, Trevor (1984- )",
+      "O'Connor, Sinead",
+      "Perry, Matthew",
+      "Rememberings (Book)",
+      "Smith, Jada Pinkett",
+      "Springsteen, Bruce",
+      "Streisand, Barbra",
+      "Worthy (Book)",
+      "You With The Sad Eyes (Book)"
+    ],
+    "genre": [
+      "Memoir"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-25",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/26/books/26tbr-audiobooks-celebritymemoir-3_2/09tbr-audiobooks-celebritymemoir-3_2-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/26/books/26tbr-audiobooks-celebritymemoir-3_2/09tbr-audiobooks-celebritymemoir-3_2-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/23/books/review/celebrity-audiobook-memoirs.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Applegate, Christina",
+      "Audiobooks",
+      "Books and Literature",
+      "Born a Crime: Stories From a South African Childhood (Book)",
+      "Born to Run (Book)",
+      "Bossypants (Book)",
+      "Celebrities",
+      "Content Type: Personal Profile",
+      "Dunham, Lena",
+      "Famesick: A Memoir (Book)",
+      "Fey, Tina",
+      "Friends, Lovers and the Terrible Thing: A Memoir (Book)",
+      "Greenlights (Book)",
+      "I'm Glad My Mom Died (Book)",
+      "McConaughey, Matthew",
+      "McCurdy, Jennette (1992- )",
+      "My Name Is Barbra (Book)",
+      "Noah, Trevor (1984- )",
+      "O'Connor, Sinead",
+      "Perry, Matthew",
+      "Rememberings (Book)",
+      "Smith, Jada Pinkett",
+      "Springsteen, Bruce",
+      "Streisand, Barbra",
+      "Worthy (Book)",
+      "You With the Sad Eyes (Book)",
+      "books"
+    ],
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
+  },
+  {
     "id": "aee349fced59d1514b1355f04d9e08a6",
     "title": "Life of Alan Turing Emerges in Richer Detail From Short Story",
     "author": "Claire Moses",
@@ -34,8 +112,8 @@
       "Turing, Alan M",
       "books"
     ],
-    "created_at": "2026-07-24T19:18:17+00:00",
-    "updated_at": "2026-07-24T19:18:17Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "f2df42bb1d1b15eaff28592c59f83d64",
@@ -70,8 +148,8 @@
       "books",
       "internal-open-access-audio"
     ],
-    "created_at": "2026-07-24T19:18:17+00:00",
-    "updated_at": "2026-07-24T19:18:17Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "f58f54f0ee17a330c997364f752c4e91",
@@ -124,86 +202,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-24T19:18:17+00:00",
-    "updated_at": "2026-07-24T19:18:17Z"
-  },
-  {
-    "id": "1c4d0b3392233b552c7a93d3b9ad66f5",
-    "title": "Let These 11 Celebrities Read You Their Memoirs",
-    "author": "Elisabeth Egan",
-    "description": "There’s nothing like hearing a famous person’s life story in their own, instantly recognizable voice.",
-    "summary_ai": "",
-    "categories": [
-      "Applegate, Christina",
-      "Audiobooks",
-      "Books",
-      "Books And Literature",
-      "Born A Crime: Stories From A South African Childhood (Book)",
-      "Born To Run (Book)",
-      "Bossypants (Book)",
-      "Celebrities",
-      "Content Type: Personal Profile",
-      "Dunham, Lena",
-      "Famesick: A Memoir (Book)",
-      "Fey, Tina",
-      "Friends, Lovers And The Terrible Thing: A Memoir (Book)",
-      "Greenlights (Book)",
-      "I'M Glad My Mom Died (Book)",
-      "Mcconaughey, Matthew",
-      "Mccurdy, Jennette (1992- )",
-      "My Name Is Barbra (Book)",
-      "Noah, Trevor (1984- )",
-      "O'Connor, Sinead",
-      "Perry, Matthew",
-      "Rememberings (Book)",
-      "Smith, Jada Pinkett",
-      "Springsteen, Bruce",
-      "Streisand, Barbra",
-      "Worthy (Book)",
-      "You With The Sad Eyes (Book)"
-    ],
-    "genre": [
-      "Memoir"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-24",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/26/books/26tbr-audiobooks-celebritymemoir-3_2/09tbr-audiobooks-celebritymemoir-3_2-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/26/books/26tbr-audiobooks-celebritymemoir-3_2/09tbr-audiobooks-celebritymemoir-3_2-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/23/books/review/celebrity-audiobook-memoirs.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Applegate, Christina",
-      "Audiobooks",
-      "Books and Literature",
-      "Born a Crime: Stories From a South African Childhood (Book)",
-      "Born to Run (Book)",
-      "Bossypants (Book)",
-      "Celebrities",
-      "Content Type: Personal Profile",
-      "Dunham, Lena",
-      "Famesick: A Memoir (Book)",
-      "Fey, Tina",
-      "Friends, Lovers and the Terrible Thing: A Memoir (Book)",
-      "Greenlights (Book)",
-      "I'm Glad My Mom Died (Book)",
-      "McConaughey, Matthew",
-      "McCurdy, Jennette (1992- )",
-      "My Name Is Barbra (Book)",
-      "Noah, Trevor (1984- )",
-      "O'Connor, Sinead",
-      "Perry, Matthew",
-      "Rememberings (Book)",
-      "Smith, Jada Pinkett",
-      "Springsteen, Bruce",
-      "Streisand, Barbra",
-      "Worthy (Book)",
-      "You With the Sad Eyes (Book)",
-      "books"
-    ],
-    "created_at": "2026-07-24T19:18:17+00:00",
-    "updated_at": "2026-07-24T19:18:17Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "7dd206f28dce5f222604d7a97761c154",
@@ -254,8 +254,8 @@
       "Wilson, James (1742-98)",
       "books"
     ],
-    "created_at": "2026-07-24T19:18:17+00:00",
-    "updated_at": "2026-07-24T19:18:17Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "9b04896dfe124150a60d5761e28aec7e",
@@ -281,8 +281,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-24T19:18:17+00:00",
-    "updated_at": "2026-07-24T19:18:17Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "af9abbd40d1ece241f2398628987f883",
@@ -316,8 +316,38 @@
       "The Hours",
       "books"
     ],
-    "created_at": "2026-07-24T19:18:17+00:00",
-    "updated_at": "2026-07-24T19:18:17Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
+  },
+  {
+    "id": "4c83903a2c467884a397efa2bb318ee2",
+    "title": "Everything You Need to Know About Mike Flanagan’s CARRIE Series",
+    "author": "Emily Martin",
+    "description": "Mike Flanagan's CARRIE series releases on Prime in October. Here's everything to know about the new adaptation so far.",
+    "summary_ai": "",
+    "categories": [
+      "All Access",
+      "Horror",
+      "Reviews",
+      "The Fright Stuff"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-24",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/07/carrie-2026-poster-closeup.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/07/carrie-2026-poster-closeup.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/mike-flanagans-carrie-series/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "All Access",
+      "Horror",
+      "The Fright Stuff",
+      "reviews"
+    ],
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "9aa4de0b43b42f01ed76014580c3e048",
@@ -344,8 +374,8 @@
       "Libraries",
       "reviews"
     ],
-    "created_at": "2026-07-24T19:18:17+00:00",
-    "updated_at": "2026-07-24T19:18:17Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "03070ce2b750c51dfbee898ec0d7f86f",
@@ -384,8 +414,8 @@
       "books",
       "genre-books-audiobooks"
     ],
-    "created_at": "2026-07-24T19:18:17+00:00",
-    "updated_at": "2026-07-24T19:18:17Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "4a0dcc1cd7429c0e0f99e24ec7e8b49e",
@@ -428,8 +458,8 @@
       "United States Politics and Government",
       "books"
     ],
-    "created_at": "2026-07-24T19:18:17+00:00",
-    "updated_at": "2026-07-24T19:18:17Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "4611b387c1d6ab2d88abbf5c23f2cd3c",
@@ -459,8 +489,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-24T19:18:17+00:00",
-    "updated_at": "2026-07-24T19:18:17Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "a325e937197ac90b12d7a9e74d933f1d",
@@ -488,8 +518,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-24T19:18:17+00:00",
-    "updated_at": "2026-07-24T19:18:17Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "dfcef9731948a87ed2e753281ed1192f",
@@ -521,8 +551,8 @@
       "Raymond Briggs",
       "books"
     ],
-    "created_at": "2026-07-24T19:18:17+00:00",
-    "updated_at": "2026-07-24T19:18:17Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "8c227fce0175d0eaf9065b2046e24dde",
@@ -562,8 +592,8 @@
       "Teen books",
       "books"
     ],
-    "created_at": "2026-07-24T19:18:17+00:00",
-    "updated_at": "2026-07-24T19:18:17Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "ae643a127d51a3eb3228c2a47cb91fec",
@@ -588,8 +618,8 @@
       "Latine Lit",
       "reviews"
     ],
-    "created_at": "2026-07-24T19:18:17+00:00",
-    "updated_at": "2026-07-24T19:18:17Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "882090179df3dbf251c63e2418a04602",
@@ -620,8 +650,8 @@
       "Romance/Erotica",
       "reviews"
     ],
-    "created_at": "2026-07-24T19:18:17+00:00",
-    "updated_at": "2026-07-24T19:18:17Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "4ef33028f55014b3b3d033c5cc9f192f",
@@ -652,8 +682,8 @@
       "Swords and Spaceships",
       "reviews"
     ],
-    "created_at": "2026-07-24T19:18:17+00:00",
-    "updated_at": "2026-07-24T19:18:17Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "777d63b21d39e0cf3756ebb5c92c1169",
@@ -700,8 +730,8 @@
       "Thiel, Peter A",
       "books"
     ],
-    "created_at": "2026-07-24T19:18:17+00:00",
-    "updated_at": "2026-07-24T19:18:17Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "8d53a54e917a106b646610bb00596efc",
@@ -736,48 +766,7 @@
       "Women and Girls",
       "books"
     ],
-    "created_at": "2026-07-24T19:18:17+00:00",
-    "updated_at": "2026-07-24T19:18:17Z"
-  },
-  {
-    "id": "e6fe377037038a14de6d91c2f6432247",
-    "title": "New Science Fiction About Truth and Lies in an Age of War",
-    "author": "Amal El-Mohtar",
-    "description": "Three recent novels explore the use of deception by both invaders and the invaded.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Huang, Sl",
-      "Qntm",
-      "The Language Of Liars (Book)",
-      "The Misheard World (Book)",
-      "There Is No Antimemetics Division (Book)",
-      "Whiteley, Aliya"
-    ],
-    "genre": [
-      "Fiction",
-      "Science Fiction"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-22",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/17/books/17TBR-Lies-SciFi/17TBR-Lies-SciFi-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/17/books/17TBR-Lies-SciFi/17TBR-Lies-SciFi-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/22/books/review/language-of-liars-antimemetics-misheard-world.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Huang, SL",
-      "The Language of Liars (Book)",
-      "The Misheard World (Book)",
-      "There Is No Antimemetics Division (Book)",
-      "Whiteley, Aliya",
-      "books",
-      "qntm"
-    ],
-    "created_at": "2026-07-24T19:18:17+00:00",
-    "updated_at": "2026-07-24T19:18:17Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   }
 ]

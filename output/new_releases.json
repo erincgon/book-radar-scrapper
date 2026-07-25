@@ -1,5 +1,43 @@
 [
   {
+    "id": "199ba6f20c296437206235a3f266c896",
+    "title": "Blade Runner 2099 Trailer Finally Reveals the Show’s Plot",
+    "author": "Matthew Byrd",
+    "description": "Hunter Schafer and Michelle Yeoh star in a bold new Blade Runner story The post Blade Runner 2099 Trailer Finally Reveals the Show’s Plot appeared first on Reactor .",
+    "summary_ai": "",
+    "categories": [
+      "Blade Runner 2099",
+      "Blog",
+      "News",
+      "Publishers",
+      "Science Fiction",
+      "Sdcc",
+      "Sdcc 2026",
+      "Television"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Reactormag",
+    "published_date": "2026-07-24",
+    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/Blade-Runner-2099-740x434.png",
+    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/Blade-Runner-2099-740x434.png",
+    "article_url": "https://reactormag.com/blade-runner-2099-trailer-plot/",
+    "source": "Reactormag",
+    "source_type": "rss",
+    "tags": [
+      "Blade Runner 2099",
+      "Blog",
+      "SDCC",
+      "SDCC 2026",
+      "Science Fiction",
+      "news",
+      "publishers",
+      "television"
+    ],
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
+  },
+  {
     "id": "c8f965743cad8580b877f07f7014392f",
     "title": "The Rings of Power Season 3 Trailer Is All About Sauron",
     "author": "Matthew Byrd",
@@ -36,8 +74,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-07-24T19:18:18+00:00",
-    "updated_at": "2026-07-24T19:18:18Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "f27585dd7db13c78bf4349a500a4159a",
@@ -72,8 +110,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-07-24T19:18:18+00:00",
-    "updated_at": "2026-07-24T19:18:18Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "2bf4ac573616dea512d32d7c39816746",
@@ -112,8 +150,8 @@
       "television recaps",
       "television reviews"
     ],
-    "created_at": "2026-07-24T19:18:18+00:00",
-    "updated_at": "2026-07-24T19:18:18Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "83c2475a8d2f939bed989e4d21c6ab5d",
@@ -150,8 +188,250 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-07-24T19:18:18+00:00",
-    "updated_at": "2026-07-24T19:18:18Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
+  },
+  {
+    "id": "8fd871f71678b1f5068a94df48c463f0",
+    "title": "This Week’s Bestsellers: July 27, 2026",
+    "author": "Edited by Carolyn Juris",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-24",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130541-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130541-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/100910-this-week-s-bestsellers-july-27-2026.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
+  },
+  {
+    "id": "8fd83374cee62758c7f8711eabc6ed99",
+    "title": "Book Deals: Week of July 27, 2026",
+    "author": "Edited by Sophia Stewart",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-24",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130534-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130534-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/book-deals/article/100909-book-deals-week-of-july-27-2026.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
+  },
+  {
+    "id": "c5983068c3d8f4d870c8e41b30d7b604",
+    "title": "Reading Globally",
+    "author": "Nathalie op de Beeck",
+    "description": "Public libraries are augmenting their world language collections and bringing patrons to the international stacks.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-24",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130532-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130532-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100908-reading-globally.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
+  },
+  {
+    "id": "42e9b180cdcad67d18e7f360ad854cc3",
+    "title": "How ‘Sunrise’ by Téa Obreht Got Made",
+    "author": "PW Staff",
+    "description": "An inside look at the publication process for the bestselling author’s latest novel.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-24",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130531-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130531-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100907-how-sunrise-by-t-a-obreht-got-made.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
+  },
+  {
+    "id": "05b0ab523f0f481c8f6b54c6dd8bfc58",
+    "title": "Down to Earth: Six New Books About Creation Care",
+    "author": "Miriam Grossman",
+    "description": "These titles take a spiritual approach to pushing for environmental policy reform, reconnecting with nature, and acknowledging the extent of the climate crisis without sliding into despair.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-24",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130529-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130529-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/new-titles/adult-announcements/article/100906-down-to-earth-six-new-books-about-creation-care.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
+  },
+  {
+    "id": "d9487342387bcd59189096ceb54a8b47",
+    "title": "Fall 2026 Adult Preview: Religion & Spirituality",
+    "author": "Miriam Grossman",
+    "description": "Forthcoming works grapple with political polarization, climate change, and the future of the American evangelical movement.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-24",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130506-3.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130506-3.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/new-titles/adult-announcements/article/100902-fall-2026-adult-preview-religion-spirituality.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
+  },
+  {
+    "id": "4208805509fa633886b5bfbb2f1ac0a9",
+    "title": "Sarah Langan’s Trad Terrors",
+    "author": "Phoebe Cramer",
+    "description": "The horror author’s latest novel puts a supernatural spin on the tradwife movement.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [
+      "Horror"
+    ],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-24",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130497-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130497-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/authors/profiles/article/100898-sarah-langan-s-trad-terrors.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
+  },
+  {
+    "id": "41bcff754e74937af19abbab0a85f0af",
+    "title": "Forest for the Trees: PW Talks with Oliver K. Longmead",
+    "author": "Patricia Guy",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-24",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130491-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130491-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/authors/interviews/article/100897-forest-for-the-trees-pw-talks-with-oliver-k-longmead.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
+  },
+  {
+    "id": "8c9c519dc3a6d488edad6ecc0a3ac67e",
+    "title": "“He Could Get Away with Anything”: PW Talks with Cheyenne Roundtree",
+    "author": "Emily Colucci",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-24",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130490-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130490-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/authors/interviews/article/100895-he-could-get-away-with-anything-pw-talks-with-cheyenne-roundtree.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
+  },
+  {
+    "id": "48b7e095fa0b32dded0a43b183a5c6a5",
+    "title": "Democratization of Digital: PW Talks with Hoopla Digital Founder and CEO Jeff Jankowski",
+    "author": "Nathalie op de Beeck",
+    "description": "PW Talks with Hoopla Digital Founder and CEO Jeff Jankowski.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-24",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130489-2.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130489-2.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100893-democratization-of-digital-pw-talks-with-hoopla-digital-founder-and-ceo-jeff-jankowski.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "e10ea4bf7655e133038c5282a91154df",
@@ -174,8 +454,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-24T19:18:18+00:00",
-    "updated_at": "2026-07-24T19:18:18Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "7112941fdf482c624845e0daae36bd94",
@@ -198,8 +478,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-24T19:18:18+00:00",
-    "updated_at": "2026-07-24T19:18:18Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "4e72ec98ae8997c85ce002bf6ec005cb",
@@ -224,8 +504,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-24T19:18:18+00:00",
-    "updated_at": "2026-07-24T19:18:18Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "8afa65839630d23283ab29732d2d2002",
@@ -262,8 +542,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-07-24T19:18:18+00:00",
-    "updated_at": "2026-07-24T19:18:18Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   },
   {
     "id": "7d2b397017c5f0fc52aa6c7f59fd78be",
@@ -298,315 +578,7 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-24T19:18:18+00:00",
-    "updated_at": "2026-07-24T19:18:18Z"
-  },
-  {
-    "id": "b27abd547d626f61a8e39d27b53c6918",
-    "title": "A Commander of Mars — Star Trek: Strange New Worlds: “Valles Marineris”",
-    "author": "Emmet Asher-Perrin",
-    "description": "It's season four and we're so back. The post A Commander of Mars — Star Trek: Strange New Worlds : “Valles Marineris” appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Publishers",
-      "Science Fiction",
-      "Star Trek",
-      "Star Trek: Strange New Worlds",
-      "Strange New Worlds",
-      "Strange New Worlds Recaps",
-      "Television Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-23",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/snw-s4e1-4-740x493.jpeg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/snw-s4e1-4-740x493.jpeg",
-    "article_url": "https://reactormag.com/tv-review-star-trek-strange-new-worlds-valles-marineris/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Science Fiction",
-      "Star Trek",
-      "Star Trek: Strange New Worlds",
-      "Strange New Worlds",
-      "publishers",
-      "strange new worlds recaps",
-      "television reviews"
-    ],
-    "created_at": "2026-07-24T19:18:18+00:00",
-    "updated_at": "2026-07-24T19:18:18Z"
-  },
-  {
-    "id": "a1b3b4a1b18f39f96fb458b3ad8b1fc2",
-    "title": "Sorceress: A Low Point in Sleaze",
-    "author": "Sarah",
-    "description": "Roger Corman presents the male gaze at its most jaundiced and bloodshot. The post Sorceress : A Low Point in Sleaze-and-Sorcery Sexploitation appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "80S Fantasy Film Club",
-      "Blog",
-      "Fantasy",
-      "Nostalgia",
-      "Publishers",
-      "Roger Corman",
-      "Sword And Sorcery"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-23",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/Sorceress-Roger-Corman-740x423.png",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/Sorceress-Roger-Corman-740x423.png",
-    "article_url": "https://reactormag.com/sorceress-a-low-point-in-sleaze-and-sorcery-sexploitation/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "80s Fantasy Film Club",
-      "Blog",
-      "Roger Corman",
-      "Sword and Sorcery",
-      "fantasy",
-      "nostalgia",
-      "publishers"
-    ],
-    "created_at": "2026-07-24T19:18:18+00:00",
-    "updated_at": "2026-07-24T19:18:18Z"
-  },
-  {
-    "id": "18dc4fa6eca59f1516a64010bbe35604",
-    "title": "The Unfailing Optimism of My Neighbor Totoro",
-    "author": "Sarah",
-    "description": "In a hundred different ways, this movie teaches both children and adults how to hope. The post The Unfailing Optimism of My Neighbor Totoro appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Anime",
-      "Anime Spotlight",
-      "Blog",
-      "Hayao Miyazaki",
-      "My Neighbor Totoro",
-      "Publishers",
-      "Studio Ghibli"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-23",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/Anime-Spotlight-Totoro-01-740x493.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/Anime-Spotlight-Totoro-01-740x493.jpg",
-    "article_url": "https://reactormag.com/the-unfailing-optimism-of-my-neighbor-totoro/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Anime Spotlight",
-      "Blog",
-      "Hayao Miyazaki",
-      "My Neighbor Totoro",
-      "Studio Ghibli",
-      "anime",
-      "publishers"
-    ],
-    "created_at": "2026-07-24T19:18:18+00:00",
-    "updated_at": "2026-07-24T19:18:18Z"
-  },
-  {
-    "id": "72094a8627279bed3f6ff4294ca11e46",
-    "title": "Indie Spotlight: July 2026",
-    "author": "",
-    "description": "In this edition of our monthly roundup of BookLife titles, we feature fiction",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [
-      "Fiction"
-    ],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-23",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130503-1.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130503-1.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/authors/pw-select/article/100900-indie-spotlight-july-2026.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-24T19:18:18+00:00",
-    "updated_at": "2026-07-24T19:18:18Z"
-  },
-  {
-    "id": "810ac4767084d0169d4f162914d53853",
-    "title": "Obituary: Mildred Pitts Walter",
-    "author": "Shannon Maughan",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-23",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130528-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130528-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100904-obituary-mildred-pitts-walter.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-24T19:18:18+00:00",
-    "updated_at": "2026-07-24T19:18:18Z"
-  },
-  {
-    "id": "6bad2b61ab01cfa45a442aa2e6f06f58",
-    "title": "Bendon Acquires Educational Publisher School Zone",
-    "author": "Karen Raugust",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-23",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130527-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130527-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100903-bendon-acquires-educational-publisher-school-zone.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-24T19:18:18+00:00",
-    "updated_at": "2026-07-24T19:18:18Z"
-  },
-  {
-    "id": "8dfffe10b8f0d1a6db351c2acb21c9bf",
-    "title": "In Brief: July 23, 2026",
-    "author": "",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-23",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130502-1.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130502-1.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100899-in-brief-july-23-2026.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-24T19:18:18+00:00",
-    "updated_at": "2026-07-24T19:18:18Z"
-  },
-  {
-    "id": "76f92033bb3129ed6fb5a7456011e4cf",
-    "title": "New Kids’ and YA Books: Week of July 27, 2026",
-    "author": "",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-23",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130493-1.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130493-1.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100896-new-kids-and-ya-books-week-of-july-27-2026.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-24T19:18:18+00:00",
-    "updated_at": "2026-07-24T19:18:18Z"
-  },
-  {
-    "id": "10b42887095e39d1edf24ea4ca2b65cc",
-    "title": "Cover Reveal: ‘The Clockwork Menagerie’ by the Fan Brothers",
-    "author": "Nathalie op de Beeck",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-23",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130492-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130492-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100894-cover-reveal-the-clockwork-menagerie-by-the-fan-brothers.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-24T19:18:18+00:00",
-    "updated_at": "2026-07-24T19:18:18Z"
-  },
-  {
-    "id": "33ee3daa569b8f8790feecab7b43852e",
-    "title": "Preserving a Vital Chapter in LGBTQ Children’s Literature",
-    "author": "Myles Cooper",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-23",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130487-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130487-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100892-preserving-a-vital-chapter-in-lgbtq-children-s-literature.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-24T19:18:18+00:00",
-    "updated_at": "2026-07-24T19:18:18Z"
-  },
-  {
-    "id": "11efc9f7bb06abbc46de0abbe330e4b4",
-    "title": "Oslo’s Only English",
-    "author": "Ed Nawotka",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-23",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130485-1.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130485-1.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100891-oslo-s-only-english-language-bookstore-expands-into-publishing.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-24T19:18:18+00:00",
-    "updated_at": "2026-07-24T19:18:18Z"
+    "created_at": "2026-07-25T08:04:40+00:00",
+    "updated_at": "2026-07-25T08:04:40Z"
   }
 ]
