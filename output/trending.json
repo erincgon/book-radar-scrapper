@@ -74,8 +74,49 @@
       "You With the Sad Eyes (Book)",
       "books"
     ],
-    "created_at": "2026-07-25T08:04:40+00:00",
-    "updated_at": "2026-07-25T08:04:40Z"
+    "created_at": "2026-07-25T19:00:15+00:00",
+    "updated_at": "2026-07-25T19:00:15Z"
+  },
+  {
+    "id": "f52651c5870168c92f4d1a1e977126e5",
+    "title": "The perfect books for the beach ... picked by Freida McFadden, Mick Herron, Robert Harris and more",
+    "author": "",
+    "description": "From a transporting historical saga to a tale of small-town betrayal, the authors of our favourite page-turners reveal the books they take on holiday – introduced by Jenny Colgan It is important to follow a balanced diet on holiday. Too many “My Wife’s Sister’s Husband’s Psychopath”, and you’ll get confused and grumpy. Too much sugary romance and your teeth will fall out. Something too big and challenging you’ve been meaning to get round to for ages will make you feel guilty and more liable to give in to scrolling, and if you take too many supposedly upmarket “must reads” of the summer, you will simply prove to yourself just how much overhyped averageness there is out there, when all you want is something satisfying. You need to be able to chop and change depending on your mood, which means fiction and nonfiction. And finally, you need to be able to throw all of these rules out of the window if you find a sandy old water-stained copy of, for example, James Herbert’s Domain in your holiday cottage and decide to devote yourself to 600 pages of post-nuclear mutant rat-strewn London, or choose to go for a full-on Maeve Binchy sesh. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Biography Books",
+      "Books",
+      "Culture",
+      "Fiction",
+      "Horror Books",
+      "Science Fiction Books",
+      "Thrillers"
+    ],
+    "genre": [
+      "Fiction",
+      "Nonfiction",
+      "Romance"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-25",
+    "thumbnail": "https://i.guim.co.uk/img/media/3967255be4d447cd80cb15855cf55ddacf15cb06/0_0_1600_1280/master/1600.jpg?width=700&quality=85&auto=format&fit=max&s=cd4cb91d9635f9cb58c524cb7012d4c2",
+    "cover_large": "https://i.guim.co.uk/img/media/3967255be4d447cd80cb15855cf55ddacf15cb06/0_0_1600_1280/master/1600.jpg?width=700&quality=85&auto=format&fit=max&s=cd4cb91d9635f9cb58c524cb7012d4c2",
+    "article_url": "https://www.theguardian.com/books/ng-interactive/2026/jul/25/the-perfect-books-for-the-beach-picked-by-freida-mcfadden-mick-herron-robert-harris-and-more",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Biography books",
+      "Books",
+      "Culture",
+      "Fiction",
+      "Horror books",
+      "Science fiction books",
+      "Thrillers",
+      "books"
+    ],
+    "created_at": "2026-07-25T19:00:15+00:00",
+    "updated_at": "2026-07-25T19:00:15Z"
   },
   {
     "id": "aee349fced59d1514b1355f04d9e08a6",
@@ -87,11 +128,14 @@
       "Books",
       "Books And Literature",
       "Cambridge University",
+      "Content Type: Personal Profile",
+      "Cryptography, Codes And Ciphers",
       "Great Britain",
       "Homosexuality And Bisexuality",
       "Mathematics",
       "Research",
-      "Turing, Alan M"
+      "Turing, Alan M",
+      "Writing And Writers"
     ],
     "genre": [],
     "language": "English",
@@ -105,15 +149,18 @@
     "tags": [
       "Books and Literature",
       "Cambridge University",
+      "Content Type: Personal Profile",
+      "Cryptography, Codes and Ciphers",
       "Great Britain",
       "Homosexuality and Bisexuality",
       "Mathematics",
       "Research",
       "Turing, Alan M",
+      "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-25T08:04:40+00:00",
-    "updated_at": "2026-07-25T08:04:40Z"
+    "created_at": "2026-07-25T19:00:15+00:00",
+    "updated_at": "2026-07-25T19:00:15Z"
   },
   {
     "id": "f2df42bb1d1b15eaff28592c59f83d64",
@@ -123,12 +170,14 @@
     "summary_ai": "",
     "categories": [
       "Books",
+      "Books And Literature",
       "Fear And Fury: The Reagan Eighties, The Bernie Goetz Shootings, And The Rebirth Of White Rage (Book)",
       "Internal-Open-Access-Audio",
       "Jones, Tayari",
       "Keefe, Patrick Radden",
       "Lost Lambs (Book)",
-      "Mueenuddin, Daniyal"
+      "Mueenuddin, Daniyal",
+      "Two Thousand Twenty Six"
     ],
     "genre": [],
     "language": "English",
@@ -140,16 +189,18 @@
     "source": "The New York Times",
     "source_type": "rss",
     "tags": [
+      "Books and Literature",
       "Fear and Fury: The Reagan Eighties, the Bernie Goetz Shootings, and the Rebirth of White Rage (Book)",
       "Jones, Tayari",
       "Keefe, Patrick Radden",
       "Lost Lambs (Book)",
       "Mueenuddin, Daniyal",
+      "Two Thousand Twenty Six",
       "books",
       "internal-open-access-audio"
     ],
-    "created_at": "2026-07-25T08:04:40+00:00",
-    "updated_at": "2026-07-25T08:04:40Z"
+    "created_at": "2026-07-25T19:00:15+00:00",
+    "updated_at": "2026-07-25T19:00:15Z"
   },
   {
     "id": "f58f54f0ee17a330c997364f752c4e91",
@@ -202,60 +253,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-25T08:04:40+00:00",
-    "updated_at": "2026-07-25T08:04:40Z"
-  },
-  {
-    "id": "7dd206f28dce5f222604d7a97761c154",
-    "title": "Book Review: ‘The Lost Founder,’ by Jesse Wegman and ‘The Fall of Republics,’ by Thomas F. Madden",
-    "author": "Claire Rydell Arcenas",
-    "description": "A pair of new books look back at the fear, anxiety and optimism that shaped the founding of the United States.",
-    "summary_ai": "",
-    "categories": [
-      "Adams, John (1735-1826)",
-      "Books",
-      "Books And Literature",
-      "Constitution (Us)",
-      "Content Type: Personal Profile",
-      "Democracy (Theory And Philosophy)",
-      "Electoral College",
-      "Madden, Thomas F.",
-      "The Fall Of Republics: A History From Ancient Carthage To The American Constitution (Book)",
-      "The Lost Founder: James Wilson And The Forgotten Fight For A People'S Constitution (Book)",
-      "United States",
-      "United States Politics And Government",
-      "United States Semiquincentennial (2026)",
-      "Wegman, Jesse",
-      "Wilson, James (1742-98)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-24",
-    "thumbnail": "https://static01.nyt.com/images/2026/08/02/arts/02TBR-Wegman-Review/20TBR-Wegman-Review-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/08/02/arts/02TBR-Wegman-Review/20TBR-Wegman-Review-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/20/books/review/the-lost-founder-jesse-wegman-the-fall-of-republics-thomas-f-madden.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Adams, John (1735-1826)",
-      "Books and Literature",
-      "Constitution (US)",
-      "Content Type: Personal Profile",
-      "Democracy (Theory and Philosophy)",
-      "Electoral College",
-      "Madden, Thomas F.",
-      "The Fall of Republics: A History from Ancient Carthage to the American Constitution (Book)",
-      "The Lost Founder: James Wilson and the Forgotten Fight for a People's Constitution (Book)",
-      "United States",
-      "United States Politics and Government",
-      "United States Semiquincentennial (2026)",
-      "Wegman, Jesse",
-      "Wilson, James (1742-98)",
-      "books"
-    ],
-    "created_at": "2026-07-25T08:04:40+00:00",
-    "updated_at": "2026-07-25T08:04:40Z"
+    "created_at": "2026-07-25T19:00:15+00:00",
+    "updated_at": "2026-07-25T19:00:15Z"
   },
   {
     "id": "9b04896dfe124150a60d5761e28aec7e",
@@ -281,8 +280,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-25T08:04:40+00:00",
-    "updated_at": "2026-07-25T08:04:40Z"
+    "created_at": "2026-07-25T19:00:15+00:00",
+    "updated_at": "2026-07-25T19:00:15Z"
   },
   {
     "id": "af9abbd40d1ece241f2398628987f883",
@@ -316,8 +315,100 @@
       "The Hours",
       "books"
     ],
-    "created_at": "2026-07-25T08:04:40+00:00",
-    "updated_at": "2026-07-25T08:04:40Z"
+    "created_at": "2026-07-25T19:00:15+00:00",
+    "updated_at": "2026-07-25T19:00:15Z"
+  },
+  {
+    "id": "a3af91f0b92245aeef0fcc447be2dbe3",
+    "title": "The Tools Book Banners Are Using to Target Books in 2026: Book Censorship News, July 24, 2026",
+    "author": "Kelly Jensen",
+    "description": "Get to know the National Book Rating Index, BookLens, RatedBooks, and more tools being used to ban books across US schools and libraries.",
+    "summary_ai": "",
+    "categories": [
+      "Censorship",
+      "Libraries",
+      "Literary Activism",
+      "News",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-24",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/01/Sold_by_Patricia_McCormick___Rated_Books.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2025/01/Sold_by_Patricia_McCormick___Rated_Books.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/tools-used-by-book-banners-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Censorship",
+      "Libraries",
+      "Literary Activism",
+      "News",
+      "reviews"
+    ],
+    "created_at": "2026-07-25T19:00:14+00:00",
+    "updated_at": "2026-07-25T19:00:14Z"
+  },
+  {
+    "id": "41e3a61f538afda49f621467c1fb1385",
+    "title": "The Most Read Books on Goodreads This Week",
+    "author": "Community",
+    "description": "The most read books on Goodreads this week include historical fiction, a summer romance, a marriage thriller, and more.",
+    "summary_ai": "",
+    "categories": [
+      "Breaking In Books",
+      "Lists",
+      "Reviews"
+    ],
+    "genre": [
+      "Fiction",
+      "Romance",
+      "Thriller"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-24",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/11/Cool-Machine-by-Colson-Whitehead-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2025/11/Cool-Machine-by-Colson-Whitehead-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/most-read-books-on-goodreads-july-24-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Lists",
+      "breaking in books",
+      "reviews"
+    ],
+    "created_at": "2026-07-25T19:00:14+00:00",
+    "updated_at": "2026-07-25T19:00:14Z"
+  },
+  {
+    "id": "bf256c018357bb6d60b24123f196c6b2",
+    "title": "Let’s Meet Some Disabled Superheroes Who Aren’t Daredevil",
+    "author": "Eileen Gonzalez",
+    "description": "It's Disability Pride Month, meaning there is no better time than now to meet some of the disabled superheroes in comics.",
+    "summary_ai": "",
+    "categories": [
+      "Comics/Graphic Novels",
+      "Reviews",
+      "The Stack"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-24",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/ASM-210.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/ASM-210.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/disabled-superheroes/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Comics/Graphic Novels",
+      "The Stack",
+      "reviews"
+    ],
+    "created_at": "2026-07-25T19:00:14+00:00",
+    "updated_at": "2026-07-25T19:00:14Z"
   },
   {
     "id": "4c83903a2c467884a397efa2bb318ee2",
@@ -346,8 +437,8 @@
       "The Fright Stuff",
       "reviews"
     ],
-    "created_at": "2026-07-25T08:04:40+00:00",
-    "updated_at": "2026-07-25T08:04:40Z"
+    "created_at": "2026-07-25T19:00:14+00:00",
+    "updated_at": "2026-07-25T19:00:14Z"
   },
   {
     "id": "9aa4de0b43b42f01ed76014580c3e048",
@@ -374,8 +465,8 @@
       "Libraries",
       "reviews"
     ],
-    "created_at": "2026-07-25T08:04:40+00:00",
-    "updated_at": "2026-07-25T08:04:40Z"
+    "created_at": "2026-07-25T19:00:14+00:00",
+    "updated_at": "2026-07-25T19:00:14Z"
   },
   {
     "id": "03070ce2b750c51dfbee898ec0d7f86f",
@@ -414,8 +505,8 @@
       "books",
       "genre-books-audiobooks"
     ],
-    "created_at": "2026-07-25T08:04:40+00:00",
-    "updated_at": "2026-07-25T08:04:40Z"
+    "created_at": "2026-07-25T19:00:15+00:00",
+    "updated_at": "2026-07-25T19:00:15Z"
   },
   {
     "id": "4a0dcc1cd7429c0e0f99e24ec7e8b49e",
@@ -458,8 +549,8 @@
       "United States Politics and Government",
       "books"
     ],
-    "created_at": "2026-07-25T08:04:40+00:00",
-    "updated_at": "2026-07-25T08:04:40Z"
+    "created_at": "2026-07-25T19:00:15+00:00",
+    "updated_at": "2026-07-25T19:00:15Z"
   },
   {
     "id": "4611b387c1d6ab2d88abbf5c23f2cd3c",
@@ -489,8 +580,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-25T08:04:40+00:00",
-    "updated_at": "2026-07-25T08:04:40Z"
+    "created_at": "2026-07-25T19:00:15+00:00",
+    "updated_at": "2026-07-25T19:00:15Z"
   },
   {
     "id": "a325e937197ac90b12d7a9e74d933f1d",
@@ -518,8 +609,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-25T08:04:40+00:00",
-    "updated_at": "2026-07-25T08:04:40Z"
+    "created_at": "2026-07-25T19:00:15+00:00",
+    "updated_at": "2026-07-25T19:00:15Z"
   },
   {
     "id": "dfcef9731948a87ed2e753281ed1192f",
@@ -551,8 +642,8 @@
       "Raymond Briggs",
       "books"
     ],
-    "created_at": "2026-07-25T08:04:40+00:00",
-    "updated_at": "2026-07-25T08:04:40Z"
+    "created_at": "2026-07-25T19:00:15+00:00",
+    "updated_at": "2026-07-25T19:00:15Z"
   },
   {
     "id": "8c227fce0175d0eaf9065b2046e24dde",
@@ -592,98 +683,8 @@
       "Teen books",
       "books"
     ],
-    "created_at": "2026-07-25T08:04:40+00:00",
-    "updated_at": "2026-07-25T08:04:40Z"
-  },
-  {
-    "id": "ae643a127d51a3eb3228c2a47cb91fec",
-    "title": "Latine Books to Read if You Loved THE ODYSSEY",
-    "author": "Vanessa Diaz",
-    "description": "These stories are either inspired by Latin American culture or written by Latine authors–and in some cases, both.",
-    "summary_ai": "",
-    "categories": [
-      "Latine Lit",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-23",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2021/10/gods-of-jade-and-shadow-book-cover-300x0.jpeg.optimal.jpeg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2021/10/gods-of-jade-and-shadow-book-cover-300x0.jpeg.optimal.jpeg",
-    "article_url": "https://bookriot.com/latine-books-to-read-if-you-loved-the-odyssey/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Latine Lit",
-      "reviews"
-    ],
-    "created_at": "2026-07-25T08:04:40+00:00",
-    "updated_at": "2026-07-25T08:04:40Z"
-  },
-  {
-    "id": "882090179df3dbf251c63e2418a04602",
-    "title": "Reading Pathways: Kennedy Ryan",
-    "author": "Jessica Pryde",
-    "description": "Curious about where to begin reading the work of romance author Kennedy Ryan? We've got a handy guide to help you begin your journey.",
-    "summary_ai": "",
-    "categories": [
-      "Kissing Books",
-      "Reading Pathways",
-      "Reviews",
-      "Romance/Erotica"
-    ],
-    "genre": [
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-23",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/04/Before-I-Let-Go-by-Kennedy-Ryan-Book-Cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/04/Before-I-Let-Go-by-Kennedy-Ryan-Book-Cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/kennedy-ryan-books/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Kissing Books",
-      "Reading Pathways",
-      "Romance/Erotica",
-      "reviews"
-    ],
-    "created_at": "2026-07-25T08:04:40+00:00",
-    "updated_at": "2026-07-25T08:04:40Z"
-  },
-  {
-    "id": "4ef33028f55014b3b3d033c5cc9f192f",
-    "title": "Adrian Tchaikovsky’s CHILDREN OF TIME to Be an RPG and More SFF News",
-    "author": "Liberty Hardy",
-    "description": "In this round-up of recent sci-fi and fantasy links, learn all about Alexandria's new horror and sci-fi bookstore!",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Science Fiction/Fantasy",
-      "Swords And Spaceships"
-    ],
-    "genre": [
-      "Children",
-      "Fantasy",
-      "Horror"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-23",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/04/Children-of-Time.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/04/Children-of-Time.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/sff-news-july-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Science Fiction/Fantasy",
-      "Swords and Spaceships",
-      "reviews"
-    ],
-    "created_at": "2026-07-25T08:04:40+00:00",
-    "updated_at": "2026-07-25T08:04:40Z"
+    "created_at": "2026-07-25T19:00:15+00:00",
+    "updated_at": "2026-07-25T19:00:15Z"
   },
   {
     "id": "777d63b21d39e0cf3756ebb5c92c1169",
@@ -730,8 +731,8 @@
       "Thiel, Peter A",
       "books"
     ],
-    "created_at": "2026-07-25T08:04:40+00:00",
-    "updated_at": "2026-07-25T08:04:40Z"
+    "created_at": "2026-07-25T19:00:15+00:00",
+    "updated_at": "2026-07-25T19:00:15Z"
   },
   {
     "id": "8d53a54e917a106b646610bb00596efc",
@@ -766,7 +767,7 @@
       "Women and Girls",
       "books"
     ],
-    "created_at": "2026-07-25T08:04:40+00:00",
-    "updated_at": "2026-07-25T08:04:40Z"
+    "created_at": "2026-07-25T19:00:15+00:00",
+    "updated_at": "2026-07-25T19:00:15Z"
   }
 ]
