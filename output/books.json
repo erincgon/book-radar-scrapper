@@ -1,5 +1,112 @@
 [
   {
+    "id": "3b2fa2c9af8c3355cd0c1e52ba9ffe44",
+    "title": "Book Review: ‘Albert Sabin,’ by Karen Torghele",
+    "author": "David Oshinsky",
+    "description": "The first serious biography of Albert Sabin recounts the pivotal role he played in the development of a polio vaccine.",
+    "summary_ai": "",
+    "categories": [
+      "Albert Sabin: The Life Of A Polio Vaccine Pioneer (Book)",
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Poliomyelitis",
+      "Sabin, Albert B",
+      "Salk, Jonas E",
+      "Torghele, Karen",
+      "Vaccination And Immunization"
+    ],
+    "genre": [
+      "Biography"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-26",
+    "thumbnail": "https://static01.nyt.com/images/2026/08/09/multimedia/09TBR-Torghele-review-mbwq/00TBR-Torghele-review-mbwq-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/08/09/multimedia/09TBR-Torghele-review-mbwq/00TBR-Torghele-review-mbwq-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/26/books/review/albert-sabin-biography-karen-torghele.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Albert Sabin: The Life of a Polio Vaccine Pioneer (Book)",
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Poliomyelitis",
+      "Sabin, Albert B",
+      "Salk, Jonas E",
+      "Torghele, Karen",
+      "Vaccination and Immunization",
+      "books"
+    ],
+    "created_at": "2026-07-26T19:03:25+00:00",
+    "updated_at": "2026-07-26T19:03:25Z"
+  },
+  {
+    "id": "641b52d1dafaac33e4645fa482c433f9",
+    "title": "From author to anime hero: the unlikely revival of a Japanese literary star",
+    "author": "John Self",
+    "description": "More than seven decades after they were first released, the dark novels of Osamu Dazai have become a publishing sensation, as a new generation of readers engage with his bleakness, humour and brilliance There’s no question that Japanese literature has been one of the outstanding successes for British bookshops in recent years: in 2024 close to half of the bestselling translated fiction titles were from Japan. Much of the Japanese fiction translated into English fits into broad categories – cats, crime, coffee shops – but one surprise bestseller stands alone. Sales of books by Osamu Dazai, who killed himself in 1948 aged 38, have rocketed in the last few years. His best-known novel, No Longer Human (1948), has sold more than 75,000 copies in the UK alone. An intense semi-autobiographical account of one man’s alienation, it was the last work of fiction completed before Dazai’s death. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "Fiction In Translation",
+      "Japan"
+    ],
+    "genre": [
+      "Crime",
+      "Fiction"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-26",
+    "thumbnail": "https://i.guim.co.uk/img/media/b8c9ab0212faf5194e8fd5894884826c927725c0/0_0_1267_1013/master/1267.jpg?width=700&quality=85&auto=format&fit=max&s=61f3f4ce149d4f5943b96d582fa58a4a",
+    "cover_large": "https://i.guim.co.uk/img/media/b8c9ab0212faf5194e8fd5894884826c927725c0/0_0_1267_1013/master/1267.jpg?width=700&quality=85&auto=format&fit=max&s=61f3f4ce149d4f5943b96d582fa58a4a",
+    "article_url": "https://www.theguardian.com/books/2026/jul/26/from-author-to-anime-hero-the-unlikely-revival-of-a-japanese-literary-star",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "Fiction in translation",
+      "Japan",
+      "books"
+    ],
+    "created_at": "2026-07-26T19:03:25+00:00",
+    "updated_at": "2026-07-26T19:03:25Z"
+  },
+  {
+    "id": "121295918c2721ed4260f992761bc6b2",
+    "title": "Tom Gauld on the punctutation factory",
+    "author": "Tom Gauld",
+    "description": "Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Illustration"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-26",
+    "thumbnail": "https://i.guim.co.uk/img/media/6ac7baf84f95dbf72e5652cc9515ebe7301585ef/200_401_1109_887/master/1109.png?width=700&quality=85&auto=format&fit=max&s=6313057dd3d2d2c32c718cf5801f9483",
+    "cover_large": "https://i.guim.co.uk/img/media/6ac7baf84f95dbf72e5652cc9515ebe7301585ef/200_401_1109_887/master/1109.png?width=700&quality=85&auto=format&fit=max&s=6313057dd3d2d2c32c718cf5801f9483",
+    "article_url": "https://www.theguardian.com/books/picture/2026/jul/26/tom-gauld-on-the-punctutation-factory-cartoon",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Illustration",
+      "books"
+    ],
+    "created_at": "2026-07-26T19:03:26+00:00",
+    "updated_at": "2026-07-26T19:03:26Z"
+  },
+  {
     "id": "a367f9bd07059f6bd2c5cbb3414a8efb",
     "title": "Listening with the Stars: Stellar Celebrity Memoirs Read by Their Authors",
     "author": "Elisabeth Egan",
@@ -74,8 +181,8 @@
       "You With the Sad Eyes (Book)",
       "books"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:25+00:00",
+    "updated_at": "2026-07-26T19:03:25Z"
   },
   {
     "id": "f52651c5870168c92f4d1a1e977126e5",
@@ -115,8 +222,8 @@
       "Thrillers",
       "books"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:25+00:00",
+    "updated_at": "2026-07-26T19:03:25Z"
   },
   {
     "id": "aee349fced59d1514b1355f04d9e08a6",
@@ -159,8 +266,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:25+00:00",
+    "updated_at": "2026-07-26T19:03:25Z"
   },
   {
     "id": "f2df42bb1d1b15eaff28592c59f83d64",
@@ -199,8 +306,8 @@
       "books",
       "internal-open-access-audio"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:25+00:00",
+    "updated_at": "2026-07-26T19:03:25Z"
   },
   {
     "id": "f58f54f0ee17a330c997364f752c4e91",
@@ -253,8 +360,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:25+00:00",
+    "updated_at": "2026-07-26T19:03:25Z"
   },
   {
     "id": "9b04896dfe124150a60d5761e28aec7e",
@@ -280,8 +387,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:26+00:00",
+    "updated_at": "2026-07-26T19:03:26Z"
   },
   {
     "id": "af9abbd40d1ece241f2398628987f883",
@@ -315,8 +422,8 @@
       "The Hours",
       "books"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:26+00:00",
+    "updated_at": "2026-07-26T19:03:26Z"
   },
   {
     "id": "03070ce2b750c51dfbee898ec0d7f86f",
@@ -355,8 +462,8 @@
       "books",
       "genre-books-audiobooks"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:25+00:00",
+    "updated_at": "2026-07-26T19:03:25Z"
   },
   {
     "id": "4a0dcc1cd7429c0e0f99e24ec7e8b49e",
@@ -399,8 +506,8 @@
       "United States Politics and Government",
       "books"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:25+00:00",
+    "updated_at": "2026-07-26T19:03:25Z"
   },
   {
     "id": "4611b387c1d6ab2d88abbf5c23f2cd3c",
@@ -430,8 +537,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:26+00:00",
+    "updated_at": "2026-07-26T19:03:26Z"
   },
   {
     "id": "a325e937197ac90b12d7a9e74d933f1d",
@@ -459,82 +566,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
-  },
-  {
-    "id": "dfcef9731948a87ed2e753281ed1192f",
-    "title": "Raymond Briggs’s library goes on sale at his local Oxfam shop",
-    "author": "Ella Creamer",
-    "description": "Books belonging to the beloved creator of The Snowman and When the Wind Blows were donated by his estate after his death The book collection of the creator of The Snowman and Fungus the Bogeyman has gone on sale at Oxfam’s Hove bookshop in East Sussex and online . More than 1,000 books from the collection of Raymond Briggs, the beloved British author and cartoonist, were donated by his estate after his death aged 88 in 2022 . Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Children And Teenagers",
-      "Culture",
-      "Oxfam",
-      "Raymond Briggs"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Onlineshop",
-    "published_date": "2026-07-23",
-    "thumbnail": "https://i.guim.co.uk/img/media/620332c09392058ac3406d7fc63d4cc54f5f2e00/73_0_2804_2244/master/2804.jpg?width=700&quality=85&auto=format&fit=max&s=b5a144cd5130c85e28188165c4947d64",
-    "cover_large": "https://i.guim.co.uk/img/media/620332c09392058ac3406d7fc63d4cc54f5f2e00/73_0_2804_2244/master/2804.jpg?width=700&quality=85&auto=format&fit=max&s=b5a144cd5130c85e28188165c4947d64",
-    "article_url": "https://onlineshop.oxfam.org.uk/raymond-briggs-estate-book-collection/category/raymond-briggs-estate-book-collection?N=1514170236&amp%3BNs=product.creationDate%7C1&amp%3BNr=AND%28product.active%3A1%2CNOT%28sku.listPrice%3A0.000000%29%29&amp%3BNo=0&amp%3BNf=sku.listPrice%7CGT+0&amp%3BNrpp=30",
-    "source": "Onlineshop",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Children and teenagers",
-      "Culture",
-      "Oxfam",
-      "Raymond Briggs",
-      "books"
-    ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
-  },
-  {
-    "id": "8c227fce0175d0eaf9065b2046e24dde",
-    "title": "Children’s literature festival criticised after requests that comments on diversity be deleted",
-    "author": "Liv Facey",
-    "description": "John McLay, one of the founders of the festival in Bath, contacted writers who had noted a lack of diversity in the programme to request they remove comments posted to social media Bath children’s literature festival is facing criticism after its founder emailed authors asking them to delete social media posts about the festival’s lack of diversity in its 2026 programme. Authors said that their comments criticising the festival for its lack of representation under a post on its Instagram page were deleted, with the original post later removed and comments limited on other posts. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Children'S Books: 7 And Under",
-      "Children'S Books: 8-12 Years",
-      "Culture",
-      "Digital Media",
-      "Festivals",
-      "Social Media",
-      "Teen Books"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "Bathfestivals",
-    "published_date": "2026-07-23",
-    "thumbnail": "https://i.guim.co.uk/img/media/785bb37b00a458f505dc5b5c17cd63e91f2170b1/170_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=5610d84f9053ffa3b09da5a5729207c0",
-    "cover_large": "https://i.guim.co.uk/img/media/785bb37b00a458f505dc5b5c17cd63e91f2170b1/170_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=5610d84f9053ffa3b09da5a5729207c0",
-    "article_url": "https://bathfestivals.org.uk/childrens-literature/",
-    "source": "Bathfestivals",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Children's books: 7 and under",
-      "Children's books: 8-12 years",
-      "Culture",
-      "Digital media",
-      "Festivals",
-      "Social media",
-      "Teen books",
-      "books"
-    ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:26+00:00",
+    "updated_at": "2026-07-26T19:03:26Z"
   },
   {
     "id": "777d63b21d39e0cf3756ebb5c92c1169",
@@ -581,8 +614,8 @@
       "Thiel, Peter A",
       "books"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:25+00:00",
+    "updated_at": "2026-07-26T19:03:25Z"
   },
   {
     "id": "8d53a54e917a106b646610bb00596efc",
@@ -617,8 +650,8 @@
       "Women and Girls",
       "books"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:25+00:00",
+    "updated_at": "2026-07-26T19:03:25Z"
   },
   {
     "id": "e6fe377037038a14de6d91c2f6432247",
@@ -658,8 +691,8 @@
       "books",
       "qntm"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:25+00:00",
+    "updated_at": "2026-07-26T19:03:25Z"
   },
   {
     "id": "386a1ee68c64ffa6647fedd472f1f43e",
@@ -712,8 +745,8 @@
       "books",
       "de Man, Paul"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:25+00:00",
+    "updated_at": "2026-07-26T19:03:25Z"
   },
   {
     "id": "fb5306c959ae7cdccd3a1284bfb91e69",
@@ -748,42 +781,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
-  },
-  {
-    "id": "858f2d3ff308755af33d96db97a7ab1b",
-    "title": "Book Review: ‘Cool Machine,’ by Colson Whitehead",
-    "author": "Dwight Garner",
-    "description": "The final installment of his Harlem crime trilogy is full of heists, cultural shifts and nostalgia for 1980s New York.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Cool Machine (Book)",
-      "Internal-Open-Access-From-Nl",
-      "Whitehead, Colson"
-    ],
-    "genre": [
-      "Crime"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-21",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/20/multimedia/20whitehead-review-pmfq/20whitehead-review-pmfq-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/20/multimedia/20whitehead-review-pmfq/20whitehead-review-pmfq-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/20/books/review/colson-whitehead-cool-machine.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Cool Machine (Book)",
-      "Whitehead, Colson",
-      "books",
-      "internal-open-access-from-nl"
-    ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:25+00:00",
+    "updated_at": "2026-07-26T19:03:25Z"
   },
   {
     "id": "35c5412c611a0d60482500b9411080f0",
@@ -817,54 +816,8 @@
       "The far right",
       "books"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
-  },
-  {
-    "id": "f1aa387cc3bacd108bbb7d3bf49005ab",
-    "title": "To Sell Homer’s ‘Odyssey,’ Book Publishers Get Creative",
-    "author": "MJ Franklin",
-    "description": "The market for the epic poem is as crowded as a certain Ithacan palace, and publishers have had to get crafty to attract readers to their editions.",
-    "summary_ai": "",
-    "categories": [
-      "Book Trade And Publishing",
-      "Books",
-      "Books And Literature",
-      "Fagles, Robert",
-      "Homer",
-      "Mendelsohn, Daniel",
-      "Movies",
-      "Nolan, Christopher",
-      "Odyssey (Book)",
-      "Poetry And Poets",
-      "The Odyssey (2026) (Movie)",
-      "Wilson, Emily (1971- )"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-20",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/25/multimedia/20TBR-odyssey-editions-bgmp/20TBR-odyssey-editions-bgmp-mediumSquareAt3X-v2.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/25/multimedia/20TBR-odyssey-editions-bgmp/20TBR-odyssey-editions-bgmp-mediumSquareAt3X-v2.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/20/books/odyssey-book-editions.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Book Trade and Publishing",
-      "Books and Literature",
-      "Fagles, Robert",
-      "Homer",
-      "Mendelsohn, Daniel",
-      "Movies",
-      "Nolan, Christopher",
-      "Odyssey (Book)",
-      "Poetry and Poets",
-      "The Odyssey (2026) (Movie)",
-      "Wilson, Emily (1971- )",
-      "books"
-    ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:26+00:00",
+    "updated_at": "2026-07-26T19:03:26Z"
   },
   {
     "id": "d920e1004dd8ab340fc506a88d646969",
@@ -894,8 +847,8 @@
       "Film books",
       "books"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:26+00:00",
+    "updated_at": "2026-07-26T19:03:26Z"
   },
   {
     "id": "4e5f3ba5ed35b16c70eaf9283c0b5aab",
@@ -923,8 +876,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:26+00:00",
+    "updated_at": "2026-07-26T19:03:26Z"
   },
   {
     "id": "524c605cd8982891e747fe848342f8df",
@@ -966,8 +919,8 @@
       "True crime books",
       "books"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:26+00:00",
+    "updated_at": "2026-07-26T19:03:26Z"
   },
   {
     "id": "81c985665e3e1046d365a1ea02fe0f86",
@@ -999,8 +952,8 @@
       "Social history",
       "books"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:26+00:00",
+    "updated_at": "2026-07-26T19:03:26Z"
   },
   {
     "id": "d39553355fe7cae217188dba4d546d2f",
@@ -1028,8 +981,8 @@
       "Science and nature books",
       "books"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:26+00:00",
+    "updated_at": "2026-07-26T19:03:26Z"
   },
   {
     "id": "4c67af7b443e59255ae5e43165443d79",
@@ -1061,8 +1014,8 @@
       "Tessa Hadley",
       "books"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:26+00:00",
+    "updated_at": "2026-07-26T19:03:26Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -1092,8 +1045,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:26+00:00",
+    "updated_at": "2026-07-26T19:03:26Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1132,8 +1085,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:25+00:00",
+    "updated_at": "2026-07-26T19:03:25Z"
   },
   {
     "id": "755ba738881478773c8491c271f5d902",
@@ -1160,7 +1113,49 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-07-26T08:25:44+00:00",
-    "updated_at": "2026-07-26T08:25:44Z"
+    "created_at": "2026-07-26T19:03:25+00:00",
+    "updated_at": "2026-07-26T19:03:25Z"
+  },
+  {
+    "id": "f0a8987fb7322e3a0dc23bf36fa062e5",
+    "title": "Martin Amis: An Appreciation",
+    "author": "A.O. Scott",
+    "description": "Our critic assesses the achievement of Martin Amis, Britain’s most famous literary son.",
+    "summary_ai": "",
+    "categories": [
+      "Amis, Martin",
+      "Audio-Neutral-Informative",
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Inside Story (Book)",
+      "London Fields (Book)",
+      "The Information (Book)",
+      "The Rachel Papers (Book)",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2023-05-22",
+    "thumbnail": "https://static01.nyt.com/images/2023/06/11/books/review/22AMIS-APPRECIATION/22AMIS-APPRECIATION-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2023/06/11/books/review/22AMIS-APPRECIATION/22AMIS-APPRECIATION-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2023/05/22/books/review/martin-amis.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Amis, Martin",
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Inside Story (Book)",
+      "London Fields (Book)",
+      "The Information (Book)",
+      "The Rachel Papers (Book)",
+      "Writing and Writers",
+      "audio-neutral-informative",
+      "books"
+    ],
+    "created_at": "2026-07-26T19:03:25+00:00",
+    "updated_at": "2026-07-26T19:03:25Z"
   }
 ]
