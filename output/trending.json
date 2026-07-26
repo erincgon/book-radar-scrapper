@@ -74,8 +74,8 @@
       "You With the Sad Eyes (Book)",
       "books"
     ],
-    "created_at": "2026-07-25T19:00:15+00:00",
-    "updated_at": "2026-07-25T19:00:15Z"
+    "created_at": "2026-07-26T08:25:44+00:00",
+    "updated_at": "2026-07-26T08:25:44Z"
   },
   {
     "id": "f52651c5870168c92f4d1a1e977126e5",
@@ -115,8 +115,8 @@
       "Thrillers",
       "books"
     ],
-    "created_at": "2026-07-25T19:00:15+00:00",
-    "updated_at": "2026-07-25T19:00:15Z"
+    "created_at": "2026-07-26T08:25:44+00:00",
+    "updated_at": "2026-07-26T08:25:44Z"
   },
   {
     "id": "aee349fced59d1514b1355f04d9e08a6",
@@ -159,8 +159,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-25T19:00:15+00:00",
-    "updated_at": "2026-07-25T19:00:15Z"
+    "created_at": "2026-07-26T08:25:44+00:00",
+    "updated_at": "2026-07-26T08:25:44Z"
   },
   {
     "id": "f2df42bb1d1b15eaff28592c59f83d64",
@@ -199,8 +199,8 @@
       "books",
       "internal-open-access-audio"
     ],
-    "created_at": "2026-07-25T19:00:15+00:00",
-    "updated_at": "2026-07-25T19:00:15Z"
+    "created_at": "2026-07-26T08:25:44+00:00",
+    "updated_at": "2026-07-26T08:25:44Z"
   },
   {
     "id": "f58f54f0ee17a330c997364f752c4e91",
@@ -253,8 +253,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-25T19:00:15+00:00",
-    "updated_at": "2026-07-25T19:00:15Z"
+    "created_at": "2026-07-26T08:25:44+00:00",
+    "updated_at": "2026-07-26T08:25:44Z"
   },
   {
     "id": "9b04896dfe124150a60d5761e28aec7e",
@@ -280,8 +280,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-25T19:00:15+00:00",
-    "updated_at": "2026-07-25T19:00:15Z"
+    "created_at": "2026-07-26T08:25:44+00:00",
+    "updated_at": "2026-07-26T08:25:44Z"
   },
   {
     "id": "af9abbd40d1ece241f2398628987f883",
@@ -315,8 +315,50 @@
       "The Hours",
       "books"
     ],
-    "created_at": "2026-07-25T19:00:15+00:00",
-    "updated_at": "2026-07-25T19:00:15Z"
+    "created_at": "2026-07-26T08:25:44+00:00",
+    "updated_at": "2026-07-26T08:25:44Z"
+  },
+  {
+    "id": "00d2801c2ccefd7cfcfe9ed471e6a221",
+    "title": "On the Complexities and Contradictions of Diasporic Jewish Identity",
+    "author": "Sander L. Gilman",
+    "description": "In the twenty-first century, the debates about constituting the antisemitic category of the Jews sharpened after the creation of the State of Israel in 1948 and the debates about colonialism, indigeneity and ethnic identity. If one thinks of Jews as",
+    "summary_ai": "",
+    "categories": [
+      "Antisemitisms: A History Of Jew Hating",
+      "Diaspora",
+      "Features",
+      "History",
+      "Identity",
+      "Jewish Identity",
+      "News And Culture",
+      "Reaktion Books",
+      "Reviews",
+      "Sander L. Gilman"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-07-24",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/maps-768x436.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/maps-768x436.jpg",
+    "article_url": "https://lithub.com/on-the-complexities-and-contradictions-of-diasporic-jewish-identity/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Antisemitisms: A History of Jew Hating",
+      "Features",
+      "History",
+      "Jewish identity",
+      "News and Culture",
+      "Reaktion Books",
+      "Sander L. Gilman",
+      "diaspora",
+      "identity",
+      "reviews"
+    ],
+    "created_at": "2026-07-26T08:25:44+00:00",
+    "updated_at": "2026-07-26T08:25:44Z"
   },
   {
     "id": "a3af91f0b92245aeef0fcc447be2dbe3",
@@ -347,8 +389,8 @@
       "News",
       "reviews"
     ],
-    "created_at": "2026-07-25T19:00:14+00:00",
-    "updated_at": "2026-07-25T19:00:14Z"
+    "created_at": "2026-07-26T08:25:44+00:00",
+    "updated_at": "2026-07-26T08:25:44Z"
   },
   {
     "id": "41e3a61f538afda49f621467c1fb1385",
@@ -379,8 +421,8 @@
       "breaking in books",
       "reviews"
     ],
-    "created_at": "2026-07-25T19:00:14+00:00",
-    "updated_at": "2026-07-25T19:00:14Z"
+    "created_at": "2026-07-26T08:25:44+00:00",
+    "updated_at": "2026-07-26T08:25:44Z"
   },
   {
     "id": "bf256c018357bb6d60b24123f196c6b2",
@@ -407,8 +449,8 @@
       "The Stack",
       "reviews"
     ],
-    "created_at": "2026-07-25T19:00:14+00:00",
-    "updated_at": "2026-07-25T19:00:14Z"
+    "created_at": "2026-07-26T08:25:44+00:00",
+    "updated_at": "2026-07-26T08:25:44Z"
   },
   {
     "id": "4c83903a2c467884a397efa2bb318ee2",
@@ -437,8 +479,8 @@
       "The Fright Stuff",
       "reviews"
     ],
-    "created_at": "2026-07-25T19:00:14+00:00",
-    "updated_at": "2026-07-25T19:00:14Z"
+    "created_at": "2026-07-26T08:25:44+00:00",
+    "updated_at": "2026-07-26T08:25:44Z"
   },
   {
     "id": "9aa4de0b43b42f01ed76014580c3e048",
@@ -465,8 +507,8 @@
       "Libraries",
       "reviews"
     ],
-    "created_at": "2026-07-25T19:00:14+00:00",
-    "updated_at": "2026-07-25T19:00:14Z"
+    "created_at": "2026-07-26T08:25:44+00:00",
+    "updated_at": "2026-07-26T08:25:44Z"
   },
   {
     "id": "03070ce2b750c51dfbee898ec0d7f86f",
@@ -505,8 +547,8 @@
       "books",
       "genre-books-audiobooks"
     ],
-    "created_at": "2026-07-25T19:00:15+00:00",
-    "updated_at": "2026-07-25T19:00:15Z"
+    "created_at": "2026-07-26T08:25:44+00:00",
+    "updated_at": "2026-07-26T08:25:44Z"
   },
   {
     "id": "4a0dcc1cd7429c0e0f99e24ec7e8b49e",
@@ -549,8 +591,8 @@
       "United States Politics and Government",
       "books"
     ],
-    "created_at": "2026-07-25T19:00:15+00:00",
-    "updated_at": "2026-07-25T19:00:15Z"
+    "created_at": "2026-07-26T08:25:44+00:00",
+    "updated_at": "2026-07-26T08:25:44Z"
   },
   {
     "id": "4611b387c1d6ab2d88abbf5c23f2cd3c",
@@ -580,8 +622,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-25T19:00:15+00:00",
-    "updated_at": "2026-07-25T19:00:15Z"
+    "created_at": "2026-07-26T08:25:44+00:00",
+    "updated_at": "2026-07-26T08:25:44Z"
   },
   {
     "id": "a325e937197ac90b12d7a9e74d933f1d",
@@ -609,8 +651,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-25T19:00:15+00:00",
-    "updated_at": "2026-07-25T19:00:15Z"
+    "created_at": "2026-07-26T08:25:44+00:00",
+    "updated_at": "2026-07-26T08:25:44Z"
   },
   {
     "id": "dfcef9731948a87ed2e753281ed1192f",
@@ -642,8 +684,8 @@
       "Raymond Briggs",
       "books"
     ],
-    "created_at": "2026-07-25T19:00:15+00:00",
-    "updated_at": "2026-07-25T19:00:15Z"
+    "created_at": "2026-07-26T08:25:44+00:00",
+    "updated_at": "2026-07-26T08:25:44Z"
   },
   {
     "id": "8c227fce0175d0eaf9065b2046e24dde",
@@ -683,8 +725,8 @@
       "Teen books",
       "books"
     ],
-    "created_at": "2026-07-25T19:00:15+00:00",
-    "updated_at": "2026-07-25T19:00:15Z"
+    "created_at": "2026-07-26T08:25:44+00:00",
+    "updated_at": "2026-07-26T08:25:44Z"
   },
   {
     "id": "777d63b21d39e0cf3756ebb5c92c1169",
@@ -731,43 +773,7 @@
       "Thiel, Peter A",
       "books"
     ],
-    "created_at": "2026-07-25T19:00:15+00:00",
-    "updated_at": "2026-07-25T19:00:15Z"
-  },
-  {
-    "id": "8d53a54e917a106b646610bb00596efc",
-    "title": "Women Are Too Controlling, She Wrote. Her Message Still Resonates.",
-    "author": "Vivian Yee and Isadora Kosofsky",
-    "description": "The message in “The Surrendered Wife,” the best-selling book by Laura Doyle, was provocative. Many women credit it with saving their marriages.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Content Type: Personal Profile",
-      "Doyle, Laura (1967- )",
-      "Marriages",
-      "The Surrendered Wife (Book)",
-      "Women And Girls"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-22",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/14/multimedia/00nat-surrendered-wife-1-jzwh/00nat-surrendered-wife-1-jzwh-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/14/multimedia/00nat-surrendered-wife-1-jzwh/00nat-surrendered-wife-1-jzwh-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/22/us/laura-doyle-surrendered-wife.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Content Type: Personal Profile",
-      "Doyle, Laura (1967- )",
-      "Marriages",
-      "The Surrendered Wife (Book)",
-      "Women and Girls",
-      "books"
-    ],
-    "created_at": "2026-07-25T19:00:15+00:00",
-    "updated_at": "2026-07-25T19:00:15Z"
+    "created_at": "2026-07-26T08:25:44+00:00",
+    "updated_at": "2026-07-26T08:25:44Z"
   }
 ]
