@@ -20,8 +20,96 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-07-27T09:50:10+00:00",
-    "updated_at": "2026-07-27T09:50:10Z"
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
+  },
+  {
+    "id": "b77f7adfcea3a78153d62a6cf0ebf524",
+    "title": "Why Virginia Woolf is having a moment in Hollywood.",
+    "author": "Brittany Allen",
+    "description": "Virginia Woolf, the highest oracle for we sad literary girls, is all over the silver screen this summer—thanks to a remarkable trio of new adaptations. Though her work is famously cerebral—and, well, literary—this is far from Virginia’s first celluloid rodeo.",
+    "summary_ai": "",
+    "categories": [
+      "Bloomsbury",
+      "Book News",
+      "Cannes Film Festival",
+      "Clarissa",
+      "Criterion Collection",
+      "Events",
+      "Film",
+      "Film And Tv",
+      "Literary Adaptations",
+      "Mrs. Dalloway",
+      "News And Culture",
+      "Night & Day",
+      "Orlando",
+      "Reviews",
+      "Sally Potter",
+      "Style",
+      "The Hours",
+      "The Hub",
+      "The Last Day",
+      "Virginia Woolf"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Bloomsbury",
+    "published_date": "2026-07-27",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/Untitled-design-10-768x384.png",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/Untitled-design-10-768x384.png",
+    "article_url": "https://lithub.com/why-virginia-woolf-is-having-a-moment-in-hollywood/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Bloomsbury",
+      "Book News",
+      "Cannes Film Festival",
+      "Clarissa",
+      "Criterion Collection",
+      "Events",
+      "Film and TV",
+      "Mrs. Dalloway",
+      "News and Culture",
+      "Night & Day",
+      "Orlando",
+      "Sally Potter",
+      "Style",
+      "The Hours",
+      "The Hub",
+      "The Last Day",
+      "Virginia Woolf",
+      "film",
+      "literary adaptations",
+      "reviews"
+    ],
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
+  },
+  {
+    "id": "c986c0919617df8dfda5f3a2fae894a2",
+    "title": "Lit Hub Daily: July 27, 2026",
+    "author": "Lit Hub Daily",
+    "description": "D/Annie Liontas, Sara Nović, Chet’la Sebree and Maria Adelman discuss the literary world’s unacknowledged class system. | Lit Hub In Conversation On that time Johnny Cash almost started a riot at California’s most infamous prison. | Lit Hub Music Why",
+    "summary_ai": "",
+    "categories": [
+      "Lit Hub Daily",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-07-27",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/radclyffehall1-768x344.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/radclyffehall1-768x344.jpg",
+    "article_url": "https://lithub.com/lit-hub-daily-july-27-2026/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Lit Hub Daily",
+      "reviews"
+    ],
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
   },
   {
     "id": "fd92b08337223f293d1d0ed7e7615bd7",
@@ -32,7 +120,7 @@
     "categories": [
       "California",
       "Colin Asher",
-      "Features",
+      "Fullwidth Slider",
       "History",
       "Johnny Cash",
       "Music",
@@ -57,7 +145,7 @@
     "tags": [
       "California",
       "Colin Asher",
-      "Features",
+      "Fullwidth Slider",
       "History",
       "Johnny Cash",
       "Music",
@@ -70,8 +158,50 @@
       "prisons",
       "reviews"
     ],
-    "created_at": "2026-07-27T09:50:10+00:00",
-    "updated_at": "2026-07-27T09:50:10Z"
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
+  },
+  {
+    "id": "6280f8eb28935f642dfa9b3e5a017cd8",
+    "title": "This Week in Literary History: Robert Frost’s “The Road Not Taken” is Published in The Atlantic Monthly",
+    "author": "Literary Hub",
+    "description": "This first appeared in Lit Hub’s Literary History newsletter—sign up here. Robert Frost’s most famous poem, “The Road Not Taken,” “has confused audiences literally from the beginning,” David Orr has written. In the spring of 1915, Frost sent an envelope to Edward",
+    "summary_ai": "",
+    "categories": [
+      "David Orr",
+      "Features",
+      "History",
+      "Literary Criticism",
+      "News And Culture",
+      "Poetry",
+      "Reviews",
+      "Robert Frost",
+      "The Road Not Taken"
+    ],
+    "genre": [
+      "History"
+    ],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-07-27",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/tworoads-copy-768x528.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/tworoads-copy-768x528.jpg",
+    "article_url": "https://lithub.com/this-week-in-literary-history-robert-frosts-the-road-not-taken-is-published-in-the-atlantic-monthly/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "David Orr",
+      "Features",
+      "History",
+      "Literary Criticism",
+      "News and Culture",
+      "Robert Frost",
+      "The Road Not Taken",
+      "poetry",
+      "reviews"
+    ],
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
   },
   {
     "id": "1b9aa087adfd3f780cfe33bd0572fdb6",
@@ -120,50 +250,8 @@
       "the writing life",
       "writers in conversation"
     ],
-    "created_at": "2026-07-27T09:50:10+00:00",
-    "updated_at": "2026-07-27T09:50:10Z"
-  },
-  {
-    "id": "6280f8eb28935f642dfa9b3e5a017cd8",
-    "title": "This Week in Literary History: Robert Frost’s “The Road Not Taken” is Published in The Atlantic Monthly",
-    "author": "Literary Hub",
-    "description": "This first appeared in Lit Hub’s Literary History newsletter—sign up here. Robert Frost’s most famous poem, “The Road Not Taken,” “has confused audiences literally from the beginning,” David Orr has written. In the spring of 1915, Frost sent an envelope to Edward",
-    "summary_ai": "",
-    "categories": [
-      "David Orr",
-      "Features",
-      "History",
-      "Literary Criticism",
-      "News And Culture",
-      "Poetry",
-      "Reviews",
-      "Robert Frost",
-      "The Road Not Taken"
-    ],
-    "genre": [
-      "History"
-    ],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-07-27",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/tworoads-copy-768x528.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/tworoads-copy-768x528.jpg",
-    "article_url": "https://lithub.com/this-week-in-literary-history-robert-frosts-the-road-not-taken-is-published-in-the-atlantic-monthly/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "David Orr",
-      "Features",
-      "History",
-      "Literary Criticism",
-      "News and Culture",
-      "Robert Frost",
-      "The Road Not Taken",
-      "poetry",
-      "reviews"
-    ],
-    "created_at": "2026-07-27T09:50:10+00:00",
-    "updated_at": "2026-07-27T09:50:10Z"
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
   },
   {
     "id": "fb2906b14132598880310308896722e4",
@@ -208,8 +296,8 @@
       "reparations",
       "reviews"
     ],
-    "created_at": "2026-07-27T09:50:10+00:00",
-    "updated_at": "2026-07-27T09:50:10Z"
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
   },
   {
     "id": "5a9b9d32706b4b7033ddd74e420e05b0",
@@ -256,8 +344,8 @@
       "scientific publishing",
       "sexism"
     ],
-    "created_at": "2026-07-27T09:50:10+00:00",
-    "updated_at": "2026-07-27T09:50:10Z"
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
   },
   {
     "id": "64e226a28005d8f37cad70bccf0e4ad4",
@@ -297,36 +385,154 @@
       "reviews",
       "short stories"
     ],
-    "created_at": "2026-07-27T09:50:10+00:00",
-    "updated_at": "2026-07-27T09:50:10Z"
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
   },
   {
-    "id": "44fe08897cd679da0212de86c0178491",
-    "title": "Book Riot’s Deals of the Day for July 26, 2026",
+    "id": "5cfbac0cdd0444c8263b7d499b9bb8ba",
+    "title": "Book Riot’s Deals of the Day for July 27, 2026",
     "author": "Deals",
-    "description": "A Caribbean sci-fi adventure, a bestselling bookclub pick, AMERICAN BORN CHINESE, a fae queen romance, a visceral adaptation, and more of today's best deals",
+    "description": "A notorious villainess from the ancient world, a cozy fantasy romance, an unbreakable family curse, and more of today's book deals.",
     "summary_ai": "",
     "categories": [
       "Book Deals",
       "Reviews"
     ],
     "genre": [
+      "Fantasy",
       "Romance"
     ],
     "language": "English",
     "publisher": "Book Riot",
-    "published_date": "2026-07-26",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2019/05/midnight-robber.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2019/05/midnight-robber.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-july-26-2026/",
+    "published_date": "2026-07-27",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/cursed-daughters-200x300.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/cursed-daughters-200x300.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-july-27-2026/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
       "Book Deals",
       "reviews"
     ],
-    "created_at": "2026-07-27T09:50:10+00:00",
-    "updated_at": "2026-07-27T09:50:10Z"
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
+  },
+  {
+    "id": "acfdfac2a6a7593a05245c30fbf0fcda",
+    "title": "YA Whodunits You Can’t Put Down",
+    "author": "Addison Rizer",
+    "description": "From a wanna-be detective on a cold case and a new one to a best friend proving who killed a Black homecoming queen, you won't be able to put these YA whodunits down.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews",
+      "Sponsored",
+      "What'S Up In Ya",
+      "Young Adult Literature"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-27",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/10/truly-devious-cover-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2025/10/truly-devious-cover-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/ya-whodunits-you-cant-put-down/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Sponsored",
+      "What's Up in YA",
+      "Young Adult Literature",
+      "reviews"
+    ],
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
+  },
+  {
+    "id": "97cd96aa10247e60790888be69c73aad",
+    "title": "6 of the Most Polarizing Mystery and Crime Books Ever Written",
+    "author": "Jeffrey Davies",
+    "description": "Whether due to controversial endings and characterizations to dark subject matter, these are some of the most polarizing mysteries ever writtten.",
+    "summary_ai": "",
+    "categories": [
+      "Mystery/Thriller",
+      "Reviews",
+      "Unusual Suspects"
+    ],
+    "genre": [
+      "Crime",
+      "Mystery"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-27",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/02/gone-girl-book-cover-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/02/gone-girl-book-cover-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/polarizing-mystery-books/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Mystery/Thriller",
+      "Unusual Suspects",
+      "reviews"
+    ],
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
+  },
+  {
+    "id": "484d0ba3915a767eabe3dd3ddbe689cc",
+    "title": "Odd Jobs: Seven New and Offbeat Picture Book Biographies",
+    "author": "Isabelle Popp",
+    "description": "These new picture biographies focus on more offbeat pursuits, like smokejumping, vogueing, and coming in last in a very important race.",
+    "summary_ai": "",
+    "categories": [
+      "Children'S",
+      "Reviews",
+      "The Kids Are All Right"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-27",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/maries-magic-eggs-by-sandra-neil-wallace-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/maries-magic-eggs-by-sandra-neil-wallace-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/new-picture-book-biographies-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Children's",
+      "The Kids Are All Right",
+      "reviews"
+    ],
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
+  },
+  {
+    "id": "cdfd3bf93f0ce934559ac90dc09a464a",
+    "title": "Your Favorite Books of the 2026 Read Harder Challenge So Far",
+    "author": "Danika Ellis",
+    "description": "I asked about your favorite book that you've read for the Read Harder Challenge so far, and here are the results!",
+    "summary_ai": "",
+    "categories": [
+      "All Access",
+      "Read Harder",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-27",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/Project-Hail-Mary-A-Novel-cover-2-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/Project-Hail-Mary-A-Novel-cover-2-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/your-favorite-books-of-the-2026-read-harder-challenge-so-far/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "All Access",
+      "Read Harder",
+      "reviews"
+    ],
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
   },
   {
     "id": "f306eb535056f4cc2611069883fcf9c0",
@@ -351,8 +557,8 @@
       "Lit Hub Daily",
       "reviews"
     ],
-    "created_at": "2026-07-27T09:50:10+00:00",
-    "updated_at": "2026-07-27T09:50:10Z"
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
   },
   {
     "id": "0303049ad29f5fc94cb444b3b168e106",
@@ -381,8 +587,8 @@
       "The Fright Stuff",
       "reviews"
     ],
-    "created_at": "2026-07-27T09:50:10+00:00",
-    "updated_at": "2026-07-27T09:50:10Z"
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
   },
   {
     "id": "875f1882b59fa7bc4de3d643ac7cf777",
@@ -411,8 +617,8 @@
       "Romance/Erotica",
       "reviews"
     ],
-    "created_at": "2026-07-27T09:50:10+00:00",
-    "updated_at": "2026-07-27T09:50:10Z"
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
   },
   {
     "id": "1045a4878fec1f4336bf2628342ebce0",
@@ -435,8 +641,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-07-27T09:50:10+00:00",
-    "updated_at": "2026-07-27T09:50:10Z"
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
   },
   {
     "id": "6d08e9786fb4dbfe9114019fdf2e42ca",
@@ -475,166 +681,74 @@
       "book reviews",
       "reviews"
     ],
-    "created_at": "2026-07-27T09:50:10+00:00",
-    "updated_at": "2026-07-27T09:50:10Z"
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
   },
   {
-    "id": "5c6fca872d9e0d969681360761824ceb",
-    "title": "Lit Hub Daily: July 24, 2026",
-    "author": "Lit Hub Daily",
-    "description": "Tarot reader Lisa Stardust examines Sylvia Plath’s relationship to her deck. | Lit Hub Criticism How the expectation that “books are now asked to function simultaneously as texts and as lifestyle objects” influences cover design in the social media era.",
+    "id": "0c940f6b544bdab2e5344f25ed4cf273",
+    "title": "The 2026 Eisner Awards Honor the Best in Comics",
+    "author": "Community",
+    "description": "The winners of the 2026 Eisner Awards for the best in comics were announced this past weekend at San Diego Comic Con.",
     "summary_ai": "",
     "categories": [
-      "Lit Hub Daily",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-07-24",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/VicenteAcosta-768x344.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/VicenteAcosta-768x344.jpg",
-    "article_url": "https://lithub.com/lit-hub-daily-july-24-2026/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Lit Hub Daily",
-      "reviews"
-    ],
-    "created_at": "2026-07-27T09:50:10+00:00",
-    "updated_at": "2026-07-27T09:50:10Z"
-  },
-  {
-    "id": "a1b74bcdbe25403f6a6b2901793c6902",
-    "title": "“You’ve Told Me This Joke Before”",
-    "author": "Lit Hub Excerpts",
-    "description": "It started with a toaster and ended with a Maytag washerdryer combo and four new steel-belted radials. In between, the UPS, FedEx, Lowe’s deliverer, or mail carrier set down on my front porch a Cuisinart blender, a fifty-pound bag of",
-    "summary_ai": "",
-    "categories": [
-      "Daily Fiction",
-      "Dzanc Books",
-      "Excerpts",
-      "Fiction And Poetry",
-      "From The Novel",
-      "George Singleton",
-      "Novels",
-      "Reviews",
-      "Wounded Boarders"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-07-24",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/wounded-boarders.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/wounded-boarders.png",
-    "article_url": "https://lithub.com/youve-told-me-this-joke-before/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "DZANC Books",
-      "Daily Fiction",
-      "Excerpts",
-      "Fiction and Poetry",
-      "From the Novel",
-      "George Singleton",
-      "Novels",
-      "Wounded Boarders",
-      "reviews"
-    ],
-    "created_at": "2026-07-27T09:50:10+00:00",
-    "updated_at": "2026-07-27T09:50:10Z"
-  },
-  {
-    "id": "a3af91f0b92245aeef0fcc447be2dbe3",
-    "title": "The Tools Book Banners Are Using to Target Books in 2026: Book Censorship News, July 24, 2026",
-    "author": "Kelly Jensen",
-    "description": "Get to know the National Book Rating Index, BookLens, RatedBooks, and more tools being used to ban books across US schools and libraries.",
-    "summary_ai": "",
-    "categories": [
-      "Censorship",
-      "Libraries",
-      "Literary Activism",
+      "Comics/Graphic Novels",
       "News",
       "Reviews"
     ],
     "genre": [],
     "language": "English",
     "publisher": "Book Riot",
-    "published_date": "2026-07-24",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/01/Sold_by_Patricia_McCormick___Rated_Books.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/01/Sold_by_Patricia_McCormick___Rated_Books.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/tools-used-by-book-banners-2026/",
+    "published_date": "2026-07-27",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2024/05/eisner-awards-image.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2024/05/eisner-awards-image.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/2026-eisner-awards/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Censorship",
-      "Libraries",
-      "Literary Activism",
+      "Comics/Graphic Novels",
       "News",
       "reviews"
     ],
-    "created_at": "2026-07-27T09:50:10+00:00",
-    "updated_at": "2026-07-27T09:50:10Z"
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
   },
   {
-    "id": "41e3a61f538afda49f621467c1fb1385",
-    "title": "The Most Read Books on Goodreads This Week",
-    "author": "Community",
-    "description": "The most read books on Goodreads this week include historical fiction, a summer romance, a marriage thriller, and more.",
+    "id": "19fd0df9798217844334eca0f8238e90",
+    "title": "Signs That You’re the Main Character in a Gothic Romance",
+    "author": "Carolina Ciucci",
+    "description": "Are you in a creepy manor? Is a widower trying to woo you? Hearing voices from the attic? You might be the main character in a gothic romance.",
     "summary_ai": "",
     "categories": [
-      "Breaking In Books",
-      "Lists",
-      "Reviews"
+      "Featured",
+      "Gothic Fiction",
+      "Gothic Romance",
+      "Humor",
+      "Kissing Books",
+      "Reviews",
+      "Romance/Erotica"
     ],
     "genre": [
-      "Fiction",
-      "Romance",
-      "Thriller"
+      "Romance"
     ],
     "language": "English",
     "publisher": "Book Riot",
-    "published_date": "2026-07-24",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2025/11/Cool-Machine-by-Colson-Whitehead-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2025/11/Cool-Machine-by-Colson-Whitehead-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/most-read-books-on-goodreads-july-24-2026/",
+    "published_date": "2026-07-27",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/07/woman-white-dress-mysterious.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/07/woman-white-dress-mysterious.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/signs-youre-the-main-character-in-a-gothic-romance/",
     "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Lists",
-      "breaking in books",
+      "Featured",
+      "Humor",
+      "Kissing Books",
+      "Romance/Erotica",
+      "gothic fiction",
+      "gothic romance",
       "reviews"
     ],
-    "created_at": "2026-07-27T09:50:10+00:00",
-    "updated_at": "2026-07-27T09:50:10Z"
-  },
-  {
-    "id": "bf256c018357bb6d60b24123f196c6b2",
-    "title": "Let’s Meet Some Disabled Superheroes Who Aren’t Daredevil",
-    "author": "Eileen Gonzalez",
-    "description": "It's Disability Pride Month, meaning there is no better time than now to meet some of the disabled superheroes in comics.",
-    "summary_ai": "",
-    "categories": [
-      "Comics/Graphic Novels",
-      "Reviews",
-      "The Stack"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-24",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/ASM-210.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/ASM-210.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/disabled-superheroes/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Comics/Graphic Novels",
-      "The Stack",
-      "reviews"
-    ],
-    "created_at": "2026-07-27T09:50:10+00:00",
-    "updated_at": "2026-07-27T09:50:10Z"
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
   },
   {
     "id": "f0d033b510e3987a6aa2b7b1fc34a289",
@@ -657,8 +771,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-07-27T09:50:10+00:00",
-    "updated_at": "2026-07-27T09:50:10Z"
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
   },
   {
     "id": "a47f3e4caaac14d4cfb8115ac45025ee",
@@ -681,66 +795,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-07-27T09:50:10+00:00",
-    "updated_at": "2026-07-27T09:50:10Z"
-  },
-  {
-    "id": "4c83903a2c467884a397efa2bb318ee2",
-    "title": "Everything You Need to Know About Mike Flanagan’s CARRIE Series",
-    "author": "Emily Martin",
-    "description": "Mike Flanagan's CARRIE series releases on Prime in October. Here's everything to know about the new adaptation so far.",
-    "summary_ai": "",
-    "categories": [
-      "All Access",
-      "Horror",
-      "Reviews",
-      "The Fright Stuff"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-24",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/07/carrie-2026-poster-closeup.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/07/carrie-2026-poster-closeup.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/mike-flanagans-carrie-series/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "All Access",
-      "Horror",
-      "The Fright Stuff",
-      "reviews"
-    ],
-    "created_at": "2026-07-27T09:50:10+00:00",
-    "updated_at": "2026-07-27T09:50:10Z"
-  },
-  {
-    "id": "9aa4de0b43b42f01ed76014580c3e048",
-    "title": "A Global Reading Crisis, Book Lists Galore, and More Links for Library Workers",
-    "author": "Katie McLain Horner",
-    "description": "A global reading crisis, revisiting a classic of high school reading 75 years on, and more stories and booklists for library workers.",
-    "summary_ai": "",
-    "categories": [
-      "Check Your Shelf",
-      "Libraries",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-24",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/02/school-library.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/02/school-library.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/library-news-round-up-july-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Check Your Shelf",
-      "Libraries",
-      "reviews"
-    ],
-    "created_at": "2026-07-27T09:50:10+00:00",
-    "updated_at": "2026-07-27T09:50:10Z"
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
   },
   {
     "id": "1cf720c782a8f021d2f8295bb6831a62",
@@ -763,7 +819,7 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-07-27T09:50:10+00:00",
-    "updated_at": "2026-07-27T09:50:10Z"
+    "created_at": "2026-07-27T19:19:49+00:00",
+    "updated_at": "2026-07-27T19:19:49Z"
   }
 ]
