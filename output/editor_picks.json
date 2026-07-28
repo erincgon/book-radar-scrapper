@@ -1,5 +1,99 @@
 [
   {
+    "id": "0d8d5b6beb35064664091d0e936a722f",
+    "title": "I Made You Up Inside My Head",
+    "author": "Lit Hub Excerpts",
+    "description": "Chinese numbers distinguish between two different types of zero, which are really two types of nothing: one is an absolute nothing, the one that I suppose shapes the limits of the universe, where no particle of any kind has ever",
+    "summary_ai": "",
+    "categories": [
+      "Daily Fiction",
+      "Excerpts",
+      "Fiction And Poetry",
+      "From The Novel",
+      "I Made You Up Inside My Head",
+      "Marta Pérez-Carbonell",
+      "Novels",
+      "Reviews",
+      "Riverhead",
+      "Rosalind Harvey",
+      "Translation"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Riverhead",
+    "published_date": "2026-07-28",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/I-MADE-YOU-UP-INSIDE-MY-HEAD_Cover-768x1160.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/06/I-MADE-YOU-UP-INSIDE-MY-HEAD_Cover-768x1160.jpg",
+    "article_url": "https://lithub.com/i-made-you-up-inside-my-head/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Daily Fiction",
+      "Excerpts",
+      "Fiction and Poetry",
+      "From the Novel",
+      "I Made You Up Inside My Head",
+      "Marta Pérez-Carbonell",
+      "Novels",
+      "Riverhead",
+      "Rosalind Harvey",
+      "reviews",
+      "translation"
+    ],
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
+  },
+  {
+    "id": "d3dcc5c92cee80b94b79a92ca231a005",
+    "title": "Sarah Stillman on Finding the Story",
+    "author": "The Critic and Her Publics",
+    "description": "Welcome to Season Four of The Critic and Her Publics: The Art of the Interview. This season, host Merve Emre talks with professional interviewers of all kinds about how they get the answer they’re looking for, what makes a good",
+    "summary_ai": "",
+    "categories": [
+      "Craft And Advice",
+      "Craft And Criticism",
+      "Criticism",
+      "Features",
+      "In Conversation",
+      "Investigative Reporting",
+      "Lit Hub Radio",
+      "Literary Criticism",
+      "Merve Emre",
+      "Podcasts",
+      "Reviews",
+      "Sarah Stillman",
+      "The Critic And Her Publics",
+      "The New Yorker"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-07-28",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/image-800x4008-1-768x384.png",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/image-800x4008-1-768x384.png",
+    "article_url": "https://lithub.com/sarah-stillman-on-finding-the-story/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Craft and Advice",
+      "Craft and Criticism",
+      "Features",
+      "In Conversation",
+      "Lit Hub Radio",
+      "Literary Criticism",
+      "Merve Emre",
+      "Sarah Stillman",
+      "The Critic and Her Publics",
+      "The New Yorker",
+      "criticism",
+      "investigative reporting",
+      "podcasts",
+      "reviews"
+    ],
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
+  },
+  {
     "id": "d78a321d4fc5b77bc87fdffdba5c5990",
     "title": "How did you become a Deadhead?",
     "author": "Hazel Cills",
@@ -20,8 +114,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-07-27T19:19:49+00:00",
-    "updated_at": "2026-07-27T19:19:49Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "b77f7adfcea3a78153d62a6cf0ebf524",
@@ -82,8 +176,8 @@
       "literary adaptations",
       "reviews"
     ],
-    "created_at": "2026-07-27T19:19:49+00:00",
-    "updated_at": "2026-07-27T19:19:49Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "c986c0919617df8dfda5f3a2fae894a2",
@@ -108,8 +202,8 @@
       "Lit Hub Daily",
       "reviews"
     ],
-    "created_at": "2026-07-27T19:19:49+00:00",
-    "updated_at": "2026-07-27T19:19:49Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "fd92b08337223f293d1d0ed7e7615bd7",
@@ -158,50 +252,8 @@
       "prisons",
       "reviews"
     ],
-    "created_at": "2026-07-27T19:19:49+00:00",
-    "updated_at": "2026-07-27T19:19:49Z"
-  },
-  {
-    "id": "6280f8eb28935f642dfa9b3e5a017cd8",
-    "title": "This Week in Literary History: Robert Frost’s “The Road Not Taken” is Published in The Atlantic Monthly",
-    "author": "Literary Hub",
-    "description": "This first appeared in Lit Hub’s Literary History newsletter—sign up here. Robert Frost’s most famous poem, “The Road Not Taken,” “has confused audiences literally from the beginning,” David Orr has written. In the spring of 1915, Frost sent an envelope to Edward",
-    "summary_ai": "",
-    "categories": [
-      "David Orr",
-      "Features",
-      "History",
-      "Literary Criticism",
-      "News And Culture",
-      "Poetry",
-      "Reviews",
-      "Robert Frost",
-      "The Road Not Taken"
-    ],
-    "genre": [
-      "History"
-    ],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-07-27",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/tworoads-copy-768x528.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/tworoads-copy-768x528.jpg",
-    "article_url": "https://lithub.com/this-week-in-literary-history-robert-frosts-the-road-not-taken-is-published-in-the-atlantic-monthly/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "David Orr",
-      "Features",
-      "History",
-      "Literary Criticism",
-      "News and Culture",
-      "Robert Frost",
-      "The Road Not Taken",
-      "poetry",
-      "reviews"
-    ],
-    "created_at": "2026-07-27T19:19:49+00:00",
-    "updated_at": "2026-07-27T19:19:49Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "1b9aa087adfd3f780cfe33bd0572fdb6",
@@ -250,8 +302,50 @@
       "the writing life",
       "writers in conversation"
     ],
-    "created_at": "2026-07-27T19:19:49+00:00",
-    "updated_at": "2026-07-27T19:19:49Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
+  },
+  {
+    "id": "6280f8eb28935f642dfa9b3e5a017cd8",
+    "title": "This Week in Literary History: Robert Frost’s “The Road Not Taken” is Published in The Atlantic Monthly",
+    "author": "Literary Hub",
+    "description": "This first appeared in Lit Hub’s Literary History newsletter—sign up here. Robert Frost’s most famous poem, “The Road Not Taken,” “has confused audiences literally from the beginning,” David Orr has written. In the spring of 1915, Frost sent an envelope to Edward",
+    "summary_ai": "",
+    "categories": [
+      "David Orr",
+      "Features",
+      "History",
+      "Literary Criticism",
+      "News And Culture",
+      "Poetry",
+      "Reviews",
+      "Robert Frost",
+      "The Road Not Taken"
+    ],
+    "genre": [
+      "History"
+    ],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-07-27",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/tworoads-copy-768x528.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/tworoads-copy-768x528.jpg",
+    "article_url": "https://lithub.com/this-week-in-literary-history-robert-frosts-the-road-not-taken-is-published-in-the-atlantic-monthly/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "David Orr",
+      "Features",
+      "History",
+      "Literary Criticism",
+      "News and Culture",
+      "Robert Frost",
+      "The Road Not Taken",
+      "poetry",
+      "reviews"
+    ],
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "fb2906b14132598880310308896722e4",
@@ -296,8 +390,8 @@
       "reparations",
       "reviews"
     ],
-    "created_at": "2026-07-27T19:19:49+00:00",
-    "updated_at": "2026-07-27T19:19:49Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "5a9b9d32706b4b7033ddd74e420e05b0",
@@ -344,8 +438,8 @@
       "scientific publishing",
       "sexism"
     ],
-    "created_at": "2026-07-27T19:19:49+00:00",
-    "updated_at": "2026-07-27T19:19:49Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "64e226a28005d8f37cad70bccf0e4ad4",
@@ -385,8 +479,8 @@
       "reviews",
       "short stories"
     ],
-    "created_at": "2026-07-27T19:19:49+00:00",
-    "updated_at": "2026-07-27T19:19:49Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "5cfbac0cdd0444c8263b7d499b9bb8ba",
@@ -414,8 +508,8 @@
       "Book Deals",
       "reviews"
     ],
-    "created_at": "2026-07-27T19:19:49+00:00",
-    "updated_at": "2026-07-27T19:19:49Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "acfdfac2a6a7593a05245c30fbf0fcda",
@@ -444,8 +538,8 @@
       "Young Adult Literature",
       "reviews"
     ],
-    "created_at": "2026-07-27T19:19:49+00:00",
-    "updated_at": "2026-07-27T19:19:49Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "97cd96aa10247e60790888be69c73aad",
@@ -475,8 +569,8 @@
       "Unusual Suspects",
       "reviews"
     ],
-    "created_at": "2026-07-27T19:19:49+00:00",
-    "updated_at": "2026-07-27T19:19:49Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "484d0ba3915a767eabe3dd3ddbe689cc",
@@ -503,63 +597,7 @@
       "The Kids Are All Right",
       "reviews"
     ],
-    "created_at": "2026-07-27T19:19:49+00:00",
-    "updated_at": "2026-07-27T19:19:49Z"
-  },
-  {
-    "id": "cdfd3bf93f0ce934559ac90dc09a464a",
-    "title": "Your Favorite Books of the 2026 Read Harder Challenge So Far",
-    "author": "Danika Ellis",
-    "description": "I asked about your favorite book that you've read for the Read Harder Challenge so far, and here are the results!",
-    "summary_ai": "",
-    "categories": [
-      "All Access",
-      "Read Harder",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-27",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/Project-Hail-Mary-A-Novel-cover-2-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/Project-Hail-Mary-A-Novel-cover-2-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/your-favorite-books-of-the-2026-read-harder-challenge-so-far/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "All Access",
-      "Read Harder",
-      "reviews"
-    ],
-    "created_at": "2026-07-27T19:19:49+00:00",
-    "updated_at": "2026-07-27T19:19:49Z"
-  },
-  {
-    "id": "0c940f6b544bdab2e5344f25ed4cf273",
-    "title": "The 2026 Eisner Awards Honor the Best in Comics",
-    "author": "Community",
-    "description": "The winners of the 2026 Eisner Awards for the best in comics were announced this past weekend at San Diego Comic Con.",
-    "summary_ai": "",
-    "categories": [
-      "Comics/Graphic Novels",
-      "News",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-27",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2024/05/eisner-awards-image.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2024/05/eisner-awards-image.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/2026-eisner-awards/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Comics/Graphic Novels",
-      "News",
-      "reviews"
-    ],
-    "created_at": "2026-07-27T19:19:49+00:00",
-    "updated_at": "2026-07-27T19:19:49Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   }
 ]

@@ -34,8 +34,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-07-27T19:19:50+00:00",
-    "updated_at": "2026-07-27T19:19:50Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "786e357bb1a4342897059d3ce91436bf",
@@ -76,8 +76,8 @@
       "publishers",
       "trailers"
     ],
-    "created_at": "2026-07-27T19:19:50+00:00",
-    "updated_at": "2026-07-27T19:19:50Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "59b0c2916ec868986448b611ce96b5db",
@@ -112,8 +112,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-07-27T19:19:50+00:00",
-    "updated_at": "2026-07-27T19:19:50Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "64ee01931f6573ab443cc24d3ad99925",
@@ -156,8 +156,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-27T19:19:50+00:00",
-    "updated_at": "2026-07-27T19:19:50Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "30116df944ee233b6928ed7af8b63d1b",
@@ -198,8 +198,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-27T19:19:50+00:00",
-    "updated_at": "2026-07-27T19:19:50Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "228eb2d8bf72c2ad54b2ed3c7d9ca6d5",
@@ -232,8 +232,8 @@
       "pop culture",
       "publishers"
     ],
-    "created_at": "2026-07-27T19:19:50+00:00",
-    "updated_at": "2026-07-27T19:19:50Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "9992b7b4ee6634bcdc16f73e0d00005f",
@@ -278,8 +278,8 @@
       "television",
       "westerns"
     ],
-    "created_at": "2026-07-27T19:19:50+00:00",
-    "updated_at": "2026-07-27T19:19:50Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "ef70a03394cb6ccf3bdb7965979de092",
@@ -312,8 +312,8 @@
       "Science Fiction",
       "publishers"
     ],
-    "created_at": "2026-07-27T19:19:50+00:00",
-    "updated_at": "2026-07-27T19:19:50Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "6d4302ba5e85be6bacdb80d5ba26775b",
@@ -352,8 +352,32 @@
       "publishers",
       "television reviews"
     ],
-    "created_at": "2026-07-27T19:19:50+00:00",
-    "updated_at": "2026-07-27T19:19:50Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
+  },
+  {
+    "id": "d3ff1393521f5aaa847e66cc4ae81125",
+    "title": "DC’s Absolute Comics, Mariko Tamaki Headline 2026 Eisners Winners",
+    "author": "Christian Holub",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-27",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130558-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130558-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/awards-and-prizes/article/100924-dc-s-absolute-comics-mariko-tamaki-headline-2026-eisners-winners.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "84564fe1dbc59c49a33190fe7e16fb85",
@@ -376,8 +400,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-27T19:19:50+00:00",
-    "updated_at": "2026-07-27T19:19:50Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "e32dc59ed29bdef097b7c0e10d720163",
@@ -400,8 +424,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-27T19:19:50+00:00",
-    "updated_at": "2026-07-27T19:19:50Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "7dc9403dc18fd25cfe5556f48942422f",
@@ -424,8 +448,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-27T19:19:50+00:00",
-    "updated_at": "2026-07-27T19:19:50Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "a18748fa13d9e85008802e06a2b6619a",
@@ -450,8 +474,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-27T19:19:50+00:00",
-    "updated_at": "2026-07-27T19:19:50Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "5949d98e6fda6dca160fe759a200f723",
@@ -474,8 +498,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-27T19:19:50+00:00",
-    "updated_at": "2026-07-27T19:19:50Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "4cfcfa5a625c310f4786bfe5a6161a28",
@@ -498,8 +522,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-27T19:19:50+00:00",
-    "updated_at": "2026-07-27T19:19:50Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "199ba6f20c296437206235a3f266c896",
@@ -536,8 +560,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-07-27T19:19:50+00:00",
-    "updated_at": "2026-07-27T19:19:50Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "c8f965743cad8580b877f07f7014392f",
@@ -576,8 +600,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-07-27T19:19:50+00:00",
-    "updated_at": "2026-07-27T19:19:50Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "f27585dd7db13c78bf4349a500a4159a",
@@ -612,8 +636,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-07-27T19:19:50+00:00",
-    "updated_at": "2026-07-27T19:19:50Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   },
   {
     "id": "2bf4ac573616dea512d32d7c39816746",
@@ -652,45 +676,7 @@
       "television recaps",
       "television reviews"
     ],
-    "created_at": "2026-07-27T19:19:50+00:00",
-    "updated_at": "2026-07-27T19:19:50Z"
-  },
-  {
-    "id": "83c2475a8d2f939bed989e4d21c6ab5d",
-    "title": "Avatar: Seven Havens Trailer Leaves Us Asking, “What Happened to Korra?”",
-    "author": "Matthew Byrd",
-    "description": "The series' seemingly villainous take on Korra certainly feels like a red herring The post Avatar: Seven Havens Trailer Leaves Us Asking, “What Happened to Korra?” appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Avatar",
-      "Avatar: Seven Havens",
-      "Blog",
-      "News",
-      "Publishers",
-      "Sdcc",
-      "Sdcc 2026",
-      "Television"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-24",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/Legend-of-Korra-snap-740x491.png",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/Legend-of-Korra-snap-740x491.png",
-    "article_url": "https://reactormag.com/avatar-seven-havens-trailer-korra/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Avatar",
-      "Avatar: Seven Havens",
-      "Blog",
-      "SDCC",
-      "SDCC 2026",
-      "news",
-      "publishers",
-      "television"
-    ],
-    "created_at": "2026-07-27T19:19:50+00:00",
-    "updated_at": "2026-07-27T19:19:50Z"
+    "created_at": "2026-07-28T08:32:22+00:00",
+    "updated_at": "2026-07-28T08:32:22Z"
   }
 ]
