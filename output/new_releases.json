@@ -30,8 +30,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-28T19:15:55+00:00",
-    "updated_at": "2026-07-28T19:15:55Z"
+    "created_at": "2026-07-29T08:38:51+00:00",
+    "updated_at": "2026-07-29T08:38:51Z"
   },
   {
     "id": "cadd7881509f17fa21e64e8e63a7e0ae",
@@ -66,8 +66,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-28T19:15:55+00:00",
-    "updated_at": "2026-07-28T19:15:55Z"
+    "created_at": "2026-07-29T08:38:51+00:00",
+    "updated_at": "2026-07-29T08:38:51Z"
   },
   {
     "id": "1ce15d137bfe791cb125a235cd1730c6",
@@ -108,8 +108,8 @@
       "publishers",
       "trailers"
     ],
-    "created_at": "2026-07-28T19:15:55+00:00",
-    "updated_at": "2026-07-28T19:15:55Z"
+    "created_at": "2026-07-29T08:38:51+00:00",
+    "updated_at": "2026-07-29T08:38:51Z"
   },
   {
     "id": "c7d846c41c0b5e1a65d5ad4ecfc30f1f",
@@ -146,8 +146,8 @@
       "Towers of Midnight",
       "publishers"
     ],
-    "created_at": "2026-07-28T19:15:55+00:00",
-    "updated_at": "2026-07-28T19:15:55Z"
+    "created_at": "2026-07-29T08:38:51+00:00",
+    "updated_at": "2026-07-29T08:38:51Z"
   },
   {
     "id": "3a3db05f38377ebe726b970cb3e95fca",
@@ -180,8 +180,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-07-28T19:15:55+00:00",
-    "updated_at": "2026-07-28T19:15:55Z"
+    "created_at": "2026-07-29T08:38:51+00:00",
+    "updated_at": "2026-07-29T08:38:51Z"
   },
   {
     "id": "11afb9019d0f27cd818a51ee40a0d1ef",
@@ -234,8 +234,8 @@
       "movies",
       "publishers"
     ],
-    "created_at": "2026-07-28T19:15:55+00:00",
-    "updated_at": "2026-07-28T19:15:55Z"
+    "created_at": "2026-07-29T08:38:51+00:00",
+    "updated_at": "2026-07-29T08:38:51Z"
   },
   {
     "id": "4db453239fd57240e7fb9f4ed1937591",
@@ -270,8 +270,128 @@
       "nonfiction",
       "publishers"
     ],
-    "created_at": "2026-07-28T19:15:55+00:00",
-    "updated_at": "2026-07-28T19:15:55Z"
+    "created_at": "2026-07-29T08:38:51+00:00",
+    "updated_at": "2026-07-29T08:38:51Z"
+  },
+  {
+    "id": "0d5045f9637fca281bf07c33bafa0bb9",
+    "title": "Three on a Theme: YA Novels Tackle Life After Death",
+    "author": "Iyana Jones",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-28",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130612-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130612-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100935-three-on-a-theme-life-after-death.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-29T08:38:51+00:00",
+    "updated_at": "2026-07-29T08:38:51Z"
+  },
+  {
+    "id": "2d706c8092b5602994b35908480cd4a7",
+    "title": "Rights Report: Week of July 27, 2026",
+    "author": "",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-28",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130594-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130594-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100934-rights-report-week-of-july-27-2026.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-29T08:38:51+00:00",
+    "updated_at": "2026-07-29T08:38:51Z"
+  },
+  {
+    "id": "411bf5d26595a66f000faf4607d868f9",
+    "title": "Licensing Hotline: July 2026",
+    "author": "Karen Raugust",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-28",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130593-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130593-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100932-licensing-hotline-july-2026.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-29T08:38:51+00:00",
+    "updated_at": "2026-07-29T08:38:51Z"
+  },
+  {
+    "id": "748ce32b7e907c8a2d8e41db844b3af4",
+    "title": "R.J. Palacio on Her Lifelong Connection to the ‘Odyssey’",
+    "author": "R.J. Palacio",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-28",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130562-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130562-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100925-r-j-palacio-on-her-lifelong-connection-to-the-odyssey.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-29T08:38:51+00:00",
+    "updated_at": "2026-07-29T08:38:51Z"
+  },
+  {
+    "id": "cab5dff63ca3471fa304e607bded14d3",
+    "title": "Writing Out Loud: PW Talks with Julie Andrews and Emma Walton Hamilton",
+    "author": "Emma Kantor",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-28",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130556-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130556-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100921-writing-out-loud-pw-talks-with-julie-andrews-and-emma-walton-hamilton.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-29T08:38:51+00:00",
+    "updated_at": "2026-07-29T08:38:51Z"
   },
   {
     "id": "b494c02a4981067a70e7fc8c92ca0a65",
@@ -294,8 +414,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-28T19:15:55+00:00",
-    "updated_at": "2026-07-28T19:15:55Z"
+    "created_at": "2026-07-29T08:38:51+00:00",
+    "updated_at": "2026-07-29T08:38:51Z"
   },
   {
     "id": "8fb9baacc4f28dfe25a1680d996b497e",
@@ -320,8 +440,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-28T19:15:55+00:00",
-    "updated_at": "2026-07-28T19:15:55Z"
+    "created_at": "2026-07-29T08:38:51+00:00",
+    "updated_at": "2026-07-29T08:38:51Z"
   },
   {
     "id": "49ed9448ef7750b11ede548f83bfb46d",
@@ -344,8 +464,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-28T19:15:55+00:00",
-    "updated_at": "2026-07-28T19:15:55Z"
+    "created_at": "2026-07-29T08:38:51+00:00",
+    "updated_at": "2026-07-29T08:38:51Z"
   },
   {
     "id": "cecdd1301501277c7d11549f4851710d",
@@ -368,8 +488,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-28T19:15:55+00:00",
-    "updated_at": "2026-07-28T19:15:55Z"
+    "created_at": "2026-07-29T08:38:51+00:00",
+    "updated_at": "2026-07-29T08:38:51Z"
   },
   {
     "id": "4c608d343bc85738176ab7ab9bc02ff2",
@@ -406,8 +526,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-07-28T19:15:55+00:00",
-    "updated_at": "2026-07-28T19:15:55Z"
+    "created_at": "2026-07-29T08:38:51+00:00",
+    "updated_at": "2026-07-29T08:38:51Z"
   },
   {
     "id": "786e357bb1a4342897059d3ce91436bf",
@@ -448,8 +568,8 @@
       "publishers",
       "trailers"
     ],
-    "created_at": "2026-07-28T19:15:55+00:00",
-    "updated_at": "2026-07-28T19:15:55Z"
+    "created_at": "2026-07-29T08:38:51+00:00",
+    "updated_at": "2026-07-29T08:38:51Z"
   },
   {
     "id": "59b0c2916ec868986448b611ce96b5db",
@@ -484,8 +604,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-07-28T19:15:55+00:00",
-    "updated_at": "2026-07-28T19:15:55Z"
+    "created_at": "2026-07-29T08:38:51+00:00",
+    "updated_at": "2026-07-29T08:38:51Z"
   },
   {
     "id": "64ee01931f6573ab443cc24d3ad99925",
@@ -528,155 +648,7 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-28T19:15:55+00:00",
-    "updated_at": "2026-07-28T19:15:55Z"
-  },
-  {
-    "id": "30116df944ee233b6928ed7af8b63d1b",
-    "title": "The Vampire Lestat Becomes The Queen of the Damned for Season 4",
-    "author": "Molly Templeton",
-    "description": "She is really not the answer!! But you'll find that out soon enough. I hope The post The Vampire Lestat Becomes The Queen of the Damned for Season 4 appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Adaptations",
-      "Amc",
-      "Anne Rice",
-      "Anne Rice Immortal Universe",
-      "Blog",
-      "Hannah Moscovitch",
-      "Interview With The Vampire",
-      "News",
-      "Publishers",
-      "Queen Of The Damned"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-27",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/TVL_05_SG_1022_0360_RT-740x492.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/TVL_05_SG_1022_0360_RT-740x492.jpg",
-    "article_url": "https://reactormag.com/queen-of-the-damned-anne-rice-renewal/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "AMC",
-      "Anne Rice",
-      "Anne Rice Immortal Universe",
-      "Blog",
-      "Hannah Moscovitch",
-      "Interview with the Vampire",
-      "Queen of the Damned",
-      "adaptations",
-      "news",
-      "publishers"
-    ],
-    "created_at": "2026-07-28T19:15:55+00:00",
-    "updated_at": "2026-07-28T19:15:55Z"
-  },
-  {
-    "id": "228eb2d8bf72c2ad54b2ed3c7d9ca6d5",
-    "title": "The Summer of Jimothy",
-    "author": "Sarah",
-    "description": "Let's talk about the latest celebrity animal sensation The post The Summer of Jimothy appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Animals",
-      "Blog",
-      "Jimothy",
-      "Pop Culture",
-      "Publishers",
-      "Sff Bestiary"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-27",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/jimothy-the-raccoon-740x423.png",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/jimothy-the-raccoon-740x423.png",
-    "article_url": "https://reactormag.com/the-summer-of-jimothy/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Jimothy",
-      "SFF Bestiary",
-      "animals",
-      "pop culture",
-      "publishers"
-    ],
-    "created_at": "2026-07-28T19:15:55+00:00",
-    "updated_at": "2026-07-28T19:15:55Z"
-  },
-  {
-    "id": "0dc36a78c541dd785285c873f927a855",
-    "title": "DC’s Absolute Comics, Mariko Tamaki Headline 2026 Eisner Winners",
-    "author": "Christian Holub",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-27",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130558-1.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130558-1.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/awards-and-prizes/article/100924-dc-s-absolute-comics-mariko-tamaki-headline-2026-eisners-winners.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-28T19:15:55+00:00",
-    "updated_at": "2026-07-28T19:15:55Z"
-  },
-  {
-    "id": "84564fe1dbc59c49a33190fe7e16fb85",
-    "title": "New Christianbook Owners Promise Fixes at the Company Are Underway",
-    "author": "Jim Milliot",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-27",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130557-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130557-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/religion/article/100922-new-christianbook-owners-promise-fixes-at-the-company-are-underway.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-28T19:15:55+00:00",
-    "updated_at": "2026-07-28T19:15:55Z"
-  },
-  {
-    "id": "e32dc59ed29bdef097b7c0e10d720163",
-    "title": "Major AALA Ethics Update Allows Agents to Offer Paid Editorial, Publicity Services",
-    "author": "Sam Spratford",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-27",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130550-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130550-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/people/article/100919-major-aala-ethics-update-allows-agents-to-offer-paid-editorial-publicity-services.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-28T19:15:55+00:00",
-    "updated_at": "2026-07-28T19:15:55Z"
+    "created_at": "2026-07-29T08:38:51+00:00",
+    "updated_at": "2026-07-29T08:38:51Z"
   }
 ]
