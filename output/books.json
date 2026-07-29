@@ -1,5 +1,43 @@
 [
   {
+    "id": "d7d0d6268dc63b7b922f2065c09b2dd2",
+    "title": "The Woman Behind Emma M. Lion",
+    "author": "Courtney Runn",
+    "description": "Beth Brower has been self-publishing for a decade. But her series drawn from the cheeky “journals” of a young woman in Victorian England has been a breakout.",
+    "summary_ai": "",
+    "categories": [
+      "Bloomsbury Publishing Plc",
+      "Book Trade And Publishing",
+      "Books",
+      "Books And Literature",
+      "Brower, Beth (Author)",
+      "Content Type: Personal Profile",
+      "The Unselected Journals Of Emma M Lion (Book)",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Bloomsbury",
+    "published_date": "2026-07-29",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/29/multimedia/29tbr-beth-brower3-fhvp/29tbr-beth-brower3-fhvp-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/29/multimedia/29tbr-beth-brower3-fhvp/29tbr-beth-brower3-fhvp-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/29/books/review/beth-brower-unselected-journals-of-emma-m-lion.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Bloomsbury Publishing PLC",
+      "Book Trade and Publishing",
+      "Books and Literature",
+      "Brower, Beth (Author)",
+      "Content Type: Personal Profile",
+      "The Unselected Journals of Emma M Lion (Book)",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-07-29T19:06:50+00:00",
+    "updated_at": "2026-07-29T19:06:50Z"
+  },
+  {
     "id": "58731ee05af116a9b3e93903f815d783",
     "title": "Beginning Middle End by Valeria Luiselli review – a mother and daughter’s odyssey",
     "author": "Chris Power",
@@ -27,8 +65,45 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
+  },
+  {
+    "id": "cfdde00cd211dcdcfe2c36c1b5a75842",
+    "title": "Dua Lipa to interview Zadie Smith at London Literature festival",
+    "author": "Emma Loffhagen",
+    "description": "The pop star is curating the 2026 festival, which also features Patti Smith, Mustafa and Ta-Nehisi Coates, as part of the Southbank Centre’s anniversary year Zadie Smith, Patti Smith and Mustafa are among the star names lined up to be interviewed by Dua Lipa, as the pop star reveals her curation of this year’s London Literature festival at the Southbank Centre. The festival, now in its 19th year, will run from 21 October to 1 November, with the Brit award-winning singer shaping a programme of events in collaboration with her Service95 book club. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Dua Lipa",
+      "Festivals",
+      "Patti Smith",
+      "Southbank Centre",
+      "Zadie Smith"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-29",
+    "thumbnail": "https://i.guim.co.uk/img/media/c4863fcc10fe46c40a14380b0c4211ea6c25e347/119_0_563_450/master/563.jpg?width=700&quality=85&auto=format&fit=max&s=241eef48fa2c09c7f4d1a59b3540f546",
+    "cover_large": "https://i.guim.co.uk/img/media/c4863fcc10fe46c40a14380b0c4211ea6c25e347/119_0_563_450/master/563.jpg?width=700&quality=85&auto=format&fit=max&s=241eef48fa2c09c7f4d1a59b3540f546",
+    "article_url": "https://www.theguardian.com/culture/southbank-centre",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Dua Lipa",
+      "Festivals",
+      "Patti Smith",
+      "Southbank Centre",
+      "Zadie Smith",
+      "books"
+    ],
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "db862fb44690268729f52caeba39615c",
@@ -60,8 +135,8 @@
       "Wildlife",
       "books"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "d963e63b42291dcef8c46cd8df71ace9",
@@ -104,8 +179,8 @@
       "Women's Rights",
       "books"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:50+00:00",
+    "updated_at": "2026-07-29T19:06:50Z"
   },
   {
     "id": "a9db500614c37da5b3f35e0c3c064334",
@@ -143,8 +218,8 @@
       "UK news",
       "books"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "db69e0e0e15edb1bf77991172f877ebc",
@@ -179,8 +254,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "b399e574222df49405e49daebd31ca06",
@@ -218,39 +293,8 @@
       "Val McDermid",
       "books"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
-  },
-  {
-    "id": "9811e9d3f2d22c6240d8cdadc828e74b",
-    "title": "Upland by Ed Douglas review – a glorious survey of Britain’s high places",
-    "author": "Kathryn Hughes",
-    "description": "The writer and climber brings colour and carnival to his account of a country and people shaped by its mountains It comes as a shock to learn that Britain’s uplands were not always rocky, covered with coarse grass and suitable only for sheep. About 54,000 years ago – a mere blink in geological time – this island’s high places were teeming with nature. Lushly forested peaks, crags and gorges were home to megafauna including mammoth, woolly rhinoceros and giant elk. The one sour note in this elevated Garden of Eden was the carnivorous cave lions and sabre-tooth cats who prowled the browse looking for a meaty dinner. Ed Douglas’s achievement in this excellent book is to return a proper sense of colour and even carnival to Britain’s high places. His first job, though, is to define his terms. In 1936, the celebrated US geographer Roderick Peattie declared that what made a mountain was not its elevation so much as its capacity to “enter into the imagination of the people who lived in [its] shadows”. But by the 1990s, the United Nations, newly tasked with protecting the world’s high places from environmental and economic decline, insisted on getting out its tape measure and statistical...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "History Books",
-      "Science And Nature Books"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-28",
-    "thumbnail": "https://i.guim.co.uk/img/media/4f403fcd027d449e59554fd408eeabe5d327f383/1224_0_5633_4507/master/5633.jpg?width=700&quality=85&auto=format&fit=max&s=20e445d9e813f3eb70513c58cba155dc",
-    "cover_large": "https://i.guim.co.uk/img/media/4f403fcd027d449e59554fd408eeabe5d327f383/1224_0_5633_4507/master/5633.jpg?width=700&quality=85&auto=format&fit=max&s=20e445d9e813f3eb70513c58cba155dc",
-    "article_url": "https://www.theguardian.com/books/2026/jul/28/upland-by-ed-douglas-review-a-glorious-survey-of-britains-high-places",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "History books",
-      "Science and nature books",
-      "books"
-    ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "ba7233a7b9366648e084b0244aea0041",
@@ -278,8 +322,41 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
+  },
+  {
+    "id": "f6ab3ffd755355fab8824c66057f1a5b",
+    "title": "What If We Got AI Right? by Eleanor Drage review",
+    "author": "Sophie McBain",
+    "description": "The academic’s ambitious guide to the ethics of tech falls short of its promise to provide meaningful answers The AI ethicist Eleanor Drage believes that to thrive alongside artificial intelligence, humans need to recognise AI’s “humanity”. She means that while we often speak of AI as though it were some mystical, formless thing, it is the product of hours of human labour, in silicon and quartz mines, microchip factories and data labelling centres. If citizens want to wrest power from the tech companies that are building AI, it helps to understand clearly what they are selling us. This also means seeing through the marketing and hype: “the cloud”, that nebulous, distant place where your photos are stored, is just someone else’s computer; an AI “hallucination” is a system error or data labelling mistake; intelligence is a very broad – and potentially misleading – term. The story in Silicon Valley is that AI will either save us, ushering in a new era of prosperity and human longevity, or it will wipe us all out. Drage argues, convincingly, that big tech cannot possibly deliver on its utopian promises while it continues to chase profit and power above all else, and while it serves...",
+    "summary_ai": "",
+    "categories": [
+      "Ai (Artificial Intelligence)",
+      "Books",
+      "Culture",
+      "Science And Nature Books",
+      "Technology"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-27",
+    "thumbnail": "https://i.guim.co.uk/img/media/c8cf9f9468761e331d624eeb89543705beb3b21d/0_232_1178_942/master/1178.jpg?width=700&quality=85&auto=format&fit=max&s=962991f8a1bcfb9897f70961a4f35afe",
+    "cover_large": "https://i.guim.co.uk/img/media/c8cf9f9468761e331d624eeb89543705beb3b21d/0_232_1178_942/master/1178.jpg?width=700&quality=85&auto=format&fit=max&s=962991f8a1bcfb9897f70961a4f35afe",
+    "article_url": "https://www.theguardian.com/books/2026/jul/27/what-if-we-got-ai-right-by-eleanor-drage-review-avoiding-apocalypse",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "AI (artificial intelligence)",
+      "Books",
+      "Culture",
+      "Science and nature books",
+      "Technology",
+      "books"
+    ],
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "3b2fa2c9af8c3355cd0c1e52ba9ffe44",
@@ -320,8 +397,44 @@
       "Vaccination and Immunization",
       "books"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:50+00:00",
+    "updated_at": "2026-07-29T19:06:50Z"
+  },
+  {
+    "id": "641b52d1dafaac33e4645fa482c433f9",
+    "title": "From author to anime hero: the unlikely revival of a Japanese literary star",
+    "author": "John Self",
+    "description": "More than seven decades after they were first released, the dark novels of Osamu Dazai have become a publishing sensation, as a new generation of readers engage with his bleakness, humour and brilliance There’s no question that Japanese literature has been one of the outstanding successes for British bookshops in recent years: in 2024 close to half of the bestselling translated fiction titles were from Japan. Much of the Japanese fiction translated into English fits into broad categories – cats, crime, coffee shops – but one surprise bestseller stands alone. Sales of books by Osamu Dazai, who killed himself in 1948 aged 38, have rocketed in the last few years. His best-known novel, No Longer Human (1948), has sold more than 75,000 copies in the UK alone. An intense semi-autobiographical account of one man’s alienation, it was the last work of fiction completed before Dazai’s death. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "Fiction In Translation",
+      "Japan"
+    ],
+    "genre": [
+      "Crime",
+      "Fiction"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-26",
+    "thumbnail": "https://i.guim.co.uk/img/media/b8c9ab0212faf5194e8fd5894884826c927725c0/0_0_1267_1013/master/1267.jpg?width=700&quality=85&auto=format&fit=max&s=61f3f4ce149d4f5943b96d582fa58a4a",
+    "cover_large": "https://i.guim.co.uk/img/media/b8c9ab0212faf5194e8fd5894884826c927725c0/0_0_1267_1013/master/1267.jpg?width=700&quality=85&auto=format&fit=max&s=61f3f4ce149d4f5943b96d582fa58a4a",
+    "article_url": "https://www.theguardian.com/books/2026/jul/26/from-author-to-anime-hero-the-unlikely-revival-of-a-japanese-literary-star",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "Fiction in translation",
+      "Japan",
+      "books"
+    ],
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "a367f9bd07059f6bd2c5cbb3414a8efb",
@@ -398,8 +511,8 @@
       "You With the Sad Eyes (Book)",
       "books"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "aee349fced59d1514b1355f04d9e08a6",
@@ -442,8 +555,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:50+00:00",
+    "updated_at": "2026-07-29T19:06:50Z"
   },
   {
     "id": "f2df42bb1d1b15eaff28592c59f83d64",
@@ -482,8 +595,8 @@
       "books",
       "internal-open-access-audio"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:50+00:00",
+    "updated_at": "2026-07-29T19:06:50Z"
   },
   {
     "id": "f58f54f0ee17a330c997364f752c4e91",
@@ -536,8 +649,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "af9abbd40d1ece241f2398628987f883",
@@ -571,8 +684,8 @@
       "The Hours",
       "books"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "03070ce2b750c51dfbee898ec0d7f86f",
@@ -611,8 +724,8 @@
       "books",
       "genre-books-audiobooks"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "4a0dcc1cd7429c0e0f99e24ec7e8b49e",
@@ -655,56 +768,8 @@
       "United States Politics and Government",
       "books"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
-  },
-  {
-    "id": "777d63b21d39e0cf3756ebb5c92c1169",
-    "title": "Book Review: ‘Country of Lords,’ by Kim Phillips",
-    "author": "Jennifer Szalai",
-    "description": "In a new book, the historian Kim Phillips-Fein chronicles a “shadow tradition” of anti-egalitarians who fought against America’s founding ideals.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Carnegie, Andrew",
-      "Country Of Lords: Neo-Aristocrats, Social Darwinists, Tech Utopians, And The Long Fight Against Equality In America (Book)",
-      "Discrimination",
-      "Du Bois, W E B",
-      "Ford, Henry",
-      "Income Inequality",
-      "Lothrop Stoddard",
-      "Phillips-Fein, Kim",
-      "Race And Ethnicity",
-      "Sumner, William Graham",
-      "Thiel, Peter A"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-22",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/22/books/22TBR-Phillips-Fein-review-combo/22TBR-Phillips-Fein-review-combo-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/22/books/22TBR-Phillips-Fein-review-combo/22TBR-Phillips-Fein-review-combo-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/22/books/review/country-of-lords-kim-phillips-fein.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Carnegie, Andrew",
-      "Country of Lords: Neo-Aristocrats, Social Darwinists, Tech Utopians, and the Long Fight Against Equality in America (Book)",
-      "Discrimination",
-      "Du Bois, W E B",
-      "Ford, Henry",
-      "Income Inequality",
-      "Lothrop Stoddard",
-      "Phillips-Fein, Kim",
-      "Race and Ethnicity",
-      "Sumner, William Graham",
-      "Thiel, Peter A",
-      "books"
-    ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "1a01adacf102f08e18ad0c9aacce6bbc",
@@ -737,40 +802,8 @@
       "Travel writing",
       "books"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
-  },
-  {
-    "id": "a68bfa69e95fae6976ad5587ce0a078b",
-    "title": "Venus, Vanishing by Rebecca Birrell review – art, desire and the rise of the Third Reich",
-    "author": "Gabrielle Schwarz",
-    "description": "This portrait of a Jewish painter in bohemian Berlin is filled with insightful observations In the summer of 1937, two exhibitions sponsored by the Nazis opened in Munich. For the Degenerate Art exhibition, hundreds of confiscated works by banned modern artists – including Paul Klee, Wassily Kandinsky, Pablo Picasso – were gathered: a derisive demonstration of the supposedly anti-German spirit of contemporary culture. The show was also meant as a counterpoint to the first Great German Art Exhibition, essentially an art fair for state-sanctioned work, which ran annually until 1944. The official style of Aryan art was traditionalist neoclassicism; popular subjects included idealised female nudes, pastoral landscapes and heroic battle scenes. Hitler was among the main buyers. You probably haven’t heard of any of those artists. What if one of them were secretly a Jew, working under a pseudonym? Rebecca Birrell’s debut novel imagines this scenario, telling the story of a fictional Jewish artist who comes of age in Berlin in the last days of the Weimar republic. Hannah Sherman is working as a seamstress for the family business when she learns that she is about to be married off. She...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [
-      "Business",
-      "Fiction"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-22",
-    "thumbnail": "https://i.guim.co.uk/img/media/561f1a7a5ed0dbe9f9dc398dd7a973e6f7d580d7/456_2736_6010_4808/master/6010.jpg?width=700&quality=85&auto=format&fit=max&s=e9b7ed93d987e791ecd307ce66a80ee4",
-    "cover_large": "https://i.guim.co.uk/img/media/561f1a7a5ed0dbe9f9dc398dd7a973e6f7d580d7/456_2736_6010_4808/master/6010.jpg?width=700&quality=85&auto=format&fit=max&s=e9b7ed93d987e791ecd307ce66a80ee4",
-    "article_url": "https://www.theguardian.com/books/2026/jul/22/venus-vanishing-by-rebecca-birrell-review-art-desire-and-the-rise-of-the-third-reich",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "35c5412c611a0d60482500b9411080f0",
@@ -804,39 +837,8 @@
       "The far right",
       "books"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
-  },
-  {
-    "id": "d920e1004dd8ab340fc506a88d646969",
-    "title": "A Sudden Flicker of Light by David Thomson review",
-    "author": "Peter Bradshaw",
-    "description": "From the golden age of Hollywood to harder times today, this is a rapturous account of more than a century of cinema Film critic, historian and author of more than 40 books, David Thomson is back with another three-hour free jazz solo on the subject of the movies, though it’s a performance delivered with the magnificent elan of a 1940s big band leader. He’s as brilliant, eccentric, exasperating and absorbing as ever. By “the movies”, incidentally, he means Hollywood, with a side order of established European and east Asian arthouse: he takes us from the cine-prehistory of photographer Eadweard Muybridge to Fritz Lang’s Metropolis, DW Griffith’s Birth of a Nation with its sinister Ku Klux Klan hero-worship, Chaplin, Stroheim, Hitchcock, Capra, Renoir, Bogart, Marilyn Monroe in The Seven-Year Itch, Monroe Stahr in The Last Tycoon, Scorsese’s GoodFellas, David Lynch’s Mulholland Drive (“Is it drive or dream?”), Kirk Douglas and his alleged rape of Natalie Wood, Barbara Loden’s Wanda, Sean Baker’s Anora, Tracey Emin’s Why I Never Became a Dancer and much more. He subtitles his book a “revisionist” history. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Film Books"
-    ],
-    "genre": [
-      "History"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-20",
-    "thumbnail": "https://i.guim.co.uk/img/media/ce0c7f2e89a460933256d61ca2530aca242b6bb1/0_461_1869_1494/master/1869.jpg?width=700&quality=85&auto=format&fit=max&s=99d55a01ed8e540d59bf81585ab934ac",
-    "cover_large": "https://i.guim.co.uk/img/media/ce0c7f2e89a460933256d61ca2530aca242b6bb1/0_461_1869_1494/master/1869.jpg?width=700&quality=85&auto=format&fit=max&s=99d55a01ed8e540d59bf81585ab934ac",
-    "article_url": "https://www.theguardian.com/artanddesign/2010/sep/04/eadweard-muybridge-exhibition-rebecca-solnit",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Film books",
-      "books"
-    ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "524c605cd8982891e747fe848342f8df",
@@ -878,8 +880,8 @@
       "True crime books",
       "books"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "4c67af7b443e59255ae5e43165443d79",
@@ -911,8 +913,8 @@
       "Tessa Hadley",
       "books"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -942,8 +944,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -982,8 +984,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:50+00:00",
+    "updated_at": "2026-07-29T19:06:50Z"
   },
   {
     "id": "755ba738881478773c8491c271f5d902",
@@ -1010,8 +1012,8 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:50+00:00",
+    "updated_at": "2026-07-29T19:06:50Z"
   },
   {
     "id": "f0a8987fb7322e3a0dc23bf36fa062e5",
@@ -1052,8 +1054,8 @@
       "audio-neutral-informative",
       "books"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:50+00:00",
+    "updated_at": "2026-07-29T19:06:50Z"
   },
   {
     "id": "5abd518a1f4e1d19007e36a68c716195",
@@ -1092,8 +1094,8 @@
       "Psychiatry and Psychiatrists",
       "books"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:50+00:00",
+    "updated_at": "2026-07-29T19:06:50Z"
   },
   {
     "id": "b15ec480ad78a6bb4219bc916d70f55a",
@@ -1130,8 +1132,8 @@
       "books",
       "genre-books-mystery"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:50+00:00",
+    "updated_at": "2026-07-29T19:06:50Z"
   },
   {
     "id": "639ea6758daac6cd48927b8a89f62d43",
@@ -1178,7 +1180,7 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:50+00:00",
+    "updated_at": "2026-07-29T19:06:50Z"
   }
 ]

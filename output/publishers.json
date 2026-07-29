@@ -1,5 +1,123 @@
 [
   {
+    "id": "e4aa709931a68bb32d449a6c916820e9",
+    "title": "A Little Knowledge Is a Dangerous Thing: Nadia Bulkin’s “Things to Know Before You Go”",
+    "author": "Sarah",
+    "description": "This vacation carries a terrible curse... The post A Little Knowledge Is a Dangerous Thing: Nadia Bulkin’s “Things to Know Before You Go” appeared first on Reactor .",
+    "summary_ai": "",
+    "categories": [
+      "Blog",
+      "Horror",
+      "Nadia Bulkin",
+      "Publishers",
+      "Reading The Weird",
+      "Weird Fiction"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Reactormag",
+    "published_date": "2026-07-29",
+    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/06/silk-and-sinew-header-740x407.png",
+    "cover_large": "https://reactormag.com/wp-content/uploads/2026/06/silk-and-sinew-header-740x407.png",
+    "article_url": "https://reactormag.com/a-little-knowledge-is-a-dangerous-thing-nadia-bulkins-things-to-know-before-you-go/",
+    "source": "Reactormag",
+    "source_type": "rss",
+    "tags": [
+      "Blog",
+      "Horror",
+      "Nadia Bulkin",
+      "Reading the Weird",
+      "Weird Fiction",
+      "publishers"
+    ],
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
+  },
+  {
+    "id": "aab01028f1524dfc7456068eaafe867a",
+    "title": "Seven Horror Books Featuring Freaky, Frightening Forests",
+    "author": "Sarah",
+    "description": "Sure, why not head up to the creepy cabin in the woods — what could possibly go wrong? The post Seven Horror Books Featuring Freaky, Frightening Forests appeared first on Reactor .",
+    "summary_ai": "",
+    "categories": [
+      "Adam Nevill",
+      "Bitter Karella",
+      "Blog",
+      "Bonnie Quinn",
+      "Carter Keane",
+      "E.L. Chen",
+      "Horror",
+      "Laura Evans",
+      "Philip Fracassi",
+      "Publishers",
+      "Reading Recommendations"
+    ],
+    "genre": [
+      "Horror"
+    ],
+    "language": "English",
+    "publisher": "Reactormag",
+    "published_date": "2026-07-29",
+    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/morsel-cover-art-740x423.png",
+    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/morsel-cover-art-740x423.png",
+    "article_url": "https://reactormag.com/seven-horror-books-featuring-freaky-frightening-forests/",
+    "source": "Reactormag",
+    "source_type": "rss",
+    "tags": [
+      "Adam Nevill",
+      "Blog",
+      "Bonnie Quinn",
+      "Carter Keane",
+      "E.L. Chen",
+      "Horror",
+      "Laura Evans",
+      "Philip Fracassi",
+      "bitter karella",
+      "publishers",
+      "reading recommendations"
+    ],
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
+  },
+  {
+    "id": "aed6a5de29bce7577f9238753ac996f3",
+    "title": "The Terminator: The Future Comes to 1980s Los Angeles",
+    "author": "Sarah",
+    "description": "James Cameron, time travel, slasher films, parent traps, and the making of a sci fi classic... The post The Terminator : The Future Comes to 1980s Los Angeles appeared first on Reactor .",
+    "summary_ai": "",
+    "categories": [
+      "Arnold Schwarzenegger",
+      "Blog",
+      "James Cameron",
+      "Publishers",
+      "Science Fiction",
+      "Science Fiction Film Club",
+      "The Terminator",
+      "Time Travel"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Reactormag",
+    "published_date": "2026-07-29",
+    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/terminator-1984-header-740x423.png",
+    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/terminator-1984-header-740x423.png",
+    "article_url": "https://reactormag.com/the-terminator-the-future-comes-to-1980s-los-angeles/",
+    "source": "Reactormag",
+    "source_type": "rss",
+    "tags": [
+      "Arnold Schwarzenegger",
+      "Blog",
+      "James Cameron",
+      "Science Fiction",
+      "Science Fiction Film Club",
+      "The Terminator",
+      "Time Travel",
+      "publishers"
+    ],
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
+  },
+  {
     "id": "80b2c344d70aec1825c608a081260e62",
     "title": "James Cameron to Guillermo del Toro on Pan’s Labyrinth 3D: “If You Take Less Than 300 Days, I’ll Kill You”",
     "author": "Matthew Byrd",
@@ -30,8 +148,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "cadd7881509f17fa21e64e8e63a7e0ae",
@@ -66,8 +184,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "1ce15d137bfe791cb125a235cd1730c6",
@@ -108,8 +226,8 @@
       "publishers",
       "trailers"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "c7d846c41c0b5e1a65d5ad4ecfc30f1f",
@@ -146,8 +264,8 @@
       "Towers of Midnight",
       "publishers"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "3a3db05f38377ebe726b970cb3e95fca",
@@ -180,8 +298,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "11afb9019d0f27cd818a51ee40a0d1ef",
@@ -234,8 +352,8 @@
       "movies",
       "publishers"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "4db453239fd57240e7fb9f4ed1937591",
@@ -270,8 +388,8 @@
       "nonfiction",
       "publishers"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "4c608d343bc85738176ab7ab9bc02ff2",
@@ -308,8 +426,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "786e357bb1a4342897059d3ce91436bf",
@@ -350,8 +468,8 @@
       "publishers",
       "trailers"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "59b0c2916ec868986448b611ce96b5db",
@@ -386,8 +504,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "64ee01931f6573ab443cc24d3ad99925",
@@ -430,8 +548,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "30116df944ee233b6928ed7af8b63d1b",
@@ -472,120 +590,224 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
-    "id": "228eb2d8bf72c2ad54b2ed3c7d9ca6d5",
-    "title": "The Summer of Jimothy",
-    "author": "Sarah",
-    "description": "Let's talk about the latest celebrity animal sensation The post The Summer of Jimothy appeared first on Reactor .",
+    "id": "d0b87f55719d2ae46ebc613606550068",
+    "title": "‘A Fight in America Between Madness and Sanity’: PW Talks with Dan Houser",
+    "author": "Christian Holub",
+    "description": "",
     "summary_ai": "",
     "categories": [
-      "Animals",
-      "Blog",
-      "Jimothy",
-      "Pop Culture",
-      "Publishers",
-      "Sff Bestiary"
+      "Publishers"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-27",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/jimothy-the-raccoon-740x423.png",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/jimothy-the-raccoon-740x423.png",
-    "article_url": "https://reactormag.com/the-summer-of-jimothy/",
-    "source": "Reactormag",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-29",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130616-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130616-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/100929-a-fight-in-america-between-madness-and-sanity-pw-talks-with-dan-houser.html",
+    "source": "Publishers Weekly",
     "source_type": "rss",
     "tags": [
-      "Blog",
-      "Jimothy",
-      "SFF Bestiary",
-      "animals",
-      "pop culture",
       "publishers"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
-    "id": "199ba6f20c296437206235a3f266c896",
-    "title": "Blade Runner 2099 Trailer Finally Reveals the Show’s Plot",
-    "author": "Matthew Byrd",
-    "description": "Hunter Schafer and Michelle Yeoh star in a bold new Blade Runner story The post Blade Runner 2099 Trailer Finally Reveals the Show’s Plot appeared first on Reactor .",
+    "id": "6f1fc3d0f52702a879441b63c0c5a42d",
+    "title": "Five Great Comics Based On ‘The Odyssey’",
+    "author": "Christian Holub",
+    "description": "",
     "summary_ai": "",
     "categories": [
-      "Blade Runner 2099",
-      "Blog",
-      "News",
-      "Publishers",
-      "Science Fiction",
-      "Sdcc",
-      "Sdcc 2026",
-      "Television"
+      "Publishers"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-24",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/Blade-Runner-2099-740x434.png",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/Blade-Runner-2099-740x434.png",
-    "article_url": "https://reactormag.com/blade-runner-2099-trailer-plot/",
-    "source": "Reactormag",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-29",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130622-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130622-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/100928-five-great-comics-based-on-the-odyssey.html",
+    "source": "Publishers Weekly",
     "source_type": "rss",
     "tags": [
-      "Blade Runner 2099",
-      "Blog",
-      "SDCC",
-      "SDCC 2026",
-      "Science Fiction",
-      "news",
-      "publishers",
-      "television"
+      "publishers"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
-    "id": "c8f965743cad8580b877f07f7014392f",
-    "title": "The Rings of Power Season 3 Trailer Is All About Sauron",
-    "author": "Matthew Byrd",
-    "description": "Sauron-maxxing (sorry) The post The Rings of Power Season 3 Trailer Is All About Sauron appeared first on Reactor .",
+    "id": "685af01ccf92b923d9e11a486691da19",
+    "title": "Agate Teams with Publishing Veteran Kathleen Schmidt",
+    "author": "Sam Spratford",
+    "description": "",
     "summary_ai": "",
     "categories": [
-      "Blog",
-      "Fantasy",
-      "News",
-      "Publishers",
-      "Sdcc",
-      "Sdcc 2026",
-      "Television",
-      "The Lord Of The Rings",
-      "The Lord Of The Rings: The Rings Of Power"
+      "Publishers"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-24",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/Sauron-Rings-of-Power-740x326.png",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/Sauron-Rings-of-Power-740x326.png",
-    "article_url": "https://reactormag.com/rings-of-power-season-3-trailer-sauron/",
-    "source": "Reactormag",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-29",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130621-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130621-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100940-agate-teams-with-publishing-veteran-kathleen-schmidt-on-classes-book.html",
+    "source": "Publishers Weekly",
     "source_type": "rss",
     "tags": [
-      "Blog",
-      "SDCC",
-      "SDCC 2026",
-      "The Lord of the Rings",
-      "The Lord of the Rings: The Rings of Power",
-      "fantasy",
-      "news",
-      "publishers",
-      "television"
+      "publishers"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
+  },
+  {
+    "id": "d5dca4e0dd93e6d3f1c6872ee22bd35b",
+    "title": "San Diego Comic",
+    "author": "Heidi MacDonald",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-29",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130617-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130617-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/100936-san-diego-comic-con-2026-delivers-despite-eisner-leak.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
+  },
+  {
+    "id": "7f68d2f72e3d6cfdca033c69c08c44ac",
+    "title": "Panel Mania: ‘The Yves Saint Laurent Revolution: The Story of ‘Le Smoking’ by Loo Hui Phang & Benjamin Bachelier",
+    "author": "Compiled by Calvin Reid",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-29",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130569-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130569-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/100931-panel-mania-the-yves-saint-laurent-revolution-the-story-of-le-smoking-by-loo-hui-phang-benjamin-bachelier.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
+  },
+  {
+    "id": "446f50120fc2ead574ae43b9147bb070",
+    "title": "How Roberta Gregory Created the Grouchiest Woman in Comics",
+    "author": "Brigid Alverson",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-29",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130564-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130564-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/100930-how-roberta-gregory-made-midge-mccracken-the-grouchiest-woman-in-comics.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
+  },
+  {
+    "id": "7483433c23ec8a128ceb0efaf7e37684",
+    "title": "HBG Posts 1.3% Sales Increase in First Half of 2026",
+    "author": "Jim Milliot",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-29",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130620-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130620-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/100937-hbg-posts-1-3-sales-increase-in-first-half-of-2026.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
+  },
+  {
+    "id": "5c5b7e48d877dc885855b1be10213940",
+    "title": "Defending the Literary Ecosystem: PW Talks with Philomena Polefrone",
+    "author": "Claire Kirch",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-29",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130583-2.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130583-2.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/people/article/100923-protecting-the-literary-ecosystem-pw-talks-to-philomena-polefrone.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
+  },
+  {
+    "id": "7d0805f8fbea799bd8ac4f9ad758512b",
+    "title": "Gertrude Stein Is Having a Moment",
+    "author": "Sophia Stewart",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-29",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130595-2.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130595-2.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100905-gertrude-stein-is-having-a-moment.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "0d5045f9637fca281bf07c33bafa0bb9",
@@ -608,8 +830,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "2d706c8092b5602994b35908480cd4a7",
@@ -632,8 +854,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "411bf5d26595a66f000faf4607d868f9",
@@ -656,8 +878,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "748ce32b7e907c8a2d8e41db844b3af4",
@@ -680,8 +902,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "cab5dff63ca3471fa304e607bded14d3",
@@ -704,8 +926,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   },
   {
     "id": "b494c02a4981067a70e7fc8c92ca0a65",
@@ -728,227 +950,7 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
-  },
-  {
-    "id": "8fb9baacc4f28dfe25a1680d996b497e",
-    "title": "The On-Sale Calendar: November 2026 Children’s Books",
-    "author": "PW Staff",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-28",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130156-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130156-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/new-titles/on-sale-calendar/article/100779-the-on-sale-calendar-november-2026-children-s-books.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
-  },
-  {
-    "id": "49ed9448ef7750b11ede548f83bfb46d",
-    "title": "2026 Booker Prize Longlist Announced",
-    "author": "Sam Spratford",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-28",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130568-3.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130568-3.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/awards-and-prizes/article/100927-2026-booker-prize-longlist-announced.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
-  },
-  {
-    "id": "cecdd1301501277c7d11549f4851710d",
-    "title": "With ‘Heartstopper Forever,’ Alice Oseman Writes Their Happy Ending",
-    "author": "Kerensa Cadenas",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-28",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130563-2.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130563-2.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100920-with-heartstopper-forever-alice-oseman-writes-their-happy-ending.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
-  },
-  {
-    "id": "0dc36a78c541dd785285c873f927a855",
-    "title": "DC’s Absolute Comics, Mariko Tamaki Headline 2026 Eisner Winners",
-    "author": "Christian Holub",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-27",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130558-1.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130558-1.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/awards-and-prizes/article/100924-dc-s-absolute-comics-mariko-tamaki-headline-2026-eisners-winners.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
-  },
-  {
-    "id": "84564fe1dbc59c49a33190fe7e16fb85",
-    "title": "New Christianbook Owners Promise Fixes at the Company Are Underway",
-    "author": "Jim Milliot",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-27",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130557-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130557-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/religion/article/100922-new-christianbook-owners-promise-fixes-at-the-company-are-underway.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
-  },
-  {
-    "id": "e32dc59ed29bdef097b7c0e10d720163",
-    "title": "Major AALA Ethics Update Allows Agents to Offer Paid Editorial, Publicity Services",
-    "author": "Sam Spratford",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-27",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130550-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130550-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/people/article/100919-major-aala-ethics-update-allows-agents-to-offer-paid-editorial-publicity-services.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
-  },
-  {
-    "id": "7dc9403dc18fd25cfe5556f48942422f",
-    "title": "Educators Dive into Summer Reading",
-    "author": "Patricia J. Murphy",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-27",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130551-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130551-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/100918-educators-dive-into-summer-reading.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
-  },
-  {
-    "id": "a18748fa13d9e85008802e06a2b6619a",
-    "title": "Cambridge Public Library Celebrates Budding Writers with Youth Poetry Awards",
-    "author": "Betsy Groban",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [
-      "Poetry"
-    ],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-27",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130549-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130549-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/100917-cambridge-public-library-celebrates-budding-writers-with-youth-poetry-awards.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
-  },
-  {
-    "id": "5949d98e6fda6dca160fe759a200f723",
-    "title": "Four Questions for Chloe Ito Ward",
-    "author": "Patricia J. Murphy",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-27",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130543-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130543-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100915-four-questions-for-chloe-ito-ward.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-29T08:38:51+00:00",
-    "updated_at": "2026-07-29T08:38:51Z"
+    "created_at": "2026-07-29T19:06:51+00:00",
+    "updated_at": "2026-07-29T19:06:51Z"
   }
 ]
