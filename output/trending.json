@@ -1,7 +1,203 @@
 [
   {
-    "id": "bec0a81a02f025e6c9bce097c6d43ed4",
-    "title": "Mario Vargas Llosa by Gerald Martin review – the passions and politics of Peru’s Nobel laureate",
+    "id": "d8011041e343dbe8c5a631c4cb86dbdd",
+    "title": "A Historian Considers the Yuppie",
+    "author": "Steven Kurutz",
+    "description": "“We live in the world we inherited from them,” the author Dylan Gottlieb says.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Gottlieb, Dylan (1986- )",
+      "Labor And Jobs",
+      "New York City",
+      "Nineteen Hundred Eighties",
+      "Urban Areas",
+      "Yuppies",
+      "Yuppies: The Bankers, Lawyers, Joggers And Gourmands Who Conquered New York (Book)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-30",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/30/multimedia/30-ST-YUPPIES-01-cjkt/30-ST-YUPPIES-01-cjkt-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/30/multimedia/30-ST-YUPPIES-01-cjkt/30-ST-YUPPIES-01-cjkt-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/30/style/yuppie-historian-new-york-society-1980s.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Gottlieb, Dylan (1986- )",
+      "Labor and Jobs",
+      "New York City",
+      "Nineteen Hundred Eighties",
+      "Urban Areas",
+      "Yuppies",
+      "Yuppies: The Bankers, Lawyers, Joggers and Gourmands Who Conquered New York (Book)",
+      "books"
+    ],
+    "created_at": "2026-07-30T19:18:07+00:00",
+    "updated_at": "2026-07-30T19:18:07Z"
+  },
+  {
+    "id": "0f89cc9455f1bce99a04c0bba447bf64",
+    "title": "It’s ‘Game of Thrones,’ on Shakespeare’s Stage",
+    "author": "Alexis Soloski",
+    "description": "As the hit series keeps expanding, an ambitious stage adaptation of George R.R. Martin’s prequel saga has found a natural home at the Royal Shakespeare Company.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Cooke, Dominic",
+      "Game Of Thrones (Tv Program)",
+      "Macmillan, Duncan",
+      "Martin, George R R",
+      "Royal Shakespeare Co",
+      "Theater"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Macmillan",
+    "published_date": "2026-07-30",
+    "thumbnail": "https://static01.nyt.com/images/2026/08/02/multimedia/02cul-mad-king-theater-tcvh/02cul-mad-king-theater-tcvh-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/08/02/multimedia/02cul-mad-king-theater-tcvh/02cul-mad-king-theater-tcvh-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/30/theater/game-of-thrones-mad-king-royal-shakespeare.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Cooke, Dominic",
+      "Game of Thrones (TV Program)",
+      "Macmillan, Duncan",
+      "Martin, George R R",
+      "Royal Shakespeare Co",
+      "Theater",
+      "books"
+    ],
+    "created_at": "2026-07-30T19:18:07+00:00",
+    "updated_at": "2026-07-30T19:18:07Z"
+  },
+  {
+    "id": "d168d034ae5cc34ff7c4226317be2b80",
+    "title": "Is a Novel Ever Finished? Many Writers Say No.",
+    "author": "Karan Mahajan",
+    "description": "After finishing his latest book, Karan Mahajan couldn’t decide which opening passage was best. Vote below for the one you prefer.",
+    "summary_ai": "",
+    "categories": [
+      "Book Trade And Publishing",
+      "Books",
+      "Content Type: Personal Profile",
+      "Mahajan, Karan (1984- )",
+      "The Complex (Book)",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-30",
+    "thumbnail": "https://static01.nyt.com/images/2026/08/09/books/09TBR-UnfinishedNovels-Mahajan/23TBR-UnfinishedNovels-Mahajan-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/08/09/books/09TBR-UnfinishedNovels-Mahajan/23TBR-UnfinishedNovels-Mahajan-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/30/books/review/unfinished-novel-galley-zadie-smith-saul-bellow.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Book Trade and Publishing",
+      "Content Type: Personal Profile",
+      "Mahajan, Karan (1984- )",
+      "The Complex (Book)",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-07-30T19:18:07+00:00",
+    "updated_at": "2026-07-30T19:18:07Z"
+  },
+  {
+    "id": "16e441952c5bd9586861e71942b2b165",
+    "title": "Books That Illuminate New York’s Forgotten History",
+    "author": "Marie Benedict and Victoria Christopher Murray",
+    "description": "The best-selling authors Marie Benedict and Victoria Christopher Murray recommend gripping books that illuminate hidden chapters of the city’s past.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Genre-Books-Historical-Fiction",
+      "Glaser, Karina Yan",
+      "Highsmith, Patricia",
+      "Larsen, Nella",
+      "Marshall, Paule",
+      "Moore, Graham",
+      "New York City",
+      "Whitehead, Colson"
+    ],
+    "genre": [
+      "History"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-30",
+    "thumbnail": "https://static01.nyt.com/images/2026/06/18/books/18TBR-HISTORICALFICTIONLIST-NewYork/18TBR-HISTORICALFICTIONLIST-NewYork-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/06/18/books/18TBR-HISTORICALFICTIONLIST-NewYork/18TBR-HISTORICALFICTIONLIST-NewYork-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/30/books/new-york-books-historical-fiction.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Glaser, Karina Yan",
+      "Highsmith, Patricia",
+      "Larsen, Nella",
+      "Marshall, Paule",
+      "Moore, Graham",
+      "New York City",
+      "Whitehead, Colson",
+      "books",
+      "genre-books-historical-fiction"
+    ],
+    "created_at": "2026-07-30T19:18:07+00:00",
+    "updated_at": "2026-07-30T19:18:07Z"
+  },
+  {
+    "id": "3b2fa2c9af8c3355cd0c1e52ba9ffe44",
+    "title": "Book Review: ‘Albert Sabin,’ by Karen Torghele",
+    "author": "David Oshinsky",
+    "description": "The first serious biography of Albert Sabin recounts the pivotal role he played in the development of a polio vaccine.",
+    "summary_ai": "",
+    "categories": [
+      "Albert Sabin: The Life Of A Polio Vaccine Pioneer (Book)",
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Poliomyelitis",
+      "Sabin, Albert B",
+      "Salk, Jonas E",
+      "Torghele, Karen",
+      "Vaccination And Immunization"
+    ],
+    "genre": [
+      "Biography"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-30",
+    "thumbnail": "https://static01.nyt.com/images/2026/08/09/multimedia/09TBR-Torghele-review-mbwq/00TBR-Torghele-review-mbwq-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/08/09/multimedia/09TBR-Torghele-review-mbwq/00TBR-Torghele-review-mbwq-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/26/books/review/albert-sabin-biography-karen-torghele.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Albert Sabin: The Life of a Polio Vaccine Pioneer (Book)",
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Poliomyelitis",
+      "Sabin, Albert B",
+      "Salk, Jonas E",
+      "Torghele, Karen",
+      "Vaccination and Immunization",
+      "books"
+    ],
+    "created_at": "2026-07-30T19:18:07+00:00",
+    "updated_at": "2026-07-30T19:18:07Z"
+  },
+  {
+    "id": "b0f783aad5627ebc47dd8670ff5fe2a7",
+    "title": "Mario Vargas Llosa by Gerald Martin review",
     "author": "Pratinav Anil",
     "description": "This stylish biography of the author traces his journey from left to right, and from ‘posh Lima’ to Cricklewood “At what precise moment had Peru fucked itself up?” Those words on the opening page of Conversation in the Cathedral announced the arrival of a writer who understood that national history could become the organising principle of fiction. At precisely the moment when Latin America was discovering the intoxicating possibilities of magical realism – a form whose exuberance had an elective affinity with revolutionary politics, collapsing the distinction between the marvellous and the possible – Mario Vargas Llosa plumped for old-fashioned realism instead. It was a question of sensibility as much as politics, Gerald Martin suggests in this chatty yet coolly analytical biography. He traces the path of a novelist who began by dissecting oligarchy with surgical precision and ended happily dining among its ranks, completing one of literary history’s most spectacular political migrations – from the hard left to the hard right, over the course of half a century. Continue reading...",
     "summary_ai": "",
@@ -32,8 +228,193 @@
       "Mario Vargas Llosa",
       "books"
     ],
-    "created_at": "2026-07-30T08:24:54+00:00",
-    "updated_at": "2026-07-30T08:24:54Z"
+    "created_at": "2026-07-30T19:18:07+00:00",
+    "updated_at": "2026-07-30T19:18:07Z"
+  },
+  {
+    "id": "ad57c392ffc92048758fff2cbdd84202",
+    "title": "Helm by Sarah Hall audiobook review",
+    "author": "Fiona Sturges",
+    "description": "Louise Brealey teases out the playful and poetic moments of these shapeshifting stories, told from the perspective of the northeasterly wind and those it has wreaked chaos on through the ages The only named wind in the British Isles, Helm is a strong northeasterly gale that blows down the slopes of Cross Fell in the Pennines and is known for its unusual cloud formations. Helm has been known to dislodge roofs, haystacks, trees and riders from their horses. Twenty years in the writing, Sarah Hall’s Helm is an ambitious novel that tells stories from the perspective of the wind, and from the people on whom, through the ages, Helm has wreaked chaos. Those figures include a Neolithic tribeswoman and seer called NaNay who is building a stone circle; an astrologer and exorcist known as a “wizard priest”; a Victorian meteorologist who travels across the Pennines by train and later by carriage into Helm’s “onslaught”; and a climatologist measuring microplastics in the atmosphere from her observation hut in the fells. Separated by centuries, their stories are nonetheless woven together, each of them bonded by weather. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-30",
+    "thumbnail": "https://i.guim.co.uk/img/media/0d33f08233a822779b3e8a920a0bc9c3e7273d4e/1619_332_4449_3559/master/4449.jpg?width=700&quality=85&auto=format&fit=max&s=c70f32577e0d8929dad614aa8f2f9b52",
+    "cover_large": "https://i.guim.co.uk/img/media/0d33f08233a822779b3e8a920a0bc9c3e7273d4e/1619_332_4449_3559/master/4449.jpg?width=700&quality=85&auto=format&fit=max&s=c70f32577e0d8929dad614aa8f2f9b52",
+    "article_url": "https://www.theguardian.com/books/2026/jul/30/helm-by-sarah-hall-audiobook-review-a-breath-of-fresh-air-from-the-pennines",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "books"
+    ],
+    "created_at": "2026-07-30T19:18:07+00:00",
+    "updated_at": "2026-07-30T19:18:07Z"
+  },
+  {
+    "id": "992dcd0cd0a75319a1fcfa37f5df3fb6",
+    "title": "Books Our Editors Love This Week",
+    "author": "",
+    "description": "Reading recommendations from critics and editors at The New York Times.",
+    "summary_ai": "",
+    "categories": [
+      "All That'S Unseen: An Appalachian Memoir (Book)",
+      "Biological War: A Scenario (Book)",
+      "Books",
+      "Books And Literature",
+      "Furious Violet (Book)",
+      "Hackney, Emilee (Author)",
+      "Jacobsen, Annie",
+      "Liberation Summer: The Moment That Changed The Women'S Movement And The Future Of American Politics (Book)",
+      "Mcelya, Micki",
+      "Ostler, Catherine",
+      "The Renoir Girls: A Hidden History Of Art, War & Betrayal (Book)",
+      "Walker, Sarai (Author)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-30",
+    "thumbnail": "",
+    "cover_large": "",
+    "article_url": "https://www.nytimes.com/2026/07/30/books/review/new-recommended-books.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "All That's Unseen: An Appalachian Memoir (Book)",
+      "Biological War: A Scenario (Book)",
+      "Books and Literature",
+      "Furious Violet (Book)",
+      "Hackney, Emilee (Author)",
+      "Jacobsen, Annie",
+      "Liberation Summer: The Moment That Changed the Women's Movement and the Future of American Politics (Book)",
+      "McElya, Micki",
+      "Ostler, Catherine",
+      "The Renoir Girls: A Hidden History of Art, War & Betrayal (Book)",
+      "Walker, Sarai (Author)",
+      "books"
+    ],
+    "created_at": "2026-07-30T19:18:07+00:00",
+    "updated_at": "2026-07-30T19:18:07Z"
+  },
+  {
+    "id": "9e5f7a3991dbebb97092d671a0250808",
+    "title": "📚 Rare expressions",
+    "author": "Community",
+    "description": "A new study finds 20% of Kindle ebooks contain \"substantial\" AI-generated text.",
+    "summary_ai": "",
+    "categories": [
+      "Book Riot Newsletter",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-30",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/daggermouth-AI.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/daggermouth-AI.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/rare-expressions/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Book Riot Newsletter",
+      "reviews"
+    ],
+    "created_at": "2026-07-30T19:18:07+00:00",
+    "updated_at": "2026-07-30T19:18:07Z"
+  },
+  {
+    "id": "180750056d90fb0ce6a01ea43ebd3e15",
+    "title": "The way we mourn in America is deeply broken",
+    "author": "Guest",
+    "description": "s. e. smith, author of All My Dead Cats and Other Losses, recommends four must-read books about grief and mourning.",
+    "summary_ai": "",
+    "categories": [
+      "Nonfiction",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-30",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/All-My-Dead-Cats-and-Other-Losses-199x300.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/All-My-Dead-Cats-and-Other-Losses-199x300.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/the-way-we-mourn-in-america-is-deeply-broken/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Nonfiction",
+      "reviews"
+    ],
+    "created_at": "2026-07-30T19:18:07+00:00",
+    "updated_at": "2026-07-30T19:18:07Z"
+  },
+  {
+    "id": "b80076cd59528dacee0270db43a97d7a",
+    "title": "Barack Obama Releases Summer 2026 Reading List",
+    "author": "Community",
+    "description": "Barack Obama's Summer 2026 Reading List is here! The list includes big names from the literary world and books that are under the radar.",
+    "summary_ai": "",
+    "categories": [
+      "Barack Obama",
+      "Breaking In Books",
+      "News",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "the literary world and books",
+    "published_date": "2026-07-30",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2022/07/Obama-reading.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2022/07/Obama-reading.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/obamas-summer-2026-reading-list/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Barack Obama",
+      "News",
+      "breaking in books",
+      "reviews"
+    ],
+    "created_at": "2026-07-30T19:18:07+00:00",
+    "updated_at": "2026-07-30T19:18:07Z"
+  },
+  {
+    "id": "8c15022070cd9639163bd75d38a3560b",
+    "title": "The Best Book Covers of July",
+    "author": "Kelly Jensen",
+    "description": "There's a common theme in the best book covers of July.",
+    "summary_ai": "",
+    "categories": [
+      "Book Covers",
+      "Lists",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-30",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/07/july-2026-best-book-covers-1.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/07/july-2026-best-book-covers-1.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/best-book-covers-of-july/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Lists",
+      "book covers",
+      "reviews"
+    ],
+    "created_at": "2026-07-30T19:18:07+00:00",
+    "updated_at": "2026-07-30T19:18:07Z"
   },
   {
     "id": "d7d0d6268dc63b7b922f2065c09b2dd2",
@@ -70,8 +451,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-30T08:24:54+00:00",
-    "updated_at": "2026-07-30T08:24:54Z"
+    "created_at": "2026-07-30T19:18:07+00:00",
+    "updated_at": "2026-07-30T19:18:07Z"
   },
   {
     "id": "58731ee05af116a9b3e93903f815d783",
@@ -101,8 +482,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-30T08:24:54+00:00",
-    "updated_at": "2026-07-30T08:24:54Z"
+    "created_at": "2026-07-30T19:18:07+00:00",
+    "updated_at": "2026-07-30T19:18:07Z"
   },
   {
     "id": "cfdde00cd211dcdcfe2c36c1b5a75842",
@@ -138,8 +519,8 @@
       "Zadie Smith",
       "books"
     ],
-    "created_at": "2026-07-30T08:24:54+00:00",
-    "updated_at": "2026-07-30T08:24:54Z"
+    "created_at": "2026-07-30T19:18:07+00:00",
+    "updated_at": "2026-07-30T19:18:07Z"
   },
   {
     "id": "db862fb44690268729f52caeba39615c",
@@ -171,161 +552,32 @@
       "Wildlife",
       "books"
     ],
-    "created_at": "2026-07-30T08:24:54+00:00",
-    "updated_at": "2026-07-30T08:24:54Z"
+    "created_at": "2026-07-30T19:18:07+00:00",
+    "updated_at": "2026-07-30T19:18:07Z"
   },
   {
-    "id": "d344ca071c753fd5a0a89daf2d393612",
-    "title": "Horrifyingly Beautiful: 5 Monster Romance Manga and Manhwa To Read Right Now",
-    "author": "Silvana Reyes Lopez",
-    "description": "For monster lovers, these monster romance manga and manhwa, like The Sacred Serpent's Seduction, are perfect for this time of year!",
+    "id": "da7726205f48f7fd185201b5e3ea1178",
+    "title": "Glen Hansard, Irish songwriter and 'Once' star, dies at 56",
+    "author": "Stephen Thompson",
+    "description": "Glen Hansard, the Irish singer who won an Oscar for the musical movie Once and the led the bands The Frames and The Swell Season, died on Wednesday. He died following a motorcycle crash in Dublin.",
     "summary_ai": "",
     "categories": [
-      "Comics/Graphic Novels",
-      "Manga",
-      "Reviews",
-      "Science Fiction/Fantasy",
-      "The Stack"
-    ],
-    "genre": [
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-29",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2021/03/Monster-and-Beast-1-cover-Renji-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2021/03/Monster-and-Beast-1-cover-Renji-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/horrifyingly-beautiful-5-monster-romance-manga-and-manhwa-to-read-right-now/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Comics/Graphic Novels",
-      "Manga",
-      "Science Fiction/Fantasy",
-      "The Stack",
-      "reviews"
-    ],
-    "created_at": "2026-07-30T08:24:54+00:00",
-    "updated_at": "2026-07-30T08:24:54Z"
-  },
-  {
-    "id": "73fa7c47822caa106f96f432d6683354",
-    "title": "A Haunted Local Hotel, Fantasy Heists, and More New YA Books for July 29, 2026",
-    "author": "Kelly Jensen",
-    "description": "A coming-of-age fantasy adventure starring Barbie, the family who heists together, and more of today's best new YA book releases.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "What'S Up In Ya",
-      "Young Adult Literature"
-    ],
-    "genre": [
-      "Fantasy"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-29",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/Barbie-Dreamscape-by-Alex-Aster-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/Barbie-Dreamscape-by-Alex-Aster-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/new-ya-books-for-july-29-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "What's Up in YA",
-      "Young Adult Literature",
-      "reviews"
-    ],
-    "created_at": "2026-07-30T08:24:54+00:00",
-    "updated_at": "2026-07-30T08:24:54Z"
-  },
-  {
-    "id": "bc9de7c2b886831874c3a4dbe91b3a26",
-    "title": "The Best New Cozy Fantasy Books",
-    "author": "R. Nassor",
-    "description": "Get good and cozy with these cozy fantasies that are inspired by Robin Hood, have witch prodigies, queer romance, and more.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews",
-      "Science Fiction/Fantasy",
-      "Swords And Spaceships"
-    ],
-    "genre": [
-      "Fantasy",
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-29",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/Wench-by-Erynne-Rivers-Book-Cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/Wench-by-Erynne-Rivers-Book-Cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/best-new-cozy-fantasy-books-2026/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Science Fiction/Fantasy",
-      "Swords and Spaceships",
-      "reviews"
-    ],
-    "created_at": "2026-07-30T08:24:54+00:00",
-    "updated_at": "2026-07-30T08:24:54Z"
-  },
-  {
-    "id": "74f85b8db44de30567fd587706f0f4c6",
-    "title": "Study Claims Viral Bestseller DAGGERMOUTH is AI",
-    "author": "Rebecca Joines Schinsky",
-    "description": "Researchers at Stony Brook University found the dark dystopian romance contained 60% AI writing.",
-    "summary_ai": "",
-    "categories": [
-      "News",
       "Reviews"
     ],
-    "genre": [
-      "Romance"
-    ],
+    "genre": [],
     "language": "English",
-    "publisher": "Book Riot",
+    "publisher": "NPR Books",
     "published_date": "2026-07-29",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/07/daggermouth-AI.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/07/daggermouth-AI.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/study-claims-viral-bestseller-daggermouth-is-ai-generated/",
-    "source": "Book Riot",
+    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4981x3736+0+0/resize/4981x3736!/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2016%2F01%2F15%2F_mg_76681.jpg",
+    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4981x3736+0+0/resize/4981x3736!/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2016%2F01%2F15%2F_mg_76681.jpg",
+    "article_url": "https://www.npr.org/2026/07/29/g-s1-136080/glen-hansard-obituary",
+    "source": "NPR Books",
     "source_type": "rss",
     "tags": [
-      "News",
       "reviews"
     ],
-    "created_at": "2026-07-30T08:24:54+00:00",
-    "updated_at": "2026-07-30T08:24:54Z"
-  },
-  {
-    "id": "7534fcbca779b4a4e506905b33145a7e",
-    "title": "Acclaimed and Beloved Author Benjamin Alire Sáenz Dies at 71",
-    "author": "Kelly Jensen",
-    "description": "Benjamin Alire Sáenz, an author of poetry, adult novels, and books for young readers, has died at the age of 71.",
-    "summary_ai": "",
-    "categories": [
-      "News",
-      "Reviews",
-      "Young Adult Literature"
-    ],
-    "genre": [
-      "Poetry"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-29",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/07/benjamin-alire-saenz.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/07/benjamin-alire-saenz.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/benjamin-alire-saenz-dies-at-71/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "News",
-      "Young Adult Literature",
-      "reviews"
-    ],
-    "created_at": "2026-07-30T08:24:54+00:00",
-    "updated_at": "2026-07-30T08:24:54Z"
+    "created_at": "2026-07-30T19:18:07+00:00",
+    "updated_at": "2026-07-30T19:18:07Z"
   },
   {
     "id": "d963e63b42291dcef8c46cd8df71ace9",
@@ -368,8 +620,8 @@
       "Women's Rights",
       "books"
     ],
-    "created_at": "2026-07-30T08:24:54+00:00",
-    "updated_at": "2026-07-30T08:24:54Z"
+    "created_at": "2026-07-30T19:18:07+00:00",
+    "updated_at": "2026-07-30T19:18:07Z"
   },
   {
     "id": "a9db500614c37da5b3f35e0c3c064334",
@@ -407,8 +659,8 @@
       "UK news",
       "books"
     ],
-    "created_at": "2026-07-30T08:24:54+00:00",
-    "updated_at": "2026-07-30T08:24:54Z"
+    "created_at": "2026-07-30T19:18:07+00:00",
+    "updated_at": "2026-07-30T19:18:07Z"
   },
   {
     "id": "db69e0e0e15edb1bf77991172f877ebc",
@@ -443,284 +695,7 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-30T08:24:54+00:00",
-    "updated_at": "2026-07-30T08:24:54Z"
-  },
-  {
-    "id": "b399e574222df49405e49daebd31ca06",
-    "title": "‘We’ve always been wary of working together’: Val McDermid and Jo Sharp on writing a novel as a couple",
-    "author": "Robyn Vinter",
-    "description": "The bestselling crime writer and Scotland’s first female Geographer Royal had long kept their work separate, until a chance discovery about a doomed 17th-century expedition forced them to collaborate The airy, modern house on the outskirts of Edinburgh shared by Val McDermid and Jo Sharp is surrounded by greenery and feels as though it was designed to provide enough space for two minds to think. Both women are high achievers in their fields, a Scottish power couple made up of the Queen of Crime and the Scottish Geographer Royal. Happily for them, there is normally no overlap in their work. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Crime Fiction",
-      "Culture",
-      "Fiction",
-      "Geography",
-      "Science",
-      "Val Mcdermid"
-    ],
-    "genre": [
-      "Crime"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-28",
-    "thumbnail": "https://i.guim.co.uk/img/media/6e6edc7e04ddb4d2bece5fc7aa02fac95d85a1a0/107_0_1066_853/master/1066.jpg?width=700&quality=85&auto=format&fit=max&s=d844fd042343b185e6c62f92fdb899b8",
-    "cover_large": "https://i.guim.co.uk/img/media/6e6edc7e04ddb4d2bece5fc7aa02fac95d85a1a0/107_0_1066_853/master/1066.jpg?width=700&quality=85&auto=format&fit=max&s=d844fd042343b185e6c62f92fdb899b8",
-    "article_url": "https://www.theguardian.com/lifeandstyle/2022/dec/22/how-val-mcdermid-met-jo-sharp-i-googled-her-to-make-sure-she-was-a-real-person",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Crime fiction",
-      "Culture",
-      "Fiction",
-      "Geography",
-      "Science",
-      "Val McDermid",
-      "books"
-    ],
-    "created_at": "2026-07-30T08:24:54+00:00",
-    "updated_at": "2026-07-30T08:24:54Z"
-  },
-  {
-    "id": "ba7233a7b9366648e084b0244aea0041",
-    "title": "Underdogs by Louise Powell review",
-    "author": "Benjamin Myers",
-    "description": "A bereaved father and son bond over greyhound racing in an east Durham town in terminal decline The adjoining villages of Easington and Easington Colliery in the coalfields of east Durham make the perfect case study of the shift from England’s industrial boomtime to terminal decline. Twenty miles from a major town or city, they’ve been left to languish ever since Thatcher went to war with the industry that made them. If you want to understand why the white working class feel abandoned today, go to Easington Colliery and its surrounding villages. It’s this community that Middlesbrough-born writer Louise Powell brings to life in a powerful debut set in the world of greyhound racing, or “flapping”. Underdogs is an utterly authentic depiction of an England that’s overlooked, but still very much alive. Pigeon lofts and flat caps, meat raffles and social clubs – all still exist, just very rarely in 21st-century novels. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-28",
-    "thumbnail": "https://i.guim.co.uk/img/media/e44a20a5ac3b683878c1b0de443e46339199919f/59_34_2841_2273/master/2841.jpg?width=700&quality=85&auto=format&fit=max&s=30d8959f64f6d60cb4fafeb5863a1bf6",
-    "cover_large": "https://i.guim.co.uk/img/media/e44a20a5ac3b683878c1b0de443e46339199919f/59_34_2841_2273/master/2841.jpg?width=700&quality=85&auto=format&fit=max&s=30d8959f64f6d60cb4fafeb5863a1bf6",
-    "article_url": "https://www.theguardian.com/books/2026/jul/28/underdogs-by-louise-powell-review-a-powerful-debut-with-plenty-of-northern-soul",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-07-30T08:24:54+00:00",
-    "updated_at": "2026-07-30T08:24:54Z"
-  },
-  {
-    "id": "f6ab3ffd755355fab8824c66057f1a5b",
-    "title": "What If We Got AI Right? by Eleanor Drage review",
-    "author": "Sophie McBain",
-    "description": "The academic’s ambitious guide to the ethics of tech falls short of its promise to provide meaningful answers The AI ethicist Eleanor Drage believes that to thrive alongside artificial intelligence, humans need to recognise AI’s “humanity”. She means that while we often speak of AI as though it were some mystical, formless thing, it is the product of hours of human labour, in silicon and quartz mines, microchip factories and data labelling centres. If citizens want to wrest power from the tech companies that are building AI, it helps to understand clearly what they are selling us. This also means seeing through the marketing and hype: “the cloud”, that nebulous, distant place where your photos are stored, is just someone else’s computer; an AI “hallucination” is a system error or data labelling mistake; intelligence is a very broad – and potentially misleading – term. The story in Silicon Valley is that AI will either save us, ushering in a new era of prosperity and human longevity, or it will wipe us all out. Drage argues, convincingly, that big tech cannot possibly deliver on its utopian promises while it continues to chase profit and power above all else, and while it serves...",
-    "summary_ai": "",
-    "categories": [
-      "Ai (Artificial Intelligence)",
-      "Books",
-      "Culture",
-      "Science And Nature Books",
-      "Technology"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-27",
-    "thumbnail": "https://i.guim.co.uk/img/media/c8cf9f9468761e331d624eeb89543705beb3b21d/0_232_1178_942/master/1178.jpg?width=700&quality=85&auto=format&fit=max&s=962991f8a1bcfb9897f70961a4f35afe",
-    "cover_large": "https://i.guim.co.uk/img/media/c8cf9f9468761e331d624eeb89543705beb3b21d/0_232_1178_942/master/1178.jpg?width=700&quality=85&auto=format&fit=max&s=962991f8a1bcfb9897f70961a4f35afe",
-    "article_url": "https://www.theguardian.com/books/2026/jul/27/what-if-we-got-ai-right-by-eleanor-drage-review-avoiding-apocalypse",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "AI (artificial intelligence)",
-      "Books",
-      "Culture",
-      "Science and nature books",
-      "Technology",
-      "books"
-    ],
-    "created_at": "2026-07-30T08:24:54+00:00",
-    "updated_at": "2026-07-30T08:24:54Z"
-  },
-  {
-    "id": "9658d6e1ef1900f38007243e280d6b7f",
-    "title": "Gaining Ground by Joan Barfoot review",
-    "author": "Anne Enright",
-    "description": "Half a century on, this tale of a woman who abandons her children in search of her self remains thrillingly original There is a growing literature of maternal flight: novels about women who leave not just their husbands but also the children they have made. In the real world, men are the more frequent deserters; the connection of the father to family life is seen as contingent, while motherhood is revered as an intrinsic state. This means that women who “un-mother” themselves are doing something impossible: the connection between a woman and her child is not just emotional, but also creational. Joan Barfoot understands the inside-out nature of the logic involved in maternal obligation: “she created these other people and their need for her,” says Abra, the abandoning mother of Gaining Ground, “and now she must fulfil them.” Abra neglects to fulfil her children or their needs. The novel is rigorously and meditatively about the business of separation, which is also the business of becoming a single and undivided self. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [
-      "Business",
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-27",
-    "thumbnail": "https://i.guim.co.uk/img/media/a4e5b7d97f7a3e60bd8090426d158fba777c9fb4/568_453_2879_2303/master/2879.jpg?width=700&quality=85&auto=format&fit=max&s=0323c97fb226982d07f7e09b26410451",
-    "cover_large": "https://i.guim.co.uk/img/media/a4e5b7d97f7a3e60bd8090426d158fba777c9fb4/568_453_2879_2303/master/2879.jpg?width=700&quality=85&auto=format&fit=max&s=0323c97fb226982d07f7e09b26410451",
-    "article_url": "https://www.theguardian.com/books/2026/jul/27/gaining-ground-by-joan-barfoot-review-anne-enright-celebrates-a-landmark-feminist-novel",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-07-30T08:24:54+00:00",
-    "updated_at": "2026-07-30T08:24:54Z"
-  },
-  {
-    "id": "d78a321d4fc5b77bc87fdffdba5c5990",
-    "title": "How did you become a Deadhead?",
-    "author": "Hazel Cills",
-    "description": "Beginning Aug. 1, NPR Music will publish a week-long list of stories and podcast episodes exploring the legacy and future of the Grateful Dead. And we want to hear from you !",
-    "summary_ai": "",
-    "categories": [
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "NPR Books",
-    "published_date": "2026-07-27",
-    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7233x4502+0+0/resize/7233x4502!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F67%2F2b%2F84679ce84d789828fceaa8321db4%2Fdsc5301.jpg",
-    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7233x4502+0+0/resize/7233x4502!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F67%2F2b%2F84679ce84d789828fceaa8321db4%2Fdsc5301.jpg",
-    "article_url": "https://www.npr.org/2026/07/27/nx-s1-5897507/how-did-you-become-a-deadhead",
-    "source": "NPR Books",
-    "source_type": "rss",
-    "tags": [
-      "reviews"
-    ],
-    "created_at": "2026-07-30T08:24:54+00:00",
-    "updated_at": "2026-07-30T08:24:54Z"
-  },
-  {
-    "id": "3b2fa2c9af8c3355cd0c1e52ba9ffe44",
-    "title": "Book Review: ‘Albert Sabin,’ by Karen Torghele",
-    "author": "David Oshinsky",
-    "description": "The first serious biography of Albert Sabin recounts the pivotal role he played in the development of a polio vaccine.",
-    "summary_ai": "",
-    "categories": [
-      "Albert Sabin: The Life Of A Polio Vaccine Pioneer (Book)",
-      "Books",
-      "Books And Literature",
-      "Content Type: Personal Profile",
-      "Poliomyelitis",
-      "Sabin, Albert B",
-      "Salk, Jonas E",
-      "Torghele, Karen",
-      "Vaccination And Immunization"
-    ],
-    "genre": [
-      "Biography"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-26",
-    "thumbnail": "https://static01.nyt.com/images/2026/08/09/multimedia/09TBR-Torghele-review-mbwq/00TBR-Torghele-review-mbwq-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/08/09/multimedia/09TBR-Torghele-review-mbwq/00TBR-Torghele-review-mbwq-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/26/books/review/albert-sabin-biography-karen-torghele.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Albert Sabin: The Life of a Polio Vaccine Pioneer (Book)",
-      "Books and Literature",
-      "Content Type: Personal Profile",
-      "Poliomyelitis",
-      "Sabin, Albert B",
-      "Salk, Jonas E",
-      "Torghele, Karen",
-      "Vaccination and Immunization",
-      "books"
-    ],
-    "created_at": "2026-07-30T08:24:54+00:00",
-    "updated_at": "2026-07-30T08:24:54Z"
-  },
-  {
-    "id": "a367f9bd07059f6bd2c5cbb3414a8efb",
-    "title": "Listening with the Stars: Stellar Celebrity Memoirs Read by Their Authors",
-    "author": "Elisabeth Egan",
-    "description": "There’s nothing like hearing a famous person’s life story in their own, instantly recognizable voice.",
-    "summary_ai": "",
-    "categories": [
-      "Applegate, Christina",
-      "Audiobooks",
-      "Books",
-      "Books And Literature",
-      "Born A Crime: Stories From A South African Childhood (Book)",
-      "Born To Run (Book)",
-      "Bossypants (Book)",
-      "Celebrities",
-      "Content Type: Personal Profile",
-      "Dunham, Lena",
-      "Famesick: A Memoir (Book)",
-      "Fey, Tina",
-      "Friends, Lovers And The Terrible Thing: A Memoir (Book)",
-      "Greenlights (Book)",
-      "I'M Glad My Mom Died (Book)",
-      "Mcconaughey, Matthew",
-      "Mccurdy, Jennette (1992- )",
-      "My Name Is Barbra (Book)",
-      "Noah, Trevor (1984- )",
-      "O'Connor, Sinead",
-      "Perry, Matthew",
-      "Rememberings (Book)",
-      "Smith, Jada Pinkett",
-      "Springsteen, Bruce",
-      "Streisand, Barbra",
-      "Worthy (Book)",
-      "You With The Sad Eyes (Book)"
-    ],
-    "genre": [
-      "Memoir"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-25",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/26/books/26tbr-audiobooks-celebritymemoir-3_2/09tbr-audiobooks-celebritymemoir-3_2-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/26/books/26tbr-audiobooks-celebritymemoir-3_2/09tbr-audiobooks-celebritymemoir-3_2-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/23/books/review/celebrity-audiobook-memoirs.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Applegate, Christina",
-      "Audiobooks",
-      "Books and Literature",
-      "Born a Crime: Stories From a South African Childhood (Book)",
-      "Born to Run (Book)",
-      "Bossypants (Book)",
-      "Celebrities",
-      "Content Type: Personal Profile",
-      "Dunham, Lena",
-      "Famesick: A Memoir (Book)",
-      "Fey, Tina",
-      "Friends, Lovers and the Terrible Thing: A Memoir (Book)",
-      "Greenlights (Book)",
-      "I'm Glad My Mom Died (Book)",
-      "McConaughey, Matthew",
-      "McCurdy, Jennette (1992- )",
-      "My Name Is Barbra (Book)",
-      "Noah, Trevor (1984- )",
-      "O'Connor, Sinead",
-      "Perry, Matthew",
-      "Rememberings (Book)",
-      "Smith, Jada Pinkett",
-      "Springsteen, Bruce",
-      "Streisand, Barbra",
-      "Worthy (Book)",
-      "You With the Sad Eyes (Book)",
-      "books"
-    ],
-    "created_at": "2026-07-30T08:24:54+00:00",
-    "updated_at": "2026-07-30T08:24:54Z"
+    "created_at": "2026-07-30T19:18:07+00:00",
+    "updated_at": "2026-07-30T19:18:07Z"
   }
 ]
