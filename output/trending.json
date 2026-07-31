@@ -1,5 +1,74 @@
 [
   {
+    "id": "d7d0d6268dc63b7b922f2065c09b2dd2",
+    "title": "The Woman Behind Emma M. Lion",
+    "author": "Courtney Runn",
+    "description": "Beth Brower has been self-publishing for a decade. But her series drawn from the cheeky “journals” of a young woman in Victorian England has been a breakout.",
+    "summary_ai": "",
+    "categories": [
+      "Bloomsbury Publishing Plc",
+      "Book Trade And Publishing",
+      "Books",
+      "Books And Literature",
+      "Brower, Beth (Author)",
+      "Content Type: Personal Profile",
+      "The Unselected Journals Of Emma M Lion (Book)",
+      "Writing And Writers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Bloomsbury",
+    "published_date": "2026-07-31",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/29/multimedia/29tbr-beth-brower3-fhvp/29tbr-beth-brower3-fhvp-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/29/multimedia/29tbr-beth-brower3-fhvp/29tbr-beth-brower3-fhvp-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/29/books/review/beth-brower-unselected-journals-of-emma-m-lion.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Bloomsbury Publishing PLC",
+      "Book Trade and Publishing",
+      "Books and Literature",
+      "Brower, Beth (Author)",
+      "Content Type: Personal Profile",
+      "The Unselected Journals of Emma M Lion (Book)",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-07-31T08:47:49+00:00",
+    "updated_at": "2026-07-31T08:47:49Z"
+  },
+  {
+    "id": "4867f982a7cc3685688845ab9bc5067c",
+    "title": "Jacaranda by Gaël Faye review",
+    "author": "Rachel Seiffert",
+    "description": "This bold family saga explores a search for healing and truth in the aftermath of the Rwanda genocide How to forgive the unforgivable? How to live in the aftermath of atrocity? Following 2016’s Small Country , French-Rwandan rapper and writer Gaël Faye takes on huge questions in his second novel, Jacaranda, which explores the seismic events of the Rwanda genocide and the aftershocks that continue to ripple through the generations. Structurally bold, the story opens in summer 1994 with Milan, Faye’s then 12-year-old protagonist, enjoying an extended break from school. Milan’s father is white French and the family’s life in Versailles is the embodiment of first world ease – their holiday that year, as usual, spent sailing at the Île de Ré. Milan’s mother, though, is Rwandan. Venancia arrived in the 1970s, establishing a life for herself, a successful clothing boutique, a family. However, she cannot share the French ease, much less her thoughts on the disturbing reports from Rwanda now making the evening news. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "Fiction In Translation"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-07-31",
+    "thumbnail": "https://i.guim.co.uk/img/media/1a90a20890590b9cbcc7e5a80804d10c8064e864/0_608_4000_3200/master/4000.jpg?width=700&quality=85&auto=format&fit=max&s=9ba6eeceeff1eaaac545621d7014c874",
+    "cover_large": "https://i.guim.co.uk/img/media/1a90a20890590b9cbcc7e5a80804d10c8064e864/0_608_4000_3200/master/4000.jpg?width=700&quality=85&auto=format&fit=max&s=9ba6eeceeff1eaaac545621d7014c874",
+    "article_url": "https://www.theguardian.com/books/2018/jun/14/small-country-by-gael-faye-review",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "Fiction in translation",
+      "books"
+    ],
+    "created_at": "2026-07-31T08:47:49+00:00",
+    "updated_at": "2026-07-31T08:47:49Z"
+  },
+  {
     "id": "d8011041e343dbe8c5a631c4cb86dbdd",
     "title": "A Historian Considers the Yuppie",
     "author": "Steven Kurutz",
@@ -36,8 +105,8 @@
       "Yuppies: The Bankers, Lawyers, Joggers and Gourmands Who Conquered New York (Book)",
       "books"
     ],
-    "created_at": "2026-07-30T19:18:07+00:00",
-    "updated_at": "2026-07-30T19:18:07Z"
+    "created_at": "2026-07-31T08:47:49+00:00",
+    "updated_at": "2026-07-31T08:47:49Z"
   },
   {
     "id": "0f89cc9455f1bce99a04c0bba447bf64",
@@ -72,8 +141,8 @@
       "Theater",
       "books"
     ],
-    "created_at": "2026-07-30T19:18:07+00:00",
-    "updated_at": "2026-07-30T19:18:07Z"
+    "created_at": "2026-07-31T08:47:49+00:00",
+    "updated_at": "2026-07-31T08:47:49Z"
   },
   {
     "id": "d168d034ae5cc34ff7c4226317be2b80",
@@ -106,8 +175,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-30T19:18:07+00:00",
-    "updated_at": "2026-07-30T19:18:07Z"
+    "created_at": "2026-07-31T08:47:49+00:00",
+    "updated_at": "2026-07-31T08:47:49Z"
   },
   {
     "id": "16e441952c5bd9586861e71942b2b165",
@@ -150,8 +219,8 @@
       "books",
       "genre-books-historical-fiction"
     ],
-    "created_at": "2026-07-30T19:18:07+00:00",
-    "updated_at": "2026-07-30T19:18:07Z"
+    "created_at": "2026-07-31T08:47:49+00:00",
+    "updated_at": "2026-07-31T08:47:49Z"
   },
   {
     "id": "3b2fa2c9af8c3355cd0c1e52ba9ffe44",
@@ -192,8 +261,8 @@
       "Vaccination and Immunization",
       "books"
     ],
-    "created_at": "2026-07-30T19:18:07+00:00",
-    "updated_at": "2026-07-30T19:18:07Z"
+    "created_at": "2026-07-31T08:47:49+00:00",
+    "updated_at": "2026-07-31T08:47:49Z"
   },
   {
     "id": "b0f783aad5627ebc47dd8670ff5fe2a7",
@@ -228,8 +297,8 @@
       "Mario Vargas Llosa",
       "books"
     ],
-    "created_at": "2026-07-30T19:18:07+00:00",
-    "updated_at": "2026-07-30T19:18:07Z"
+    "created_at": "2026-07-31T08:47:49+00:00",
+    "updated_at": "2026-07-31T08:47:49Z"
   },
   {
     "id": "ad57c392ffc92048758fff2cbdd84202",
@@ -257,8 +326,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-30T19:18:07+00:00",
-    "updated_at": "2026-07-30T19:18:07Z"
+    "created_at": "2026-07-31T08:47:49+00:00",
+    "updated_at": "2026-07-31T08:47:49Z"
   },
   {
     "id": "992dcd0cd0a75319a1fcfa37f5df3fb6",
@@ -303,8 +372,8 @@
       "Walker, Sarai (Author)",
       "books"
     ],
-    "created_at": "2026-07-30T19:18:07+00:00",
-    "updated_at": "2026-07-30T19:18:07Z"
+    "created_at": "2026-07-31T08:47:49+00:00",
+    "updated_at": "2026-07-31T08:47:49Z"
   },
   {
     "id": "9e5f7a3991dbebb97092d671a0250808",
@@ -329,8 +398,8 @@
       "Book Riot Newsletter",
       "reviews"
     ],
-    "created_at": "2026-07-30T19:18:07+00:00",
-    "updated_at": "2026-07-30T19:18:07Z"
+    "created_at": "2026-07-31T08:47:49+00:00",
+    "updated_at": "2026-07-31T08:47:49Z"
   },
   {
     "id": "180750056d90fb0ce6a01ea43ebd3e15",
@@ -355,8 +424,8 @@
       "Nonfiction",
       "reviews"
     ],
-    "created_at": "2026-07-30T19:18:07+00:00",
-    "updated_at": "2026-07-30T19:18:07Z"
+    "created_at": "2026-07-31T08:47:49+00:00",
+    "updated_at": "2026-07-31T08:47:49Z"
   },
   {
     "id": "b80076cd59528dacee0270db43a97d7a",
@@ -385,8 +454,8 @@
       "breaking in books",
       "reviews"
     ],
-    "created_at": "2026-07-30T19:18:07+00:00",
-    "updated_at": "2026-07-30T19:18:07Z"
+    "created_at": "2026-07-31T08:47:49+00:00",
+    "updated_at": "2026-07-31T08:47:49Z"
   },
   {
     "id": "8c15022070cd9639163bd75d38a3560b",
@@ -413,46 +482,8 @@
       "book covers",
       "reviews"
     ],
-    "created_at": "2026-07-30T19:18:07+00:00",
-    "updated_at": "2026-07-30T19:18:07Z"
-  },
-  {
-    "id": "d7d0d6268dc63b7b922f2065c09b2dd2",
-    "title": "The Woman Behind Emma M. Lion",
-    "author": "Courtney Runn",
-    "description": "Beth Brower has been self-publishing for a decade. But her series drawn from the cheeky “journals” of a young woman in Victorian England has been a breakout.",
-    "summary_ai": "",
-    "categories": [
-      "Bloomsbury Publishing Plc",
-      "Book Trade And Publishing",
-      "Books",
-      "Books And Literature",
-      "Brower, Beth (Author)",
-      "Content Type: Personal Profile",
-      "The Unselected Journals Of Emma M Lion (Book)",
-      "Writing And Writers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Bloomsbury",
-    "published_date": "2026-07-29",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/29/multimedia/29tbr-beth-brower3-fhvp/29tbr-beth-brower3-fhvp-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/29/multimedia/29tbr-beth-brower3-fhvp/29tbr-beth-brower3-fhvp-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/29/books/review/beth-brower-unselected-journals-of-emma-m-lion.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Bloomsbury Publishing PLC",
-      "Book Trade and Publishing",
-      "Books and Literature",
-      "Brower, Beth (Author)",
-      "Content Type: Personal Profile",
-      "The Unselected Journals of Emma M Lion (Book)",
-      "Writing and Writers",
-      "books"
-    ],
-    "created_at": "2026-07-30T19:18:07+00:00",
-    "updated_at": "2026-07-30T19:18:07Z"
+    "created_at": "2026-07-31T08:47:49+00:00",
+    "updated_at": "2026-07-31T08:47:49Z"
   },
   {
     "id": "58731ee05af116a9b3e93903f815d783",
@@ -482,45 +513,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-30T19:18:07+00:00",
-    "updated_at": "2026-07-30T19:18:07Z"
-  },
-  {
-    "id": "cfdde00cd211dcdcfe2c36c1b5a75842",
-    "title": "Dua Lipa to interview Zadie Smith at London Literature festival",
-    "author": "Emma Loffhagen",
-    "description": "The pop star is curating the 2026 festival, which also features Patti Smith, Mustafa and Ta-Nehisi Coates, as part of the Southbank Centre’s anniversary year Zadie Smith, Patti Smith and Mustafa are among the star names lined up to be interviewed by Dua Lipa, as the pop star reveals her curation of this year’s London Literature festival at the Southbank Centre. The festival, now in its 19th year, will run from 21 October to 1 November, with the Brit award-winning singer shaping a programme of events in collaboration with her Service95 book club. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Dua Lipa",
-      "Festivals",
-      "Patti Smith",
-      "Southbank Centre",
-      "Zadie Smith"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-29",
-    "thumbnail": "https://i.guim.co.uk/img/media/c4863fcc10fe46c40a14380b0c4211ea6c25e347/119_0_563_450/master/563.jpg?width=700&quality=85&auto=format&fit=max&s=241eef48fa2c09c7f4d1a59b3540f546",
-    "cover_large": "https://i.guim.co.uk/img/media/c4863fcc10fe46c40a14380b0c4211ea6c25e347/119_0_563_450/master/563.jpg?width=700&quality=85&auto=format&fit=max&s=241eef48fa2c09c7f4d1a59b3540f546",
-    "article_url": "https://www.theguardian.com/culture/southbank-centre",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Dua Lipa",
-      "Festivals",
-      "Patti Smith",
-      "Southbank Centre",
-      "Zadie Smith",
-      "books"
-    ],
-    "created_at": "2026-07-30T19:18:07+00:00",
-    "updated_at": "2026-07-30T19:18:07Z"
+    "created_at": "2026-07-31T08:47:49+00:00",
+    "updated_at": "2026-07-31T08:47:49Z"
   },
   {
     "id": "db862fb44690268729f52caeba39615c",
@@ -552,8 +546,8 @@
       "Wildlife",
       "books"
     ],
-    "created_at": "2026-07-30T19:18:07+00:00",
-    "updated_at": "2026-07-30T19:18:07Z"
+    "created_at": "2026-07-31T08:47:49+00:00",
+    "updated_at": "2026-07-31T08:47:49Z"
   },
   {
     "id": "da7726205f48f7fd185201b5e3ea1178",
@@ -576,8 +570,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-07-30T19:18:07+00:00",
-    "updated_at": "2026-07-30T19:18:07Z"
+    "created_at": "2026-07-31T08:47:49+00:00",
+    "updated_at": "2026-07-31T08:47:49Z"
   },
   {
     "id": "d963e63b42291dcef8c46cd8df71ace9",
@@ -620,8 +614,8 @@
       "Women's Rights",
       "books"
     ],
-    "created_at": "2026-07-30T19:18:07+00:00",
-    "updated_at": "2026-07-30T19:18:07Z"
+    "created_at": "2026-07-31T08:47:49+00:00",
+    "updated_at": "2026-07-31T08:47:49Z"
   },
   {
     "id": "a9db500614c37da5b3f35e0c3c064334",
@@ -659,8 +653,8 @@
       "UK news",
       "books"
     ],
-    "created_at": "2026-07-30T19:18:07+00:00",
-    "updated_at": "2026-07-30T19:18:07Z"
+    "created_at": "2026-07-31T08:47:49+00:00",
+    "updated_at": "2026-07-31T08:47:49Z"
   },
   {
     "id": "db69e0e0e15edb1bf77991172f877ebc",
@@ -695,7 +689,7 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-30T19:18:07+00:00",
-    "updated_at": "2026-07-30T19:18:07Z"
+    "created_at": "2026-07-31T08:47:49+00:00",
+    "updated_at": "2026-07-31T08:47:49Z"
   }
 ]
