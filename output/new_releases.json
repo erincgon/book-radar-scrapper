@@ -32,8 +32,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-31T19:17:11+00:00",
-    "updated_at": "2026-07-31T19:17:11Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "78e6992058bb2aa842227375b5f056ad",
@@ -82,8 +82,8 @@
       "movies",
       "publishers"
     ],
-    "created_at": "2026-07-31T19:17:11+00:00",
-    "updated_at": "2026-07-31T19:17:11Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "103a4fa74ba33606e9e5ea0cccc10115",
@@ -118,8 +118,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-31T19:17:11+00:00",
-    "updated_at": "2026-07-31T19:17:11Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "b2dab46b2244dff29c29fdc91b7a3a4a",
@@ -160,8 +160,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-07-31T19:17:11+00:00",
-    "updated_at": "2026-07-31T19:17:11Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "fa2d7aaadd550e0fb9edfc9e9d14a409",
@@ -200,8 +200,200 @@
       "television recaps",
       "television reviews"
     ],
-    "created_at": "2026-07-31T19:17:11+00:00",
-    "updated_at": "2026-07-31T19:17:11Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
+  },
+  {
+    "id": "8e5102c97fde139a5f3e883c5057129a",
+    "title": "This Week’s Bestsellers: August 3, 2026",
+    "author": "Edited by Carolyn Juris",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-31",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130681-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130681-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/100966-this-week-s-bestsellers-august-3-2026.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
+  },
+  {
+    "id": "3db5e5ff3432c979e6ab94a22e62cd18",
+    "title": "Book Deals: Week of August 3, 2026",
+    "author": "Edited by Sophia Stewart",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-31",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130673-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130673-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/book-deals/article/100958-book-deals-week-of-august-3-2026.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
+  },
+  {
+    "id": "9381c8b3d3c66a85549c4bb446675087",
+    "title": "ALA Offers Guidance on Evaluating Digital Platforms",
+    "author": "Shannon Maughan",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-31",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130631-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130631-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/100948-ala-offers-guidance-on-evaluating-digital-platforms.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
+  },
+  {
+    "id": "85802f67161425dbf202c91cb659a21c",
+    "title": "The Evolving Vendor",
+    "author": "Shannon Maughan",
+    "description": "Collection development continues to pose challenges for school librarians in an era of restrictive legislation and book bans.",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-31",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130629-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130629-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/100947-the-evolving-vendor-school-library-ecosystem.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
+  },
+  {
+    "id": "e3588d7f0d84022f5f99285c0319b715",
+    "title": "Audrey Niffenegger Goes Back to the Future",
+    "author": "Elaine Szewczyk",
+    "description": "The bestselling author returns with Life Out of Order, a sequel to her mega-selling The Time Traveler’s Wife .",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-31",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130625-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130625-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/authors/profiles/article/100943-audrey-niffenegger-goes-back-to-the-future.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
+  },
+  {
+    "id": "c49456aa4d5c11e5b572ff9196278b47",
+    "title": "Quantum Spirituality: PW Talks with Wole Talabi",
+    "author": "Eric Norton",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-31",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130624-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130624-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/authors/interviews/article/100942-quantum-spirituality-pw-talks-with-wole-talabi.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
+  },
+  {
+    "id": "b5f8a69560791058e004e11aa8c3dbce",
+    "title": "The New Manhattan Project: PW Talks with Kevin Roose",
+    "author": "Michael Zimmerman",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-31",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130623-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130623-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/authors/interviews/article/100941-the-new-manhattan-project-pw-talks-with-kevin-roose.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
+  },
+  {
+    "id": "4624775040953ff2aee88f3596d87708",
+    "title": "How ‘Birth of a Culture’ by Grandmaster Flash Got Made",
+    "author": "PW Staff",
+    "description": "An inside look at the publication process for the hip-hop legend’s latest book",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-07-31",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130613-1.PNG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130613-1.PNG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100938-how-birth-of-a-culture-by-grandmaster-flash-got-made.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "321f2ecdbb4ff4c87a2205eaea89d402",
@@ -224,8 +416,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-31T19:17:11+00:00",
-    "updated_at": "2026-07-31T19:17:11Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "8b04714789b94bb6bf539667fb0153ac",
@@ -248,8 +440,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-31T19:17:11+00:00",
-    "updated_at": "2026-07-31T19:17:11Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "94cc4fc833fa1416c4a9630cf9d8af2b",
@@ -272,8 +464,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-07-31T19:17:11+00:00",
-    "updated_at": "2026-07-31T19:17:11Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "1fb7078fe5c06794093eb179595b1e4f",
@@ -308,8 +500,8 @@
       "publishers",
       "television"
     ],
-    "created_at": "2026-07-31T19:17:11+00:00",
-    "updated_at": "2026-07-31T19:17:11Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "bf14217a4c8d79aff227c63b63f0a6fd",
@@ -348,8 +540,8 @@
       "trailer",
       "trailers"
     ],
-    "created_at": "2026-07-31T19:17:11+00:00",
-    "updated_at": "2026-07-31T19:17:11Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "f5f25330ae6c5a421f857155c5e60131",
@@ -384,8 +576,8 @@
       "news",
       "publishers"
     ],
-    "created_at": "2026-07-31T19:17:11+00:00",
-    "updated_at": "2026-07-31T19:17:11Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "c4d8b582670e719657621f25fb19e060",
@@ -426,275 +618,7 @@
       "publishers",
       "trailers"
     ],
-    "created_at": "2026-07-31T19:17:11+00:00",
-    "updated_at": "2026-07-31T19:17:11Z"
-  },
-  {
-    "id": "9d2bc887b9b56553288132d6c84539bb",
-    "title": "The Specific Bliss of Just Not Having an Opinion (Sometimes)",
-    "author": "Molly Templeton",
-    "description": "In a world of hot takes, it's nice to take a break... The post The Specific Bliss of Just Not Having an Opinion (Sometimes) appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Book Culture",
-      "Christopher Nolan",
-      "Mark As Read",
-      "Opinion",
-      "Publishers",
-      "The Odyssey"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-30",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/Nolan-The-Odyssey-soldier-740x423.png",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/Nolan-The-Odyssey-soldier-740x423.png",
-    "article_url": "https://reactormag.com/the-specific-bliss-of-just-not-having-an-opinion-sometimes/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Christopher Nolan",
-      "Mark as Read",
-      "The Odyssey",
-      "book culture",
-      "opinion",
-      "publishers"
-    ],
-    "created_at": "2026-07-31T19:17:11+00:00",
-    "updated_at": "2026-07-31T19:17:11Z"
-  },
-  {
-    "id": "ff89658a5f8824dd798eb42dc2d9530c",
-    "title": "Haunted — Star Trek: Strange New Worlds: “The Griffin Incident”",
-    "author": "Emmet Asher-Perrin",
-    "description": "We're getting haunted again this week... The post Haunted — Star Trek: Strange New Worlds : “The Griffin Incident” appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Publishers",
-      "Science Fiction",
-      "Star Trek",
-      "Star Trek: Strange New Worlds",
-      "Strange New Worlds Recaps",
-      "Television",
-      "Television Recaps",
-      "Television Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-30",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/snw-s4e2-5-740x493.jpeg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/snw-s4e2-5-740x493.jpeg",
-    "article_url": "https://reactormag.com/tv-review-star-trek-strange-new-worlds-the-griffin-incident/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Science Fiction",
-      "Star Trek",
-      "Star Trek: Strange New Worlds",
-      "publishers",
-      "strange new worlds recaps",
-      "television",
-      "television recaps",
-      "television reviews"
-    ],
-    "created_at": "2026-07-31T19:17:11+00:00",
-    "updated_at": "2026-07-31T19:17:11Z"
-  },
-  {
-    "id": "f5f2b0c46b10f3f956e1ff3d2ccbf6d5",
-    "title": "Not All in Her Head: The Fever and Bad Dreams",
-    "author": "Leah Schnelbach",
-    "description": "Seriously, after the THIRD time your friend is attacked at the creepy hospital, you should start to ask questions. The post Not All in Her Head: The Fever and Bad Dreams appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Diane Hoh",
-      "Fear Street",
-      "Gaslighting",
-      "Horror",
-      "Publishers",
-      "R.L. Stine",
-      "Teen Horror Time Machine",
-      "Ya",
-      "Young Adult"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-30",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/Bad-Dreams-header-740x407.png",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/Bad-Dreams-header-740x407.png",
-    "article_url": "https://reactormag.com/the-fever-diane-hoh-bad-dreams-r-l-stine-teen-horror-time-machine-review/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Diane Hoh",
-      "Fear Street",
-      "Horror",
-      "R.L. Stine",
-      "Teen Horror Time Machine",
-      "YA",
-      "Young Adult",
-      "gaslighting",
-      "publishers"
-    ],
-    "created_at": "2026-07-31T19:17:11+00:00",
-    "updated_at": "2026-07-31T19:17:11Z"
-  },
-  {
-    "id": "aa9e63bcb35918b0159ccd77c3e834f4",
-    "title": "Martha Wells Book Club: The Element of Fire",
-    "author": "Sarah",
-    "description": "Okay. So. The Element of Fire. For better or worse, it feels exactly like what it was: a debut fantasy novel written in the 1990s. First and foremost. I really wish the updated and revised edition of The Book of Ile-Rien had a map and a Dramatis Personae like the Rising World series does. It [...] The post Martha Wells Book Club: The Element of Fire appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Blog",
-      "Fantasy",
-      "Ile-Rien",
-      "Martha Wells",
-      "Martha Wells Book Club",
-      "Publishers",
-      "The Book Of Ile-Rien",
-      "The Element Of Fire"
-    ],
-    "genre": [
-      "Fantasy"
-    ],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-30",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2024/02/Book-of-Ile-Rien-Martha-Wells-cover.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2024/02/Book-of-Ile-Rien-Martha-Wells-cover.jpg",
-    "article_url": "https://reactormag.com/martha-wells-book-club-the-element-of-fire/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Blog",
-      "Ile-Rien",
-      "Martha Wells",
-      "Martha Wells Book Club",
-      "The Book of Ile-Rien",
-      "The Element of Fire",
-      "fantasy",
-      "publishers"
-    ],
-    "created_at": "2026-07-31T19:17:11+00:00",
-    "updated_at": "2026-07-31T19:17:11Z"
-  },
-  {
-    "id": "cdcb139a87248dc3dc79dc63cf33e82b",
-    "title": "Your Protagonist Is a Terrible Person — Can They Still Be Likable?",
-    "author": "Sarah",
-    "description": "Sure, they're utterly reprehensible — but you still want readers to root for them. The post Your Protagonist Is a Terrible Person — Can They Still Be Likable? appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Aliette De Bodard",
-      "Baby Assassins",
-      "Blog",
-      "Cho Yeeun",
-      "Frank Herbert",
-      "Publishers",
-      "Unlikeable Characters",
-      "Writing"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-07-30",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/07/teddy-bears-never-die-cover-art-740x423.png",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/07/teddy-bears-never-die-cover-art-740x423.png",
-    "article_url": "https://reactormag.com/your-protagonist-is-a-terrible-person-can-they-still-be-likable/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Aliette de Bodard",
-      "Baby Assassins",
-      "Blog",
-      "Cho Yeeun",
-      "Frank Herbert",
-      "publishers",
-      "unlikeable characters",
-      "writing"
-    ],
-    "created_at": "2026-07-31T19:17:11+00:00",
-    "updated_at": "2026-07-31T19:17:11Z"
-  },
-  {
-    "id": "61661cfa24a111e83d96fe62f78722cc",
-    "title": "Just Announced: ‘Meet the Hueys’ by Oliver Jeffers",
-    "author": "Iyana Jones",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-30",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130671-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130671-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100962-just-announced-meet-the-hueys-by-oliver-jeffers.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-31T19:17:11+00:00",
-    "updated_at": "2026-07-31T19:17:11Z"
-  },
-  {
-    "id": "b21320b8cacaf8e1fbfc439963bbb264",
-    "title": "In Brief: July 30, 2026",
-    "author": "",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-30",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130657-5.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130657-5.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100961-in-brief-july-30-2026.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-31T19:17:11+00:00",
-    "updated_at": "2026-07-31T19:17:11Z"
-  },
-  {
-    "id": "8d010168c57be5070b89ed336f9233dc",
-    "title": "Obituary: Benjamin Alire Sáenz",
-    "author": "Shannon Maughan",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-07-30",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130643-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130643-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100960-obituary-benjamin-alire-s-enz.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-07-31T19:17:11+00:00",
-    "updated_at": "2026-07-31T19:17:11Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   }
 ]

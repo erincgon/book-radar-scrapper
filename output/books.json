@@ -1,31 +1,5 @@
 [
   {
-    "id": "97bbea32ea33bad3d36c4a2335faaea4",
-    "title": "Book Club: Let’s Talk About ‘John of John’",
-    "author": "",
-    "description": "Douglas Stuart’s latest novel follows a profoundly isolated father and son, each grappling with long-held secrets.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-31",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/31/podcasts/31TBR-pod-douglas-stuart-book-club/31TBR-pod-douglas-stuart-book-club-mediumSquareAt3X.png",
-    "cover_large": "https://static01.nyt.com/images/2026/07/31/podcasts/31TBR-pod-douglas-stuart-book-club/31TBR-pod-douglas-stuart-book-club-mediumSquareAt3X.png",
-    "article_url": "https://www.nytimes.com/2026/07/31/books/review/podcast-john-of-john-douglas-stuart-book-club.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "books"
-    ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
-  },
-  {
     "id": "a517d2371ea48657bf9f4673bbcb62da",
     "title": "Emily Wilson’s Pan of ‘The Odyssey’ Ignites a Debate Among Classicists and Commenters",
     "author": "Neil Vigdor",
@@ -48,7 +22,7 @@
     "genre": [],
     "language": "English",
     "publisher": "The New York Times",
-    "published_date": "2026-07-31",
+    "published_date": "2026-08-01",
     "thumbnail": "https://static01.nyt.com/images/2026/07/30/obituaries/xp-odyssey-02/xp-odyssey-02-mediumSquareAt3X-v2.jpg",
     "cover_large": "https://static01.nyt.com/images/2026/07/30/obituaries/xp-odyssey-02/xp-odyssey-02-mediumSquareAt3X-v2.jpg",
     "article_url": "https://www.nytimes.com/2026/07/31/arts/the-odyssey-emily-wilson-christopher-nolan.html",
@@ -68,8 +42,119 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
+  },
+  {
+    "id": "67d2494b97011b6241e7994d58437404",
+    "title": "​What makes a good comic novel? Andrew Sean Greer on the joy of funny writing",
+    "author": "Andrew Sean Greer",
+    "description": "The Pulitzer-winning author of Less and Villa Coco explores the art of writing humour – plus 10 of the best novels to make you laugh In March 2020, when the mayor of San Francisco instructed all citizens to remain in their houses due to a pandemic, the first thing I did was order all the books of Agatha Christie. I was not alone; I think many of us immersed ourselves in reliable narratives to drown out the chaos. It did not matter if it ended in marriage or murder; the reliability was what mattered. Later when I realised I would need to hole up for some time, my reading shifted to a different kind of novel. And because, like Christie, our world has an endless supply of new terrors, it is the comic novel that still fills my reading hours. Nobody knows what a comic novel is. And once you start discussing it, all the fun runs out. EB White compared it to dissecting a frog (you’re left with innards and a dead frog) but I would compare it to turning all the lights on at a party: everyone looks terrible and you’ve ruined the party. Most would agree, of course, that Wodehouse wrote comic novels, but I turn to books hardly anybody would classify that way – Moby-Dick by Herman Melville...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Comedy",
+      "Creative Writing",
+      "Culture",
+      "Fiction",
+      "Pulitzer Prize"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-08-01",
+    "thumbnail": "https://i.guim.co.uk/img/media/632e07ebe8fa6a842056eb8ad23f697ba980f458/434_1172_1457_1166/master/1457.jpg?width=700&quality=85&auto=format&fit=max&s=2359a04a81e5807b467a3cff03282ddf",
+    "cover_large": "https://i.guim.co.uk/img/media/632e07ebe8fa6a842056eb8ad23f697ba980f458/434_1172_1457_1166/master/1457.jpg?width=700&quality=85&auto=format&fit=max&s=2359a04a81e5807b467a3cff03282ddf",
+    "article_url": "https://www.theguardian.com/culture/ng-interactive/2026/aug/01/what-makes-a-good-comic-novel-andrew-sean-greer-on-the-joy-of-funny-writing",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Comedy",
+      "Creative writing",
+      "Culture",
+      "Fiction",
+      "Pulitzer prize",
+      "books"
+    ],
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
+  },
+  {
+    "id": "c686f965ffea347eb425a70858a2dfec",
+    "title": "Mildred Pitts Walter, Author of Books for Black Children, Dies at 103",
+    "author": "Richard Sandomir",
+    "description": "Teaching kindergarten in South Central Los Angeles in the 1950s and ’60s, she realized that her students were not represented in the books they read. So she wrote her own.",
+    "summary_ai": "",
+    "categories": [
+      "Black People",
+      "Books",
+      "Books And Literature",
+      "Children And Childhood",
+      "Civil Rights Movement (1954-68)",
+      "Deaths (Obituaries)",
+      "Education (K-12)",
+      "Louisiana",
+      "Race And Ethnicity",
+      "Teachers And School Employees",
+      "Walter, Mildred Pitts",
+      "Watts (Los Angeles, Calif)",
+      "Writing And Writers"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-31",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/30/multimedia/30Pitts-Walter-zmck/30Pitts-Walter-zmck-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/30/multimedia/30Pitts-Walter-zmck/30Pitts-Walter-zmck-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/31/books/mildred-pitts-walter-dead.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Black People",
+      "Books and Literature",
+      "Children and Childhood",
+      "Civil Rights Movement (1954-68)",
+      "Deaths (Obituaries)",
+      "Education (K-12)",
+      "Louisiana",
+      "Race and Ethnicity",
+      "Teachers and School Employees",
+      "Walter, Mildred Pitts",
+      "Watts (Los Angeles, Calif)",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
+  },
+  {
+    "id": "97bbea32ea33bad3d36c4a2335faaea4",
+    "title": "Book Club: Let’s Talk About ‘John of John’",
+    "author": "",
+    "description": "Douglas Stuart’s latest novel follows a profoundly isolated father and son, each grappling with long-held secrets.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-31",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/31/podcasts/31TBR-pod-douglas-stuart-book-club/31TBR-pod-douglas-stuart-book-club-mediumSquareAt3X.png",
+    "cover_large": "https://static01.nyt.com/images/2026/07/31/podcasts/31TBR-pod-douglas-stuart-book-club/31TBR-pod-douglas-stuart-book-club-mediumSquareAt3X.png",
+    "article_url": "https://www.nytimes.com/2026/07/31/books/review/podcast-john-of-john-douglas-stuart-book-club.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "books"
+    ],
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "e45216f4306048da054809cec0a3bce9",
@@ -101,8 +186,8 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "a6b1ea3a7951c67cc83fc97de77405bb",
@@ -141,8 +226,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "d960889d8001f20c1b1032ca59bbb49c",
@@ -179,8 +264,8 @@
       "Wilderness Areas",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "0f89cc9455f1bce99a04c0bba447bf64",
@@ -219,8 +304,8 @@
       "Theater",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "d7d0d6268dc63b7b922f2065c09b2dd2",
@@ -257,8 +342,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "09947ebf638a547c06e921f5aa2a0530",
@@ -290,8 +375,8 @@
       "Max Porter",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "ebd9b43013537156c145a15a26db99af",
@@ -327,8 +412,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "4867f982a7cc3685688845ab9bc5067c",
@@ -358,8 +443,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "b9c340a7917651f5d9c857824bb124b7",
@@ -385,8 +470,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "4ca3ff2f4b0e5da98211501b5acf0502",
@@ -416,8 +501,8 @@
       "Poetry",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "d8011041e343dbe8c5a631c4cb86dbdd",
@@ -456,8 +541,8 @@
       "Yuppies: The Bankers, Lawyers, Joggers and Gourmands Who Conquered New York (Book)",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "d168d034ae5cc34ff7c4226317be2b80",
@@ -490,8 +575,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "16e441952c5bd9586861e71942b2b165",
@@ -534,8 +619,8 @@
       "books",
       "genre-books-historical-fiction"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "b0f783aad5627ebc47dd8670ff5fe2a7",
@@ -570,37 +655,8 @@
       "Mario Vargas Llosa",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
-  },
-  {
-    "id": "ad57c392ffc92048758fff2cbdd84202",
-    "title": "Helm by Sarah Hall audiobook review",
-    "author": "Fiona Sturges",
-    "description": "Louise Brealey teases out the playful and poetic moments of these shapeshifting stories, told from the perspective of the northeasterly wind and those it has wreaked chaos on through the ages The only named wind in the British Isles, Helm is a strong northeasterly gale that blows down the slopes of Cross Fell in the Pennines and is known for its unusual cloud formations. Helm has been known to dislodge roofs, haystacks, trees and riders from their horses. Twenty years in the writing, Sarah Hall’s Helm is an ambitious novel that tells stories from the perspective of the wind, and from the people on whom, through the ages, Helm has wreaked chaos. Those figures include a Neolithic tribeswoman and seer called NaNay who is building a stone circle; an astrologer and exorcist known as a “wizard priest”; a Victorian meteorologist who travels across the Pennines by train and later by carriage into Helm’s “onslaught”; and a climatologist measuring microplastics in the atmosphere from her observation hut in the fells. Separated by centuries, their stories are nonetheless woven together, each of them bonded by weather. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-30",
-    "thumbnail": "https://i.guim.co.uk/img/media/0d33f08233a822779b3e8a920a0bc9c3e7273d4e/1619_332_4449_3559/master/4449.jpg?width=700&quality=85&auto=format&fit=max&s=c70f32577e0d8929dad614aa8f2f9b52",
-    "cover_large": "https://i.guim.co.uk/img/media/0d33f08233a822779b3e8a920a0bc9c3e7273d4e/1619_332_4449_3559/master/4449.jpg?width=700&quality=85&auto=format&fit=max&s=c70f32577e0d8929dad614aa8f2f9b52",
-    "article_url": "https://www.theguardian.com/books/2026/jul/30/helm-by-sarah-hall-audiobook-review-a-breath-of-fresh-air-from-the-pennines",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "d963e63b42291dcef8c46cd8df71ace9",
@@ -643,8 +699,8 @@
       "Women's Rights",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "ba7233a7b9366648e084b0244aea0041",
@@ -672,8 +728,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "f6ab3ffd755355fab8824c66057f1a5b",
@@ -705,8 +761,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "9658d6e1ef1900f38007243e280d6b7f",
@@ -737,8 +793,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "af9abbd40d1ece241f2398628987f883",
@@ -772,8 +828,8 @@
       "The Hours",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "1a01adacf102f08e18ad0c9aacce6bbc",
@@ -806,8 +862,8 @@
       "Travel writing",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "35c5412c611a0d60482500b9411080f0",
@@ -841,8 +897,8 @@
       "The far right",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "524c605cd8982891e747fe848342f8df",
@@ -884,8 +940,8 @@
       "True crime books",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -915,8 +971,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -955,8 +1011,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "755ba738881478773c8491c271f5d902",
@@ -983,8 +1039,8 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "f0a8987fb7322e3a0dc23bf36fa062e5",
@@ -1025,47 +1081,7 @@
       "audio-neutral-informative",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
-  },
-  {
-    "id": "5abd518a1f4e1d19007e36a68c716195",
-    "title": "In ‘Fires in the Dark,’ Kay Redfield Jamison Turns to Healers",
-    "author": "Casey Schwartz",
-    "description": "In “Fires in the Dark,” Jamison, known for her expertise on manic depression, delves into the quest to heal. Her new book, she says, is a “love song to psychotherapy.”",
-    "summary_ai": "",
-    "categories": [
-      "Bipolar Disorder",
-      "Books",
-      "Books And Literature",
-      "Content Type: Personal Profile",
-      "Fires In The Dark: Healing The Unquiet Mind (Book)",
-      "Jamison, Kay Redfield",
-      "Johns Hopkins Medical Center",
-      "Mental Health And Disorders",
-      "Psychiatry And Psychiatrists"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2023-05-22",
-    "thumbnail": "https://static01.nyt.com/images/2023/05/25/multimedia/22JAMISON-lqzm/22JAMISON-lqzm-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2023/05/25/multimedia/22JAMISON-lqzm/22JAMISON-lqzm-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2023/05/22/books/fires-in-the-dark-kay-redfield-jamison.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Bipolar Disorder",
-      "Books and Literature",
-      "Content Type: Personal Profile",
-      "Fires in the Dark: Healing the Unquiet Mind (Book)",
-      "Jamison, Kay Redfield",
-      "Johns Hopkins Medical Center",
-      "Mental Health and Disorders",
-      "Psychiatry and Psychiatrists",
-      "books"
-    ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   }
 ]

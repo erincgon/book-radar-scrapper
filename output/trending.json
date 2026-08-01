@@ -1,31 +1,5 @@
 [
   {
-    "id": "97bbea32ea33bad3d36c4a2335faaea4",
-    "title": "Book Club: Let’s Talk About ‘John of John’",
-    "author": "",
-    "description": "Douglas Stuart’s latest novel follows a profoundly isolated father and son, each grappling with long-held secrets.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-31",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/31/podcasts/31TBR-pod-douglas-stuart-book-club/31TBR-pod-douglas-stuart-book-club-mediumSquareAt3X.png",
-    "cover_large": "https://static01.nyt.com/images/2026/07/31/podcasts/31TBR-pod-douglas-stuart-book-club/31TBR-pod-douglas-stuart-book-club-mediumSquareAt3X.png",
-    "article_url": "https://www.nytimes.com/2026/07/31/books/review/podcast-john-of-john-douglas-stuart-book-club.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "books"
-    ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
-  },
-  {
     "id": "a517d2371ea48657bf9f4673bbcb62da",
     "title": "Emily Wilson’s Pan of ‘The Odyssey’ Ignites a Debate Among Classicists and Commenters",
     "author": "Neil Vigdor",
@@ -48,7 +22,7 @@
     "genre": [],
     "language": "English",
     "publisher": "The New York Times",
-    "published_date": "2026-07-31",
+    "published_date": "2026-08-01",
     "thumbnail": "https://static01.nyt.com/images/2026/07/30/obituaries/xp-odyssey-02/xp-odyssey-02-mediumSquareAt3X-v2.jpg",
     "cover_large": "https://static01.nyt.com/images/2026/07/30/obituaries/xp-odyssey-02/xp-odyssey-02-mediumSquareAt3X-v2.jpg",
     "article_url": "https://www.nytimes.com/2026/07/31/arts/the-odyssey-emily-wilson-christopher-nolan.html",
@@ -68,8 +42,119 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
+  },
+  {
+    "id": "67d2494b97011b6241e7994d58437404",
+    "title": "​What makes a good comic novel? Andrew Sean Greer on the joy of funny writing",
+    "author": "Andrew Sean Greer",
+    "description": "The Pulitzer-winning author of Less and Villa Coco explores the art of writing humour – plus 10 of the best novels to make you laugh In March 2020, when the mayor of San Francisco instructed all citizens to remain in their houses due to a pandemic, the first thing I did was order all the books of Agatha Christie. I was not alone; I think many of us immersed ourselves in reliable narratives to drown out the chaos. It did not matter if it ended in marriage or murder; the reliability was what mattered. Later when I realised I would need to hole up for some time, my reading shifted to a different kind of novel. And because, like Christie, our world has an endless supply of new terrors, it is the comic novel that still fills my reading hours. Nobody knows what a comic novel is. And once you start discussing it, all the fun runs out. EB White compared it to dissecting a frog (you’re left with innards and a dead frog) but I would compare it to turning all the lights on at a party: everyone looks terrible and you’ve ruined the party. Most would agree, of course, that Wodehouse wrote comic novels, but I turn to books hardly anybody would classify that way – Moby-Dick by Herman Melville...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Comedy",
+      "Creative Writing",
+      "Culture",
+      "Fiction",
+      "Pulitzer Prize"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-08-01",
+    "thumbnail": "https://i.guim.co.uk/img/media/632e07ebe8fa6a842056eb8ad23f697ba980f458/434_1172_1457_1166/master/1457.jpg?width=700&quality=85&auto=format&fit=max&s=2359a04a81e5807b467a3cff03282ddf",
+    "cover_large": "https://i.guim.co.uk/img/media/632e07ebe8fa6a842056eb8ad23f697ba980f458/434_1172_1457_1166/master/1457.jpg?width=700&quality=85&auto=format&fit=max&s=2359a04a81e5807b467a3cff03282ddf",
+    "article_url": "https://www.theguardian.com/culture/ng-interactive/2026/aug/01/what-makes-a-good-comic-novel-andrew-sean-greer-on-the-joy-of-funny-writing",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Comedy",
+      "Creative writing",
+      "Culture",
+      "Fiction",
+      "Pulitzer prize",
+      "books"
+    ],
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
+  },
+  {
+    "id": "c686f965ffea347eb425a70858a2dfec",
+    "title": "Mildred Pitts Walter, Author of Books for Black Children, Dies at 103",
+    "author": "Richard Sandomir",
+    "description": "Teaching kindergarten in South Central Los Angeles in the 1950s and ’60s, she realized that her students were not represented in the books they read. So she wrote her own.",
+    "summary_ai": "",
+    "categories": [
+      "Black People",
+      "Books",
+      "Books And Literature",
+      "Children And Childhood",
+      "Civil Rights Movement (1954-68)",
+      "Deaths (Obituaries)",
+      "Education (K-12)",
+      "Louisiana",
+      "Race And Ethnicity",
+      "Teachers And School Employees",
+      "Walter, Mildred Pitts",
+      "Watts (Los Angeles, Calif)",
+      "Writing And Writers"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-31",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/30/multimedia/30Pitts-Walter-zmck/30Pitts-Walter-zmck-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/30/multimedia/30Pitts-Walter-zmck/30Pitts-Walter-zmck-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/31/books/mildred-pitts-walter-dead.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Black People",
+      "Books and Literature",
+      "Children and Childhood",
+      "Civil Rights Movement (1954-68)",
+      "Deaths (Obituaries)",
+      "Education (K-12)",
+      "Louisiana",
+      "Race and Ethnicity",
+      "Teachers and School Employees",
+      "Walter, Mildred Pitts",
+      "Watts (Los Angeles, Calif)",
+      "Writing and Writers",
+      "books"
+    ],
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
+  },
+  {
+    "id": "97bbea32ea33bad3d36c4a2335faaea4",
+    "title": "Book Club: Let’s Talk About ‘John of John’",
+    "author": "",
+    "description": "Douglas Stuart’s latest novel follows a profoundly isolated father and son, each grappling with long-held secrets.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-07-31",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/31/podcasts/31TBR-pod-douglas-stuart-book-club/31TBR-pod-douglas-stuart-book-club-mediumSquareAt3X.png",
+    "cover_large": "https://static01.nyt.com/images/2026/07/31/podcasts/31TBR-pod-douglas-stuart-book-club/31TBR-pod-douglas-stuart-book-club-mediumSquareAt3X.png",
+    "article_url": "https://www.nytimes.com/2026/07/31/books/review/podcast-john-of-john-douglas-stuart-book-club.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "books"
+    ],
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "e45216f4306048da054809cec0a3bce9",
@@ -101,8 +186,8 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "a6b1ea3a7951c67cc83fc97de77405bb",
@@ -141,8 +226,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "d960889d8001f20c1b1032ca59bbb49c",
@@ -179,8 +264,8 @@
       "Wilderness Areas",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "0f89cc9455f1bce99a04c0bba447bf64",
@@ -219,8 +304,8 @@
       "Theater",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "d7d0d6268dc63b7b922f2065c09b2dd2",
@@ -257,8 +342,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "09947ebf638a547c06e921f5aa2a0530",
@@ -290,8 +375,8 @@
       "Max Porter",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "ebd9b43013537156c145a15a26db99af",
@@ -327,8 +412,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "4867f982a7cc3685688845ab9bc5067c",
@@ -358,8 +443,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "b9c340a7917651f5d9c857824bb124b7",
@@ -385,8 +470,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "4ca3ff2f4b0e5da98211501b5acf0502",
@@ -416,8 +501,40 @@
       "Poetry",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
+  },
+  {
+    "id": "322952a09bd81a616ffdecb5cb01cd3e",
+    "title": "State Property Tax Cuts Will Decimate Libraries: Book Censorship News, July 31, 2026",
+    "author": "Kelly Jensen",
+    "description": "Up to 13 different US states are considering tax reforms that would decimate local public goods, including public libraries.",
+    "summary_ai": "",
+    "categories": [
+      "Censorship",
+      "Libraries",
+      "Literary Activism",
+      "News",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-31",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2024/08/site-book-censorship-image.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2024/08/site-book-censorship-image.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/state-property-tax-cuts-and-libraries/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Censorship",
+      "Libraries",
+      "Literary Activism",
+      "News",
+      "reviews"
+    ],
+    "created_at": "2026-08-01T08:18:49+00:00",
+    "updated_at": "2026-08-01T08:18:49Z"
   },
   {
     "id": "3901d8da2fc7eb3dc27784fe77af434a",
@@ -446,8 +563,8 @@
       "The Stack",
       "reviews"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:49+00:00",
+    "updated_at": "2026-08-01T08:18:49Z"
   },
   {
     "id": "9163083fe9c86420d46f389fc379c5fc",
@@ -474,8 +591,8 @@
       "Check Your Shelf",
       "reviews"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:49+00:00",
+    "updated_at": "2026-08-01T08:18:49Z"
   },
   {
     "id": "d8011041e343dbe8c5a631c4cb86dbdd",
@@ -514,8 +631,8 @@
       "Yuppies: The Bankers, Lawyers, Joggers and Gourmands Who Conquered New York (Book)",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "d168d034ae5cc34ff7c4226317be2b80",
@@ -548,8 +665,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   },
   {
     "id": "16e441952c5bd9586861e71942b2b165",
@@ -592,129 +709,7 @@
       "books",
       "genre-books-historical-fiction"
     ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
-  },
-  {
-    "id": "b0f783aad5627ebc47dd8670ff5fe2a7",
-    "title": "Mario Vargas Llosa by Gerald Martin review",
-    "author": "Pratinav Anil",
-    "description": "This stylish biography of the author traces his journey from left to right, and from ‘posh Lima’ to Cricklewood “At what precise moment had Peru fucked itself up?” Those words on the opening page of Conversation in the Cathedral announced the arrival of a writer who understood that national history could become the organising principle of fiction. At precisely the moment when Latin America was discovering the intoxicating possibilities of magical realism – a form whose exuberance had an elective affinity with revolutionary politics, collapsing the distinction between the marvellous and the possible – Mario Vargas Llosa plumped for old-fashioned realism instead. It was a question of sensibility as much as politics, Gerald Martin suggests in this chatty yet coolly analytical biography. He traces the path of a novelist who began by dissecting oligarchy with surgical precision and ended happily dining among its ranks, completing one of literary history’s most spectacular political migrations – from the hard left to the hard right, over the course of half a century. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Biography Books",
-      "Books",
-      "Culture",
-      "Mario Vargas Llosa"
-    ],
-    "genre": [
-      "Biography",
-      "Fiction",
-      "History",
-      "Politics"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-30",
-    "thumbnail": "https://i.guim.co.uk/img/media/caba2a58bfdacd48d1313afa075578b64854014b/22_863_2721_2176/master/2721.jpg?width=700&quality=85&auto=format&fit=max&s=1a758572985807a430c731650f4a746d",
-    "cover_large": "https://i.guim.co.uk/img/media/caba2a58bfdacd48d1313afa075578b64854014b/22_863_2721_2176/master/2721.jpg?width=700&quality=85&auto=format&fit=max&s=1a758572985807a430c731650f4a746d",
-    "article_url": "https://www.theguardian.com/books/2026/jul/30/mario-vargas-llosa-by-gerald-martin-review-the-passions-and-politics-of-perus-nobel-laureate",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Biography books",
-      "Books",
-      "Culture",
-      "Mario Vargas Llosa",
-      "books"
-    ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
-  },
-  {
-    "id": "ad57c392ffc92048758fff2cbdd84202",
-    "title": "Helm by Sarah Hall audiobook review",
-    "author": "Fiona Sturges",
-    "description": "Louise Brealey teases out the playful and poetic moments of these shapeshifting stories, told from the perspective of the northeasterly wind and those it has wreaked chaos on through the ages The only named wind in the British Isles, Helm is a strong northeasterly gale that blows down the slopes of Cross Fell in the Pennines and is known for its unusual cloud formations. Helm has been known to dislodge roofs, haystacks, trees and riders from their horses. Twenty years in the writing, Sarah Hall’s Helm is an ambitious novel that tells stories from the perspective of the wind, and from the people on whom, through the ages, Helm has wreaked chaos. Those figures include a Neolithic tribeswoman and seer called NaNay who is building a stone circle; an astrologer and exorcist known as a “wizard priest”; a Victorian meteorologist who travels across the Pennines by train and later by carriage into Helm’s “onslaught”; and a climatologist measuring microplastics in the atmosphere from her observation hut in the fells. Separated by centuries, their stories are nonetheless woven together, each of them bonded by weather. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Fiction"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-30",
-    "thumbnail": "https://i.guim.co.uk/img/media/0d33f08233a822779b3e8a920a0bc9c3e7273d4e/1619_332_4449_3559/master/4449.jpg?width=700&quality=85&auto=format&fit=max&s=c70f32577e0d8929dad614aa8f2f9b52",
-    "cover_large": "https://i.guim.co.uk/img/media/0d33f08233a822779b3e8a920a0bc9c3e7273d4e/1619_332_4449_3559/master/4449.jpg?width=700&quality=85&auto=format&fit=max&s=c70f32577e0d8929dad614aa8f2f9b52",
-    "article_url": "https://www.theguardian.com/books/2026/jul/30/helm-by-sarah-hall-audiobook-review-a-breath-of-fresh-air-from-the-pennines",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Fiction",
-      "books"
-    ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
-  },
-  {
-    "id": "e33322ec8d0eb9daf0ed38f98c199bef",
-    "title": "The Children of Blood and Bone trailer is here. (But you might want to buy the book instead.)",
-    "author": "Brittany Allen",
-    "description": "This morning, Paramount released the first trailer for Children of Blood and Bone, their buzzy adaptation of Tomi Adeyemi’s bestselling young adult novel. Set to a Beyoncé soundtrack and teasing a murderer’s row of our best living actors—including Viola Davis,",
-    "summary_ai": "",
-    "categories": [
-      "Beyonce",
-      "Book News",
-      "Children Of Blood And Bone",
-      "Design",
-      "Events",
-      "Film And Tv",
-      "Literary Adaptation",
-      "News And Culture",
-      "Paramount",
-      "Reviews",
-      "Style",
-      "The Hub",
-      "Tomi Adeyemi",
-      "Trailer",
-      "Trilogy",
-      "Ya"
-    ],
-    "genre": [
-      "Children",
-      "Young Adult"
-    ],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-07-30",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/Untitled-design-14-768x384.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/Untitled-design-14-768x384.png",
-    "article_url": "https://lithub.com/the-children-of-blood-and-bone-trailer-is-here-but-dont-ask-author-tomi-adeyemi-to-comment/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Beyonce",
-      "Book News",
-      "Children of Blood and Bone",
-      "Design",
-      "Events",
-      "Film and TV",
-      "News and Culture",
-      "Paramount",
-      "Style",
-      "The Hub",
-      "Tomi Adeyemi",
-      "YA",
-      "literary adaptation",
-      "reviews",
-      "trailer",
-      "trilogy"
-    ],
-    "created_at": "2026-07-31T19:17:10+00:00",
-    "updated_at": "2026-07-31T19:17:10Z"
+    "created_at": "2026-08-01T08:18:50+00:00",
+    "updated_at": "2026-08-01T08:18:50Z"
   }
 ]
