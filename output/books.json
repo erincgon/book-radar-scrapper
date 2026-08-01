@@ -6,10 +6,9 @@
     "description": "Wilson, whose 2017 translation of Homer’s Greek classic influenced the director Christopher Nolan, panned his screenplay for the movie version in an essay for The London Review of Books.",
     "summary_ai": "",
     "categories": [
-      "Book Trade And Publishing",
       "Books",
       "Books And Literature",
-      "English Language",
+      "Homer",
       "London Review Of Books",
       "Movies",
       "Nolan, Christopher",
@@ -29,9 +28,8 @@
     "source": "The New York Times",
     "source_type": "rss",
     "tags": [
-      "Book Trade and Publishing",
       "Books and Literature",
-      "English Language",
+      "Homer",
       "London Review of Books",
       "Movies",
       "Nolan, Christopher",
@@ -42,8 +40,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "67d2494b97011b6241e7994d58437404",
@@ -77,8 +75,8 @@
       "Pulitzer prize",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "c686f965ffea347eb425a70858a2dfec",
@@ -127,8 +125,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "97bbea32ea33bad3d36c4a2335faaea4",
@@ -138,7 +136,9 @@
     "summary_ai": "",
     "categories": [
       "Books",
-      "Books And Literature"
+      "Books And Literature",
+      "John Of John (Book)",
+      "Stuart, Douglas (Author)"
     ],
     "genre": [],
     "language": "English",
@@ -151,10 +151,12 @@
     "source_type": "rss",
     "tags": [
       "Books and Literature",
+      "John of John (Book)",
+      "Stuart, Douglas (Author)",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "e45216f4306048da054809cec0a3bce9",
@@ -186,8 +188,8 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "a6b1ea3a7951c67cc83fc97de77405bb",
@@ -226,8 +228,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "d960889d8001f20c1b1032ca59bbb49c",
@@ -264,8 +266,8 @@
       "Wilderness Areas",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "0f89cc9455f1bce99a04c0bba447bf64",
@@ -304,8 +306,8 @@
       "Theater",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "d7d0d6268dc63b7b922f2065c09b2dd2",
@@ -342,8 +344,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "09947ebf638a547c06e921f5aa2a0530",
@@ -375,8 +377,8 @@
       "Max Porter",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "ebd9b43013537156c145a15a26db99af",
@@ -412,8 +414,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "4867f982a7cc3685688845ab9bc5067c",
@@ -443,8 +445,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "b9c340a7917651f5d9c857824bb124b7",
@@ -470,8 +472,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "4ca3ff2f4b0e5da98211501b5acf0502",
@@ -501,8 +503,8 @@
       "Poetry",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "d8011041e343dbe8c5a631c4cb86dbdd",
@@ -541,8 +543,8 @@
       "Yuppies: The Bankers, Lawyers, Joggers and Gourmands Who Conquered New York (Book)",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "d168d034ae5cc34ff7c4226317be2b80",
@@ -575,8 +577,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "16e441952c5bd9586861e71942b2b165",
@@ -619,8 +621,8 @@
       "books",
       "genre-books-historical-fiction"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "b0f783aad5627ebc47dd8670ff5fe2a7",
@@ -655,8 +657,8 @@
       "Mario Vargas Llosa",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "d963e63b42291dcef8c46cd8df71ace9",
@@ -699,8 +701,8 @@
       "Women's Rights",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "ba7233a7b9366648e084b0244aea0041",
@@ -728,8 +730,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "f6ab3ffd755355fab8824c66057f1a5b",
@@ -761,8 +763,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "9658d6e1ef1900f38007243e280d6b7f",
@@ -793,8 +795,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "af9abbd40d1ece241f2398628987f883",
@@ -828,8 +830,8 @@
       "The Hours",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "1a01adacf102f08e18ad0c9aacce6bbc",
@@ -862,8 +864,8 @@
       "Travel writing",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "35c5412c611a0d60482500b9411080f0",
@@ -897,8 +899,8 @@
       "The far right",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "524c605cd8982891e747fe848342f8df",
@@ -940,8 +942,8 @@
       "True crime books",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -971,8 +973,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1011,8 +1013,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "755ba738881478773c8491c271f5d902",
@@ -1039,8 +1041,8 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "f0a8987fb7322e3a0dc23bf36fa062e5",
@@ -1081,7 +1083,7 @@
       "audio-neutral-informative",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   }
 ]

@@ -6,10 +6,9 @@
     "description": "Wilson, whose 2017 translation of Homer’s Greek classic influenced the director Christopher Nolan, panned his screenplay for the movie version in an essay for The London Review of Books.",
     "summary_ai": "",
     "categories": [
-      "Book Trade And Publishing",
       "Books",
       "Books And Literature",
-      "English Language",
+      "Homer",
       "London Review Of Books",
       "Movies",
       "Nolan, Christopher",
@@ -29,9 +28,8 @@
     "source": "The New York Times",
     "source_type": "rss",
     "tags": [
-      "Book Trade and Publishing",
       "Books and Literature",
-      "English Language",
+      "Homer",
       "London Review of Books",
       "Movies",
       "Nolan, Christopher",
@@ -42,8 +40,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "67d2494b97011b6241e7994d58437404",
@@ -77,8 +75,8 @@
       "Pulitzer prize",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "c686f965ffea347eb425a70858a2dfec",
@@ -127,8 +125,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "97bbea32ea33bad3d36c4a2335faaea4",
@@ -138,7 +136,9 @@
     "summary_ai": "",
     "categories": [
       "Books",
-      "Books And Literature"
+      "Books And Literature",
+      "John Of John (Book)",
+      "Stuart, Douglas (Author)"
     ],
     "genre": [],
     "language": "English",
@@ -151,10 +151,12 @@
     "source_type": "rss",
     "tags": [
       "Books and Literature",
+      "John of John (Book)",
+      "Stuart, Douglas (Author)",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "e45216f4306048da054809cec0a3bce9",
@@ -186,8 +188,8 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "a6b1ea3a7951c67cc83fc97de77405bb",
@@ -226,8 +228,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "d960889d8001f20c1b1032ca59bbb49c",
@@ -264,8 +266,8 @@
       "Wilderness Areas",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "0f89cc9455f1bce99a04c0bba447bf64",
@@ -304,8 +306,8 @@
       "Theater",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "d7d0d6268dc63b7b922f2065c09b2dd2",
@@ -342,8 +344,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "09947ebf638a547c06e921f5aa2a0530",
@@ -375,8 +377,8 @@
       "Max Porter",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "ebd9b43013537156c145a15a26db99af",
@@ -412,8 +414,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "4867f982a7cc3685688845ab9bc5067c",
@@ -443,8 +445,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "b9c340a7917651f5d9c857824bb124b7",
@@ -470,8 +472,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "4ca3ff2f4b0e5da98211501b5acf0502",
@@ -501,8 +503,152 @@
       "Poetry",
       "books"
     ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
+  },
+  {
+    "id": "70f67e2ae2923b804a70357082c5b0c3",
+    "title": "Again and Again and Again: 6 Time Loop Thrillers",
+    "author": "Elisa Shoenberger",
+    "description": "These time loop thrillers will keep you coming back again and again and again.",
+    "summary_ai": "",
+    "categories": [
+      "Groundhog Day",
+      "Mysteries",
+      "Mystery/Thriller",
+      "Reviews",
+      "Sponsored",
+      "Thrillers",
+      "Time Loop",
+      "Time-Loop",
+      "Unusual Suspects"
+    ],
+    "genre": [
+      "Thriller"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-31",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/Who-Killed-One-th-Gun-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/Who-Killed-One-th-Gun-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/time-loop-thrillers/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Groundhog Day",
+      "Mysteries",
+      "Mystery/Thriller",
+      "Sponsored",
+      "Unusual Suspects",
+      "reviews",
+      "thrillers",
+      "time loop",
+      "time-loop"
+    ],
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
+  },
+  {
+    "id": "a09232d8a090bb50551593057cf5ed80",
+    "title": "For Your Reading Pleasure: Creature Feature Horror Novels",
+    "author": "K.W. Colyard",
+    "description": "Read your way into some of the best creature feature horror novels, including whale tales, pistol shrimp, and more.",
+    "summary_ai": "",
+    "categories": [
+      "Horror",
+      "Reviews",
+      "The Fright Stuff"
+    ],
+    "genre": [
+      "Horror"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-07-31",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/06/confirmed-sightings-book-cover-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/06/confirmed-sightings-book-cover-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/creature-feature-horror-novels/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Horror",
+      "The Fright Stuff",
+      "reviews"
+    ],
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
+  },
+  {
+    "id": "ccd2cbae502c83cecadc440ec2a38499",
+    "title": "Do you recognize the 'Gen Alpha Melody?'",
+    "author": "Hosts",
+    "description": "A musicologist discovered a pattern found all over modern pop music which he's dubbing the Gen Alpha melody.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "NPR Books",
+    "published_date": "2026-07-31",
+    "thumbnail": "",
+    "cover_large": "",
+    "article_url": "https://www.npr.org/2026/07/31/nx-s1-5911970/do-you-recognize-the-gen-alpha-melody",
+    "source": "NPR Books",
+    "source_type": "rss",
+    "tags": [
+      "reviews"
+    ],
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
+  },
+  {
+    "id": "a4e96606c32e07b1ea7f009102d38b7e",
+    "title": "Remembering Irish singer",
+    "author": "Terry Gross",
+    "description": "Best-known for his band The Frames and his part in the 2007 film Once , Hansard got his start as a street busker in Dublin. He died July 29 in a motorcycle crash. Originally broadcast in 2008.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "NPR Books",
+    "published_date": "2026-07-31",
+    "thumbnail": "",
+    "cover_large": "",
+    "article_url": "https://www.npr.org/2026/07/31/nx-s1-5913715/remembering-irish-singer-songwriter-glen-hansard",
+    "source": "NPR Books",
+    "source_type": "rss",
+    "tags": [
+      "reviews"
+    ],
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
+  },
+  {
+    "id": "70b9e9fd1e2a4d1f57f42320c3aa4521",
+    "title": "Celebrating Tony Bennett on what would have been his 100th birthday",
+    "author": "Kevin Whitehead",
+    "description": "Bennett, who died in 2023, was known for a string of hits, including \"I Left My Heart in San Francisco.\" Kevin Whitehead offers an appreciation and remembers some of Bennett's lesser-known songs.",
+    "summary_ai": "",
+    "categories": [
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "NPR Books",
+    "published_date": "2026-07-31",
+    "thumbnail": "",
+    "cover_large": "",
+    "article_url": "https://www.npr.org/2026/07/31/nx-s1-5913722/celebrating-tony-bennett-on-what-would-have-been-his-100th-birthday",
+    "source": "NPR Books",
+    "source_type": "rss",
+    "tags": [
+      "reviews"
+    ],
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "322952a09bd81a616ffdecb5cb01cd3e",
@@ -533,183 +679,7 @@
       "News",
       "reviews"
     ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
-  },
-  {
-    "id": "3901d8da2fc7eb3dc27784fe77af434a",
-    "title": "Whatever Happened to Ongoing Comics?",
-    "author": "Jessica Plummer",
-    "description": "Superhero comics are losing continuity and melodrama thanks to a decrease in sustained storytelling.",
-    "summary_ai": "",
-    "categories": [
-      "All Access",
-      "Comics/Graphic Novels",
-      "Reviews",
-      "The Stack"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-31",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/07/image-of-someone-standing-on-top-of-a-stack-of-comics.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/07/image-of-someone-standing-on-top-of-a-stack-of-comics.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/whatever-happened-to-ongoing-comics/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "All Access",
-      "Comics/Graphic Novels",
-      "The Stack",
-      "reviews"
-    ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
-  },
-  {
-    "id": "9163083fe9c86420d46f389fc379c5fc",
-    "title": "How YA Romance Novels Quietly Do the Emotional Education That Schools Won’t",
-    "author": "Nikki DeMarco",
-    "description": "With so few opportunities for students to get comprehensive sexual education or learn about healthy relationships, YA romance helps.",
-    "summary_ai": "",
-    "categories": [
-      "Check Your Shelf",
-      "Reviews"
-    ],
-    "genre": [
-      "Romance"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-07-31",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/07/illustrated-book-with-hearts.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/07/illustrated-book-with-hearts.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/ya-romance-emotional-education/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Check Your Shelf",
-      "reviews"
-    ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
-  },
-  {
-    "id": "d8011041e343dbe8c5a631c4cb86dbdd",
-    "title": "A Historian Considers the Yuppie",
-    "author": "Steven Kurutz",
-    "description": "“We live in the world we inherited from them,” the author Dylan Gottlieb says.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Gottlieb, Dylan (1986- )",
-      "Labor And Jobs",
-      "New York City",
-      "Nineteen Hundred Eighties",
-      "Urban Areas",
-      "Yuppies",
-      "Yuppies: The Bankers, Lawyers, Joggers And Gourmands Who Conquered New York (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-30",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/30/multimedia/30-ST-YUPPIES-01-cjkt/30-ST-YUPPIES-01-cjkt-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/30/multimedia/30-ST-YUPPIES-01-cjkt/30-ST-YUPPIES-01-cjkt-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/30/style/yuppie-historian-new-york-society-1980s.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Gottlieb, Dylan (1986- )",
-      "Labor and Jobs",
-      "New York City",
-      "Nineteen Hundred Eighties",
-      "Urban Areas",
-      "Yuppies",
-      "Yuppies: The Bankers, Lawyers, Joggers and Gourmands Who Conquered New York (Book)",
-      "books"
-    ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
-  },
-  {
-    "id": "d168d034ae5cc34ff7c4226317be2b80",
-    "title": "Is a Novel Ever Finished? Many Writers Say No.",
-    "author": "Karan Mahajan",
-    "description": "After finishing his latest book, Karan Mahajan couldn’t decide which opening passage was best. Vote below for the one you prefer.",
-    "summary_ai": "",
-    "categories": [
-      "Book Trade And Publishing",
-      "Books",
-      "Content Type: Personal Profile",
-      "Mahajan, Karan (1984- )",
-      "The Complex (Book)",
-      "Writing And Writers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-30",
-    "thumbnail": "https://static01.nyt.com/images/2026/08/09/books/09TBR-UnfinishedNovels-Mahajan/23TBR-UnfinishedNovels-Mahajan-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/08/09/books/09TBR-UnfinishedNovels-Mahajan/23TBR-UnfinishedNovels-Mahajan-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/30/books/review/unfinished-novel-galley-zadie-smith-saul-bellow.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Book Trade and Publishing",
-      "Content Type: Personal Profile",
-      "Mahajan, Karan (1984- )",
-      "The Complex (Book)",
-      "Writing and Writers",
-      "books"
-    ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
-  },
-  {
-    "id": "16e441952c5bd9586861e71942b2b165",
-    "title": "Books That Illuminate New York’s Forgotten History",
-    "author": "Marie Benedict and Victoria Christopher Murray",
-    "description": "The best-selling authors Marie Benedict and Victoria Christopher Murray recommend gripping books that illuminate hidden chapters of the city’s past.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Genre-Books-Historical-Fiction",
-      "Glaser, Karina Yan",
-      "Highsmith, Patricia",
-      "Larsen, Nella",
-      "Marshall, Paule",
-      "Moore, Graham",
-      "New York City",
-      "Whitehead, Colson"
-    ],
-    "genre": [
-      "History"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-30",
-    "thumbnail": "https://static01.nyt.com/images/2026/06/18/books/18TBR-HISTORICALFICTIONLIST-NewYork/18TBR-HISTORICALFICTIONLIST-NewYork-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/06/18/books/18TBR-HISTORICALFICTIONLIST-NewYork/18TBR-HISTORICALFICTIONLIST-NewYork-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/30/books/new-york-books-historical-fiction.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Glaser, Karina Yan",
-      "Highsmith, Patricia",
-      "Larsen, Nella",
-      "Marshall, Paule",
-      "Moore, Graham",
-      "New York City",
-      "Whitehead, Colson",
-      "books",
-      "genre-books-historical-fiction"
-    ],
-    "created_at": "2026-08-01T08:18:50+00:00",
-    "updated_at": "2026-08-01T08:18:50Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   }
 ]

@@ -1,5 +1,139 @@
 [
   {
+    "id": "cfa165c73d519977460c7b5bba51ec24",
+    "title": "Dead After Death",
+    "author": "Isabella Gomez Sarmiento",
+    "description": "This summer marks a moment of transition in the Grateful Dead's long, strange trip: the first in many years where there is no clear center of the band's universe. Where do Deadheads go from here?",
+    "summary_ai": "",
+    "categories": [
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "NPR Books",
+    "published_date": "2026-08-01",
+    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2600x1463+0+0/resize/2600x1463!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe5%2F3c%2F55daa19f4b3fab78cf26f31db13c%2Fdeadafterdeath2b.jpg",
+    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2600x1463+0+0/resize/2600x1463!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe5%2F3c%2F55daa19f4b3fab78cf26f31db13c%2Fdeadafterdeath2b.jpg",
+    "article_url": "https://www.npr.org/2026/08/01/g-s1-134690/grateful-dead-after-death",
+    "source": "NPR Books",
+    "source_type": "rss",
+    "tags": [
+      "reviews"
+    ],
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
+  },
+  {
+    "id": "4d6594851f866a69900255e339699e34",
+    "title": "Lit Hub Weekly: July 27 – 31, 2026",
+    "author": "Lit Hub Daily",
+    "description": "D/Annie Liontas, Sara Nović, Chet’la Sebree and Maria Adelman discuss the literary world’s unacknowledged class system. | Lit Hub In Conversation Jane Ciabattari gives all of Colson Whitehead’s work (yes, all of it!) a close read. | Lit Hub Criticism",
+    "summary_ai": "",
+    "categories": [
+      "Lit Hub Daily",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Literary Hub",
+    "published_date": "2026-08-01",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/HermanMelville1-768x344.jpg",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/HermanMelville1-768x344.jpg",
+    "article_url": "https://lithub.com/lit-hub-weekly-july-27-31-2026/",
+    "source": "Literary Hub",
+    "source_type": "rss",
+    "tags": [
+      "Lit Hub Daily",
+      "reviews"
+    ],
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
+  },
+  {
+    "id": "497f374da5cc27d91ab8002b3adc5467",
+    "title": "31 of the Best Picture Books of 2026 So Far",
+    "author": "Danika Ellis",
+    "description": "Browse 31 of the most exciting new picture books out in 2026 (so far) and add them to your own themed collections.",
+    "summary_ai": "",
+    "categories": [
+      "Children'S",
+      "Reviews",
+      "The Kids Are All Right"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-08-01",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-11.04.44&",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-11.04.44&",
+    "article_url": "https://bookriot.com/best-picture-books-of-2026-so-far/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Children's",
+      "The Kids Are All Right",
+      "reviews"
+    ],
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
+  },
+  {
+    "id": "f4e24a7783b0dc943c42dc84f55c5a8b",
+    "title": "31 of the Best Mystery Books of 2026 So Far",
+    "author": "Danika Ellis",
+    "description": "Browse 31 of the most exciting new mystery books out in 2026 (so far) and add them to your own themed collections.",
+    "summary_ai": "",
+    "categories": [
+      "Mystery/Thriller",
+      "Reviews",
+      "Unusual Suspects"
+    ],
+    "genre": [
+      "Mystery"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-08-01",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-11.27.09&",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-11.27.09&",
+    "article_url": "https://bookriot.com/best-mystery-books-of-2026-so-far/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Mystery/Thriller",
+      "Unusual Suspects",
+      "reviews"
+    ],
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
+  },
+  {
+    "id": "bf67f5a43b9daed9e7e3a851d39882c3",
+    "title": "Book Riot’s Deals of the Day for August 1, 2026",
+    "author": "Deals",
+    "description": "A multigenerational Hollywood saga, the undead in 1880s America, women in 19th century China, and more of today's best deals.",
+    "summary_ai": "",
+    "categories": [
+      "Book Deals",
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-08-01",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2023/05/Did-You-Hear-About-Kitty-Karr-by-Crystal-Smith-Paul.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2023/05/Did-You-Hear-About-Kitty-Karr-by-Crystal-Smith-Paul.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/book-riots-deals-of-the-day-for-august-1-2026/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Book Deals",
+      "reviews"
+    ],
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
+  },
+  {
     "id": "adf3b2a3bee117a8cf5c2f6164f49607",
     "title": "Lit Hub Daily: July 31, 2026",
     "author": "Lit Hub Daily",
@@ -22,8 +156,8 @@
       "Lit Hub Daily",
       "reviews"
     ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "1519ffb03aabd8a6999edd03ba3aa030",
@@ -62,8 +196,8 @@
       "reviews",
       "streaming guide"
     ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "8c87ddf05fa035eaa2b666208cc44f5d",
@@ -162,8 +296,8 @@
       "paperbacks",
       "reviews"
     ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "8e5fe814a8478d42913e2bf1b9e45853",
@@ -199,8 +333,8 @@
       "design",
       "reviews"
     ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "f263609d296e0be5e7bd56dcb9e01c50",
@@ -243,8 +377,8 @@
       "research",
       "reviews"
     ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "3fad5c1e14b96a74ddb83bb0e58a0424",
@@ -281,8 +415,8 @@
       "The Little Prince",
       "reviews"
     ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "3beeaa5bd71ce5a9f81f5cd9a8832881",
@@ -321,8 +455,8 @@
       "reviews",
       "the best reviewed books of the month"
     ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "dbae3c2a2aa558d72ce6a0ebf5f52e15",
@@ -359,8 +493,8 @@
       "Will Cathcart",
       "reviews"
     ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "95c1c8bb0e056a1380513fb3bef0890d",
@@ -387,8 +521,8 @@
       "Book Deals",
       "reviews"
     ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "8d32a817666a0ee5c2417148f8cfebad",
@@ -418,8 +552,8 @@
       "breaking in books",
       "reviews"
     ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "70f67e2ae2923b804a70357082c5b0c3",
@@ -460,8 +594,8 @@
       "time loop",
       "time-loop"
     ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "a09232d8a090bb50551593057cf5ed80",
@@ -490,65 +624,8 @@
       "The Fright Stuff",
       "reviews"
     ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
-  },
-  {
-    "id": "e33322ec8d0eb9daf0ed38f98c199bef",
-    "title": "The Children of Blood and Bone trailer is here. (But you might want to buy the book instead.)",
-    "author": "Brittany Allen",
-    "description": "This morning, Paramount released the first trailer for Children of Blood and Bone, their buzzy adaptation of Tomi Adeyemi’s bestselling young adult novel. Set to a Beyoncé soundtrack and teasing a murderer’s row of our best living actors—including Viola Davis,",
-    "summary_ai": "",
-    "categories": [
-      "Beyonce",
-      "Book News",
-      "Children Of Blood And Bone",
-      "Design",
-      "Events",
-      "Film And Tv",
-      "Literary Adaptation",
-      "News And Culture",
-      "Paramount",
-      "Reviews",
-      "Style",
-      "The Hub",
-      "Tomi Adeyemi",
-      "Trailer",
-      "Trilogy",
-      "Ya"
-    ],
-    "genre": [
-      "Children",
-      "Young Adult"
-    ],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-07-30",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/Untitled-design-14-768x384.png",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/Untitled-design-14-768x384.png",
-    "article_url": "https://lithub.com/the-children-of-blood-and-bone-trailer-is-here-but-dont-ask-author-tomi-adeyemi-to-comment/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Beyonce",
-      "Book News",
-      "Children of Blood and Bone",
-      "Design",
-      "Events",
-      "Film and TV",
-      "News and Culture",
-      "Paramount",
-      "Style",
-      "The Hub",
-      "Tomi Adeyemi",
-      "YA",
-      "literary adaptation",
-      "reviews",
-      "trailer",
-      "trilogy"
-    ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "da7726205f48f7fd185201b5e3ea1178",
@@ -571,8 +648,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "d78a321d4fc5b77bc87fdffdba5c5990",
@@ -595,8 +672,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "ccd2cbae502c83cecadc440ec2a38499",
@@ -619,8 +696,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "a4e96606c32e07b1ea7f009102d38b7e",
@@ -643,8 +720,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "70b9e9fd1e2a4d1f57f42320c3aa4521",
@@ -667,8 +744,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "322952a09bd81a616ffdecb5cb01cd3e",
@@ -699,8 +776,8 @@
       "News",
       "reviews"
     ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "3901d8da2fc7eb3dc27784fe77af434a",
@@ -729,8 +806,8 @@
       "The Stack",
       "reviews"
     ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   },
   {
     "id": "9163083fe9c86420d46f389fc379c5fc",
@@ -757,61 +834,7 @@
       "Check Your Shelf",
       "reviews"
     ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
-  },
-  {
-    "id": "b80076cd59528dacee0270db43a97d7a",
-    "title": "Barack Obama Releases Summer 2026 Reading List",
-    "author": "Community",
-    "description": "Barack Obama's Summer 2026 Reading List is here! The list includes big names from the literary world and books that are under the radar.",
-    "summary_ai": "",
-    "categories": [
-      "Barack Obama",
-      "Breaking In Books",
-      "News",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "the literary world and books",
-    "published_date": "2026-07-30",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2022/07/Obama-reading.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2022/07/Obama-reading.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/obamas-summer-2026-reading-list/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Barack Obama",
-      "News",
-      "breaking in books",
-      "reviews"
-    ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
-  },
-  {
-    "id": "f0d033b510e3987a6aa2b7b1fc34a289",
-    "title": "Country star Margo Price delves into America's protest songbook with \"Days of Unrest\"",
-    "author": "Debbie Elliott",
-    "description": "NPR's Debbie Elliot speaks with country music star Margo Price, about her new record Days of Unrest .",
-    "summary_ai": "",
-    "categories": [
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "NPR Books",
-    "published_date": "2026-07-25",
-    "thumbnail": "",
-    "cover_large": "",
-    "article_url": "https://www.npr.org/2026/07/25/nx-s1-5904529/country-star-margo-price-delves-into-americas-protest-songbook-with-days-of-unrest",
-    "source": "NPR Books",
-    "source_type": "rss",
-    "tags": [
-      "reviews"
-    ],
-    "created_at": "2026-08-01T08:18:49+00:00",
-    "updated_at": "2026-08-01T08:18:49Z"
+    "created_at": "2026-08-01T19:01:31+00:00",
+    "updated_at": "2026-08-01T19:01:31Z"
   }
 ]
