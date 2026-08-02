@@ -1,5 +1,182 @@
 [
   {
+    "id": "f75860da5309ed305d559f7d7d3b439f",
+    "title": "Book Review: ‘The Story of Your Life,’ by Kathryn Jezer",
+    "author": "Alexandra Jacobs",
+    "description": "In “The Story of Your Life,” Kathryn Jezer-Morton explores, without castigating, the wish to present a curated version of experience via social media.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Jezer-Morton, Kathryn",
+      "Social Media",
+      "The Story Of Your Life: How Social Media Shapes The Way We Experience Everything (Book)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-08-02",
+    "thumbnail": "https://static01.nyt.com/images/2026/08/02/arts/02tbr-jezer-morton-review/02tbr-jezer-morton-review-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/08/02/arts/02tbr-jezer-morton-review/02tbr-jezer-morton-review-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/08/02/books/review/the-story-of-your-life-kathryn-jezer-morton.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Jezer-Morton, Kathryn",
+      "Social Media",
+      "The Story of Your Life: How Social Media Shapes the Way We Experience Everything (Book)",
+      "books"
+    ],
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
+  },
+  {
+    "id": "fd483428cd739088160895921dbde9fb",
+    "title": "Paul Yoon’s Fierce Attachment to His Dog Inspired a New Novel",
+    "author": "Pamela Newton and Erik Tanner",
+    "description": "Prompted by a fierce attachment to his own pet, Paul Yoon wrote a harrowing yet hopeful novel, set during wartime, told from a canine perspective.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Dogs",
+      "Etna: A Novel (Book)",
+      "Van Den Berg, Laura",
+      "Writing And Writers",
+      "Yoon, Paul"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "a canine perspective. Books",
+    "published_date": "2026-08-02",
+    "thumbnail": "https://static01.nyt.com/images/2026/08/16/multimedia/16tbr-paul-yoon-promo-tzcf/02tbr-paul-yoon-promo-tzcf-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/08/16/multimedia/16tbr-paul-yoon-promo-tzcf/02tbr-paul-yoon-promo-tzcf-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/08/02/books/review/paul-yoon-etna-novel-dog.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Dogs",
+      "Etna: A Novel (Book)",
+      "Writing and Writers",
+      "Yoon, Paul",
+      "books",
+      "van den Berg, Laura"
+    ],
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
+  },
+  {
+    "id": "0f89cc9455f1bce99a04c0bba447bf64",
+    "title": "It’s ‘Game of Thrones,’ on Shakespeare’s Stage",
+    "author": "Alexis Soloski",
+    "description": "As the hit series keeps expanding, an ambitious stage adaptation of George R.R. Martin’s prequel saga has found a natural home at the Royal Shakespeare Company.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Cooke, Dominic",
+      "Game Of Thrones (Tv Program)",
+      "Game Of Thrones: The Mad King (Play)",
+      "Macmillan, Duncan",
+      "Martin, George R R",
+      "Royal Shakespeare Co",
+      "Stratford-Upon-Avon (England)",
+      "Theater"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Macmillan",
+    "published_date": "2026-08-02",
+    "thumbnail": "https://static01.nyt.com/images/2026/08/03/multimedia/02cul-mad-king-theater-tcvh/02cul-mad-king-theater-tcvh-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/08/03/multimedia/02cul-mad-king-theater-tcvh/02cul-mad-king-theater-tcvh-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/07/30/theater/game-of-thrones-mad-king-royal-shakespeare.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Cooke, Dominic",
+      "Game of Thrones (TV Program)",
+      "Game of Thrones: The Mad King (Play)",
+      "Macmillan, Duncan",
+      "Martin, George R R",
+      "Royal Shakespeare Co",
+      "Stratford-upon-Avon (England)",
+      "Theater",
+      "books"
+    ],
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
+  },
+  {
+    "id": "97ada6acfa1b2670f7bf999bf3e86368",
+    "title": "Could a couch-to-5k for books get you back into reading?",
+    "author": "Naomi Alderman",
+    "description": "With smartphones stealing our attention, we’re picking up fewer books than ever. A novelist shares her eight-week scheme to get you back into the habit Do you feel that it’s harder to read than it used to be? Not harder to read emails, texts and social media posts, of course. We’re reading those all day long. Harder to sit down and lose yourself in a book? How long is it since you even sat down with a weekend newspaper and read it cover to cover? Do you feel that you used to have a life-sustaining reading habit, everything from fun popcorn novels to serious nonfiction, classic and contemporary, many genres and writers, but somehow it’s gone away? It doesn’t feel like a decision that you made. It just happened. I feel like that. At least more like that than I’m comfortable with. I’m a novelist and I present programs about thinking on the BBC, and yet even I am finding that I’m reading less than I used to. It seems more of an effort and less of a consistent, persistent habit than it was. I hate this feeling. I still have the habit of acquiring books, buying them, getting them from libraries, being sent them. And I do still read. Compared with many people, I probably read an...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Education",
+      "Health",
+      "Literacy"
+    ],
+    "genre": [
+      "Fiction",
+      "Nonfiction"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-08-02",
+    "thumbnail": "https://i.guim.co.uk/img/media/4a9d5ac79a626240bd7fd3c9d15b7f617701752b/308_0_5160_4128/master/5160.jpg?width=700&quality=85&auto=format&fit=max&s=4b4d159151465b564fc04cb1c9be1725",
+    "cover_large": "https://i.guim.co.uk/img/media/4a9d5ac79a626240bd7fd3c9d15b7f617701752b/308_0_5160_4128/master/5160.jpg?width=700&quality=85&auto=format&fit=max&s=4b4d159151465b564fc04cb1c9be1725",
+    "article_url": "https://www.theguardian.com/books/2026/aug/02/could-a-couch-to-5k-for-books-get-you-back-into-reading",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Education",
+      "Health",
+      "Literacy",
+      "books"
+    ],
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
+  },
+  {
+    "id": "5700621956db8bd8cf67f45f8a9c686c",
+    "title": "Tom Gauld on how to be a top reader",
+    "author": "Tom Gauld",
+    "description": "Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Comedy",
+      "Culture",
+      "Illustration"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-08-02",
+    "thumbnail": "https://i.guim.co.uk/img/media/da5f1f3f985d9ea090d1dd074d5678bd6a705779/3618_212_850_680/master/850.png?width=700&quality=85&auto=format&fit=max&s=e1a1ad1fc27165931a2b3603e5bd45f1",
+    "cover_large": "https://i.guim.co.uk/img/media/da5f1f3f985d9ea090d1dd074d5678bd6a705779/3618_212_850_680/master/850.png?width=700&quality=85&auto=format&fit=max&s=e1a1ad1fc27165931a2b3603e5bd45f1",
+    "article_url": "https://www.theguardian.com/books/picture/2026/aug/02/tom-gauld-on-how-to-be-a-top-reader-cartoon",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Comedy",
+      "Culture",
+      "Illustration",
+      "books"
+    ],
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
+  },
+  {
     "id": "97bbea32ea33bad3d36c4a2335faaea4",
     "title": "Book Club: Let’s Talk About ‘John of John’",
     "author": "",
@@ -26,8 +203,8 @@
       "Stuart, Douglas (Author)",
       "books"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "a517d2371ea48657bf9f4673bbcb62da",
@@ -70,8 +247,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "67d2494b97011b6241e7994d58437404",
@@ -105,8 +282,8 @@
       "Pulitzer prize",
       "books"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "c686f965ffea347eb425a70858a2dfec",
@@ -149,8 +326,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "e45216f4306048da054809cec0a3bce9",
@@ -182,8 +359,8 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "a6b1ea3a7951c67cc83fc97de77405bb",
@@ -222,8 +399,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "d960889d8001f20c1b1032ca59bbb49c",
@@ -260,48 +437,8 @@
       "Wilderness Areas",
       "books"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
-  },
-  {
-    "id": "0f89cc9455f1bce99a04c0bba447bf64",
-    "title": "It’s ‘Game of Thrones,’ on Shakespeare’s Stage",
-    "author": "Alexis Soloski",
-    "description": "As the hit series keeps expanding, an ambitious stage adaptation of George R.R. Martin’s prequel saga has found a natural home at the Royal Shakespeare Company.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Cooke, Dominic",
-      "Game Of Thrones (Tv Program)",
-      "Game Of Thrones: The Mad King (Play)",
-      "Macmillan, Duncan",
-      "Martin, George R R",
-      "Royal Shakespeare Co",
-      "Stratford-Upon-Avon (England)",
-      "Theater"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Macmillan",
-    "published_date": "2026-07-31",
-    "thumbnail": "https://static01.nyt.com/images/2026/08/02/multimedia/02cul-mad-king-theater-tcvh/02cul-mad-king-theater-tcvh-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/08/02/multimedia/02cul-mad-king-theater-tcvh/02cul-mad-king-theater-tcvh-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/30/theater/game-of-thrones-mad-king-royal-shakespeare.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Cooke, Dominic",
-      "Game of Thrones (TV Program)",
-      "Game of Thrones: The Mad King (Play)",
-      "Macmillan, Duncan",
-      "Martin, George R R",
-      "Royal Shakespeare Co",
-      "Stratford-upon-Avon (England)",
-      "Theater",
-      "books"
-    ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "d7d0d6268dc63b7b922f2065c09b2dd2",
@@ -338,8 +475,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "09947ebf638a547c06e921f5aa2a0530",
@@ -371,8 +508,8 @@
       "Max Porter",
       "books"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "ebd9b43013537156c145a15a26db99af",
@@ -408,8 +545,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "4867f982a7cc3685688845ab9bc5067c",
@@ -439,8 +576,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "b9c340a7917651f5d9c857824bb124b7",
@@ -466,39 +603,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
-  },
-  {
-    "id": "4ca3ff2f4b0e5da98211501b5acf0502",
-    "title": "The best recent poetry",
-    "author": "Philip Terry",
-    "description": "Small Birds Singing by Matthew Welton; The Channel by Jana Prikryl; Stepmother by Helen Mort; Drunken Driving by Martina Evans Small Birds Singing by Matthew Welton (Carcanet, £12.99) Written in unrhymed couplets that shrink and grow across the page like a concertina going through its scales, Welton’s poems focus attention on the city through the seasons: weeds through concrete, wasps emerging from the gaps between bricks, frozen towels on a clothesline, the shadows of jackdaws on a lawn. His gaze is neutral, and it often falls on that which we’d normally turn away from, things slightly out of place, or that disturb our sense of propriety: “more cardboard in the recycling bin / than the recycling bin can contain”. This is a poetry of things, like the poetry of Francis Ponge, but as Welton says: “no thinginess without thought”. Welton’s thoughts – though whether they are his or whether they emerge from his surroundings or from the act of writing itself, it is impossible to say – are couched in deliciously riddling couplets: “it is not the habit of patterns / to emphasise the pattern of habits”. He reminds us forcefully that poetry is all around us and within us, that anything can...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Poetry"
-    ],
-    "genre": [
-      "Poetry"
-    ],
-    "language": "English",
-    "publisher": "Guardianbookshop",
-    "published_date": "2026-07-31",
-    "thumbnail": "https://i.guim.co.uk/img/media/2ebaf9d4be316da41c749ab70c203b77f3f4928e/89_19_4421_3537/master/4421.jpg?width=700&quality=85&auto=format&fit=max&s=8d20572788491e57e4c921ae47caa24e",
-    "cover_large": "https://i.guim.co.uk/img/media/2ebaf9d4be316da41c749ab70c203b77f3f4928e/89_19_4421_3537/master/4421.jpg?width=700&quality=85&auto=format&fit=max&s=8d20572788491e57e4c921ae47caa24e",
-    "article_url": "https://www.guardianbookshop.com/small-birds-singing-9781800175594/?amp%3Butm_medium=merch&amp%3Butm_campaign=article",
-    "source": "Guardianbookshop",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Poetry",
-      "books"
-    ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "d8011041e343dbe8c5a631c4cb86dbdd",
@@ -537,8 +643,8 @@
       "Yuppies: The Bankers, Lawyers, Joggers and Gourmands Who Conquered New York (Book)",
       "books"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "d168d034ae5cc34ff7c4226317be2b80",
@@ -571,8 +677,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "16e441952c5bd9586861e71942b2b165",
@@ -615,88 +721,8 @@
       "books",
       "genre-books-historical-fiction"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
-  },
-  {
-    "id": "b0f783aad5627ebc47dd8670ff5fe2a7",
-    "title": "Mario Vargas Llosa by Gerald Martin review",
-    "author": "Pratinav Anil",
-    "description": "This stylish biography of the author traces his journey from left to right, and from ‘posh Lima’ to Cricklewood “At what precise moment had Peru fucked itself up?” Those words on the opening page of Conversation in the Cathedral announced the arrival of a writer who understood that national history could become the organising principle of fiction. At precisely the moment when Latin America was discovering the intoxicating possibilities of magical realism – a form whose exuberance had an elective affinity with revolutionary politics, collapsing the distinction between the marvellous and the possible – Mario Vargas Llosa plumped for old-fashioned realism instead. It was a question of sensibility as much as politics, Gerald Martin suggests in this chatty yet coolly analytical biography. He traces the path of a novelist who began by dissecting oligarchy with surgical precision and ended happily dining among its ranks, completing one of literary history’s most spectacular political migrations – from the hard left to the hard right, over the course of half a century. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Biography Books",
-      "Books",
-      "Culture",
-      "Mario Vargas Llosa"
-    ],
-    "genre": [
-      "Biography",
-      "Fiction",
-      "History",
-      "Politics"
-    ],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-07-30",
-    "thumbnail": "https://i.guim.co.uk/img/media/caba2a58bfdacd48d1313afa075578b64854014b/22_863_2721_2176/master/2721.jpg?width=700&quality=85&auto=format&fit=max&s=1a758572985807a430c731650f4a746d",
-    "cover_large": "https://i.guim.co.uk/img/media/caba2a58bfdacd48d1313afa075578b64854014b/22_863_2721_2176/master/2721.jpg?width=700&quality=85&auto=format&fit=max&s=1a758572985807a430c731650f4a746d",
-    "article_url": "https://www.theguardian.com/books/2026/jul/30/mario-vargas-llosa-by-gerald-martin-review-the-passions-and-politics-of-perus-nobel-laureate",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Biography books",
-      "Books",
-      "Culture",
-      "Mario Vargas Llosa",
-      "books"
-    ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
-  },
-  {
-    "id": "d963e63b42291dcef8c46cd8df71ace9",
-    "title": "Book Review: ‘Liberation Summer,’ by Micki McElya",
-    "author": "Katie Roiphe",
-    "description": "A new book by the historian Micki McElya considers how the politics of beauty both shaped and divided the women’s movement.",
-    "summary_ai": "",
-    "categories": [
-      "Beauty (Concept)",
-      "Books",
-      "Books And Literature",
-      "Friedan, Betty",
-      "Kennedy, Florynce",
-      "Liberation Summer: The Moment That Changed The Women'S Movement And The Future Of American Politics (Book)",
-      "Mcelya, Micki",
-      "Miss America Organization",
-      "United States",
-      "Women'S Rights"
-    ],
-    "genre": [
-      "Politics"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-28",
-    "thumbnail": "https://static01.nyt.com/images/2026/08/09/multimedia/09TBR-McElya-review/09TBR-McElya-review-mediumSquareAt3X-v2.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/08/09/multimedia/09TBR-McElya-review/09TBR-McElya-review-mediumSquareAt3X-v2.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/28/books/review/liberation-summer-micki-mcelya.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Beauty (Concept)",
-      "Books and Literature",
-      "Friedan, Betty",
-      "Kennedy, Florynce",
-      "Liberation Summer: The Moment That Changed the Women's Movement and the Future of American Politics (Book)",
-      "McElya, Micki",
-      "Miss America Organization",
-      "United States",
-      "Women's Rights",
-      "books"
-    ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "ba7233a7b9366648e084b0244aea0041",
@@ -724,8 +750,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "f6ab3ffd755355fab8824c66057f1a5b",
@@ -757,8 +783,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "9658d6e1ef1900f38007243e280d6b7f",
@@ -789,8 +815,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "af9abbd40d1ece241f2398628987f883",
@@ -824,8 +850,8 @@
       "The Hours",
       "books"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "1a01adacf102f08e18ad0c9aacce6bbc",
@@ -858,8 +884,8 @@
       "Travel writing",
       "books"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "35c5412c611a0d60482500b9411080f0",
@@ -893,8 +919,8 @@
       "The far right",
       "books"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "524c605cd8982891e747fe848342f8df",
@@ -936,8 +962,8 @@
       "True crime books",
       "books"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -967,8 +993,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1007,8 +1033,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   },
   {
     "id": "755ba738881478773c8491c271f5d902",
@@ -1035,49 +1061,7 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
-  },
-  {
-    "id": "f0a8987fb7322e3a0dc23bf36fa062e5",
-    "title": "Martin Amis: An Appreciation",
-    "author": "A.O. Scott",
-    "description": "Our critic assesses the achievement of Martin Amis, Britain’s most famous literary son.",
-    "summary_ai": "",
-    "categories": [
-      "Amis, Martin",
-      "Audio-Neutral-Informative",
-      "Books",
-      "Books And Literature",
-      "Content Type: Personal Profile",
-      "Inside Story (Book)",
-      "London Fields (Book)",
-      "The Information (Book)",
-      "The Rachel Papers (Book)",
-      "Writing And Writers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2023-05-22",
-    "thumbnail": "https://static01.nyt.com/images/2023/06/11/books/review/22AMIS-APPRECIATION/22AMIS-APPRECIATION-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2023/06/11/books/review/22AMIS-APPRECIATION/22AMIS-APPRECIATION-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2023/05/22/books/review/martin-amis.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Amis, Martin",
-      "Books and Literature",
-      "Content Type: Personal Profile",
-      "Inside Story (Book)",
-      "London Fields (Book)",
-      "The Information (Book)",
-      "The Rachel Papers (Book)",
-      "Writing and Writers",
-      "audio-neutral-informative",
-      "books"
-    ],
-    "created_at": "2026-08-02T08:22:28+00:00",
-    "updated_at": "2026-08-02T08:22:28Z"
+    "created_at": "2026-08-02T19:03:00+00:00",
+    "updated_at": "2026-08-02T19:03:00Z"
   }
 ]
