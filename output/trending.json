@@ -1,5 +1,35 @@
 [
   {
+    "id": "97bbea32ea33bad3d36c4a2335faaea4",
+    "title": "Book Club: Let’s Talk About ‘John of John’",
+    "author": "",
+    "description": "Douglas Stuart’s latest novel follows a profoundly isolated father and son, each grappling with long-held secrets.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "John Of John (Book)",
+      "Stuart, Douglas (Author)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-08-01",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/31/podcasts/31TBR-pod-douglas-stuart-book-club/31TBR-pod-douglas-stuart-book-club-mediumSquareAt3X.png",
+    "cover_large": "https://static01.nyt.com/images/2026/07/31/podcasts/31TBR-pod-douglas-stuart-book-club/31TBR-pod-douglas-stuart-book-club-mediumSquareAt3X.png",
+    "article_url": "https://www.nytimes.com/2026/07/31/books/review/podcast-john-of-john-douglas-stuart-book-club.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "John of John (Book)",
+      "Stuart, Douglas (Author)",
+      "books"
+    ],
+    "created_at": "2026-08-02T08:22:28+00:00",
+    "updated_at": "2026-08-02T08:22:28Z"
+  },
+  {
     "id": "a517d2371ea48657bf9f4673bbcb62da",
     "title": "Emily Wilson’s Pan of ‘The Odyssey’ Ignites a Debate Among Classicists and Commenters",
     "author": "Neil Vigdor",
@@ -40,8 +70,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-08-01T19:01:31+00:00",
-    "updated_at": "2026-08-01T19:01:31Z"
+    "created_at": "2026-08-02T08:22:28+00:00",
+    "updated_at": "2026-08-02T08:22:28Z"
   },
   {
     "id": "67d2494b97011b6241e7994d58437404",
@@ -75,8 +105,8 @@
       "Pulitzer prize",
       "books"
     ],
-    "created_at": "2026-08-01T19:01:31+00:00",
-    "updated_at": "2026-08-01T19:01:31Z"
+    "created_at": "2026-08-02T08:22:28+00:00",
+    "updated_at": "2026-08-02T08:22:28Z"
   },
   {
     "id": "c686f965ffea347eb425a70858a2dfec",
@@ -92,11 +122,8 @@
       "Civil Rights Movement (1954-68)",
       "Deaths (Obituaries)",
       "Education (K-12)",
-      "Louisiana",
-      "Race And Ethnicity",
       "Teachers And School Employees",
       "Walter, Mildred Pitts",
-      "Watts (Los Angeles, Calif)",
       "Writing And Writers"
     ],
     "genre": [
@@ -117,46 +144,13 @@
       "Civil Rights Movement (1954-68)",
       "Deaths (Obituaries)",
       "Education (K-12)",
-      "Louisiana",
-      "Race and Ethnicity",
       "Teachers and School Employees",
       "Walter, Mildred Pitts",
-      "Watts (Los Angeles, Calif)",
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-08-01T19:01:31+00:00",
-    "updated_at": "2026-08-01T19:01:31Z"
-  },
-  {
-    "id": "97bbea32ea33bad3d36c4a2335faaea4",
-    "title": "Book Club: Let’s Talk About ‘John of John’",
-    "author": "",
-    "description": "Douglas Stuart’s latest novel follows a profoundly isolated father and son, each grappling with long-held secrets.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "John Of John (Book)",
-      "Stuart, Douglas (Author)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-31",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/31/podcasts/31TBR-pod-douglas-stuart-book-club/31TBR-pod-douglas-stuart-book-club-mediumSquareAt3X.png",
-    "cover_large": "https://static01.nyt.com/images/2026/07/31/podcasts/31TBR-pod-douglas-stuart-book-club/31TBR-pod-douglas-stuart-book-club-mediumSquareAt3X.png",
-    "article_url": "https://www.nytimes.com/2026/07/31/books/review/podcast-john-of-john-douglas-stuart-book-club.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "John of John (Book)",
-      "Stuart, Douglas (Author)",
-      "books"
-    ],
-    "created_at": "2026-08-01T19:01:31+00:00",
-    "updated_at": "2026-08-01T19:01:31Z"
+    "created_at": "2026-08-02T08:22:28+00:00",
+    "updated_at": "2026-08-02T08:22:28Z"
   },
   {
     "id": "e45216f4306048da054809cec0a3bce9",
@@ -188,8 +182,8 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-08-01T19:01:31+00:00",
-    "updated_at": "2026-08-01T19:01:31Z"
+    "created_at": "2026-08-02T08:22:28+00:00",
+    "updated_at": "2026-08-02T08:22:28Z"
   },
   {
     "id": "a6b1ea3a7951c67cc83fc97de77405bb",
@@ -228,8 +222,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-08-01T19:01:31+00:00",
-    "updated_at": "2026-08-01T19:01:31Z"
+    "created_at": "2026-08-02T08:22:28+00:00",
+    "updated_at": "2026-08-02T08:22:28Z"
   },
   {
     "id": "d960889d8001f20c1b1032ca59bbb49c",
@@ -266,8 +260,8 @@
       "Wilderness Areas",
       "books"
     ],
-    "created_at": "2026-08-01T19:01:31+00:00",
-    "updated_at": "2026-08-01T19:01:31Z"
+    "created_at": "2026-08-02T08:22:28+00:00",
+    "updated_at": "2026-08-02T08:22:28Z"
   },
   {
     "id": "0f89cc9455f1bce99a04c0bba447bf64",
@@ -306,8 +300,8 @@
       "Theater",
       "books"
     ],
-    "created_at": "2026-08-01T19:01:31+00:00",
-    "updated_at": "2026-08-01T19:01:31Z"
+    "created_at": "2026-08-02T08:22:28+00:00",
+    "updated_at": "2026-08-02T08:22:28Z"
   },
   {
     "id": "d7d0d6268dc63b7b922f2065c09b2dd2",
@@ -344,8 +338,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-08-01T19:01:31+00:00",
-    "updated_at": "2026-08-01T19:01:31Z"
+    "created_at": "2026-08-02T08:22:28+00:00",
+    "updated_at": "2026-08-02T08:22:28Z"
   },
   {
     "id": "09947ebf638a547c06e921f5aa2a0530",
@@ -377,8 +371,8 @@
       "Max Porter",
       "books"
     ],
-    "created_at": "2026-08-01T19:01:31+00:00",
-    "updated_at": "2026-08-01T19:01:31Z"
+    "created_at": "2026-08-02T08:22:28+00:00",
+    "updated_at": "2026-08-02T08:22:28Z"
   },
   {
     "id": "ebd9b43013537156c145a15a26db99af",
@@ -414,8 +408,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-08-01T19:01:31+00:00",
-    "updated_at": "2026-08-01T19:01:31Z"
+    "created_at": "2026-08-02T08:22:28+00:00",
+    "updated_at": "2026-08-02T08:22:28Z"
   },
   {
     "id": "4867f982a7cc3685688845ab9bc5067c",
@@ -445,8 +439,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-08-01T19:01:31+00:00",
-    "updated_at": "2026-08-01T19:01:31Z"
+    "created_at": "2026-08-02T08:22:28+00:00",
+    "updated_at": "2026-08-02T08:22:28Z"
   },
   {
     "id": "b9c340a7917651f5d9c857824bb124b7",
@@ -472,8 +466,8 @@
       "Culture",
       "books"
     ],
-    "created_at": "2026-08-01T19:01:31+00:00",
-    "updated_at": "2026-08-01T19:01:31Z"
+    "created_at": "2026-08-02T08:22:28+00:00",
+    "updated_at": "2026-08-02T08:22:28Z"
   },
   {
     "id": "4ca3ff2f4b0e5da98211501b5acf0502",
@@ -503,8 +497,8 @@
       "Poetry",
       "books"
     ],
-    "created_at": "2026-08-01T19:01:31+00:00",
-    "updated_at": "2026-08-01T19:01:31Z"
+    "created_at": "2026-08-02T08:22:28+00:00",
+    "updated_at": "2026-08-02T08:22:28Z"
   },
   {
     "id": "70f67e2ae2923b804a70357082c5b0c3",
@@ -545,8 +539,8 @@
       "time loop",
       "time-loop"
     ],
-    "created_at": "2026-08-01T19:01:31+00:00",
-    "updated_at": "2026-08-01T19:01:31Z"
+    "created_at": "2026-08-02T08:22:28+00:00",
+    "updated_at": "2026-08-02T08:22:28Z"
   },
   {
     "id": "a09232d8a090bb50551593057cf5ed80",
@@ -575,8 +569,8 @@
       "The Fright Stuff",
       "reviews"
     ],
-    "created_at": "2026-08-01T19:01:31+00:00",
-    "updated_at": "2026-08-01T19:01:31Z"
+    "created_at": "2026-08-02T08:22:28+00:00",
+    "updated_at": "2026-08-02T08:22:28Z"
   },
   {
     "id": "ccd2cbae502c83cecadc440ec2a38499",
@@ -599,8 +593,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-08-01T19:01:31+00:00",
-    "updated_at": "2026-08-01T19:01:31Z"
+    "created_at": "2026-08-02T08:22:28+00:00",
+    "updated_at": "2026-08-02T08:22:28Z"
   },
   {
     "id": "a4e96606c32e07b1ea7f009102d38b7e",
@@ -623,8 +617,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-08-01T19:01:31+00:00",
-    "updated_at": "2026-08-01T19:01:31Z"
+    "created_at": "2026-08-02T08:22:28+00:00",
+    "updated_at": "2026-08-02T08:22:28Z"
   },
   {
     "id": "70b9e9fd1e2a4d1f57f42320c3aa4521",
@@ -647,8 +641,8 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-08-01T19:01:31+00:00",
-    "updated_at": "2026-08-01T19:01:31Z"
+    "created_at": "2026-08-02T08:22:28+00:00",
+    "updated_at": "2026-08-02T08:22:28Z"
   },
   {
     "id": "322952a09bd81a616ffdecb5cb01cd3e",
@@ -679,7 +673,7 @@
       "News",
       "reviews"
     ],
-    "created_at": "2026-08-01T19:01:31+00:00",
-    "updated_at": "2026-08-01T19:01:31Z"
+    "created_at": "2026-08-02T08:22:28+00:00",
+    "updated_at": "2026-08-02T08:22:28Z"
   }
 ]
