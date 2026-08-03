@@ -1,5 +1,101 @@
 [
   {
+    "id": "92f93892a615308eaec4aac811f70f27",
+    "title": "Book Review: ‘Voices From the Kitchen'",
+    "author": "Dwight Garner",
+    "description": "Food books by chefs and celebrities arrive by the landslide. “Voices From the Kitchen” highlights workers who get far less attention.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Meyer, Marc",
+      "Voices From The Kitchen: Personal Narratives From New Yorks Immigrant Restaurant Workers (Book)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "the Kitchen' Food books",
+    "published_date": "2026-08-03",
+    "thumbnail": "https://static01.nyt.com/images/2026/08/03/multimedia/03TBR-meyer-review-hbkg/03TBR-meyer-review-hbkg-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/08/03/multimedia/03TBR-meyer-review-hbkg/03TBR-meyer-review-hbkg-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/08/03/books/review/voices-from-the-kitchen-marc-meyer.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Meyer, Marc",
+      "Voices From the Kitchen: Personal Narratives From New Yorks Immigrant Restaurant Workers (Book)",
+      "books"
+    ],
+    "created_at": "2026-08-03T09:41:53+00:00",
+    "updated_at": "2026-08-03T09:41:53Z"
+  },
+  {
+    "id": "b3677793373f6252dfb51da408e49ccf",
+    "title": "The August Coup by Robert Service review",
+    "author": "John Simpson",
+    "description": "This brilliant account of attempts by the old guard to take back control captures the ludicrousness of it all beautifully Marxist-Leninist rule in Russia lasted 74 years, and in August 1991 it effectively collapsed in just three days: clear evidence of how hollowed out it had become. In the period that followed, Russia tried parliamentary democracy and unalloyed capitalism, then sank back into autocracy. Now it’s struggling under a wholly unnecessary war against its neighbour and former possession, Ukraine. Why did the system of Lenin, Stalin, Khrushchev and Brezhnev vanish so fast, without a fight? Because that’s how regimes fall in Russia: look at tsarism in 1917. (It almost happened again in June 2023, when the warlord Yevgeny Prigozhin’s men marched on Moscow largely unopposed; Vladimir Putin might have gone the way of Nicholas II had he not made some pretty wholesale promises to Prigozhin, then allegedly blown him up two months later.) Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Europe",
+      "History Books",
+      "Russia",
+      "World News"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-08-03",
+    "thumbnail": "https://i.guim.co.uk/img/media/c60a53fd33b60b594494c7d995208c8ef96f61c1/424_0_4629_3704/master/4629.jpg?width=700&quality=85&auto=format&fit=max&s=011c0a8f59b1da9aa99580b374ddc766",
+    "cover_large": "https://i.guim.co.uk/img/media/c60a53fd33b60b594494c7d995208c8ef96f61c1/424_0_4629_3704/master/4629.jpg?width=700&quality=85&auto=format&fit=max&s=011c0a8f59b1da9aa99580b374ddc766",
+    "article_url": "https://www.theguardian.com/books/2026/aug/03/the-august-coup-by-robert-service-review-the-drink-soaked-collapse-of-the-soviet-union",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Europe",
+      "History books",
+      "Russia",
+      "World news",
+      "books"
+    ],
+    "created_at": "2026-08-03T09:41:53+00:00",
+    "updated_at": "2026-08-03T09:41:53Z"
+  },
+  {
+    "id": "6ce5ca696d7d3a165db7655116726a1c",
+    "title": "Exhibition by Alex Hyde review",
+    "author": "Keiran Goddard",
+    "description": "London’s 90s art scene forms the backdrop to this tale of a complex relationship between two artists whose identities become entangled in their creative collaboration For all the wrong reasons, Damien Hirst’s Shark (The Physical Impossibility of Death in the Mind of Someone Living) has a claim to being the most prescient British artwork of the last half-century: a grim parable of neoliberalism. In 1991, it was still possible to mistake the predatory violence of that system for a kind of animal vitality. But today, open-mouthed, dead-eyed and decayed, it speaks only of a regime preserved far beyond its natural lifespan, lauded exclusively by institutions that can profit from its ugliness. Alex Hyde’s second novel, an elegant Künstlerroman which plays out during a lightly fictionalised version of the YBA explosion, explores the resonance of that particular cultural inflection point: a moment when the collapse of the postwar cultural settlement, municipal culture and public institutions was transfigured decisively and ubiquitously into individualised, confessional artistic capital. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction"
+    ],
+    "genre": [
+      "Fiction"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-08-03",
+    "thumbnail": "https://i.guim.co.uk/img/media/5d3c989aa888492c65355febab1c6e2222737994/1041_376_2991_2394/master/2991.jpg?width=700&quality=85&auto=format&fit=max&s=d62d6ff26c6bee7ffd3a8a990789eedc",
+    "cover_large": "https://i.guim.co.uk/img/media/5d3c989aa888492c65355febab1c6e2222737994/1041_376_2991_2394/master/2991.jpg?width=700&quality=85&auto=format&fit=max&s=d62d6ff26c6bee7ffd3a8a990789eedc",
+    "article_url": "https://www.theguardian.com/books/2026/aug/03/exhibition-by-alex-hyde-review-an-elegiac-love-letter-to-the-yba-era",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "books"
+    ],
+    "created_at": "2026-08-03T09:41:53+00:00",
+    "updated_at": "2026-08-03T09:41:53Z"
+  },
+  {
     "id": "f75860da5309ed305d559f7d7d3b439f",
     "title": "Book Review: ‘The Story of Your Life,’ by Kathryn Jezer",
     "author": "Alexandra Jacobs",
@@ -28,8 +124,8 @@
       "The Story of Your Life: How Social Media Shapes the Way We Experience Everything (Book)",
       "books"
     ],
-    "created_at": "2026-08-02T19:03:00+00:00",
-    "updated_at": "2026-08-02T19:03:00Z"
+    "created_at": "2026-08-03T09:41:53+00:00",
+    "updated_at": "2026-08-03T09:41:53Z"
   },
   {
     "id": "fd483428cd739088160895921dbde9fb",
@@ -66,8 +162,8 @@
       "books",
       "van den Berg, Laura"
     ],
-    "created_at": "2026-08-02T19:03:00+00:00",
-    "updated_at": "2026-08-02T19:03:00Z"
+    "created_at": "2026-08-03T09:41:53+00:00",
+    "updated_at": "2026-08-03T09:41:53Z"
   },
   {
     "id": "0f89cc9455f1bce99a04c0bba447bf64",
@@ -106,8 +202,8 @@
       "Theater",
       "books"
     ],
-    "created_at": "2026-08-02T19:03:00+00:00",
-    "updated_at": "2026-08-02T19:03:00Z"
+    "created_at": "2026-08-03T09:41:53+00:00",
+    "updated_at": "2026-08-03T09:41:53Z"
   },
   {
     "id": "97ada6acfa1b2670f7bf999bf3e86368",
@@ -142,39 +238,8 @@
       "Literacy",
       "books"
     ],
-    "created_at": "2026-08-02T19:03:00+00:00",
-    "updated_at": "2026-08-02T19:03:00Z"
-  },
-  {
-    "id": "5700621956db8bd8cf67f45f8a9c686c",
-    "title": "Tom Gauld on how to be a top reader",
-    "author": "Tom Gauld",
-    "description": "Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Comedy",
-      "Culture",
-      "Illustration"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-08-02",
-    "thumbnail": "https://i.guim.co.uk/img/media/da5f1f3f985d9ea090d1dd074d5678bd6a705779/3618_212_850_680/master/850.png?width=700&quality=85&auto=format&fit=max&s=e1a1ad1fc27165931a2b3603e5bd45f1",
-    "cover_large": "https://i.guim.co.uk/img/media/da5f1f3f985d9ea090d1dd074d5678bd6a705779/3618_212_850_680/master/850.png?width=700&quality=85&auto=format&fit=max&s=e1a1ad1fc27165931a2b3603e5bd45f1",
-    "article_url": "https://www.theguardian.com/books/picture/2026/aug/02/tom-gauld-on-how-to-be-a-top-reader-cartoon",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Comedy",
-      "Culture",
-      "Illustration",
-      "books"
-    ],
-    "created_at": "2026-08-02T19:03:00+00:00",
-    "updated_at": "2026-08-02T19:03:00Z"
+    "created_at": "2026-08-03T09:41:53+00:00",
+    "updated_at": "2026-08-03T09:41:53Z"
   },
   {
     "id": "97bbea32ea33bad3d36c4a2335faaea4",
@@ -203,8 +268,8 @@
       "Stuart, Douglas (Author)",
       "books"
     ],
-    "created_at": "2026-08-02T19:03:00+00:00",
-    "updated_at": "2026-08-02T19:03:00Z"
+    "created_at": "2026-08-03T09:41:53+00:00",
+    "updated_at": "2026-08-03T09:41:53Z"
   },
   {
     "id": "a517d2371ea48657bf9f4673bbcb62da",
@@ -247,8 +312,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-08-02T19:03:00+00:00",
-    "updated_at": "2026-08-02T19:03:00Z"
+    "created_at": "2026-08-03T09:41:53+00:00",
+    "updated_at": "2026-08-03T09:41:53Z"
   },
   {
     "id": "67d2494b97011b6241e7994d58437404",
@@ -282,8 +347,8 @@
       "Pulitzer prize",
       "books"
     ],
-    "created_at": "2026-08-02T19:03:00+00:00",
-    "updated_at": "2026-08-02T19:03:00Z"
+    "created_at": "2026-08-03T09:41:53+00:00",
+    "updated_at": "2026-08-03T09:41:53Z"
   },
   {
     "id": "c686f965ffea347eb425a70858a2dfec",
@@ -326,8 +391,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-08-02T19:03:00+00:00",
-    "updated_at": "2026-08-02T19:03:00Z"
+    "created_at": "2026-08-03T09:41:53+00:00",
+    "updated_at": "2026-08-03T09:41:53Z"
   },
   {
     "id": "e45216f4306048da054809cec0a3bce9",
@@ -359,8 +424,8 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-08-02T19:03:00+00:00",
-    "updated_at": "2026-08-02T19:03:00Z"
+    "created_at": "2026-08-03T09:41:53+00:00",
+    "updated_at": "2026-08-03T09:41:53Z"
   },
   {
     "id": "a6b1ea3a7951c67cc83fc97de77405bb",
@@ -399,8 +464,8 @@
       "books",
       "genre-books-childrens"
     ],
-    "created_at": "2026-08-02T19:03:00+00:00",
-    "updated_at": "2026-08-02T19:03:00Z"
+    "created_at": "2026-08-03T09:41:53+00:00",
+    "updated_at": "2026-08-03T09:41:53Z"
   },
   {
     "id": "d960889d8001f20c1b1032ca59bbb49c",
@@ -437,46 +502,8 @@
       "Wilderness Areas",
       "books"
     ],
-    "created_at": "2026-08-02T19:03:00+00:00",
-    "updated_at": "2026-08-02T19:03:00Z"
-  },
-  {
-    "id": "d7d0d6268dc63b7b922f2065c09b2dd2",
-    "title": "The Woman Behind Emma M. Lion",
-    "author": "Courtney Runn",
-    "description": "Beth Brower has been self-publishing for a decade. But her series drawn from the cheeky “journals” of a young woman in Victorian England has been a breakout.",
-    "summary_ai": "",
-    "categories": [
-      "Bloomsbury Publishing Plc",
-      "Book Trade And Publishing",
-      "Books",
-      "Books And Literature",
-      "Brower, Beth (Author)",
-      "Content Type: Personal Profile",
-      "The Unselected Journals Of Emma M Lion (Book)",
-      "Writing And Writers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Bloomsbury",
-    "published_date": "2026-07-31",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/29/multimedia/29tbr-beth-brower3-fhvp/29tbr-beth-brower3-fhvp-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/29/multimedia/29tbr-beth-brower3-fhvp/29tbr-beth-brower3-fhvp-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/29/books/review/beth-brower-unselected-journals-of-emma-m-lion.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Bloomsbury Publishing PLC",
-      "Book Trade and Publishing",
-      "Books and Literature",
-      "Brower, Beth (Author)",
-      "Content Type: Personal Profile",
-      "The Unselected Journals of Emma M Lion (Book)",
-      "Writing and Writers",
-      "books"
-    ],
-    "created_at": "2026-08-02T19:03:00+00:00",
-    "updated_at": "2026-08-02T19:03:00Z"
+    "created_at": "2026-08-03T09:41:53+00:00",
+    "updated_at": "2026-08-03T09:41:53Z"
   },
   {
     "id": "09947ebf638a547c06e921f5aa2a0530",
@@ -508,8 +535,8 @@
       "Max Porter",
       "books"
     ],
-    "created_at": "2026-08-02T19:03:00+00:00",
-    "updated_at": "2026-08-02T19:03:00Z"
+    "created_at": "2026-08-03T09:41:53+00:00",
+    "updated_at": "2026-08-03T09:41:53Z"
   },
   {
     "id": "ebd9b43013537156c145a15a26db99af",
@@ -545,8 +572,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-08-02T19:03:00+00:00",
-    "updated_at": "2026-08-02T19:03:00Z"
+    "created_at": "2026-08-03T09:41:53+00:00",
+    "updated_at": "2026-08-03T09:41:53Z"
   },
   {
     "id": "4867f982a7cc3685688845ab9bc5067c",
@@ -576,35 +603,39 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-08-02T19:03:00+00:00",
-    "updated_at": "2026-08-02T19:03:00Z"
+    "created_at": "2026-08-03T09:41:53+00:00",
+    "updated_at": "2026-08-03T09:41:53Z"
   },
   {
-    "id": "b9c340a7917651f5d9c857824bb124b7",
-    "title": "Jacqueline Crooks: ‘Toni Morrison’s voice made me want to find my own’",
-    "author": "Jacqueline Crooks",
-    "description": "The novelist on learning empathy from Charles Dickens, the playfulness of Irenosen Okojie and avoiding Jane Austen My earliest reading memory I was eight when I was given The Water-Babies by Charles Kingsley, after being moved from my grand­mother’s care to live with my mother and her husband, who I barely knew. The story is about leaving one world, adapting to another. Surviving. It gave shape to unnamed feelings and developed my survival imagination: imagining beyond my circumstances. My favourite book growing up David Copperfield by Charles Dickens. I followed David’s journey from exclusion to belonging. Dickens vivifies his characters; you grow alongside them. The novel taught me empathy, and that some relationships sustain us while others must be left behind. Continue reading...",
+    "id": "8d32a817666a0ee5c2417148f8cfebad",
+    "title": "The Most Read Books on Goodreads in July 2026",
+    "author": "Danika Ellis",
+    "description": "Can you guess the most read books on Goodreads in July? Here's a hint: the top five include thrillers, historical fiction, and book club picks.",
     "summary_ai": "",
     "categories": [
-      "Books",
-      "Culture"
+      "Breaking In Books",
+      "Lists",
+      "Reviews"
     ],
-    "genre": [],
+    "genre": [
+      "Fiction",
+      "Thriller"
+    ],
     "language": "English",
-    "publisher": "One World",
+    "publisher": "Book Riot",
     "published_date": "2026-07-31",
-    "thumbnail": "https://i.guim.co.uk/img/media/5da2fb2886c1bdc59c37cadfe2d6bfed47375f53/511_786_3074_2460/master/3074.jpg?width=700&quality=85&auto=format&fit=max&s=6abf581e32a2db09eb7749737773e975",
-    "cover_large": "https://i.guim.co.uk/img/media/5da2fb2886c1bdc59c37cadfe2d6bfed47375f53/511_786_3074_2460/master/3074.jpg?width=700&quality=85&auto=format&fit=max&s=6abf581e32a2db09eb7749737773e975",
-    "article_url": "https://www.theguardian.com/books/2026/jul/31/jacqueline-crooks-toni-morrisons-voice-made-me-want-to-find-my-own",
-    "source": "The Guardian",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/05/Cool-Machine-A-Novel-The-Harlem-Trilogy-Colson-Whitehead-cover-300x0.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/05/Cool-Machine-A-Novel-The-Harlem-Trilogy-Colson-Whitehead-cover-300x0.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/the-most-read-books-on-goodreads-in-july-2026/",
+    "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Books",
-      "Culture",
-      "books"
+      "Lists",
+      "breaking in books",
+      "reviews"
     ],
-    "created_at": "2026-08-02T19:03:00+00:00",
-    "updated_at": "2026-08-02T19:03:00Z"
+    "created_at": "2026-08-03T09:41:53+00:00",
+    "updated_at": "2026-08-03T09:41:53Z"
   },
   {
     "id": "70f67e2ae2923b804a70357082c5b0c3",
@@ -645,8 +676,8 @@
       "time loop",
       "time-loop"
     ],
-    "created_at": "2026-08-02T19:03:00+00:00",
-    "updated_at": "2026-08-02T19:03:00Z"
+    "created_at": "2026-08-03T09:41:53+00:00",
+    "updated_at": "2026-08-03T09:41:53Z"
   },
   {
     "id": "ccd2cbae502c83cecadc440ec2a38499",
@@ -669,31 +700,7 @@
     "tags": [
       "reviews"
     ],
-    "created_at": "2026-08-02T19:03:00+00:00",
-    "updated_at": "2026-08-02T19:03:00Z"
-  },
-  {
-    "id": "a4e96606c32e07b1ea7f009102d38b7e",
-    "title": "Remembering Irish singer",
-    "author": "Terry Gross",
-    "description": "Best-known for his band The Frames and his part in the 2007 film Once , Hansard got his start as a street busker in Dublin. He died July 29 in a motorcycle crash. Originally broadcast in 2008.",
-    "summary_ai": "",
-    "categories": [
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "NPR Books",
-    "published_date": "2026-07-31",
-    "thumbnail": "",
-    "cover_large": "",
-    "article_url": "https://www.npr.org/2026/07/31/nx-s1-5913715/remembering-irish-singer-songwriter-glen-hansard",
-    "source": "NPR Books",
-    "source_type": "rss",
-    "tags": [
-      "reviews"
-    ],
-    "created_at": "2026-08-02T19:03:00+00:00",
-    "updated_at": "2026-08-02T19:03:00Z"
+    "created_at": "2026-08-03T09:41:53+00:00",
+    "updated_at": "2026-08-03T09:41:53Z"
   }
 ]
