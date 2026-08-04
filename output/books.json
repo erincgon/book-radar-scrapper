@@ -1,7 +1,155 @@
 [
   {
-    "id": "b22da275d38f0bc52bdc6f0a73082d62",
-    "title": "Cambridge Professor’s Jason Arday’s Work Challenged Ahead of Book Launch",
+    "id": "c734fbb4ae52c06f7e6ec7aaf600bd7c",
+    "title": "Book Review: ‘The Ego Trip,’ by Kimon de Greef",
+    "author": "Susannah Cahalan",
+    "description": "Kimon de Greef’s “The Ego Trip” is an enthralling, galling journey into the deeply weird underbelly of the psychedelic renaissance.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "De Greef, Kimon",
+      "Frogs",
+      "Octavio Rettig Hinojosa",
+      "Psychedelic And Hallucinogenic Drugs",
+      "Sonoran Desert",
+      "The Ego Trip: Psychedelic Toads, A Trail Of Deaths, And The Guru Who Peddled Transcendence (Book)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-08-04",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/31/multimedia/00TBR-DeGreef-Review-zfvt/00TBR-DeGreef-Review-zfvt-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/31/multimedia/00TBR-DeGreef-Review-zfvt/00TBR-DeGreef-Review-zfvt-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/08/04/books/review/the-ego-trip-kimon-de-greef.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Frogs",
+      "Octavio Rettig Hinojosa",
+      "Psychedelic and Hallucinogenic Drugs",
+      "Sonoran Desert",
+      "The Ego Trip: Psychedelic Toads, a Trail of Deaths, and the Guru Who Peddled Transcendence (Book)",
+      "books",
+      "de Greef, Kimon"
+    ],
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
+  },
+  {
+    "id": "8c84e4cbd56b4503fa96f6d01d2c832f",
+    "title": "Book Review: ‘Triage,’ by Claudia Rankine",
+    "author": "J Wortham",
+    "description": "Claudia Rankine’s latest autobiographical work, “Triage,” asks how best to effect change in the world.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Rankine, Claudia",
+      "Triage (Book)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-08-04",
+    "thumbnail": "https://static01.nyt.com/images/2026/08/04/books/04TBR-Rankine-Review/04TBR-Rankine-Review-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/08/04/books/04TBR-Rankine-Review/04TBR-Rankine-Review-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/08/04/books/review/triage-claudia-rankine.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Rankine, Claudia",
+      "Triage (Book)",
+      "books"
+    ],
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
+  },
+  {
+    "id": "6953840d7ae6c55a2b9cc2ce31d0dba5",
+    "title": "Book Review: ‘Don’t Be Evil,’ by Claire Stapleton",
+    "author": "Leah Reich",
+    "description": "In “Don’t Be Evil,” Claire Stapleton, a former Google spin doctor, tries to make sense of her time in the industry.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Computers And The Internet",
+      "Content Type: Personal Profile",
+      "Demonstrations, Protests And Riots",
+      "Don'T Be Evil: Bad Bosses, Fake Promises, And My Escape From Big Tech (Book)",
+      "Google Inc",
+      "Labor And Jobs",
+      "Sexual Harassment",
+      "Stapleton, Claire",
+      "Workplace Hazards And Violations",
+      "Youtube.Com"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-08-04",
+    "thumbnail": "https://static01.nyt.com/images/2026/08/16/multimedia/16TBR-Stapleton-Review-fqtg/04TBR-Stapleton-Review-fqtg-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/08/16/multimedia/16TBR-Stapleton-Review-fqtg/04TBR-Stapleton-Review-fqtg-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/08/04/books/review/dont-be-evil-claire-stapleton.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Computers and the Internet",
+      "Content Type: Personal Profile",
+      "Demonstrations, Protests and Riots",
+      "Don't Be Evil: Bad Bosses, Fake Promises, and My Escape From Big Tech (Book)",
+      "Google Inc",
+      "Labor and Jobs",
+      "Sexual Harassment",
+      "Stapleton, Claire",
+      "Workplace Hazards and Violations",
+      "YouTube.com",
+      "books"
+    ],
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
+  },
+  {
+    "id": "b5d910dbec7f08cf72fcab27bb547ced",
+    "title": "Book Review: ‘All That Is Left of Life,’ by Roberta Recchia",
+    "author": "Alexis Schaitkin",
+    "description": "The Italian best seller “All That Is Left of Life” is a cinematic family drama set in the summer of 1980.",
+    "summary_ai": "",
+    "categories": [
+      "All That Is Left Of Life (Book)",
+      "Books",
+      "Books And Literature",
+      "Lettieri, Antonella",
+      "Recchia, Roberta"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-08-04",
+    "thumbnail": "https://static01.nyt.com/images/2026/08/16/multimedia/16tbr-recchia-review1-hpvb/04tbr-recchia-review1-hpvb-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/08/16/multimedia/16tbr-recchia-review1-hpvb/04tbr-recchia-review1-hpvb-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/08/04/books/review/all-that-is-left-of-life-roberta-recchia.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "All That Is Left of Life (Book)",
+      "Books and Literature",
+      "Lettieri, Antonella",
+      "Recchia, Roberta",
+      "books"
+    ],
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
+  },
+  {
+    "id": "e8e93c291c793f766b7aa8ba67f8344e",
+    "title": "Cambridge Professor Jason Arday’s Work Challenged Ahead of Book Launch",
     "author": "Jennifer Schuessler and Alexandra Alter",
     "description": "A knife-wielding masked man. A pig’s head outside his parents’ door. Running 30 marathons in 35 days. The Cambridge professor Jason Arday, accused of plagiarism, says he’s been through it all. Not everyone believes him.",
     "summary_ai": "",
@@ -46,8 +194,125 @@
       "Simon & Schuster Inc",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
+  },
+  {
+    "id": "969cda2ab05899b77202ade4dd3c8e0d",
+    "title": "Mary de Rachewiltz, Ezra Pound’s Daughter and Defender, Dies at 101",
+    "author": "Trip Gabriel",
+    "description": "Sent away as a baby, she remained loyal to her famous father, translating his poetry while fighting to distinguish his literary legacy from his fascist politics.",
+    "summary_ai": "",
+    "categories": [
+      "Anti-Semitism",
+      "Books",
+      "Books And Literature",
+      "De Rachewiltz, Mary",
+      "Deaths (Obituaries)",
+      "Italy",
+      "Poetry And Poets",
+      "Pound, Ezra",
+      "World War Ii (1939-45)"
+    ],
+    "genre": [
+      "Poetry",
+      "Politics"
+    ],
+    "language": "English",
+    "publisher": "his fascist politics. Anti-Semitism Books",
+    "published_date": "2026-08-04",
+    "thumbnail": "https://static01.nyt.com/images/2026/08/03/multimedia/03Rachewiltz-01-clbp/03Rachewiltz-01-clbp-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/08/03/multimedia/03Rachewiltz-01-clbp/03Rachewiltz-01-clbp-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/08/03/books/mary-de-rachewiltz-dead.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Anti-Semitism",
+      "Books and Literature",
+      "Deaths (Obituaries)",
+      "Italy",
+      "Poetry and Poets",
+      "Pound, Ezra",
+      "World War II (1939-45)",
+      "books",
+      "de Rachewiltz, Mary"
+    ],
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
+  },
+  {
+    "id": "b5b684de20d119660c4e6482c8cc23ea",
+    "title": "Christopher Nolan’s The Odyssey gives UK poetry sales an epic boost",
+    "author": "Emma Loffhagen",
+    "description": "Poetry sales surpassed £8m in the first 30 weeks of 2026 and are expected to reach a record high this year thanks to blockbuster adaptation of Homer’s 2,700-year-old poem UK poetry sales are on course to reach a record high this year, buoyed by the success of Christopher Nolan’s blockbuster film adaptation of Homer’s The Odyssey. Poetry sales surpassed £8m during the first 30 weeks of 2026, an increase of 13.3% on the same period last year, according to data from market researchers NielsenIQ. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Christopher Nolan",
+      "Culture",
+      "Film",
+      "Film Adaptations",
+      "Homer",
+      "Poetry",
+      "The Odyssey",
+      "Uk News"
+    ],
+    "genre": [
+      "Poetry"
+    ],
+    "language": "English",
+    "publisher": "market researchers NielsenIQ. Continue reading... Books",
+    "published_date": "2026-08-04",
+    "thumbnail": "https://i.guim.co.uk/img/media/2d6af96eaef160e9bcc28124466b9f23e423e70f/408_0_5200_4160/master/5200.jpg?width=700&quality=85&auto=format&fit=max&s=603cecc3ac3e9a6c8b4e88fcc8ed09ad",
+    "cover_large": "https://i.guim.co.uk/img/media/2d6af96eaef160e9bcc28124466b9f23e423e70f/408_0_5200_4160/master/5200.jpg?width=700&quality=85&auto=format&fit=max&s=603cecc3ac3e9a6c8b4e88fcc8ed09ad",
+    "article_url": "https://www.theguardian.com/film/2026/jul/15/the-odyssey-review-christopher-nolan-matt-damon",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Christopher Nolan",
+      "Culture",
+      "Film",
+      "Film adaptations",
+      "Homer",
+      "Poetry",
+      "The Odyssey",
+      "UK news",
+      "books"
+    ],
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
+  },
+  {
+    "id": "51f8a81300af490ed52f90f07fc1d000",
+    "title": "Children of the Wild by Kevin Powers review",
+    "author": "Marcel Theroux",
+    "description": "Written by a US army veteran, this novel of courage and cruelty during the first world war is filled with unsettlingly authoritative depictions of violence – but its characters are less believable Kevin Powers’s fourth novel marks a return to the themes and subject matter of his acclaimed debut The Yellow Birds , winner of the 2012 Guardian first book award. Through the lives of its central characters, it explores the courage, folly, cruelty and absurdity involved in war, and the challenges of adjusting to civilian life afterwards. But while The Yellow Birds focused on the experience of US soldiers fighting in Iraq, where Powers himself served between 2003 and 2004, Children of the Wild is set amid the carnage of the first world war. It follows the fortunes of two young men from a remote valley in Virginia. Roy is the arrogant young heir to a wealthy local landowner; Ennis is an orphan of unknown origin who has been living, like a character in a fairytale, in a shack on the top of a mountain. Ennis and Roy are first linked in a love triangle when Ennis is lured off his mountain top by his desire for Samantha, the daughter of the local minister, whose eyes have the “lustre of...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-08-04",
+    "thumbnail": "https://i.guim.co.uk/img/media/b12ebf2d8877e6b4fe068bb893e31087af6e0687/1405_27_6695_5356/master/6695.jpg?width=700&quality=85&auto=format&fit=max&s=44223fc1a1a1988007e1c260de903425",
+    "cover_large": "https://i.guim.co.uk/img/media/b12ebf2d8877e6b4fe068bb893e31087af6e0687/1405_27_6695_5356/master/6695.jpg?width=700&quality=85&auto=format&fit=max&s=44223fc1a1a1988007e1c260de903425",
+    "article_url": "https://www.theguardian.com/books/2012/nov/13/kevin-powers-the-yellow-birds",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "books"
+    ],
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "6cbca692a89d4b5ccce94d4f2352ae4a",
@@ -81,51 +346,8 @@
       "Travel writing",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
-  },
-  {
-    "id": "969cda2ab05899b77202ade4dd3c8e0d",
-    "title": "Mary de Rachewiltz, Ezra Pound’s Daughter and Defender, Dies at 101",
-    "author": "Trip Gabriel",
-    "description": "Sent away as a baby, she remained loyal to her famous father, translating his poetry while fighting to distinguish his literary legacy from his fascist politics.",
-    "summary_ai": "",
-    "categories": [
-      "Anti-Semitism",
-      "Books",
-      "Books And Literature",
-      "De Rachewiltz, Mary",
-      "Deaths (Obituaries)",
-      "Italy",
-      "Poetry And Poets",
-      "Pound, Ezra",
-      "World War Ii (1939-45)"
-    ],
-    "genre": [
-      "Poetry",
-      "Politics"
-    ],
-    "language": "English",
-    "publisher": "his fascist politics. Anti-Semitism Books",
-    "published_date": "2026-08-03",
-    "thumbnail": "https://static01.nyt.com/images/2026/08/03/multimedia/03Rachewiltz-01-clbp/03Rachewiltz-01-clbp-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/08/03/multimedia/03Rachewiltz-01-clbp/03Rachewiltz-01-clbp-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/08/03/books/mary-de-rachewiltz-dead.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Anti-Semitism",
-      "Books and Literature",
-      "Deaths (Obituaries)",
-      "Italy",
-      "Poetry and Poets",
-      "Pound, Ezra",
-      "World War II (1939-45)",
-      "books",
-      "de Rachewiltz, Mary"
-    ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "92f93892a615308eaec4aac811f70f27",
@@ -158,8 +380,8 @@
       "Voices From the Kitchen: Personal Narratives From New York's Immigrant Restaurant Workers (Book)",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "c686f965ffea347eb425a70858a2dfec",
@@ -202,8 +424,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "b3677793373f6252dfb51da408e49ccf",
@@ -237,8 +459,8 @@
       "World news",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "6ce5ca696d7d3a165db7655116726a1c",
@@ -268,8 +490,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "f75860da5309ed305d559f7d7d3b439f",
@@ -300,8 +522,8 @@
       "The Story of Your Life: How Social Media Shapes the Way We Experience Everything (Book)",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "fd483428cd739088160895921dbde9fb",
@@ -338,8 +560,8 @@
       "books",
       "van den Berg, Laura"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "97ada6acfa1b2670f7bf999bf3e86368",
@@ -374,8 +596,8 @@
       "Literacy",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "97bbea32ea33bad3d36c4a2335faaea4",
@@ -406,8 +628,8 @@
       "books",
       "internal-open-access-audio"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "a517d2371ea48657bf9f4673bbcb62da",
@@ -450,8 +672,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "67d2494b97011b6241e7994d58437404",
@@ -485,8 +707,8 @@
       "Pulitzer prize",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "e45216f4306048da054809cec0a3bce9",
@@ -518,86 +740,8 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
-  },
-  {
-    "id": "a6b1ea3a7951c67cc83fc97de77405bb",
-    "title": "A Defense of Ma in Laura Ingalls Wilder’s Little House Books",
-    "author": "Sadie Stein",
-    "description": "How I went from being Team Pa to recognizing Laura Ingalls Wilder’s less charismatic, quietly heroic and equally crazy creation, Caroline Ingalls.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Children And Childhood",
-      "Genre-Books-Childrens",
-      "Lane, Rose Wilder",
-      "Little House On The Prairie (2026) (Tv Program)",
-      "Little House On The Prairie (Book)",
-      "Little House On The Prairie (Tv Program)",
-      "Wilder, Laura Ingalls"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-31",
-    "thumbnail": "https://static01.nyt.com/images/2026/08/02/books/02TBR-LittleHouse-Essay-Kids/02TBR-LittleHouse-Essay-Kids-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/08/02/books/02TBR-LittleHouse-Essay-Kids/02TBR-LittleHouse-Essay-Kids-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/31/books/review/little-house-on-the-prairie-celebrating-ma.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Children and Childhood",
-      "Lane, Rose Wilder",
-      "Little House on the Prairie (2026) (TV Program)",
-      "Little House on the Prairie (Book)",
-      "Little House on the Prairie (TV Program)",
-      "Wilder, Laura Ingalls",
-      "books",
-      "genre-books-childrens"
-    ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
-  },
-  {
-    "id": "d960889d8001f20c1b1032ca59bbb49c",
-    "title": "Book Review: ‘The Savage Landscape,’ by Cal Flyn",
-    "author": "Lauren Redniss",
-    "description": "In “The Savage Landscape,” the nature writer Cal Flyn argues that wilderness is just one more man-made invention.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Conservation Of Resources",
-      "Flyn, Cal",
-      "Forests And Forestry",
-      "The Savage Landscape: How We Made The Wilderness (Book)",
-      "Volcanoes",
-      "Wilderness Areas"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-31",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/29/multimedia/00TBR-Flyn-Review-gqcw/00TBR-Flyn-Review-gqcw-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/29/multimedia/00TBR-Flyn-Review-gqcw/00TBR-Flyn-Review-gqcw-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/31/books/review/the-savage-landscape-cal-flyn.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Conservation of Resources",
-      "Flyn, Cal",
-      "Forests and Forestry",
-      "The Savage Landscape: How We Made the Wilderness (Book)",
-      "Volcanoes",
-      "Wilderness Areas",
-      "books"
-    ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "09947ebf638a547c06e921f5aa2a0530",
@@ -629,116 +773,8 @@
       "Max Porter",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
-  },
-  {
-    "id": "ebd9b43013537156c145a15a26db99af",
-    "title": "$2m crime novel deal collapses amid questions over AI use",
-    "author": "Emma Loffhagen",
-    "description": "Agents withdraw Jerry Falade’s hotly anticipated debut after saying they can no longer authenticate ‘how the manuscript evolved’ A high-profile publishing deal for a debut crime novel has collapsed after doubts emerged over whether artificial intelligence played a role in writing it. The hotly anticipated manuscript Call Me, I’ll Hide the Body, by Jerry Falade, was withdrawn from sale by its agent despite reportedly receiving an offer for more than $2m (£1.5m) from Minotaur, owned by Macmillan US, as part of a 14-way auction. The plan was to publish it in 2028. Continue reading...",
-    "summary_ai": "",
-    "categories": [
-      "Ai (Artificial Intelligence)",
-      "Books",
-      "Crime Fiction",
-      "Culture",
-      "Publishing",
-      "Technology"
-    ],
-    "genre": [
-      "Crime"
-    ],
-    "language": "English",
-    "publisher": "Macmillan",
-    "published_date": "2026-07-31",
-    "thumbnail": "https://i.guim.co.uk/img/media/5598b4a799a54ffe39b1c98b4a915fb9358cff66/683_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=831cf3bb7875f2777c52d7e59fcf2024",
-    "cover_large": "https://i.guim.co.uk/img/media/5598b4a799a54ffe39b1c98b4a915fb9358cff66/683_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=831cf3bb7875f2777c52d7e59fcf2024",
-    "article_url": "https://www.theguardian.com/books/2026/jul/31/crime-novel-deal-collapses-questions-ai-jerry-falade-call-me-ill-hide-the-body",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "AI (artificial intelligence)",
-      "Books",
-      "Crime fiction",
-      "Culture",
-      "Publishing",
-      "Technology",
-      "books"
-    ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
-  },
-  {
-    "id": "4ca3ff2f4b0e5da98211501b5acf0502",
-    "title": "The best recent poetry",
-    "author": "Philip Terry",
-    "description": "Small Birds Singing by Matthew Welton; The Channel by Jana Prikryl; Stepmother by Helen Mort; Drunken Driving by Martina Evans Small Birds Singing by Matthew Welton (Carcanet, £12.99) Written in unrhymed couplets that shrink and grow across the page like a concertina going through its scales, Welton’s poems focus attention on the city through the seasons: weeds through concrete, wasps emerging from the gaps between bricks, frozen towels on a clothesline, the shadows of jackdaws on a lawn. His gaze is neutral, and it often falls on that which we’d normally turn away from, things slightly out of place, or that disturb our sense of propriety: “more cardboard in the recycling bin / than the recycling bin can contain”. This is a poetry of things, like the poetry of Francis Ponge, but as Welton says: “no thinginess without thought”. Welton’s thoughts – though whether they are his or whether they emerge from his surroundings or from the act of writing itself, it is impossible to say – are couched in deliciously riddling couplets: “it is not the habit of patterns / to emphasise the pattern of habits”. He reminds us forcefully that poetry is all around us and within us, that anything can...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Culture",
-      "Poetry"
-    ],
-    "genre": [
-      "Poetry"
-    ],
-    "language": "English",
-    "publisher": "Guardianbookshop",
-    "published_date": "2026-07-31",
-    "thumbnail": "https://i.guim.co.uk/img/media/2ebaf9d4be316da41c749ab70c203b77f3f4928e/89_19_4421_3537/master/4421.jpg?width=700&quality=85&auto=format&fit=max&s=8d20572788491e57e4c921ae47caa24e",
-    "cover_large": "https://i.guim.co.uk/img/media/2ebaf9d4be316da41c749ab70c203b77f3f4928e/89_19_4421_3537/master/4421.jpg?width=700&quality=85&auto=format&fit=max&s=8d20572788491e57e4c921ae47caa24e",
-    "article_url": "https://www.guardianbookshop.com/small-birds-singing-9781800175594/?amp%3Butm_medium=merch&amp%3Butm_campaign=article",
-    "source": "Guardianbookshop",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Culture",
-      "Poetry",
-      "books"
-    ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
-  },
-  {
-    "id": "d8011041e343dbe8c5a631c4cb86dbdd",
-    "title": "A Historian Considers the Yuppie",
-    "author": "Steven Kurutz",
-    "description": "“We live in the world we inherited from them,” the author Dylan Gottlieb says.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Gottlieb, Dylan (1986- )",
-      "Labor And Jobs",
-      "New York City",
-      "Nineteen Hundred Eighties",
-      "Urban Areas",
-      "Yuppies",
-      "Yuppies: The Bankers, Lawyers, Joggers And Gourmands Who Conquered New York (Book)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-30",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/30/multimedia/30-ST-YUPPIES-01-cjkt/30-ST-YUPPIES-01-cjkt-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/07/30/multimedia/30-ST-YUPPIES-01-cjkt/30-ST-YUPPIES-01-cjkt-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/30/style/yuppie-historian-new-york-society-1980s.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Gottlieb, Dylan (1986- )",
-      "Labor and Jobs",
-      "New York City",
-      "Nineteen Hundred Eighties",
-      "Urban Areas",
-      "Yuppies",
-      "Yuppies: The Bankers, Lawyers, Joggers and Gourmands Who Conquered New York (Book)",
-      "books"
-    ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "b0f783aad5627ebc47dd8670ff5fe2a7",
@@ -773,8 +809,8 @@
       "Mario Vargas Llosa",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "db862fb44690268729f52caeba39615c",
@@ -806,8 +842,8 @@
       "Wildlife",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "58731ee05af116a9b3e93903f815d783",
@@ -837,8 +873,8 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "f6ab3ffd755355fab8824c66057f1a5b",
@@ -870,8 +906,8 @@
       "Technology",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "af9abbd40d1ece241f2398628987f883",
@@ -905,8 +941,8 @@
       "The Hours",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "524c605cd8982891e747fe848342f8df",
@@ -948,8 +984,8 @@
       "True crime books",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "3b9dd82283170fd137a9e4dea4ba8689",
@@ -979,8 +1015,8 @@
       "Fiction in translation",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "65d8c8ca1a174f11e32ec64ace3460db",
@@ -1019,8 +1055,8 @@
       "books",
       "genre-books-romance"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "755ba738881478773c8491c271f5d902",
@@ -1047,49 +1083,7 @@
       "Content Type: Service",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
-  },
-  {
-    "id": "f0a8987fb7322e3a0dc23bf36fa062e5",
-    "title": "Martin Amis: An Appreciation",
-    "author": "A.O. Scott",
-    "description": "Our critic assesses the achievement of Martin Amis, Britain’s most famous literary son.",
-    "summary_ai": "",
-    "categories": [
-      "Amis, Martin",
-      "Audio-Neutral-Informative",
-      "Books",
-      "Books And Literature",
-      "Content Type: Personal Profile",
-      "Inside Story (Book)",
-      "London Fields (Book)",
-      "The Information (Book)",
-      "The Rachel Papers (Book)",
-      "Writing And Writers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2023-05-22",
-    "thumbnail": "https://static01.nyt.com/images/2023/06/11/books/review/22AMIS-APPRECIATION/22AMIS-APPRECIATION-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2023/06/11/books/review/22AMIS-APPRECIATION/22AMIS-APPRECIATION-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2023/05/22/books/review/martin-amis.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Amis, Martin",
-      "Books and Literature",
-      "Content Type: Personal Profile",
-      "Inside Story (Book)",
-      "London Fields (Book)",
-      "The Information (Book)",
-      "The Rachel Papers (Book)",
-      "Writing and Writers",
-      "audio-neutral-informative",
-      "books"
-    ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   }
 ]

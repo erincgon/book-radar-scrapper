@@ -1,7 +1,155 @@
 [
   {
-    "id": "b22da275d38f0bc52bdc6f0a73082d62",
-    "title": "Cambridge Professor’s Jason Arday’s Work Challenged Ahead of Book Launch",
+    "id": "c734fbb4ae52c06f7e6ec7aaf600bd7c",
+    "title": "Book Review: ‘The Ego Trip,’ by Kimon de Greef",
+    "author": "Susannah Cahalan",
+    "description": "Kimon de Greef’s “The Ego Trip” is an enthralling, galling journey into the deeply weird underbelly of the psychedelic renaissance.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "De Greef, Kimon",
+      "Frogs",
+      "Octavio Rettig Hinojosa",
+      "Psychedelic And Hallucinogenic Drugs",
+      "Sonoran Desert",
+      "The Ego Trip: Psychedelic Toads, A Trail Of Deaths, And The Guru Who Peddled Transcendence (Book)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-08-04",
+    "thumbnail": "https://static01.nyt.com/images/2026/07/31/multimedia/00TBR-DeGreef-Review-zfvt/00TBR-DeGreef-Review-zfvt-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/07/31/multimedia/00TBR-DeGreef-Review-zfvt/00TBR-DeGreef-Review-zfvt-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/08/04/books/review/the-ego-trip-kimon-de-greef.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Frogs",
+      "Octavio Rettig Hinojosa",
+      "Psychedelic and Hallucinogenic Drugs",
+      "Sonoran Desert",
+      "The Ego Trip: Psychedelic Toads, a Trail of Deaths, and the Guru Who Peddled Transcendence (Book)",
+      "books",
+      "de Greef, Kimon"
+    ],
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
+  },
+  {
+    "id": "8c84e4cbd56b4503fa96f6d01d2c832f",
+    "title": "Book Review: ‘Triage,’ by Claudia Rankine",
+    "author": "J Wortham",
+    "description": "Claudia Rankine’s latest autobiographical work, “Triage,” asks how best to effect change in the world.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Content Type: Personal Profile",
+      "Rankine, Claudia",
+      "Triage (Book)"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-08-04",
+    "thumbnail": "https://static01.nyt.com/images/2026/08/04/books/04TBR-Rankine-Review/04TBR-Rankine-Review-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/08/04/books/04TBR-Rankine-Review/04TBR-Rankine-Review-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/08/04/books/review/triage-claudia-rankine.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Content Type: Personal Profile",
+      "Rankine, Claudia",
+      "Triage (Book)",
+      "books"
+    ],
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
+  },
+  {
+    "id": "6953840d7ae6c55a2b9cc2ce31d0dba5",
+    "title": "Book Review: ‘Don’t Be Evil,’ by Claire Stapleton",
+    "author": "Leah Reich",
+    "description": "In “Don’t Be Evil,” Claire Stapleton, a former Google spin doctor, tries to make sense of her time in the industry.",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Books And Literature",
+      "Computers And The Internet",
+      "Content Type: Personal Profile",
+      "Demonstrations, Protests And Riots",
+      "Don'T Be Evil: Bad Bosses, Fake Promises, And My Escape From Big Tech (Book)",
+      "Google Inc",
+      "Labor And Jobs",
+      "Sexual Harassment",
+      "Stapleton, Claire",
+      "Workplace Hazards And Violations",
+      "Youtube.Com"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-08-04",
+    "thumbnail": "https://static01.nyt.com/images/2026/08/16/multimedia/16TBR-Stapleton-Review-fqtg/04TBR-Stapleton-Review-fqtg-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/08/16/multimedia/16TBR-Stapleton-Review-fqtg/04TBR-Stapleton-Review-fqtg-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/08/04/books/review/dont-be-evil-claire-stapleton.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Books and Literature",
+      "Computers and the Internet",
+      "Content Type: Personal Profile",
+      "Demonstrations, Protests and Riots",
+      "Don't Be Evil: Bad Bosses, Fake Promises, and My Escape From Big Tech (Book)",
+      "Google Inc",
+      "Labor and Jobs",
+      "Sexual Harassment",
+      "Stapleton, Claire",
+      "Workplace Hazards and Violations",
+      "YouTube.com",
+      "books"
+    ],
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
+  },
+  {
+    "id": "b5d910dbec7f08cf72fcab27bb547ced",
+    "title": "Book Review: ‘All That Is Left of Life,’ by Roberta Recchia",
+    "author": "Alexis Schaitkin",
+    "description": "The Italian best seller “All That Is Left of Life” is a cinematic family drama set in the summer of 1980.",
+    "summary_ai": "",
+    "categories": [
+      "All That Is Left Of Life (Book)",
+      "Books",
+      "Books And Literature",
+      "Lettieri, Antonella",
+      "Recchia, Roberta"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "The New York Times",
+    "published_date": "2026-08-04",
+    "thumbnail": "https://static01.nyt.com/images/2026/08/16/multimedia/16tbr-recchia-review1-hpvb/04tbr-recchia-review1-hpvb-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/08/16/multimedia/16tbr-recchia-review1-hpvb/04tbr-recchia-review1-hpvb-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/08/04/books/review/all-that-is-left-of-life-roberta-recchia.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "All That Is Left of Life (Book)",
+      "Books and Literature",
+      "Lettieri, Antonella",
+      "Recchia, Roberta",
+      "books"
+    ],
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
+  },
+  {
+    "id": "e8e93c291c793f766b7aa8ba67f8344e",
+    "title": "Cambridge Professor Jason Arday’s Work Challenged Ahead of Book Launch",
     "author": "Jennifer Schuessler and Alexandra Alter",
     "description": "A knife-wielding masked man. A pig’s head outside his parents’ door. Running 30 marathons in 35 days. The Cambridge professor Jason Arday, accused of plagiarism, says he’s been through it all. Not everyone believes him.",
     "summary_ai": "",
@@ -46,8 +194,125 @@
       "Simon & Schuster Inc",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
+  },
+  {
+    "id": "969cda2ab05899b77202ade4dd3c8e0d",
+    "title": "Mary de Rachewiltz, Ezra Pound’s Daughter and Defender, Dies at 101",
+    "author": "Trip Gabriel",
+    "description": "Sent away as a baby, she remained loyal to her famous father, translating his poetry while fighting to distinguish his literary legacy from his fascist politics.",
+    "summary_ai": "",
+    "categories": [
+      "Anti-Semitism",
+      "Books",
+      "Books And Literature",
+      "De Rachewiltz, Mary",
+      "Deaths (Obituaries)",
+      "Italy",
+      "Poetry And Poets",
+      "Pound, Ezra",
+      "World War Ii (1939-45)"
+    ],
+    "genre": [
+      "Poetry",
+      "Politics"
+    ],
+    "language": "English",
+    "publisher": "his fascist politics. Anti-Semitism Books",
+    "published_date": "2026-08-04",
+    "thumbnail": "https://static01.nyt.com/images/2026/08/03/multimedia/03Rachewiltz-01-clbp/03Rachewiltz-01-clbp-mediumSquareAt3X.jpg",
+    "cover_large": "https://static01.nyt.com/images/2026/08/03/multimedia/03Rachewiltz-01-clbp/03Rachewiltz-01-clbp-mediumSquareAt3X.jpg",
+    "article_url": "https://www.nytimes.com/2026/08/03/books/mary-de-rachewiltz-dead.html",
+    "source": "The New York Times",
+    "source_type": "rss",
+    "tags": [
+      "Anti-Semitism",
+      "Books and Literature",
+      "Deaths (Obituaries)",
+      "Italy",
+      "Poetry and Poets",
+      "Pound, Ezra",
+      "World War II (1939-45)",
+      "books",
+      "de Rachewiltz, Mary"
+    ],
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
+  },
+  {
+    "id": "b5b684de20d119660c4e6482c8cc23ea",
+    "title": "Christopher Nolan’s The Odyssey gives UK poetry sales an epic boost",
+    "author": "Emma Loffhagen",
+    "description": "Poetry sales surpassed £8m in the first 30 weeks of 2026 and are expected to reach a record high this year thanks to blockbuster adaptation of Homer’s 2,700-year-old poem UK poetry sales are on course to reach a record high this year, buoyed by the success of Christopher Nolan’s blockbuster film adaptation of Homer’s The Odyssey. Poetry sales surpassed £8m during the first 30 weeks of 2026, an increase of 13.3% on the same period last year, according to data from market researchers NielsenIQ. Continue reading...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Christopher Nolan",
+      "Culture",
+      "Film",
+      "Film Adaptations",
+      "Homer",
+      "Poetry",
+      "The Odyssey",
+      "Uk News"
+    ],
+    "genre": [
+      "Poetry"
+    ],
+    "language": "English",
+    "publisher": "market researchers NielsenIQ. Continue reading... Books",
+    "published_date": "2026-08-04",
+    "thumbnail": "https://i.guim.co.uk/img/media/2d6af96eaef160e9bcc28124466b9f23e423e70f/408_0_5200_4160/master/5200.jpg?width=700&quality=85&auto=format&fit=max&s=603cecc3ac3e9a6c8b4e88fcc8ed09ad",
+    "cover_large": "https://i.guim.co.uk/img/media/2d6af96eaef160e9bcc28124466b9f23e423e70f/408_0_5200_4160/master/5200.jpg?width=700&quality=85&auto=format&fit=max&s=603cecc3ac3e9a6c8b4e88fcc8ed09ad",
+    "article_url": "https://www.theguardian.com/film/2026/jul/15/the-odyssey-review-christopher-nolan-matt-damon",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Christopher Nolan",
+      "Culture",
+      "Film",
+      "Film adaptations",
+      "Homer",
+      "Poetry",
+      "The Odyssey",
+      "UK news",
+      "books"
+    ],
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
+  },
+  {
+    "id": "51f8a81300af490ed52f90f07fc1d000",
+    "title": "Children of the Wild by Kevin Powers review",
+    "author": "Marcel Theroux",
+    "description": "Written by a US army veteran, this novel of courage and cruelty during the first world war is filled with unsettlingly authoritative depictions of violence – but its characters are less believable Kevin Powers’s fourth novel marks a return to the themes and subject matter of his acclaimed debut The Yellow Birds , winner of the 2012 Guardian first book award. Through the lives of its central characters, it explores the courage, folly, cruelty and absurdity involved in war, and the challenges of adjusting to civilian life afterwards. But while The Yellow Birds focused on the experience of US soldiers fighting in Iraq, where Powers himself served between 2003 and 2004, Children of the Wild is set amid the carnage of the first world war. It follows the fortunes of two young men from a remote valley in Virginia. Roy is the arrogant young heir to a wealthy local landowner; Ennis is an orphan of unknown origin who has been living, like a character in a fairytale, in a shack on the top of a mountain. Ennis and Roy are first linked in a love triangle when Ennis is lured off his mountain top by his desire for Samantha, the daughter of the local minister, whose eyes have the “lustre of...",
+    "summary_ai": "",
+    "categories": [
+      "Books",
+      "Culture",
+      "Fiction"
+    ],
+    "genre": [
+      "Children"
+    ],
+    "language": "English",
+    "publisher": "The Guardian",
+    "published_date": "2026-08-04",
+    "thumbnail": "https://i.guim.co.uk/img/media/b12ebf2d8877e6b4fe068bb893e31087af6e0687/1405_27_6695_5356/master/6695.jpg?width=700&quality=85&auto=format&fit=max&s=44223fc1a1a1988007e1c260de903425",
+    "cover_large": "https://i.guim.co.uk/img/media/b12ebf2d8877e6b4fe068bb893e31087af6e0687/1405_27_6695_5356/master/6695.jpg?width=700&quality=85&auto=format&fit=max&s=44223fc1a1a1988007e1c260de903425",
+    "article_url": "https://www.theguardian.com/books/2012/nov/13/kevin-powers-the-yellow-birds",
+    "source": "The Guardian",
+    "source_type": "rss",
+    "tags": [
+      "Books",
+      "Culture",
+      "Fiction",
+      "books"
+    ],
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "6cbca692a89d4b5ccce94d4f2352ae4a",
@@ -81,51 +346,64 @@
       "Travel writing",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
-    "id": "969cda2ab05899b77202ade4dd3c8e0d",
-    "title": "Mary de Rachewiltz, Ezra Pound’s Daughter and Defender, Dies at 101",
-    "author": "Trip Gabriel",
-    "description": "Sent away as a baby, she remained loyal to her famous father, translating his poetry while fighting to distinguish his literary legacy from his fascist politics.",
+    "id": "a6c96967035097b48e7806cd29ad3757",
+    "title": "The Biggest Fall 2026 Debut Novels, According to Goodreads",
+    "author": "S. Zainab Williams",
+    "description": "Goodreads highlighted 47 of the biggest fall 2026 debut novels hitting shelves in the U.S. this upcoming season.",
     "summary_ai": "",
     "categories": [
-      "Anti-Semitism",
-      "Books",
-      "Books And Literature",
-      "De Rachewiltz, Mary",
-      "Deaths (Obituaries)",
-      "Italy",
-      "Poetry And Poets",
-      "Pound, Ezra",
-      "World War Ii (1939-45)"
+      "News",
+      "Reviews"
     ],
-    "genre": [
-      "Poetry",
-      "Politics"
-    ],
+    "genre": [],
     "language": "English",
-    "publisher": "his fascist politics. Anti-Semitism Books",
-    "published_date": "2026-08-03",
-    "thumbnail": "https://static01.nyt.com/images/2026/08/03/multimedia/03Rachewiltz-01-clbp/03Rachewiltz-01-clbp-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/08/03/multimedia/03Rachewiltz-01-clbp/03Rachewiltz-01-clbp-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/08/03/books/mary-de-rachewiltz-dead.html",
-    "source": "The New York Times",
+    "publisher": "Book Riot",
+    "published_date": "2026-08-04",
+    "thumbnail": "https://bookriot.com/wp-content/uploads/2026/08/goodreads-fall-2026-debut-novels-preview.jpg.optimal.jpg",
+    "cover_large": "https://bookriot.com/wp-content/uploads/2026/08/goodreads-fall-2026-debut-novels-preview.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/goodreads-fall-2026-debut-novels/",
+    "source": "Book Riot",
     "source_type": "rss",
     "tags": [
-      "Anti-Semitism",
-      "Books and Literature",
-      "Deaths (Obituaries)",
-      "Italy",
-      "Poetry and Poets",
-      "Pound, Ezra",
-      "World War II (1939-45)",
-      "books",
-      "de Rachewiltz, Mary"
+      "News",
+      "reviews"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
+  },
+  {
+    "id": "823b8768b8020887cd693ad794e9dbaf",
+    "title": "What to Read If You Loved THE ODYSSEY, and More Links for Library Workers",
+    "author": "Katie McLain Horner",
+    "description": "New and upcoming titles, a guide to cannibal fiction, resources to help your patrons who loved The Odyssey, and more.",
+    "summary_ai": "",
+    "categories": [
+      "Check Your Shelf",
+      "Libraries",
+      "Reviews"
+    ],
+    "genre": [
+      "Fiction"
+    ],
+    "language": "English",
+    "publisher": "Book Riot",
+    "published_date": "2026-08-04",
+    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/05/the-odyssey-trailer.jpg.optimal.jpg",
+    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/05/the-odyssey-trailer.jpg.optimal.jpg",
+    "article_url": "https://bookriot.com/what-to-read-if-you-loved-the-odyssey/",
+    "source": "Book Riot",
+    "source_type": "rss",
+    "tags": [
+      "Check Your Shelf",
+      "Libraries",
+      "reviews"
+    ],
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "92f93892a615308eaec4aac811f70f27",
@@ -158,8 +436,8 @@
       "Voices From the Kitchen: Personal Narratives From New York's Immigrant Restaurant Workers (Book)",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "c686f965ffea347eb425a70858a2dfec",
@@ -202,8 +480,8 @@
       "Writing and Writers",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "b3677793373f6252dfb51da408e49ccf",
@@ -237,8 +515,8 @@
       "World news",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "6ce5ca696d7d3a165db7655116726a1c",
@@ -268,98 +546,88 @@
       "Fiction",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
-    "id": "de310a3b9f367aaa3252b87800ec3c5a",
-    "title": "YA Fantasy with Exceptional Worldbuilding",
-    "author": "Leah Rachel von Essen",
-    "description": "Immerse yourself in YA fantasy with exceptional worldbulding, where every detail is thought out, the magic sizzles, and each setting built brick by brick.",
+    "id": "b9f1f34aefa89eb950e3036efb426d9f",
+    "title": "How long will the Grateful Dead's songs survive?",
+    "author": "Isabella Gomez Sarmiento",
+    "description": "The Grateful Dead endured an original run of 30 years, but its appeal has survived just as long in a world where the band no longer exists. The question now is not whether the music will continue, but how?",
     "summary_ai": "",
     "categories": [
+      "Reviews"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "NPR Books",
+    "published_date": "2026-08-03",
+    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7273x4712+0+0/resize/7273x4712!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fea%2F7b%2Fa27a65df40d98edc0eb323fb3e43%2Fdsc5211.jpg",
+    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7273x4712+0+0/resize/7273x4712!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fea%2F7b%2Fa27a65df40d98edc0eb323fb3e43%2Fdsc5211.jpg",
+    "article_url": "https://www.npr.org/2026/08/03/nx-s1-5901986/grateful-dead-future-legacy",
+    "source": "NPR Books",
+    "source_type": "rss",
+    "tags": [
+      "reviews"
+    ],
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
+  },
+  {
+    "id": "0dccea0d7551db6bbe0694411778bb5f",
+    "title": "Colson Whitehead’s Harlem Trilogy is coming to a screen near you.",
+    "author": "Brittany Allen",
+    "description": "Colson Whitehead’s Harlem trilogy—comprised of the bestselling novels Harlem Shuffle, Crook Manifesto, and Cool Machine—is headed for the small screen. As Variety reported this morning, Apple TV has acquired the rights to all three books in a plum development deal.",
+    "summary_ai": "",
+    "categories": [
+      "Adaptation",
+      "Apple Tv",
+      "Barry Jenkins",
+      "Book News",
+      "Colson Whitehead",
+      "Critics At Large",
+      "Events",
+      "Film And Tv",
+      "Harlem Shuffle",
+      "Harlem Trilogy",
+      "News And Culture",
+      "Nickel Boys",
+      "Obama",
+      "Ramell Ross",
       "Reviews",
-      "Sponsored",
-      "What'S Up In Ya",
-      "Young Adult Literature"
-    ],
-    "genre": [
-      "Fantasy"
-    ],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-08-03",
-    "thumbnail": "https://bookriot.com/wp-content/uploads/2023/11/akata-witch-book-cover-300x0.jpg.optimal.jpg",
-    "cover_large": "https://bookriot.com/wp-content/uploads/2023/11/akata-witch-book-cover-300x0.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/ya-fantasy-with-exceptional-worldbuilding/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Sponsored",
-      "What's Up in YA",
-      "Young Adult Literature",
-      "reviews"
-    ],
-    "created_at": "2026-08-04T08:34:38+00:00",
-    "updated_at": "2026-08-04T08:34:38Z"
-  },
-  {
-    "id": "31c27cdeff7b55c8972def6a3cdfda09",
-    "title": "The Most Anticipated Books of August, According to Goodreads",
-    "author": "Rebecca Joines Schinsky",
-    "description": "Even in a historically slow publishing month—which August tends to be—there are still more new books than any reader can possibly make time for. Goodreads has combined early reviews and data about titles users are adding to their “Want to Read” shelves to identify some of the most-anticipated books of the month. Where the algorithm [...]",
-    "summary_ai": "",
-    "categories": [
-      "News",
-      "Reviews"
+      "Style",
+      "The Hub"
     ],
     "genre": [],
     "language": "English",
-    "publisher": "Book Riot",
+    "publisher": "Literary Hub",
     "published_date": "2026-08-03",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/08/august-goodreads-most-anticipated.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/08/august-goodreads-most-anticipated.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/most-anticipated-books-august-2026-goodreads/",
-    "source": "Book Riot",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/08/Untitled-design-15-768x384.png",
+    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/08/Untitled-design-15-768x384.png",
+    "article_url": "https://lithub.com/colson-whiteheads-harlem-trilogy-is-coming-to-a-screen-near-you/",
+    "source": "Literary Hub",
     "source_type": "rss",
     "tags": [
-      "News",
+      "Apple TV",
+      "Barry Jenkins",
+      "Book News",
+      "Colson Whitehead",
+      "Critics at Large",
+      "Events",
+      "Film and TV",
+      "Harlem Shuffle",
+      "Harlem Trilogy",
+      "News and Culture",
+      "Nickel Boys",
+      "Obama",
+      "RaMell Ross",
+      "Style",
+      "The Hub",
+      "adaptation",
       "reviews"
     ],
-    "created_at": "2026-08-04T08:34:38+00:00",
-    "updated_at": "2026-08-04T08:34:38Z"
-  },
-  {
-    "id": "8c254f7caf1af963d15bd4f340cbbaf5",
-    "title": "Librarians and Booksellers Will Be Arrested For Doing Their Jobs in Arkansas",
-    "author": "Kelly Jensen",
-    "description": "A Federal Judge has allowed an Arkansas law to go into effect that will lead to widespread book bans and jail time for librarians.",
-    "summary_ai": "",
-    "categories": [
-      "Censorship",
-      "Libraries",
-      "Literary Activism",
-      "News",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Book Riot",
-    "published_date": "2026-08-03",
-    "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2026/08/library-cart-jail-bars.jpg.optimal.jpg",
-    "cover_large": "https://s2982.pcdn.co/wp-content/uploads/2026/08/library-cart-jail-bars.jpg.optimal.jpg",
-    "article_url": "https://bookriot.com/arkansas-act-372/",
-    "source": "Book Riot",
-    "source_type": "rss",
-    "tags": [
-      "Censorship",
-      "Libraries",
-      "Literary Activism",
-      "News",
-      "reviews"
-    ],
-    "created_at": "2026-08-04T08:34:38+00:00",
-    "updated_at": "2026-08-04T08:34:38Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "f75860da5309ed305d559f7d7d3b439f",
@@ -390,8 +658,8 @@
       "The Story of Your Life: How Social Media Shapes the Way We Experience Everything (Book)",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "fd483428cd739088160895921dbde9fb",
@@ -428,8 +696,8 @@
       "books",
       "van den Berg, Laura"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   },
   {
     "id": "97ada6acfa1b2670f7bf999bf3e86368",
@@ -464,241 +732,7 @@
       "Literacy",
       "books"
     ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
-  },
-  {
-    "id": "97bbea32ea33bad3d36c4a2335faaea4",
-    "title": "Book Club: Let’s Talk About ‘John of John’",
-    "author": "",
-    "description": "Douglas Stuart’s latest novel follows a profoundly isolated father and son, each grappling with long-held secrets.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Internal-Open-Access-Audio",
-      "John Of John (Book)",
-      "Stuart, Douglas (Author)"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-08-01",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/31/podcasts/31TBR-pod-douglas-stuart-book-club/31TBR-pod-douglas-stuart-book-club-mediumSquareAt3X.png",
-    "cover_large": "https://static01.nyt.com/images/2026/07/31/podcasts/31TBR-pod-douglas-stuart-book-club/31TBR-pod-douglas-stuart-book-club-mediumSquareAt3X.png",
-    "article_url": "https://www.nytimes.com/2026/07/31/books/review/podcast-john-of-john-douglas-stuart-book-club.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "John of John (Book)",
-      "Stuart, Douglas (Author)",
-      "books",
-      "internal-open-access-audio"
-    ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
-  },
-  {
-    "id": "a517d2371ea48657bf9f4673bbcb62da",
-    "title": "Emily Wilson’s Pan of ‘The Odyssey’ Ignites a Debate Among Classicists and Commenters",
-    "author": "Neil Vigdor",
-    "description": "Wilson, whose 2017 translation of Homer’s Greek classic influenced the director Christopher Nolan, panned his screenplay for the movie version in an essay for The London Review of Books.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Homer",
-      "London Review Of Books",
-      "Movies",
-      "Nolan, Christopher",
-      "Oates, Joyce Carol",
-      "Poetry And Poets",
-      "The Odyssey (2026) (Movie)",
-      "Wilson, Emily (1971- )",
-      "Writing And Writers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-08-01",
-    "thumbnail": "https://static01.nyt.com/images/2026/08/04/obituaries/xp-odyssey-02/xp-odyssey-02-mediumSquareAt3X-v2.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/08/04/obituaries/xp-odyssey-02/xp-odyssey-02-mediumSquareAt3X-v2.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/31/arts/the-odyssey-emily-wilson-christopher-nolan.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Homer",
-      "London Review of Books",
-      "Movies",
-      "Nolan, Christopher",
-      "Oates, Joyce Carol",
-      "Poetry and Poets",
-      "The Odyssey (2026) (Movie)",
-      "Wilson, Emily (1971- )",
-      "Writing and Writers",
-      "books"
-    ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
-  },
-  {
-    "id": "67d2494b97011b6241e7994d58437404",
-    "title": "​What makes a good comic novel? Andrew Sean Greer on the joy of funny writing",
-    "author": "Andrew Sean Greer",
-    "description": "The Pulitzer-winning author of Less and Villa Coco explores the art of writing humour – plus 10 of the best novels to make you laugh In March 2020, when the mayor of San Francisco instructed all citizens to remain in their houses due to a pandemic, the first thing I did was order all the books of Agatha Christie. I was not alone; I think many of us immersed ourselves in reliable narratives to drown out the chaos. It did not matter if it ended in marriage or murder; the reliability was what mattered. Later when I realised I would need to hole up for some time, my reading shifted to a different kind of novel. And because, like Christie, our world has an endless supply of new terrors, it is the comic novel that still fills my reading hours. Nobody knows what a comic novel is. And once you start discussing it, all the fun runs out. EB White compared it to dissecting a frog (you’re left with innards and a dead frog) but I would compare it to turning all the lights on at a party: everyone looks terrible and you’ve ruined the party. Most would agree, of course, that Wodehouse wrote comic novels, but I turn to books hardly anybody would classify that way – Moby-Dick by Herman Melville...",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Comedy",
-      "Creative Writing",
-      "Culture",
-      "Fiction",
-      "Pulitzer Prize"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The Guardian",
-    "published_date": "2026-08-01",
-    "thumbnail": "https://i.guim.co.uk/img/media/632e07ebe8fa6a842056eb8ad23f697ba980f458/434_1172_1457_1166/master/1457.jpg?width=700&quality=85&auto=format&fit=max&s=2359a04a81e5807b467a3cff03282ddf",
-    "cover_large": "https://i.guim.co.uk/img/media/632e07ebe8fa6a842056eb8ad23f697ba980f458/434_1172_1457_1166/master/1457.jpg?width=700&quality=85&auto=format&fit=max&s=2359a04a81e5807b467a3cff03282ddf",
-    "article_url": "https://www.theguardian.com/culture/ng-interactive/2026/aug/01/what-makes-a-good-comic-novel-andrew-sean-greer-on-the-joy-of-funny-writing",
-    "source": "The Guardian",
-    "source_type": "rss",
-    "tags": [
-      "Books",
-      "Comedy",
-      "Creative writing",
-      "Culture",
-      "Fiction",
-      "Pulitzer prize",
-      "books"
-    ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
-  },
-  {
-    "id": "cfa165c73d519977460c7b5bba51ec24",
-    "title": "Dead After Death",
-    "author": "Isabella Gomez Sarmiento",
-    "description": "This summer marks a moment of transition in the Grateful Dead's long, strange trip: the first in many years where there is no clear center of the band's universe. Where do Deadheads go from here?",
-    "summary_ai": "",
-    "categories": [
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "NPR Books",
-    "published_date": "2026-08-01",
-    "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2600x1463+0+0/resize/2600x1463!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe5%2F3c%2F55daa19f4b3fab78cf26f31db13c%2Fdeadafterdeath2b.jpg",
-    "cover_large": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2600x1463+0+0/resize/2600x1463!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe5%2F3c%2F55daa19f4b3fab78cf26f31db13c%2Fdeadafterdeath2b.jpg",
-    "article_url": "https://www.npr.org/2026/08/01/g-s1-134690/grateful-dead-after-death",
-    "source": "NPR Books",
-    "source_type": "rss",
-    "tags": [
-      "reviews"
-    ],
-    "created_at": "2026-08-04T08:34:38+00:00",
-    "updated_at": "2026-08-04T08:34:38Z"
-  },
-  {
-    "id": "4d6594851f866a69900255e339699e34",
-    "title": "Lit Hub Weekly: July 27 – 31, 2026",
-    "author": "Lit Hub Daily",
-    "description": "D/Annie Liontas, Sara Nović, Chet’la Sebree and Maria Adelman discuss the literary world’s unacknowledged class system. | Lit Hub In Conversation Jane Ciabattari gives all of Colson Whitehead’s work (yes, all of it!) a close read. | Lit Hub Criticism",
-    "summary_ai": "",
-    "categories": [
-      "Lit Hub Daily",
-      "Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Literary Hub",
-    "published_date": "2026-08-01",
-    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/07/HermanMelville1-768x344.jpg",
-    "cover_large": "https://s26162.pcdn.co/wp-content/uploads/2026/07/HermanMelville1-768x344.jpg",
-    "article_url": "https://lithub.com/lit-hub-weekly-july-27-31-2026/",
-    "source": "Literary Hub",
-    "source_type": "rss",
-    "tags": [
-      "Lit Hub Daily",
-      "reviews"
-    ],
-    "created_at": "2026-08-04T08:34:38+00:00",
-    "updated_at": "2026-08-04T08:34:38Z"
-  },
-  {
-    "id": "e45216f4306048da054809cec0a3bce9",
-    "title": "22 New Books to Read in August: Rachel Cusk, Riley Sager, Claudia Rankine and More",
-    "author": "",
-    "description": "Gripping thrillers, hockey romance, political history, an Appalachian Trail memoir and more.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Content Type: Service"
-    ],
-    "genre": [
-      "History",
-      "Memoir",
-      "Romance",
-      "Thriller"
-    ],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-31",
-    "thumbnail": "https://static01.nyt.com/images/2026/07/16/books/00TBR-August-Books/00TBR-August-Books-mediumSquareAt3X.png",
-    "cover_large": "https://static01.nyt.com/images/2026/07/16/books/00TBR-August-Books/00TBR-August-Books-mediumSquareAt3X.png",
-    "article_url": "https://www.nytimes.com/2026/07/31/books/new-books-august.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Content Type: Service",
-      "books"
-    ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
-  },
-  {
-    "id": "a6b1ea3a7951c67cc83fc97de77405bb",
-    "title": "A Defense of Ma in Laura Ingalls Wilder’s Little House Books",
-    "author": "Sadie Stein",
-    "description": "How I went from being Team Pa to recognizing Laura Ingalls Wilder’s less charismatic, quietly heroic and equally crazy creation, Caroline Ingalls.",
-    "summary_ai": "",
-    "categories": [
-      "Books",
-      "Books And Literature",
-      "Children And Childhood",
-      "Genre-Books-Childrens",
-      "Lane, Rose Wilder",
-      "Little House On The Prairie (2026) (Tv Program)",
-      "Little House On The Prairie (Book)",
-      "Little House On The Prairie (Tv Program)",
-      "Wilder, Laura Ingalls"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "The New York Times",
-    "published_date": "2026-07-31",
-    "thumbnail": "https://static01.nyt.com/images/2026/08/02/books/02TBR-LittleHouse-Essay-Kids/02TBR-LittleHouse-Essay-Kids-mediumSquareAt3X.jpg",
-    "cover_large": "https://static01.nyt.com/images/2026/08/02/books/02TBR-LittleHouse-Essay-Kids/02TBR-LittleHouse-Essay-Kids-mediumSquareAt3X.jpg",
-    "article_url": "https://www.nytimes.com/2026/07/31/books/review/little-house-on-the-prairie-celebrating-ma.html",
-    "source": "The New York Times",
-    "source_type": "rss",
-    "tags": [
-      "Books and Literature",
-      "Children and Childhood",
-      "Lane, Rose Wilder",
-      "Little House on the Prairie (2026) (TV Program)",
-      "Little House on the Prairie (Book)",
-      "Little House on the Prairie (TV Program)",
-      "Wilder, Laura Ingalls",
-      "books",
-      "genre-books-childrens"
-    ],
-    "created_at": "2026-08-04T08:34:39+00:00",
-    "updated_at": "2026-08-04T08:34:39Z"
+    "created_at": "2026-08-04T19:24:42+00:00",
+    "updated_at": "2026-08-04T19:24:42Z"
   }
 ]
