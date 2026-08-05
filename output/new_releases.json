@@ -34,8 +34,8 @@
       "publishers",
       "pulp SF"
     ],
-    "created_at": "2026-08-04T19:24:42+00:00",
-    "updated_at": "2026-08-04T19:24:42Z"
+    "created_at": "2026-08-05T08:33:45+00:00",
+    "updated_at": "2026-08-05T08:33:45Z"
   },
   {
     "id": "7fbbb94fbec1f35373e912ad123ea59c",
@@ -82,8 +82,8 @@
       "publishers",
       "vintage"
     ],
-    "created_at": "2026-08-04T19:24:42+00:00",
-    "updated_at": "2026-08-04T19:24:42Z"
+    "created_at": "2026-08-05T08:33:45+00:00",
+    "updated_at": "2026-08-05T08:33:45Z"
   },
   {
     "id": "9de8227b3e76232ba3ca48b1440c70d9",
@@ -120,8 +120,8 @@
       "Towers of Midnight",
       "publishers"
     ],
-    "created_at": "2026-08-04T19:24:42+00:00",
-    "updated_at": "2026-08-04T19:24:42Z"
+    "created_at": "2026-08-05T08:33:45+00:00",
+    "updated_at": "2026-08-05T08:33:45Z"
   },
   {
     "id": "de68b2dd5c76dd55c201b36c669899f9",
@@ -170,8 +170,106 @@
       "publishers",
       "reading recommendations"
     ],
-    "created_at": "2026-08-04T19:24:42+00:00",
-    "updated_at": "2026-08-04T19:24:42Z"
+    "created_at": "2026-08-05T08:33:45+00:00",
+    "updated_at": "2026-08-05T08:33:45Z"
+  },
+  {
+    "id": "579bd6c1015753641de3f01e0c2e9d6f",
+    "title": "Rights Report: Week of August 3, 2026",
+    "author": "",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-08-04",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130712-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130712-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100986-rights-report-week-of-august-3-2026.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-08-05T08:33:45+00:00",
+    "updated_at": "2026-08-05T08:33:45Z"
+  },
+  {
+    "id": "2111319ec6831427accbffbae94a58a7",
+    "title": "Speed Racer: PW Talks with Angelica Cheng",
+    "author": "Amanda Ramirez",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-08-04",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130708-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130708-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100984-speed-racer-pw-talks-with-angelica-cheng.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-08-05T08:33:45+00:00",
+    "updated_at": "2026-08-05T08:33:45Z"
+  },
+  {
+    "id": "703116aa73242233e7b7fd44fb1c80fb",
+    "title": "Julian Randall on Poetry, Basketball, and the Magic of Both",
+    "author": "Julian Randall",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [
+      "Poetry"
+    ],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-08-04",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130705-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130705-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100980-julian-randall-on-poetry-basketball-and-the-magic-of-both.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-08-05T08:33:45+00:00",
+    "updated_at": "2026-08-05T08:33:45Z"
+  },
+  {
+    "id": "8c56e426e9d2919ac6702c4a33e284c1",
+    "title": "YA Author Alicia Wallace’s Wattpad Cinderella Story",
+    "author": "Iyana Jones",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-08-04",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130696-1.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130696-1.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/100976-ya-author-alicia-wallace-s-wattpad-cinderella-story.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-08-05T08:33:45+00:00",
+    "updated_at": "2026-08-05T08:33:45Z"
   },
   {
     "id": "fafc9c622e6c515258e9ec6ac34814d4",
@@ -194,8 +292,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-08-04T19:24:42+00:00",
-    "updated_at": "2026-08-04T19:24:42Z"
+    "created_at": "2026-08-05T08:33:45+00:00",
+    "updated_at": "2026-08-05T08:33:45Z"
   },
   {
     "id": "6e5f5dd42e79c4c662cf974afd59d825",
@@ -220,8 +318,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-08-04T19:24:42+00:00",
-    "updated_at": "2026-08-04T19:24:42Z"
+    "created_at": "2026-08-05T08:33:45+00:00",
+    "updated_at": "2026-08-05T08:33:45Z"
   },
   {
     "id": "5c1174c8d24c881f7db50e7c59d51b19",
@@ -244,8 +342,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-08-04T19:24:42+00:00",
-    "updated_at": "2026-08-04T19:24:42Z"
+    "created_at": "2026-08-05T08:33:45+00:00",
+    "updated_at": "2026-08-05T08:33:45Z"
   },
   {
     "id": "423c35552c021bf4c30af9758e6de873",
@@ -268,8 +366,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-08-04T19:24:42+00:00",
-    "updated_at": "2026-08-04T19:24:42Z"
+    "created_at": "2026-08-05T08:33:45+00:00",
+    "updated_at": "2026-08-05T08:33:45Z"
   },
   {
     "id": "7e936c197bb5da1bbd59c9ab03449f96",
@@ -292,8 +390,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-08-04T19:24:42+00:00",
-    "updated_at": "2026-08-04T19:24:42Z"
+    "created_at": "2026-08-05T08:33:45+00:00",
+    "updated_at": "2026-08-05T08:33:45Z"
   },
   {
     "id": "04d80c37bec0ad80836bda997b1e3fab",
@@ -316,8 +414,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-08-04T19:24:42+00:00",
-    "updated_at": "2026-08-04T19:24:42Z"
+    "created_at": "2026-08-05T08:33:45+00:00",
+    "updated_at": "2026-08-05T08:33:45Z"
   },
   {
     "id": "345e003da3c69e6dbb45a4ba4adbfe4a",
@@ -340,8 +438,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-08-04T19:24:42+00:00",
-    "updated_at": "2026-08-04T19:24:42Z"
+    "created_at": "2026-08-05T08:33:45+00:00",
+    "updated_at": "2026-08-05T08:33:45Z"
   },
   {
     "id": "dac83272a11a05d07ec61969273411de",
@@ -364,8 +462,8 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-08-04T19:24:42+00:00",
-    "updated_at": "2026-08-04T19:24:42Z"
+    "created_at": "2026-08-05T08:33:45+00:00",
+    "updated_at": "2026-08-05T08:33:45Z"
   },
   {
     "id": "88443512fdc8478249e5250c15642d97",
@@ -388,8 +486,32 @@
     "tags": [
       "publishers"
     ],
-    "created_at": "2026-08-04T19:24:42+00:00",
-    "updated_at": "2026-08-04T19:24:42Z"
+    "created_at": "2026-08-05T08:33:45+00:00",
+    "updated_at": "2026-08-05T08:33:45Z"
+  },
+  {
+    "id": "f2db51250e4ed38b8c25cb5c1612a6eb",
+    "title": "Eric Carle Museum Staff Seek Union Vote",
+    "author": "Emma Kantor",
+    "description": "",
+    "summary_ai": "",
+    "categories": [
+      "Publishers"
+    ],
+    "genre": [],
+    "language": "English",
+    "publisher": "Publishers Weekly",
+    "published_date": "2026-08-04",
+    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130697-2.JPG",
+    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130697-2.JPG",
+    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100978-eric-carle-museum-staff-seek-union-vote.html",
+    "source": "Publishers Weekly",
+    "source_type": "rss",
+    "tags": [
+      "publishers"
+    ],
+    "created_at": "2026-08-05T08:33:45+00:00",
+    "updated_at": "2026-08-05T08:33:45Z"
   },
   {
     "id": "94e4c3caf1c64885efa133d3096abb66",
@@ -428,8 +550,8 @@
       "publishers",
       "trailers"
     ],
-    "created_at": "2026-08-04T19:24:42+00:00",
-    "updated_at": "2026-08-04T19:24:42Z"
+    "created_at": "2026-08-05T08:33:45+00:00",
+    "updated_at": "2026-08-05T08:33:45Z"
   },
   {
     "id": "fb56a6ff109ae576dce144f3a9d7e0c7",
@@ -466,155 +588,7 @@
       "publishers",
       "talking animals"
     ],
-    "created_at": "2026-08-04T19:24:42+00:00",
-    "updated_at": "2026-08-04T19:24:42Z"
-  },
-  {
-    "id": "380bfb91706079d194a13f9e7baeb3eb",
-    "title": "Babylon 5 Rewatch: Fifth Season Overview",
-    "author": "Sarah",
-    "description": "The final season of Babylon 5 was plagued by mediocre storylines and odd character choices The post Babylon 5 Rewatch: Fifth Season Overview appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "Babylon 5",
-      "Babylon 5 Rewatch",
-      "Blog",
-      "J. Michael Straczynski",
-      "Publishers",
-      "Science Fiction"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-08-03",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/06/Babylon-5-Darkness-Ascending-03-740x555.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/06/Babylon-5-Darkness-Ascending-03-740x555.jpg",
-    "article_url": "https://reactormag.com/babylon-5-rewatch-fifth-season-overview/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "Babylon 5",
-      "Babylon 5 Rewatch",
-      "Blog",
-      "J. Michael Straczynski",
-      "Science Fiction",
-      "publishers"
-    ],
-    "created_at": "2026-08-04T19:24:42+00:00",
-    "updated_at": "2026-08-04T19:24:42Z"
-  },
-  {
-    "id": "ea5787ac4a263d82be4189fe988ab797",
-    "title": "Pale Horses, Prophetic Dreams, and Bad Omens: House of the Dragon, Season 3 Episode 7",
-    "author": "Sarah",
-    "description": "A betrayal is revealed, a future is glimpsed, and a character we thought dead returns... also: DRAGONFIGHT! The post Pale Horses, Prophetic Dreams, and Bad Omens: House of the Dragon , Season 3 Episode 7 appeared first on Reactor .",
-    "summary_ai": "",
-    "categories": [
-      "A Song Of Ice And Fire",
-      "Blog",
-      "Fantasy",
-      "Fire & Blood",
-      "Game Of Thrones",
-      "George R.R. Martin",
-      "House Of The Dragon",
-      "Publishers",
-      "Television Reviews"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Reactormag",
-    "published_date": "2026-08-03",
-    "thumbnail": "https://reactormag.com/wp-content/uploads/2026/08/house-of-the-dragon-307-emma-d-arcy_0-740x493.jpg",
-    "cover_large": "https://reactormag.com/wp-content/uploads/2026/08/house-of-the-dragon-307-emma-d-arcy_0-740x493.jpg",
-    "article_url": "https://reactormag.com/tv-review-house-of-the-dragon-season-3-episode-7/",
-    "source": "Reactormag",
-    "source_type": "rss",
-    "tags": [
-      "A Song of Ice and Fire",
-      "Blog",
-      "Fire & Blood",
-      "Game of Thrones",
-      "George R.R. Martin",
-      "House of the Dragon",
-      "fantasy",
-      "publishers",
-      "television reviews"
-    ],
-    "created_at": "2026-08-04T19:24:42+00:00",
-    "updated_at": "2026-08-04T19:24:42Z"
-  },
-  {
-    "id": "ec4071b122d91d1df468e4aed944cc32",
-    "title": "Children’s Job Moves: July 2026",
-    "author": "",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [
-      "Children"
-    ],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-08-03",
-    "thumbnail": "https://www.publishersweekly.com/images/data/IMG/img/000/000/1-3.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/IMG/img/000/000/1-3.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100972-children-s-job-moves-july-2026.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-08-04T19:24:42+00:00",
-    "updated_at": "2026-08-04T19:24:42Z"
-  },
-  {
-    "id": "2e088dc97a5c819a75be34cc0337920d",
-    "title": "Princeton University Press Partners with Cashmere on AI Licensing",
-    "author": "Ed Nawotka",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-08-03",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130690-1.PNG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130690-1.PNG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100971-princeton-university-press-partners-with-cashmere-on-ai-licensing.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-08-04T19:24:42+00:00",
-    "updated_at": "2026-08-04T19:24:42Z"
-  },
-  {
-    "id": "8c10420d3f3db2222d99c1e2d81e57ac",
-    "title": "Books About Town: July 2026",
-    "author": "Sam Spratford",
-    "description": "",
-    "summary_ai": "",
-    "categories": [
-      "Publishers"
-    ],
-    "genre": [],
-    "language": "English",
-    "publisher": "Publishers Weekly",
-    "published_date": "2026-08-03",
-    "thumbnail": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130689-1.JPG",
-    "cover_large": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130689-1.JPG",
-    "article_url": "http://www.publishersweekly.com/pw/by-topic/industry-news/trade-shows-events/article/100969-books-about-town-july-2026.html",
-    "source": "Publishers Weekly",
-    "source_type": "rss",
-    "tags": [
-      "publishers"
-    ],
-    "created_at": "2026-08-04T19:24:42+00:00",
-    "updated_at": "2026-08-04T19:24:42Z"
+    "created_at": "2026-08-05T08:33:45+00:00",
+    "updated_at": "2026-08-05T08:33:45Z"
   }
 ]
